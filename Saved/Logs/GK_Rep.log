@@ -3114,3 +3114,821 @@ joint2
 [2018.07.06-16.30.21:426][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
 [2018.07.06-16.30.21:458][200]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
 [2018.07.06-16.30.21:591][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.33.32:184][823]LogInit: XAudio2 using 'V652 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-16.33.47:506][985]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.06-16.33.52:163][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.33.52:845][ 56]LogEditorViewport: Clicking on Actor (LMB): BP_Light_V2_C (BP_Light_V2)
+[2018.07.06-16.33.53:898][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.33.54:032][ 76]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.06-16.33.54:077][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.33.54:077][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.06-16.33.54:078][ 76]PIE: New page: PIE session: Map_01 (6 Jul 2018 18:33:54)
+[2018.07.06-16.33.54:078][ 76]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.06-16.33.54:152][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074196s)
+[2018.07.06-16.33.54:153][ 76]LogAIModule: Creating AISystem for world Map_01
+[2018.07.06-16.33.54:154][ 76]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2018.07.06-16.33.54:154][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.076092s)
+[2018.07.06-16.33.54:222][ 76]LogInit: XAudio2 using 'V652 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-16.33.54:237][ 76]LogInit: FAudioDevice initialized.
+[2018.07.06-16.33.54:367][ 76]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.06-16.33.54:376][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.06-17.33.54
+[2018.07.06-16.33.54:377][ 76]LogWorld: Bringing up level for play took: 0.007664
+[2018.07.06-16.33.54:386][ 76]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.333
+[2018.07.06-16.33.54:386][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.34.01:537][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.34.01:575][184]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.06-16.34.01:709][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.34.09:450][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.34.11:166][286]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.06-16.34.11:190][286]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.34.11:191][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.06-16.34.11:191][286]PIE: New page: PIE session: Map_01 (6 Jul 2018 18:34:11)
+[2018.07.06-16.34.11:191][286]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.06-16.34.11:255][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063206s)
+[2018.07.06-16.34.11:256][286]LogAIModule: Creating AISystem for world Map_01
+[2018.07.06-16.34.11:256][286]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.07.06-16.34.11:256][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.064411s)
+[2018.07.06-16.34.11:286][286]LogInit: XAudio2 using 'V652 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-16.34.11:293][286]LogInit: FAudioDevice initialized.
+[2018.07.06-16.34.11:417][286]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.06-16.34.11:425][286]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.06-17.34.11
+[2018.07.06-16.34.11:426][286]LogWorld: Bringing up level for play took: 0.006995
+[2018.07.06-16.34.11:437][286]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.616
+[2018.07.06-16.34.11:437][286]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.34.17:399][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.34.17:426][376]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.06-16.34.17:585][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.34.20:962][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.34.21:111][445]AssetReimport: New page: Outstanding source content changes 18:34:21
+[2018.07.06-16.34.21:145][446]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp301_v1_OE_19.06.18.fbx]
+[2018.07.06-16.34.21:169][446]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp301_v1_OE_19.06.18.fbx
+[2018.07.06-16.34.21:235][446]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-16.34.21:240][446]LogFbx: =================================================
+[2018.07.06-16.34.21:240][446]LogFbx: Dumping Node START [Armor_Mesh] 
+[2018.07.06-16.34.21:240][446]LogFbx: 	Total Deformer Count 1621437888.
+[2018.07.06-16.34.21:240][446]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:240][446]LogFbx: =================================================
+[2018.07.06-16.34.21:240][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:240][446]LogFbx: 		[Node Attribute Child 1] Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.21:240][446]LogFbx: Dumping Node END [Armor_Mesh]
+[2018.07.06-16.34.21:240][446]LogFbx: =================================================
+[2018.07.06-16.34.21:240][446]LogFbx: Dumping Node START [Body_Mesh] 
+[2018.07.06-16.34.21:240][446]LogFbx: 	Total Deformer Count 1621437888.
+[2018.07.06-16.34.21:240][446]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:240][446]LogFbx: =================================================
+[2018.07.06-16.34.21:240][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:240][446]LogFbx: 		[Node Attribute Child 1] Body_Mesh (Type Mesh).
+[2018.07.06-16.34.21:240][446]LogFbx: Dumping Node END [Body_Mesh]
+[2018.07.06-16.34.21:240][446]LogFbx: =================================================
+[2018.07.06-16.34.21:240][446]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:240][446]LogFbx: 	Total Deformer Count 1621427008.
+[2018.07.06-16.34.21:240][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:240][446]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:240][446]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:240][446]LogFbx: =================================================
+[2018.07.06-16.34.21:240][446]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:241][446]LogFbx: 	Total Deformer Count 1193754304.
+[2018.07.06-16.34.21:241][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:241][446]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:241][446]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:241][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [Armor_Mesh] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1621437888.
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node END [Armor_Mesh]
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [Body_Mesh] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1622014976.
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] Body_Mesh (Type Mesh).
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node END [Body_Mesh]
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1622011840.
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1193749984.
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1622014976.
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1193746784.
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1622014976.
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1193753264.
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1622014976.
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1193750224.
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:242][446]LogFbx: =================================================
+[2018.07.06-16.34.21:242][446]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:242][446]LogFbx: 	Total Deformer Count 1622014976.
+[2018.07.06-16.34.21:242][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:242][446]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:243][446]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:243][446]LogFbx: =================================================
+[2018.07.06-16.34.21:243][446]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:243][446]LogFbx: 	Total Deformer Count 1193748704.
+[2018.07.06-16.34.21:243][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:243][446]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:243][446]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:243][446]LogFbx: =================================================
+[2018.07.06-16.34.21:243][446]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:243][446]LogFbx: 	Total Deformer Count 1622014976.
+[2018.07.06-16.34.21:243][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:243][446]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:243][446]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:243][446]LogFbx: =================================================
+[2018.07.06-16.34.21:243][446]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:243][446]LogFbx: 	Total Deformer Count 1193753184.
+[2018.07.06-16.34.21:243][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:243][446]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:243][446]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:243][446]LogFbx: =================================================
+[2018.07.06-16.34.21:243][446]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:243][446]LogFbx: 	Total Deformer Count 1193753184.
+[2018.07.06-16.34.21:243][446]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:243][446]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:243][446]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:244][446]LogFbx: Parsing AnimStack Take 001
+[2018.07.06-16.34.21:320][446]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/NCP03_SQ.NCP03_SQ
+[2018.07.06-16.34.21:320][446]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NCP03_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.06-16.34.21:335][446]LogEditorFactories: -- imported successfully
+[2018.07.06-16.34.21:363][447]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp401_v1_OE_20.06.18.fbx]
+[2018.07.06-16.34.21:379][447]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp401_v1_OE_20.06.18.fbx
+[2018.07.06-16.34.21:450][447]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-16.34.21:455][447]LogFbx: =================================================
+[2018.07.06-16.34.21:455][447]LogFbx: Dumping Node START [Armor_Mesh] 
+[2018.07.06-16.34.21:455][447]LogFbx: 	Total Deformer Count -1857345600.
+[2018.07.06-16.34.21:455][447]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:455][447]LogFbx: =================================================
+[2018.07.06-16.34.21:455][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:455][447]LogFbx: 		[Node Attribute Child 1] Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.21:455][447]LogFbx: Dumping Node END [Armor_Mesh]
+[2018.07.06-16.34.21:455][447]LogFbx: =================================================
+[2018.07.06-16.34.21:455][447]LogFbx: Dumping Node START [Body_Mesh] 
+[2018.07.06-16.34.21:455][447]LogFbx: 	Total Deformer Count 1706900544.
+[2018.07.06-16.34.21:455][447]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:455][447]LogFbx: =================================================
+[2018.07.06-16.34.21:455][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:455][447]LogFbx: 		[Node Attribute Child 1] Body_Mesh (Type Mesh).
+[2018.07.06-16.34.21:455][447]LogFbx: Dumping Node END [Body_Mesh]
+[2018.07.06-16.34.21:455][447]LogFbx: =================================================
+[2018.07.06-16.34.21:455][447]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:455][447]LogFbx: 	Total Deformer Count 1706893952.
+[2018.07.06-16.34.21:455][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:455][447]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:455][447]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:455][447]LogFbx: =================================================
+[2018.07.06-16.34.21:455][447]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:455][447]LogFbx: 	Total Deformer Count 1189957200.
+[2018.07.06-16.34.21:455][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:455][447]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:455][447]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:457][447]LogFbx: =================================================
+[2018.07.06-16.34.21:457][447]LogFbx: Dumping Node START [Armor_Mesh] 
+[2018.07.06-16.34.21:457][447]LogFbx: 	Total Deformer Count 1706900544.
+[2018.07.06-16.34.21:457][447]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:457][447]LogFbx: =================================================
+[2018.07.06-16.34.21:457][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:457][447]LogFbx: 		[Node Attribute Child 1] Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.21:457][447]LogFbx: Dumping Node END [Armor_Mesh]
+[2018.07.06-16.34.21:457][447]LogFbx: =================================================
+[2018.07.06-16.34.21:457][447]LogFbx: Dumping Node START [Body_Mesh] 
+[2018.07.06-16.34.21:457][447]LogFbx: 	Total Deformer Count 1706900544.
+[2018.07.06-16.34.21:457][447]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:457][447]LogFbx: =================================================
+[2018.07.06-16.34.21:457][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:457][447]LogFbx: 		[Node Attribute Child 1] Body_Mesh (Type Mesh).
+[2018.07.06-16.34.21:457][447]LogFbx: Dumping Node END [Body_Mesh]
+[2018.07.06-16.34.21:457][447]LogFbx: =================================================
+[2018.07.06-16.34.21:457][447]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:457][447]LogFbx: 	Total Deformer Count 1706898176.
+[2018.07.06-16.34.21:457][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:457][447]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:457][447]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:457][447]LogFbx: =================================================
+[2018.07.06-16.34.21:457][447]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:457][447]LogFbx: 	Total Deformer Count 1189960080.
+[2018.07.06-16.34.21:457][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:457][447]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:458][447]LogFbx: =================================================
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:458][447]LogFbx: 	Total Deformer Count 1706900544.
+[2018.07.06-16.34.21:458][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:458][447]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:458][447]LogFbx: =================================================
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:458][447]LogFbx: 	Total Deformer Count 1189956080.
+[2018.07.06-16.34.21:458][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:458][447]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:458][447]LogFbx: =================================================
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:458][447]LogFbx: 	Total Deformer Count 1706900544.
+[2018.07.06-16.34.21:458][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:458][447]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:458][447]LogFbx: =================================================
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:458][447]LogFbx: 	Total Deformer Count 1189954400.
+[2018.07.06-16.34.21:458][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:458][447]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:458][447]LogFbx: =================================================
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:458][447]LogFbx: 	Total Deformer Count 1706900544.
+[2018.07.06-16.34.21:458][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:458][447]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:458][447]LogFbx: =================================================
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:458][447]LogFbx: 	Total Deformer Count 1189967920.
+[2018.07.06-16.34.21:458][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:458][447]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:458][447]LogFbx: =================================================
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:458][447]LogFbx: 	Total Deformer Count 1706900544.
+[2018.07.06-16.34.21:458][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:458][447]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:458][447]LogFbx: =================================================
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:458][447]LogFbx: 	Total Deformer Count 1189956720.
+[2018.07.06-16.34.21:458][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:458][447]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:458][447]LogFbx: =================================================
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:458][447]LogFbx: 	Total Deformer Count 1706900544.
+[2018.07.06-16.34.21:458][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:458][447]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:458][447]LogFbx: =================================================
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:458][447]LogFbx: 	Total Deformer Count 1189963520.
+[2018.07.06-16.34.21:458][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:458][447]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:458][447]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:459][447]LogFbx: =================================================
+[2018.07.06-16.34.21:459][447]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:459][447]LogFbx: 	Total Deformer Count 1189963520.
+[2018.07.06-16.34.21:459][447]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:459][447]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:459][447]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:460][447]LogFbx: Parsing AnimStack Take 001
+[2018.07.06-16.34.21:555][447]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/NCP04_SQ.NCP04_SQ
+[2018.07.06-16.34.21:555][447]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NCP04_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.06-16.34.21:568][447]LogEditorFactories: -- imported successfully
+[2018.07.06-16.34.21:593][448]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp501_v1_OE_20.06.18.fbx]
+[2018.07.06-16.34.21:609][448]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp501_v1_OE_20.06.18.fbx
+[2018.07.06-16.34.21:678][448]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-16.34.21:683][448]LogFbx: =================================================
+[2018.07.06-16.34.21:683][448]LogFbx: Dumping Node START [Armor_Mesh] 
+[2018.07.06-16.34.21:683][448]LogFbx: 	Total Deformer Count 314785472.
+[2018.07.06-16.34.21:683][448]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:683][448]LogFbx: =================================================
+[2018.07.06-16.34.21:683][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:683][448]LogFbx: 		[Node Attribute Child 1] Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.21:683][448]LogFbx: Dumping Node END [Armor_Mesh]
+[2018.07.06-16.34.21:683][448]LogFbx: =================================================
+[2018.07.06-16.34.21:683][448]LogFbx: Dumping Node START [Body_Mesh] 
+[2018.07.06-16.34.21:683][448]LogFbx: 	Total Deformer Count 314785472.
+[2018.07.06-16.34.21:683][448]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:683][448]LogFbx: =================================================
+[2018.07.06-16.34.21:683][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:684][448]LogFbx: 		[Node Attribute Child 1] Body_Mesh (Type Mesh).
+[2018.07.06-16.34.21:684][448]LogFbx: Dumping Node END [Body_Mesh]
+[2018.07.06-16.34.21:684][448]LogFbx: =================================================
+[2018.07.06-16.34.21:684][448]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:684][448]LogFbx: 	Total Deformer Count 314783616.
+[2018.07.06-16.34.21:684][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:684][448]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:684][448]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:684][448]LogFbx: =================================================
+[2018.07.06-16.34.21:684][448]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:684][448]LogFbx: 	Total Deformer Count 402506112.
+[2018.07.06-16.34.21:684][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:684][448]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:684][448]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:685][448]LogFbx: =================================================
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node START [Armor_Mesh] 
+[2018.07.06-16.34.21:685][448]LogFbx: 	Total Deformer Count 1621426688.
+[2018.07.06-16.34.21:685][448]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:685][448]LogFbx: =================================================
+[2018.07.06-16.34.21:685][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:685][448]LogFbx: 		[Node Attribute Child 1] Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node END [Armor_Mesh]
+[2018.07.06-16.34.21:685][448]LogFbx: =================================================
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node START [Body_Mesh] 
+[2018.07.06-16.34.21:685][448]LogFbx: 	Total Deformer Count 1621426688.
+[2018.07.06-16.34.21:685][448]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.21:685][448]LogFbx: =================================================
+[2018.07.06-16.34.21:685][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:685][448]LogFbx: 		[Node Attribute Child 1] Body_Mesh (Type Mesh).
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node END [Body_Mesh]
+[2018.07.06-16.34.21:685][448]LogFbx: =================================================
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:685][448]LogFbx: 	Total Deformer Count 1621441472.
+[2018.07.06-16.34.21:685][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:685][448]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:685][448]LogFbx: =================================================
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:685][448]LogFbx: 	Total Deformer Count 402520352.
+[2018.07.06-16.34.21:685][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:685][448]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:685][448]LogFbx: =================================================
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:685][448]LogFbx: 	Total Deformer Count 1621426688.
+[2018.07.06-16.34.21:685][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:685][448]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:685][448]LogFbx: =================================================
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:685][448]LogFbx: 	Total Deformer Count 402515872.
+[2018.07.06-16.34.21:685][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:685][448]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:685][448]LogFbx: =================================================
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:685][448]LogFbx: 	Total Deformer Count 1621426688.
+[2018.07.06-16.34.21:685][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:685][448]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:685][448]LogFbx: =================================================
+[2018.07.06-16.34.21:685][448]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:686][448]LogFbx: 	Total Deformer Count 402513552.
+[2018.07.06-16.34.21:686][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:686][448]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:686][448]LogFbx: =================================================
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:686][448]LogFbx: 	Total Deformer Count 1621426688.
+[2018.07.06-16.34.21:686][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:686][448]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:686][448]LogFbx: =================================================
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:686][448]LogFbx: 	Total Deformer Count 402507632.
+[2018.07.06-16.34.21:686][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:686][448]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:686][448]LogFbx: =================================================
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:686][448]LogFbx: 	Total Deformer Count 1621426688.
+[2018.07.06-16.34.21:686][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:686][448]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:686][448]LogFbx: =================================================
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:686][448]LogFbx: 	Total Deformer Count 402507552.
+[2018.07.06-16.34.21:686][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:686][448]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:686][448]LogFbx: =================================================
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.21:686][448]LogFbx: 	Total Deformer Count 1619007040.
+[2018.07.06-16.34.21:686][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:686][448]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.21:686][448]LogFbx: =================================================
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:686][448]LogFbx: 	Total Deformer Count 402510272.
+[2018.07.06-16.34.21:686][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:686][448]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:686][448]LogFbx: =================================================
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.21:686][448]LogFbx: 	Total Deformer Count 402510272.
+[2018.07.06-16.34.21:686][448]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.21:686][448]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.21:686][448]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.21:688][448]LogFbx: Parsing AnimStack Take 001
+[2018.07.06-16.34.21:954][448]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/NCP05_SQ.NCP05_SQ
+[2018.07.06-16.34.21:954][448]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NCP05_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.06-16.34.21:970][448]LogEditorFactories: -- imported successfully
+[2018.07.06-16.34.21:990][449]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp601_v1_OE_20.06.18.fbx]
+[2018.07.06-16.34.22:004][449]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp601_v1_OE_20.06.18.fbx
+[2018.07.06-16.34.22:070][449]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-16.34.22:075][449]LogFbx: =================================================
+[2018.07.06-16.34.22:075][449]LogFbx: Dumping Node START [Armor_Mesh] 
+[2018.07.06-16.34.22:075][449]LogFbx: 	Total Deformer Count 1619002176.
+[2018.07.06-16.34.22:075][449]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:075][449]LogFbx: =================================================
+[2018.07.06-16.34.22:075][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:075][449]LogFbx: 		[Node Attribute Child 1] Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.22:075][449]LogFbx: Dumping Node END [Armor_Mesh]
+[2018.07.06-16.34.22:075][449]LogFbx: =================================================
+[2018.07.06-16.34.22:075][449]LogFbx: Dumping Node START [Body_Mesh] 
+[2018.07.06-16.34.22:075][449]LogFbx: 	Total Deformer Count 1619002176.
+[2018.07.06-16.34.22:075][449]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:076][449]LogFbx: =================================================
+[2018.07.06-16.34.22:076][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:076][449]LogFbx: 		[Node Attribute Child 1] Body_Mesh (Type Mesh).
+[2018.07.06-16.34.22:076][449]LogFbx: Dumping Node END [Body_Mesh]
+[2018.07.06-16.34.22:076][449]LogFbx: =================================================
+[2018.07.06-16.34.22:076][449]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.22:076][449]LogFbx: 	Total Deformer Count 1616456448.
+[2018.07.06-16.34.22:076][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:076][449]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:076][449]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.22:076][449]LogFbx: =================================================
+[2018.07.06-16.34.22:076][449]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.22:076][449]LogFbx: 	Total Deformer Count 1014656560.
+[2018.07.06-16.34.22:076][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:076][449]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.22:076][449]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.22:077][449]LogFbx: =================================================
+[2018.07.06-16.34.22:077][449]LogFbx: Dumping Node START [Armor_Mesh] 
+[2018.07.06-16.34.22:077][449]LogFbx: 	Total Deformer Count 1616455936.
+[2018.07.06-16.34.22:077][449]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:077][449]LogFbx: =================================================
+[2018.07.06-16.34.22:077][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:077][449]LogFbx: 		[Node Attribute Child 1] Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.22:077][449]LogFbx: Dumping Node END [Armor_Mesh]
+[2018.07.06-16.34.22:077][449]LogFbx: =================================================
+[2018.07.06-16.34.22:077][449]LogFbx: Dumping Node START [Body_Mesh] 
+[2018.07.06-16.34.22:077][449]LogFbx: 	Total Deformer Count 1616455936.
+[2018.07.06-16.34.22:077][449]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:078][449]LogFbx: 		[Node Attribute Child 1] Body_Mesh (Type Mesh).
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node END [Body_Mesh]
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.22:078][449]LogFbx: 	Total Deformer Count 1616458944.
+[2018.07.06-16.34.22:078][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:078][449]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.22:078][449]LogFbx: 	Total Deformer Count 1014645280.
+[2018.07.06-16.34.22:078][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:078][449]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.22:078][449]LogFbx: 	Total Deformer Count 1616455936.
+[2018.07.06-16.34.22:078][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:078][449]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.22:078][449]LogFbx: 	Total Deformer Count 1014650800.
+[2018.07.06-16.34.22:078][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:078][449]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.22:078][449]LogFbx: 	Total Deformer Count 1616455936.
+[2018.07.06-16.34.22:078][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:078][449]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.22:078][449]LogFbx: 	Total Deformer Count 1014659520.
+[2018.07.06-16.34.22:078][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:078][449]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.22:078][449]LogFbx: 	Total Deformer Count 1616455936.
+[2018.07.06-16.34.22:078][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:078][449]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.22:078][449]LogFbx: 	Total Deformer Count 1014645360.
+[2018.07.06-16.34.22:078][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:078][449]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.22:078][449]LogFbx: 	Total Deformer Count 1616455936.
+[2018.07.06-16.34.22:078][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:078][449]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.22:078][449]LogFbx: =================================================
+[2018.07.06-16.34.22:078][449]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.22:078][449]LogFbx: 	Total Deformer Count 1014645120.
+[2018.07.06-16.34.22:079][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:079][449]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.22:079][449]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.22:079][449]LogFbx: =================================================
+[2018.07.06-16.34.22:079][449]LogFbx: Dumping Node START [pCylinder1] 
+[2018.07.06-16.34.22:079][449]LogFbx: 	Total Deformer Count 1616455936.
+[2018.07.06-16.34.22:079][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:079][449]LogFbx: 		[Node Attribute Child 1] pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:079][449]LogFbx: Dumping Node END [pCylinder1]
+[2018.07.06-16.34.22:079][449]LogFbx: =================================================
+[2018.07.06-16.34.22:079][449]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.22:079][449]LogFbx: 	Total Deformer Count 1014646080.
+[2018.07.06-16.34.22:079][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:079][449]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.22:079][449]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.22:079][449]LogFbx: =================================================
+[2018.07.06-16.34.22:079][449]LogFbx: Dumping Node START [polySurface29] 
+[2018.07.06-16.34.22:079][449]LogFbx: 	Total Deformer Count 1014646080.
+[2018.07.06-16.34.22:079][449]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:079][449]LogFbx: 		[Node Attribute Child 1] polySurface29 (Type Mesh).
+[2018.07.06-16.34.22:079][449]LogFbx: Dumping Node END [polySurface29]
+[2018.07.06-16.34.22:080][449]LogFbx: Parsing AnimStack Take 001
+[2018.07.06-16.34.22:300][449]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/NCP06_SQ.NCP06_SQ
+[2018.07.06-16.34.22:300][449]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NCP06_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.06-16.34.22:314][449]LogEditorFactories: -- imported successfully
+[2018.07.06-16.34.22:340][450]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v1_OE_02.07.18.fbx]
+[2018.07.06-16.34.22:357][450]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v1_OE_02.07.18.fbx
+[2018.07.06-16.34.22:431][450]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-16.34.22:436][450]LogFbx: =================================================
+[2018.07.06-16.34.22:436][450]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.06-16.34.22:436][450]LogFbx: 	Total Deformer Count 1009014528.
+[2018.07.06-16.34.22:436][450]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:436][450]LogFbx: =================================================
+[2018.07.06-16.34.22:436][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:436][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.22:436][450]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.06-16.34.22:436][450]LogFbx: =================================================
+[2018.07.06-16.34.22:436][450]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.06-16.34.22:436][450]LogFbx: 	Total Deformer Count 1009014528.
+[2018.07.06-16.34.22:436][450]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:436][450]LogFbx: =================================================
+[2018.07.06-16.34.22:436][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:436][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.06-16.34.22:436][450]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.06-16.34.22:436][450]LogFbx: =================================================
+[2018.07.06-16.34.22:436][450]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:436][450]LogFbx: 	Total Deformer Count 1009015296.
+[2018.07.06-16.34.22:436][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:436][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:436][450]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:438][450]LogFbx: =================================================
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.06-16.34.22:438][450]LogFbx: 	Total Deformer Count 1633255296.
+[2018.07.06-16.34.22:438][450]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:438][450]LogFbx: =================================================
+[2018.07.06-16.34.22:438][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:438][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.06-16.34.22:438][450]LogFbx: =================================================
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.06-16.34.22:438][450]LogFbx: 	Total Deformer Count 1633255296.
+[2018.07.06-16.34.22:438][450]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:438][450]LogFbx: =================================================
+[2018.07.06-16.34.22:438][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:438][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.06-16.34.22:438][450]LogFbx: =================================================
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:438][450]LogFbx: 	Total Deformer Count 1633250048.
+[2018.07.06-16.34.22:438][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:438][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:438][450]LogFbx: =================================================
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:438][450]LogFbx: 	Total Deformer Count 1633247360.
+[2018.07.06-16.34.22:438][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:438][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:438][450]LogFbx: =================================================
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:438][450]LogFbx: 	Total Deformer Count 1633247488.
+[2018.07.06-16.34.22:438][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:438][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:438][450]LogFbx: =================================================
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:438][450]LogFbx: 	Total Deformer Count 1633247616.
+[2018.07.06-16.34.22:438][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:438][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:438][450]LogFbx: =================================================
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:438][450]LogFbx: 	Total Deformer Count 1633247744.
+[2018.07.06-16.34.22:438][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:438][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:438][450]LogFbx: =================================================
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:438][450]LogFbx: 	Total Deformer Count 1633255296.
+[2018.07.06-16.34.22:438][450]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:438][450]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:438][450]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:440][450]LogFbx: Parsing AnimStack Take 001
+[2018.07.06-16.34.22:579][450]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/JumpLeft_SQ.JumpLeft_SQ
+[2018.07.06-16.34.22:579][450]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.JumpLeft_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.06-16.34.22:592][450]LogEditorFactories: -- imported successfully
+[2018.07.06-16.34.22:660][451]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v2_OE_02.07.18.fbx]
+[2018.07.06-16.34.22:676][451]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v2_OE_02.07.18.fbx
+[2018.07.06-16.34.22:749][451]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.06-16.34.22:754][451]LogFbx: =================================================
+[2018.07.06-16.34.22:754][451]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.06-16.34.22:754][451]LogFbx: 	Total Deformer Count 1620996352.
+[2018.07.06-16.34.22:754][451]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:754][451]LogFbx: =================================================
+[2018.07.06-16.34.22:754][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:754][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.22:754][451]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.06-16.34.22:754][451]LogFbx: =================================================
+[2018.07.06-16.34.22:754][451]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.06-16.34.22:754][451]LogFbx: 	Total Deformer Count 1620996352.
+[2018.07.06-16.34.22:754][451]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:754][451]LogFbx: =================================================
+[2018.07.06-16.34.22:754][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:754][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.06-16.34.22:754][451]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.06-16.34.22:754][451]LogFbx: =================================================
+[2018.07.06-16.34.22:754][451]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:754][451]LogFbx: 	Total Deformer Count 1620998016.
+[2018.07.06-16.34.22:754][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:754][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:754][451]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:755][451]LogFbx: =================================================
+[2018.07.06-16.34.22:755][451]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.06-16.34.22:755][451]LogFbx: 	Total Deformer Count 1620996352.
+[2018.07.06-16.34.22:755][451]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:755][451]LogFbx: =================================================
+[2018.07.06-16.34.22:755][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:755][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.06-16.34.22:755][451]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.06-16.34.22:755][451]LogFbx: =================================================
+[2018.07.06-16.34.22:755][451]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.06-16.34.22:756][451]LogFbx: 	Total Deformer Count 1620996352.
+[2018.07.06-16.34.22:756][451]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.06-16.34.22:756][451]LogFbx: =================================================
+[2018.07.06-16.34.22:756][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:756][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.06-16.34.22:756][451]LogFbx: =================================================
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:756][451]LogFbx: 	Total Deformer Count 1620999424.
+[2018.07.06-16.34.22:756][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:756][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:756][451]LogFbx: =================================================
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:756][451]LogFbx: 	Total Deformer Count 1620999296.
+[2018.07.06-16.34.22:756][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:756][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:756][451]LogFbx: =================================================
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:756][451]LogFbx: 	Total Deformer Count 1620999168.
+[2018.07.06-16.34.22:756][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:756][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:756][451]LogFbx: =================================================
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:756][451]LogFbx: 	Total Deformer Count 1620999040.
+[2018.07.06-16.34.22:756][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:756][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:756][451]LogFbx: =================================================
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:756][451]LogFbx: 	Total Deformer Count 1620998912.
+[2018.07.06-16.34.22:756][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:756][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:756][451]LogFbx: =================================================
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.06-16.34.22:756][451]LogFbx: 	Total Deformer Count 1620996352.
+[2018.07.06-16.34.22:756][451]LogFbx: 	Attribute () Type (4).
+[2018.07.06-16.34.22:756][451]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.06-16.34.22:756][451]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.06-16.34.22:759][451]LogFbx: Parsing AnimStack Take 001
+[2018.07.06-16.34.22:896][451]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/JumpRight_SQ.JumpRight_SQ
+[2018.07.06-16.34.22:897][451]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.JumpRight_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.06-16.34.22:912][451]LogEditorFactories: -- imported successfully
+[2018.07.06-16.34.23:226][452]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.06-16.34.23:486][452]LogSavePackage: Save=19.14ms
+[2018.07.06-16.34.23:486][452]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP03_SQ7716E4CE4BD7DA4E79A4E88B52E425CF.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP03_SQ.uasset'
+[2018.07.06-16.34.23:490][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP03_SQ.uasset
+[2018.07.06-16.34.23:775][452]LogSavePackage: Save=22.51ms
+[2018.07.06-16.34.23:776][452]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP04_SQE3BC28F6405E25D8E4E4CF81E4A4189A.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP04_SQ.uasset'
+[2018.07.06-16.34.23:780][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP04_SQ.uasset
+[2018.07.06-16.34.24:072][452]LogSavePackage: Save=29.70ms
+[2018.07.06-16.34.24:072][452]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP05_SQ3F4D021D4F263176E7505E95F6257EFB.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP05_SQ.uasset'
+[2018.07.06-16.34.24:076][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP05_SQ.uasset
+[2018.07.06-16.34.24:298][452]LogSavePackage: Save=20.49ms
+[2018.07.06-16.34.24:298][452]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP06_SQ6B8AAC104D62C73A5CBF84BAC6D5DA71.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP06_SQ.uasset'
+[2018.07.06-16.34.24:301][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP06_SQ.uasset
+[2018.07.06-16.34.24:578][452]LogSavePackage: Save=41.36ms
+[2018.07.06-16.34.24:578][452]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/JumpLeft_SQ98E3393C4142AA8CD01E6282D7DD1572.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/JumpLeft_SQ.uasset'
+[2018.07.06-16.34.24:584][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/JumpLeft_SQ.uasset
+[2018.07.06-16.34.24:792][452]LogSavePackage: Save=17.68ms
+[2018.07.06-16.34.24:794][452]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/JumpRight_SQ2F67A40146185ADC01195FB57248076E.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/JumpRight_SQ.uasset'
+[2018.07.06-16.34.24:797][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/JumpRight_SQ.uasset
+[2018.07.06-16.34.26:208][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.34.26:272][474]LogSlate: Window 'Message Log' being destroyed
+[2018.07.06-16.34.26:348][474]LogSlate: Window 'Message Log' being destroyed
+[2018.07.06-16.34.27:887][502]AssetReimport: Reimported asset NCP03_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp301_v1_OE_19.06.18.fbx.
+[2018.07.06-16.34.27:888][502]AssetReimport: Reimported asset NCP04_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp401_v1_OE_20.06.18.fbx.
+[2018.07.06-16.34.27:888][502]AssetReimport: Reimported asset NCP05_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp501_v1_OE_20.06.18.fbx.
+[2018.07.06-16.34.27:888][502]AssetReimport: Reimported asset NCP06_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp601_v1_OE_20.06.18.fbx.
+[2018.07.06-16.34.27:888][502]AssetReimport: Reimported asset JumpLeft_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v1_OE_02.07.18.fbx.
+[2018.07.06-16.34.27:888][502]AssetReimport: Reimported asset JumpRight_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v2_OE_02.07.18.fbx.
+[2018.07.06-16.34.28:750][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.34.28:816][518]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.06-16.34.28:856][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.34.28:856][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.06-16.34.28:856][518]PIE: New page: PIE session: Map_01 (6 Jul 2018 18:34:28)
+[2018.07.06-16.34.28:857][518]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.06-16.34.28:912][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054801s)
+[2018.07.06-16.34.28:913][518]LogAIModule: Creating AISystem for world Map_01
+[2018.07.06-16.34.28:913][518]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2018.07.06-16.34.28:913][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.055934s)
+[2018.07.06-16.34.28:942][518]LogInit: XAudio2 using 'V652 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.06-16.34.28:950][518]LogInit: FAudioDevice initialized.
+[2018.07.06-16.34.29:071][518]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.06-16.34.29:079][518]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.06-17.34.29
+[2018.07.06-16.34.29:080][518]LogWorld: Bringing up level for play took: 0.007136
+[2018.07.06-16.34.29:091][518]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 1.038
+[2018.07.06-16.34.29:091][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.34.36:197][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.34.36:231][656]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.06-16.34.36:348][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.06-16.35.11:734][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.06-16.35.13:507][117]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.06-16.35.13:624][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.06-16.35.16:599][117]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.06-16.35.20:684][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.35.22:958][278]LogActorFactory: Actor Factory created Cube
+[2018.07.06-16.35.22:965][278]LogActorFactory: Actor Factory created Cube
+[2018.07.06-16.35.23:910][306]LogActorFactory: Actor Factory created Cube
+[2018.07.06-16.35.34:450][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HeroRock_03)
+[2018.07.06-16.35.36:868][686]Cmd: DELETE
+[2018.07.06-16.35.36:868][686]Cmd: ACTOR DELETE
+[2018.07.06-16.35.36:880][686]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.06-16.35.36:919][686]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.07.06-16.35.38:545][736]LogEditorViewport: Clicking on Actor (LMB): BP_Light_V2_C (BP_Light_V2)
+[2018.07.06-16.35.43:298][871]Cmd: DELETE
+[2018.07.06-16.35.43:298][871]Cmd: ACTOR DELETE
+[2018.07.06-16.35.43:308][871]LogEditorActor: Deleted Actor: BP_Light_V2_C
+[2018.07.06-16.35.43:400][871]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2018.07.06-16.35.44:675][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.35.44:964][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.06-16.35.45:009][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.06-16.35.45:085][907]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c5f5e7be00, Size=128
+[2018.07.06-16.35.45:085][907]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c6888e8700, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_208:ExecuteUbergraph_Map_01
+[2018.07.06-16.35.45:091][907]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c6888eaf00, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.06-16.35.45:649][907]LogSavePackage: Save=599.93ms
+[2018.07.06-16.35.45:649][907]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Map_01BD610A434ADCD16A1F4F91B1F248C6EB.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap'
+[2018.07.06-16.35.45:651][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap
+[2018.07.06-16.35.46:142][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.06-16.35.48:101][959]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.06-16.35.48:227][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.06-16.35.52:526][959]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.06-16.35.53:424][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.35.53:505][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6888e8700, Size=128
+[2018.07.06-16.35.53:506][986]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c634ce2800, Size=192
+[2018.07.06-16.35.56:192][ 40]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.06-16.36.01:961][ 40]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.06-16.36.03:005][ 40]LogSourceControl: commit successful: [master 614022d] cnvsvfkvl
+[2018.07.06-16.36.03:156][ 40]SourceControl: [master 614022d] cnvsvfkvl
+[2018.07.06-16.36.03:156][ 40]SourceControl:  7 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.06-16.36.03:156][ 40]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/JumpLeft_SQ.uasset (81%)
+[2018.07.06-16.36.03:156][ 40]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/JumpRight_SQ.uasset (70%)
+[2018.07.06-16.36.03:156][ 40]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/NCP03_SQ.uasset (85%)
+[2018.07.06-16.36.03:156][ 40]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/NCP04_SQ.uasset (82%)
+[2018.07.06-16.36.03:156][ 40]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/NCP05_SQ.uasset (72%)
+[2018.07.06-16.36.03:156][ 40]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/NCP06_SQ.uasset (75%)
+[2018.07.06-16.36.03:207][ 40]SourceControl: Commited [master 614022d] cnvsvfkvl.
