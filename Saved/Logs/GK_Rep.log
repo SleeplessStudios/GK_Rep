@@ -3932,3 +3932,5 @@ joint2
 [2018.07.06-16.36.03:156][ 40]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/NCP05_SQ.uasset (72%)
 [2018.07.06-16.36.03:156][ 40]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/NCP06_SQ.uasset (75%)
 [2018.07.06-16.36.03:207][ 40]SourceControl: Commited [master 614022d] cnvsvfkvl.
+[2018.07.06-16.40.33:120][ 94]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.06-16.40.33:207][ 94]EditorErrors: Warning: No assets to check in!
