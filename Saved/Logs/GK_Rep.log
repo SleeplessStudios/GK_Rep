@@ -3934,3 +3934,27 @@ joint2
 [2018.07.06-16.36.03:207][ 40]SourceControl: Commited [master 614022d] cnvsvfkvl.
 [2018.07.06-16.40.33:120][ 94]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
 [2018.07.06-16.40.33:207][ 94]EditorErrors: Warning: No assets to check in!
+[2018.07.06-16.43.27:131][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.43.27:388][893]LogActorFactory: Actor Factory created Sphere
+[2018.07.06-16.43.27:402][893]LogActorFactory: Actor Factory created Sphere
+[2018.07.06-16.43.27:987][910]LogActorFactory: Actor Factory created Sphere
+[2018.07.06-16.43.31:789][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.43.31:947][ 11]LogActorFactory: Actor Factory created Cylinder
+[2018.07.06-16.43.32:472][ 26]LogActorFactory: Actor Factory created Cylinder
+[2018.07.06-16.43.38:491][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.43.45:946][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.43.48:059][376]LogSlate: Window 'Save Content' being destroyed
+[2018.07.06-16.43.48:350][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.06-16.43.48:420][376]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6888eaf00, Size=128
+[2018.07.06-16.43.48:420][376]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c689c55300, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_212:ExecuteUbergraph_Map_01
+[2018.07.06-16.43.48:425][376]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c689c54800, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.06-16.43.48:991][376]LogSavePackage: Save=602.57ms
+[2018.07.06-16.43.48:991][376]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Map_011CD70266421DB20B70F9118A5E438E7B.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap'
+[2018.07.06-16.43.48:994][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap
+[2018.07.06-16.43.49:018][376]LogFileHelpers: Saving map 'Map_01' took 0.743
+[2018.07.06-16.43.51:897][434]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.06-16.43.55:240][434]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.06-16.43.55:927][434]LogSourceControl: commit successful: [master df164b4] frg[pxpocmspfc
+[2018.07.06-16.43.56:004][434]SourceControl: [master df164b4] frg[pxpocmspfc
+[2018.07.06-16.43.56:004][434]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.06-16.43.56:052][434]SourceControl: Commited [master df164b4] frg[pxpocmspfc.
