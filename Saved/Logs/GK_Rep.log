@@ -3958,3 +3958,35 @@ joint2
 [2018.07.06-16.43.56:004][434]SourceControl: [master df164b4] frg[pxpocmspfc
 [2018.07.06-16.43.56:004][434]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.07.06-16.43.56:052][434]SourceControl: Commited [master df164b4] frg[pxpocmspfc.
+[2018.07.06-16.45.39:349][769]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.006 s
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: 
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: 
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: Stack: 
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x000000004607B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000045DDAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000045DEECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x000000003F1CBBE9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x000000003F19D05D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000055326D57 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x00000000553204DD UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000055326A06 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000055358C5F UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000055357AC4 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000055340A63 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000053CBB53A UE4Editor-DirectoryWatcher.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000053CC1438 UE4Editor-DirectoryWatcher.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x00000000417CC372 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000042069626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000059C65EAC UE4Editor.exe!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000059C76BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000059C76C4A UE4Editor.exe!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000059C84177 UE4Editor.exe!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x0000000059C85B87 UE4Editor.exe!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x000000008CCD3034 KERNEL32.DLL!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: [Callstack] 0x000000008EF81431 ntdll.dll!UnknownFunction []
+[2018.07.06-16.45.39:349][769]LogOutputDevice: Error: 
+[2018.07.06-16.45.39:359][769]LogStats:                SubmitErrorReport -  0.000 s
+[2018.07.06-16.45.39:869][769]LogStats:                    SendNewReport -  0.509 s
+[2018.07.06-16.45.39:869][769]LogStats:             FDebug::EnsureFailed -  0.526 s
