@@ -513,3 +513,165 @@ LogInit: Object subsystem initialized
 [2018.07.06-16.43.46:011][529]SourceControl:  copy Content/Maps/{Map_01.umap => Matt_Map.umap} (90%)
 [2018.07.06-16.43.46:011][529]SourceControl:  create mode 100644 Content/Maps/Tash_Map.umap
 [2018.07.06-16.43.46:025][529]SourceControl: Commited [master 2b1362d] Added 2 maps testing to combine.
+[2018.07.06-16.45.28:112][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.45.30:064][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024207e58100, Size=128
+[2018.07.06-16.45.30:068][507]Cmd: MAP LOAD FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.06-16.45.30:069][507]LightingResults: New page: Lighting Build
+[2018.07.06-16.45.30:069][507]LoadErrors: New page: Loading map: Matt_Map.umap
+[2018.07.06-16.45.30:072][507]MapCheck: New page: Map Check
+[2018.07.06-16.45.30:072][507]LightingResults: New page: Lighting Build
+[2018.07.06-16.45.30:097][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024207ce7200, Size=128
+[2018.07.06-16.45.30:097][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002420ba64280, Size=128
+[2018.07.06-16.45.30:127][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024207e58b80, Size=128
+[2018.07.06-16.45.30:164][507]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fb457280, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.45.30:171][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fb457280, Size=128
+[2018.07.06-16.45.30:171][507]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fb457280, Size=128, Default__Matt_Map_C Function /Engine/Transient.REINST_Matt_Map_C_56:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.45.30:176][507]LogUObjectGlobals: Created PersistentFrame Addr=0x000002420ba65780, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.45.30:277][507]LogAIModule: Creating AISystem for world Matt_Map
+[2018.07.06-16.45.30:333][507]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.06-16.45.30:362][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fb457280, Size=128
+[2018.07.06-16.45.30:379][507]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.06-16.45.30:488][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 109.487ms to complete.
+[2018.07.06-16.45.30:489][507]LogFileHelpers: Loading map 'Matt_Map' took 0.425
+[2018.07.06-16.45.31:865][585]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fb3e8480, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.06-16.45.31:875][585]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fb3e8480, Size=128
+[2018.07.06-16.45.31:875][585]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241ef61c680, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_58:ExecuteUbergraph_Tash_Map
+[2018.07.06-16.45.31:880][585]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241ef61cd80, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.06-16.45.31:972][585]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.06-16.45.32:016][585]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241ef61c680, Size=128
+[2018.07.06-16.45.32:018][585]Cmd: MAP LOAD FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.06-16.45.32:018][585]LightingResults: New page: Lighting Build
+[2018.07.06-16.45.32:020][585]LoadErrors: New page: Loading map: Tash_Map.umap
+[2018.07.06-16.45.32:022][585]MapCheck: New page: Map Check
+[2018.07.06-16.45.32:022][585]LightingResults: New page: Lighting Build
+[2018.07.06-16.45.32:047][585]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002420ba65780, Size=128
+[2018.07.06-16.45.32:088][585]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.06-16.45.32:132][585]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.06-16.45.32:243][585]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.703ms to complete.
+[2018.07.06-16.45.32:245][585]LogFileHelpers: Loading map 'Tash_Map' took 0.227
+[2018.07.06-16.45.34:053][688]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024207e59900, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.45.34:060][688]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024207e59900, Size=128
+[2018.07.06-16.45.34:060][688]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024207e59900, Size=128, Default__Matt_Map_C Function /Engine/Transient.REINST_Matt_Map_C_60:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.45.34:065][688]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024207e58c00, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.45.34:160][688]LogAIModule: Creating AISystem for world Matt_Map
+[2018.07.06-16.45.34:204][688]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024207e59900, Size=128
+[2018.07.06-16.45.34:206][688]Cmd: MAP LOAD FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.06-16.45.34:206][688]LightingResults: New page: Lighting Build
+[2018.07.06-16.45.34:207][688]LoadErrors: New page: Loading map: Matt_Map.umap
+[2018.07.06-16.45.34:208][688]MapCheck: New page: Map Check
+[2018.07.06-16.45.34:209][688]LightingResults: New page: Lighting Build
+[2018.07.06-16.45.34:232][688]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241ef61cd80, Size=128
+[2018.07.06-16.45.34:276][688]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.06-16.45.34:319][688]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.06-16.45.34:424][688]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 105.321ms to complete.
+[2018.07.06-16.45.34:426][688]LogFileHelpers: Loading map 'Matt_Map' took 0.221
+[2018.07.06-16.46.28:220][909]Cmd: MAP LOAD FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.06-16.46.28:220][909]LightingResults: New page: Lighting Build
+[2018.07.06-16.46.28:221][909]LoadErrors: New page: Loading map: Matt_Map.umap
+[2018.07.06-16.46.28:224][909]MapCheck: New page: Map Check
+[2018.07.06-16.46.28:224][909]LightingResults: New page: Lighting Build
+[2018.07.06-16.46.28:248][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024207e58c00, Size=128
+[2018.07.06-16.46.28:262][909]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fb3eb400, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.46.28:270][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fb3eb400, Size=128
+[2018.07.06-16.46.28:270][909]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fb3eb400, Size=128, Default__Matt_Map_C Function /Engine/Transient.REINST_Matt_Map_C_62:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.46.28:275][909]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fb3ebe80, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.46.28:372][909]LogAIModule: Creating AISystem for world Matt_Map
+[2018.07.06-16.46.28:424][909]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.06-16.46.28:453][909]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fb3eb400, Size=128
+[2018.07.06-16.46.28:469][909]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.06-16.46.28:580][909]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.922ms to complete.
+[2018.07.06-16.46.28:581][909]LogFileHelpers: Loading map 'Matt_Map' took 0.362
+[2018.07.06-16.46.32:932][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.07.06-16.46.33:737][200]Cmd: DELETE
+[2018.07.06-16.46.33:737][200]Cmd: ACTOR DELETE
+[2018.07.06-16.46.33:750][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.06-16.46.33:773][200]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.07.06-16.46.42:229][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.46.47:209][974]LogActorFactory: Actor Factory created SM_Rock_09
+[2018.07.06-16.46.47:713][996]LogActorFactory: Actor Factory created SM_Rock_09
+[2018.07.06-16.46.49:905][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.46.49:950][118]LogMaterial: Missing cached shader map for material M_HeroRocks, compiling. 
+[2018.07.06-16.46.49:952][118]LogMaterial: Warning: C:\Users\NTI\Desktop\GK_Rep\Content\Environment\Landscape\Rocks\Res\M_HeroRocks.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.06-16.46.49:952][118]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.06-16.46.50:020][120]LogActorFactory: Actor Factory created SM_HeroRock_03
+[2018.07.06-16.46.50:455][144]LogActorFactory: Actor Factory created SM_HeroRock_03
+[2018.07.06-16.46.55:172][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-16.46.57:436][470]LogSlate: Window 'Save Content' being destroyed
+[2018.07.06-16.46.57:726][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Matt_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.06-16.46.57:823][470]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fb3ebe80, Size=128
+[2018.07.06-16.46.57:823][470]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241ef61ee00, Size=128, Default__Matt_Map_C Function /Engine/Transient.REINST_Matt_Map_C_66:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.46.57:830][470]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241ef61f200, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.46.58:433][470]LogSavePackage: Save=645.28ms
+[2018.07.06-16.46.58:433][470]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Matt_Map78B581A94B69D5B70DF5CE98CC38959E.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap'
+[2018.07.06-16.46.58:441][470]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap
+[2018.07.06-16.46.58:456][470]LogFileHelpers: Saving map 'Matt_Map' took 0.845
+[2018.07.06-16.47.02:692][706]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.06-16.47.05:577][706]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.06-16.47.09:117][914]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fce1b880, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.06-16.47.09:130][914]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fce1b880, Size=128
+[2018.07.06-16.47.09:130][914]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fce1b880, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_68:ExecuteUbergraph_Tash_Map
+[2018.07.06-16.47.09:136][914]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fce1b200, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.06-16.47.09:231][914]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.06-16.47.15:204][195]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241e4f3c550, Size=4, Default__SKEL_Merged_Map_C Function /Game/Maps/Merged_Map.SKEL_Merged_Map_C:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.47.15:205][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241e4f3c550, Size=4
+[2018.07.06-16.47.15:205][195]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241e4f3c550, Size=4, Default__SKEL_Merged_Map_C Function /Engine/Transient.REINST_SKEL_Merged_Map_C_71:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.47.15:211][195]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241e4f3c4a8, Size=4, Default__SKEL_Merged_Map_C Function /Game/Maps/Merged_Map.SKEL_Merged_Map_C:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.47.15:219][195]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fce1bc00, Size=128, Default__Merged_Map_C Function /Game/Maps/Merged_Map.Merged_Map_C:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.47.15:241][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241e4f3c4a8, Size=4
+[2018.07.06-16.47.15:241][195]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241e4f3c4a8, Size=4, Default__SKEL_Merged_Map_C Function /Engine/Transient.REINST_SKEL_Merged_Map_C_74:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.47.15:264][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fce1bc00, Size=128
+[2018.07.06-16.47.15:264][195]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241ea8e8980, Size=128, Default__Merged_Map_C Function /Engine/Transient.REINST_Merged_Map_C_76:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.47.15:270][195]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241ea8e8500, Size=128, Default__Merged_Map_C Function /Game/Maps/Merged_Map.Merged_Map_C:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.47.15:295][195]LogAIModule: Creating AISystem for world Merged_Map
+[2018.07.06-16.47.15:608][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Merged_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Merged_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.06-16.47.15:638][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fce1b880, Size=128
+[2018.07.06-16.47.15:638][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241ea8e8980, Size=128
+[2018.07.06-16.47.15:638][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241e4f3c4a8, Size=4
+[2018.07.06-16.47.15:638][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241e4f3c550, Size=4
+[2018.07.06-16.47.15:639][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241ef61ee00, Size=128
+[2018.07.06-16.47.15:680][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241ea8e8500, Size=128
+[2018.07.06-16.47.15:680][195]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241ef61d100, Size=128, Default__Merged_Map_C Function /Engine/Transient.REINST_Merged_Map_C_80:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.47.15:686][195]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241ef61dc80, Size=128, Default__Merged_Map_C Function /Game/Maps/Merged_Map.Merged_Map_C:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.47.16:340][195]LogSavePackage: Save=695.70ms
+[2018.07.06-16.47.16:340][195]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Merged_MapF94D932947B038B9659304A330BDB8DC.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Merged_Map.umap'
+[2018.07.06-16.47.16:348][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Merged_Map.umap
+[2018.07.06-16.47.16:889][195]LogFileHelpers: Saving map 'Merged_Map' took 1.405
+[2018.07.06-16.47.19:790][344]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241ef61d100, Size=128
+[2018.07.06-16.47.46:947][919]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.06-16.47.47:711][919]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.06-16.47.50:750][964]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.06-16.47.51:766][964]SourceControl: rm 'Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.07.06-16.48.16:679][289]LogSlate: Window 'Save Content' being destroyed
+[2018.07.06-16.48.16:986][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Matt_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.06-16.48.17:068][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241ef61f200, Size=128
+[2018.07.06-16.48.17:068][289]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fb454880, Size=128, Default__Matt_Map_C Function /Engine/Transient.REINST_Matt_Map_C_84:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.48.17:073][289]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fb454f80, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.06-16.48.17:524][289]LogSavePackage: Save=490.87ms
+[2018.07.06-16.48.17:524][289]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Matt_MapAD9B1CAA42370989E26E0AAB0BBFD444.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap'
+[2018.07.06-16.48.17:532][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap
+[2018.07.06-16.48.17:549][289]LogFileHelpers: Saving map 'Matt_Map' took 0.683
+[2018.07.06-16.48.17:673][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Merged_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Merged_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.06-16.48.17:703][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fb454880, Size=128
+[2018.07.06-16.48.17:768][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241ef61dc80, Size=128
+[2018.07.06-16.48.17:768][289]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fab70200, Size=128, Default__Merged_Map_C Function /Engine/Transient.REINST_Merged_Map_C_88:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.48.17:773][289]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fab70080, Size=128, Default__Merged_Map_C Function /Game/Maps/Merged_Map.Merged_Map_C:ExecuteUbergraph_Merged_Map
+[2018.07.06-16.48.18:297][289]LogSavePackage: Save=564.71ms
+[2018.07.06-16.48.18:297][289]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Merged_MapA0AFE8B341BD9BB387C5B38786D90414.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Merged_Map.umap'
+[2018.07.06-16.48.18:305][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Merged_Map.umap
+[2018.07.06-16.48.18:315][289]LogFileHelpers: Saving map 'Merged_Map' took 0.761
+[2018.07.06-16.48.18:440][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.06-16.48.18:474][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fab70200, Size=128
+[2018.07.06-16.48.18:540][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241fce1b200, Size=128
+[2018.07.06-16.48.18:540][289]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fcca5b80, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_92:ExecuteUbergraph_Tash_Map
+[2018.07.06-16.48.18:546][289]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241fcca5b00, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.06-16.48.18:993][289]LogSavePackage: Save=491.28ms
+[2018.07.06-16.48.18:993][289]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Tash_Map6BFC32E14F1D17D61CE3A0BB7B50C791.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap'
+[2018.07.06-16.48.19:000][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap
+[2018.07.06-16.48.19:010][289]LogFileHelpers: Saving map 'Tash_Map' took 0.692
+[2018.07.06-16.48.23:585][547]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.06-16.48.34:306][547]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.06-16.48.34:969][547]LogSourceControl: commit successful: [master 48d4b43] yo
+[2018.07.06-16.48.35:061][547]SourceControl: [master 48d4b43] yo
+[2018.07.06-16.48.35:061][547]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.06-16.48.35:061][547]SourceControl:  rewrite Content/Maps/Matt_Map.umap (62%)
+[2018.07.06-16.48.35:076][547]SourceControl: Commited [master 48d4b43] yo.
