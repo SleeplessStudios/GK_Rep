@@ -3568,3 +3568,30 @@ Make sure 'BP_Light_V2_C' has been compiled for  Set ChargeAttack
 [2018.07.09-12.19.58:568][812]SourceControl: [master 55a2397] HJBOU
 [2018.07.09-12.19.58:568][812]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.07.09-12.19.58:581][812]SourceControl: Commited [master 55a2397] HJBOU.
+[2018.07.09-12.23.16:765][860]Cmd: DELETE
+[2018.07.09-12.23.16:766][860]Cmd: ACTOR DELETE
+[2018.07.09-12.23.16:775][860]LogEditorActor: Deleted Actor: Brush
+[2018.07.09-12.23.16:802][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292d25ab600, Size=128
+[2018.07.09-12.23.16:813][860]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.07.09-12.23.17:771][911]Cmd: DELETE
+[2018.07.09-12.23.17:771][911]Cmd: ACTOR DELETE
+[2018.07.09-12.23.17:779][911]LogEditorActor: Deleted Actor: Brush
+[2018.07.09-12.23.17:815][911]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.07.09-12.23.18:404][940]Cmd: DELETE
+[2018.07.09-12.23.18:404][940]Cmd: ACTOR DELETE
+[2018.07.09-12.23.18:412][940]LogEditorActor: Deleted Actor: Brush
+[2018.07.09-12.23.18:446][940]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.07.09-12.23.19:780][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-12.23.19:960][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-12.23.20:022][ 24]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292d25a8280, Size=128
+[2018.07.09-12.23.20:022][ 24]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029243699d80, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_886:ExecuteUbergraph_Tash_Map
+[2018.07.09-12.23.20:027][ 24]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029243699880, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-12.23.20:457][ 24]LogSavePackage: Save=469.42ms
+[2018.07.09-12.23.20:457][ 24]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_MapCF31FB134FCEA3FCAADD37A05F7B1180.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap'
+[2018.07.09-12.23.20:460][ 24]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap
+[2018.07.09-12.23.22:154][117]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.09-12.23.29:157][117]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.09-12.23.29:524][117]LogSourceControl: commit successful: [master fa7f8c6] nEW MAP BLUD
+[2018.07.09-12.23.29:582][117]SourceControl: [master fa7f8c6] nEW MAP BLUD
+[2018.07.09-12.23.29:582][117]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.09-12.23.29:592][117]SourceControl: Commited [master fa7f8c6] nEW MAP BLUD.
