@@ -1325,3 +1325,12 @@ LogInit: Object subsystem initialized
 [2018.07.09-09.34.45:953][464]LogSavePackage: Save=146.31ms
 [2018.07.09-09.34.45:953][464]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V29557B9F34B484162229D18A95D2C3568.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
 [2018.07.09-09.34.45:955][464]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-09.35.17:652][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.09-09.35.17:705][632]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292407c9080, Size=128
+[2018.07.09-09.35.17:705][632]LogUObjectGlobals: Created PersistentFrame Addr=0x000002921c65c500, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_284:ExecuteUbergraph_Tash_Map
+[2018.07.09-09.35.17:709][632]LogUObjectGlobals: Created PersistentFrame Addr=0x000002921c65c700, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-09.35.18:134][632]LogSavePackage: Save=463.01ms
+[2018.07.09-09.35.18:134][632]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_Map_Auto6A8A820E44D287E793CA2D89E18C70EC1.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto6.umap'
+[2018.07.09-09.35.18:135][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto6.umap
+[2018.07.09-09.35.18:138][632]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tash_Map' took 0.521
+[2018.07.09-09.35.18:138][632]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.521
