@@ -2542,3 +2542,12 @@ LogInit: Object subsystem initialized
 [2018.07.09-10.40.18:994][981]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.07.09-10.40.18:994][981]SourceControl:  rewrite Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset (86%)
 [2018.07.09-10.40.19:005][981]SourceControl: Commited [Light 75b4d78] Light adjusted head rotation and movement with animations and dynamic camera.
+[2018.07.09-10.40.45:553][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.09-10.40.45:612][228]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292d32b5c00, Size=128
+[2018.07.09-10.40.45:612][228]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292d1f45f80, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_654:ExecuteUbergraph_Tash_Map
+[2018.07.09-10.40.45:618][228]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292d1f45000, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-10.40.46:065][228]LogSavePackage: Save=488.50ms
+[2018.07.09-10.40.46:065][228]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_Map_Auto0E50E8E4443A6D6D66DDB67AA48A8C7AD.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto0.umap'
+[2018.07.09-10.40.46:067][228]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto0.umap
+[2018.07.09-10.40.46:070][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tash_Map' took 0.546
+[2018.07.09-10.40.46:070][228]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.546
