@@ -3595,3 +3595,23 @@ Make sure 'BP_Light_V2_C' has been compiled for  Set ChargeAttack
 [2018.07.09-12.23.29:582][117]SourceControl: [master fa7f8c6] nEW MAP BLUD
 [2018.07.09-12.23.29:582][117]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.07.09-12.23.29:592][117]SourceControl: Commited [master fa7f8c6] nEW MAP BLUD.
+[2018.07.09-12.25.44:842][693]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-12.25.44:860][693]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-12.25.44:860][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-12.25.44:860][693]PIE: New page: PIE session: Tash_Map (9 Jul 2018 14:25:44)
+[2018.07.09-12.25.44:860][693]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-12.25.44:886][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025905s)
+[2018.07.09-12.25.44:888][693]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-12.25.44:888][693]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2018.07.09-12.25.44:888][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.027583s)
+[2018.07.09-12.25.44:912][693]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029243699d80, Size=128
+[2018.07.09-12.25.44:916][693]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-12.25.44:930][693]LogInit: FAudioDevice initialized.
+[2018.07.09-12.25.44:998][693]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-12.25.45:003][693]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-13.25.45
+[2018.07.09-12.25.45:003][693]LogWorld: Bringing up level for play took: 0.003974
+[2018.07.09-12.25.45:017][693]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.984
+[2018.07.09-12.25.45:018][693]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-12.25.48:923][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-12.25.48:944][921]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-12.25.49:069][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
