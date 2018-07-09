@@ -813,3 +813,17 @@ LogInit: Object subsystem initialized
 [2018.07.09-08.30.56:632][623]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.07.09-08.30.56:632][623]SourceControl:  rewrite Content/Maps/Merged_Map.umap (99%)
 [2018.07.09-08.30.56:642][623]SourceControl: Commited [master faed623] 1.
+[2018.07.09-08.34.42:096][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.07.09-08.34.47:099][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-08.34.47:193][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002935a26c180, Size=128
+[2018.07.09-08.34.48:831][319]LogSlate: Window 'Save Content' being destroyed
+[2018.07.09-08.34.49:100][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-08.34.49:186][319]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002935a26c280, Size=128
+[2018.07.09-08.34.49:186][319]LogUObjectGlobals: Created PersistentFrame Addr=0x000002931df43400, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_75:ExecuteUbergraph_Tash_Map
+[2018.07.09-08.34.49:192][319]LogUObjectGlobals: Created PersistentFrame Addr=0x000002931df43800, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-08.34.49:624][319]LogSavePackage: Save=479.86ms
+[2018.07.09-08.34.49:624][319]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Tash_MapC1A22A9B44F405B47B940893A393C86B.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap'
+[2018.07.09-08.34.49:630][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap
+[2018.07.09-08.34.49:658][319]LogFileHelpers: Saving map 'Tash_Map' took 0.654
+[2018.07.09-08.34.51:786][418]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.09-08.34.55:469][418]LogSlate: Window 'Submit Files' being destroyed
