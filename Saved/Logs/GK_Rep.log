@@ -479,3 +479,849 @@ LogInit: Object subsystem initialized
 [2018.07.09-08.08.37:158][555]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
 [2018.07.09-08.08.37:158][555]SourceControl:  rewrite Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset (71%)
 [2018.07.09-08.08.37:166][555]SourceControl: Commited [master 413a90a] cds.
+[2018.07.09-08.10.35:628][547]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.10.35:645][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.10.35:645][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.10.35:645][547]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:10:35)
+[2018.07.09-08.10.35:645][547]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.10.35:667][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022655s)
+[2018.07.09-08.10.35:668][547]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.10.35:668][547]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2018.07.09-08.10.35:668][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.024080s)
+[2018.07.09-08.10.35:684][547]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.10.35:698][547]LogInit: FAudioDevice initialized.
+[2018.07.09-08.10.35:744][547]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.10.35:749][547]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.10.35
+[2018.07.09-08.10.35:749][547]LogWorld: Bringing up level for play took: 0.004219
+[2018.07.09-08.10.35:753][547]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map -0.279
+[2018.07.09-08.10.35:754][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.10.52:830][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.10.52:846][568]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.10.52:885][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.17.55:679][638]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.17.55:695][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.17.55:695][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.17.55:696][638]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:17:55)
+[2018.07.09-08.17.55:696][638]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.17.55:720][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024021s)
+[2018.07.09-08.17.55:722][638]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.17.55:722][638]LogPlayLevel: PIE: World Init took: (0.002204s)
+[2018.07.09-08.17.55:722][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.026583s)
+[2018.07.09-08.17.55:738][638]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.17.55:750][638]LogInit: FAudioDevice initialized.
+[2018.07.09-08.17.55:809][638]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.17.55:821][638]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.17.55
+[2018.07.09-08.17.55:822][638]LogWorld: Bringing up level for play took: 0.010770
+[2018.07.09-08.17.55:830][638]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map -0.203
+[2018.07.09-08.17.55:831][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.17.59:280][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.17.59:296][842]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.17.59:335][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.18.13:080][626]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.07.09-08.18.13:388][626]LogUObjectGlobals: Created PersistentFrame Addr=0x00000291fe60c4e0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.09-08.18.13:388][626]LogUObjectGlobals: Created PersistentFrame Addr=0x00000291fe60c4d8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.09-08.18.13:942][626]LogSlate: Took 0.004518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.09-08.18.14:331][627]LogSlate: Took 0.004450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.09-08.23.09:460][743]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.23.09:562][743]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000291e8811900, Size=736
+[2018.07.09-08.23.09:562][743]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292198b2800, Size=736, Default__BP_Light_V2_C Function /Engine/Transient.REINST_BP_Light_V2_C_43:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.23.09:577][743]LogUObjectGlobals: Created PersistentFrame Addr=0x00000291e8994a00, Size=752, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.23.10:468][744]LogSavePackage: Save=130.80ms
+[2018.07.09-08.23.10:468][744]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V2428071B54AFAACD144CD74B2A9E1FC78.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-08.23.10:471][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-08.23.11:479][804]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.23.11:520][804]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.23.11:521][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.23.11:521][804]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:23:11)
+[2018.07.09-08.23.11:521][804]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.23.11:544][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023533s)
+[2018.07.09-08.23.11:545][804]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.23.11:545][804]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2018.07.09-08.23.11:546][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.025211s)
+[2018.07.09-08.23.11:573][804]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.23.11:585][804]LogInit: FAudioDevice initialized.
+[2018.07.09-08.23.11:634][804]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.23.11:640][804]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.23.11
+[2018.07.09-08.23.11:640][804]LogWorld: Bringing up level for play took: 0.004521
+[2018.07.09-08.23.11:646][804]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map -0.387
+[2018.07.09-08.23.11:646][804]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.23.31:842][991]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.23.31:862][991]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.23.31:924][991]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.29.50:158][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.09-08.29.50:226][198]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000291e89a9900, Size=128
+[2018.07.09-08.29.50:226][198]LogUObjectGlobals: Created PersistentFrame Addr=0x00000291a1e62300, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_47:ExecuteUbergraph_Tash_Map
+[2018.07.09-08.29.50:231][198]LogUObjectGlobals: Created PersistentFrame Addr=0x00000291a1e61e80, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-08.29.50:614][198]LogSavePackage: Save=433.76ms
+[2018.07.09-08.29.50:614][198]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_Map_Auto138041F35426E1A4DA0385BAD22173C2D.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto1.umap'
+[2018.07.09-08.29.50:615][198]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto1.umap
+[2018.07.09-08.29.50:619][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tash_Map' took 0.485
+[2018.07.09-08.29.50:619][198]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.485
+[2018.07.09-08.33.25:560][ 19]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.09-08.33.25:712][ 20]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GKRep
+[2018.07.09-08.33.25:713][ 20]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.09-08.33.25:713][ 20]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.07.09-08.33.25:713][ 20]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.09-08.33.25:713][ 20]LogTemp: BranchPath = PC0F5A34/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = PC0F5A34/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.07.09-08.33.25:713][ 20]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\NTI\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.09-08.33.56:837][846]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.09-08.33.56:842][846]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.09-08.35.01:868][199]LogUObjectGlobals: Created PersistentFrame Addr=0x00000291f026ccb8, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.35.10:454][701]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000291f026ccb8, Size=4
+[2018.07.09-08.35.10:454][701]LogUObjectGlobals: Created PersistentFrame Addr=0x000002919d531d40, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_51:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.35.10:462][701]LogUObjectGlobals: Created PersistentFrame Addr=0x000002919d530a20, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.35.45:654][801]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002919d530a20, Size=4
+[2018.07.09-08.35.45:654][801]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029216332590, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_53:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.35.45:664][801]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029216333608, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.35.51:484][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029216333608, Size=4
+[2018.07.09-08.35.51:484][145]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292011550e0, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_55:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.35.51:492][145]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029201154bd8, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.36.04:458][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029201154bd8, Size=4
+[2018.07.09-08.36.04:458][887]LogUObjectGlobals: Created PersistentFrame Addr=0x000002919dc598a0, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_57:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.36.04:467][887]LogUObjectGlobals: Created PersistentFrame Addr=0x000002919dc5a220, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.36.12:736][378]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002919dc5a220, Size=4
+[2018.07.09-08.36.12:736][378]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029204ca8fa8, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_59:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.36.12:745][378]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029204cab9b8, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.36.20:376][824]LogSlate: Took 0.005982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.09-08.36.21:418][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029204cab9b8, Size=4
+[2018.07.09-08.36.21:418][887]LogUObjectGlobals: Created PersistentFrame Addr=0x000002918c20c490, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_61:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.36.21:427][887]LogUObjectGlobals: Created PersistentFrame Addr=0x000002918c20c788, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.37.23:497][223]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002918c20c788, Size=4
+[2018.07.09-08.37.23:497][223]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292244c35f8, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_63:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.37.23:506][223]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292244c3f98, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.39.23:266][ 40]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.39.23:315][ 40]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292244c3f98, Size=4
+[2018.07.09-08.39.23:315][ 40]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292238a6880, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_66:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.39.23:371][ 40]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000291e8994a00, Size=752
+[2018.07.09-08.39.23:371][ 40]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029225cc2200, Size=752, BP_Light_V2_C_135 Function /Engine/Transient.REINST_BP_Light_V2_C_70:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.39.23:383][ 40]LogBlueprint: Error: [Compiler BP_Light_V2] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.07.09-08.39.23:383][ 40]LogBlueprint: Error: [Compiler BP_Light_V2] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.07.09-08.39.23:386][ 40]LogBlueprint: Error: [Compiler BP_Light_V2] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.07.09-08.39.23:386][ 40]LogBlueprint: Error: [Compiler BP_Light_V2] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.07.09-08.39.23:386][ 40]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029215858d00, Size=760, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.39.23:801][ 40]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000291a1e62300, Size=128
+[2018.07.09-08.39.23:801][ 40]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292238a6880, Size=4
+[2018.07.09-08.39.23:828][ 40]LogBlueprint: Warning: [Compiler BP_Light_V2] [2096.85] Compile of BP_Light_V2 failed. 4 Fatal Issue(s) 0 Warning(s) [in 562 ms] (/Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2)
+[2018.07.09-08.39.57:609][  8]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.39.57:711][  8]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029215858d00, Size=760
+[2018.07.09-08.39.57:711][  8]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029215858d00, Size=760, BP_Light_V2_C_137 Function /Engine/Transient.REINST_BP_Light_V2_C_77:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.39.57:728][  8]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029223a00700, Size=760, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.39.58:758][ 26]LogSavePackage: Save=144.79ms
+[2018.07.09-08.39.58:758][ 26]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V22A18797B48B2975C8B4215992EE3F600.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-08.39.58:760][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-08.40.18:696][181]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.40.18:802][181]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029223a00700, Size=760
+[2018.07.09-08.40.18:802][181]LogUObjectGlobals: Created PersistentFrame Addr=0x000002920d2a4100, Size=760, BP_Light_V2_C_163 Function /Engine/Transient.REINST_BP_Light_V2_C_84:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.40.18:818][181]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292170b3c80, Size=856, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.40.19:221][181]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029215858d00, Size=760
+[2018.07.09-08.40.19:952][197]LogSavePackage: Save=145.62ms
+[2018.07.09-08.40.19:952][197]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V2A7FF92304A04749A854F4CA86CBAD832.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-08.40.19:955][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-08.40.20:413][224]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.40.20:463][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.40.20:463][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.40.20:463][224]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:40:20)
+[2018.07.09-08.40.20:463][224]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.40.20:487][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024035s)
+[2018.07.09-08.40.20:488][224]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.40.20:489][224]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2018.07.09-08.40.20:489][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.025765s)
+[2018.07.09-08.40.20:512][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002920d2a4100, Size=760
+[2018.07.09-08.40.20:517][224]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.40.20:530][224]LogInit: FAudioDevice initialized.
+[2018.07.09-08.40.20:583][224]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.40.20:588][224]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.40.20
+[2018.07.09-08.40.20:589][224]LogWorld: Bringing up level for play took: 0.004166
+[2018.07.09-08.40.20:595][224]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.562
+[2018.07.09-08.40.20:595][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.40.31:734][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-08.40.38:845][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-08.40.52:457][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.40.52:476][858]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.40.52:545][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.41.00:450][258]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.09-08.41.00:591][259]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GKRep
+[2018.07.09-08.41.00:591][259]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.09-08.41.00:591][259]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.07.09-08.41.00:591][259]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.09-08.41.00:591][259]LogTemp: BranchPath = PC0F5A34/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = PC0F5A34/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.07.09-08.41.00:591][259]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\NTI\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.09-08.41.10:581][825]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.09-08.41.10:585][825]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.09-08.41.11:263][863]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.41.11:280][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.41.11:280][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.41.11:280][863]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:41:11)
+[2018.07.09-08.41.11:280][863]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.41.11:304][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023992s)
+[2018.07.09-08.41.11:305][863]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.41.11:305][863]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2018.07.09-08.41.11:305][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.025075s)
+[2018.07.09-08.41.11:332][863]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.41.11:343][863]LogInit: FAudioDevice initialized.
+[2018.07.09-08.41.11:400][863]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.41.11:406][863]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.41.11
+[2018.07.09-08.41.11:406][863]LogWorld: Bringing up level for play took: 0.004532
+[2018.07.09-08.41.11:421][863]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map -0.612
+[2018.07.09-08.41.11:421][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.41.20:613][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.41.20:632][404]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.41.20:701][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.42.06:511][130]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.42.06:617][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292170b3c80, Size=856
+[2018.07.09-08.42.06:617][130]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922d8cd280, Size=856, BP_Light_V2_C_225 Function /Engine/Transient.REINST_BP_Light_V2_C_91:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.42.06:634][130]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029225e2ab00, Size=856, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.42.07:831][148]LogSavePackage: Save=144.27ms
+[2018.07.09-08.42.07:831][148]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V228A70CCD43E99FE1937A15B0E86AD8FA.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-08.42.07:834][148]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-08.42.08:159][167]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.42.08:209][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.42.08:210][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.42.08:210][167]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:42:08)
+[2018.07.09-08.42.08:210][167]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.42.08:234][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023560s)
+[2018.07.09-08.42.08:235][167]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.42.08:235][167]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2018.07.09-08.42.08:235][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.025024s)
+[2018.07.09-08.42.08:263][167]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.42.08:275][167]LogInit: FAudioDevice initialized.
+[2018.07.09-08.42.08:328][167]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.42.08:333][167]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.42.08
+[2018.07.09-08.42.08:334][167]LogWorld: Bringing up level for play took: 0.004485
+[2018.07.09-08.42.08:340][167]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.307
+[2018.07.09-08.42.08:340][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.42.18:150][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-08.42.41:595][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-08.42.48:088][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-08.43.02:965][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-08.43.16:576][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.43.16:595][670]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.43.16:669][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.43.21:761][882]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.43.21:867][882]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029225e2ab00, Size=856
+[2018.07.09-08.43.21:867][882]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922d8ce400, Size=856, BP_Light_V2_C_251 Function /Engine/Transient.REINST_BP_Light_V2_C_98:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.43.21:884][882]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922d8ce780, Size=856, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.43.22:952][901]LogSavePackage: Save=144.53ms
+[2018.07.09-08.43.22:952][901]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V235FE86A6442CB63C726798A68B7A2FA0.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-08.43.22:956][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-08.43.23:842][954]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.43.23:867][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.43.23:867][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.43.23:867][954]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:43:23)
+[2018.07.09-08.43.23:867][954]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.43.23:892][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024849s)
+[2018.07.09-08.43.23:893][954]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.43.23:893][954]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2018.07.09-08.43.23:893][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.026343s)
+[2018.07.09-08.43.23:922][954]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.43.23:934][954]LogInit: FAudioDevice initialized.
+[2018.07.09-08.43.23:994][954]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.43.24:005][954]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.43.24
+[2018.07.09-08.43.24:006][954]LogWorld: Bringing up level for play took: 0.009923
+[2018.07.09-08.43.24:015][954]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map -0.018
+[2018.07.09-08.43.24:015][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.43.32:417][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.43.32:435][445]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.43.32:477][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.43.52:257][611]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.43.52:363][611]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922d8ce780, Size=856
+[2018.07.09-08.43.52:363][611]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029208f1a780, Size=856, BP_Light_V2_C_277 Function /Engine/Transient.REINST_BP_Light_V2_C_105:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.43.52:380][611]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029208f1a080, Size=856, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.43.53:435][630]LogSavePackage: Save=158.96ms
+[2018.07.09-08.43.53:435][630]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V24C5DFEBF4DE606DA4DF2F98FB18A6749.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-08.43.53:439][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-08.43.55:903][776]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292110b4620, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.43.56:982][833]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.43.57:039][833]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292110b4620, Size=4
+[2018.07.09-08.43.57:039][833]LogUObjectGlobals: Created PersistentFrame Addr=0x00000291f0f18f80, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_110:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.43.57:101][833]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029208f1a080, Size=856
+[2018.07.09-08.43.57:101][833]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922cd96b00, Size=856, BP_Light_V2_C_315 Function /Engine/Transient.REINST_BP_Light_V2_C_114:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.43.57:119][833]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922cd95980, Size=856, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.43.57:532][833]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000291f0f18f80, Size=4
+[2018.07.09-08.43.57:532][833]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029208f1a780, Size=856
+[2018.07.09-08.43.57:967][840]LogSavePackage: Save=142.24ms
+[2018.07.09-08.43.57:968][840]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V225E8FF7243588127072E1CA6C30D67A7.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-08.43.57:971][840]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-08.43.58:340][862]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.43.58:365][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.43.58:365][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.43.58:365][862]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:43:58)
+[2018.07.09-08.43.58:365][862]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.43.58:389][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023729s)
+[2018.07.09-08.43.58:390][862]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.43.58:391][862]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2018.07.09-08.43.58:391][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.025405s)
+[2018.07.09-08.43.58:419][862]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.43.58:431][862]LogInit: FAudioDevice initialized.
+[2018.07.09-08.43.58:481][862]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.43.58:486][862]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.43.58
+[2018.07.09-08.43.58:486][862]LogWorld: Bringing up level for play took: 0.003736
+[2018.07.09-08.43.58:492][862]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.459
+[2018.07.09-08.43.58:493][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.44.08:158][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.44.08:178][429]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.44.08:223][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.44.18:164][ 15]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.44.18:271][ 15]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922cd95980, Size=856
+[2018.07.09-08.44.18:271][ 15]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029235d9f900, Size=856, BP_Light_V2_C_341 Function /Engine/Transient.REINST_BP_Light_V2_C_121:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.44.18:288][ 15]LogUObjectGlobals: Created PersistentFrame Addr=0x000002919cbe0480, Size=856, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.44.19:372][ 37]LogSavePackage: Save=144.94ms
+[2018.07.09-08.44.19:372][ 37]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V2C42B8F3245280CF2A1D567AE3552247A.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-08.44.19:375][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-08.44.32:532][817]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.44.32:635][817]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002919cbe0480, Size=856
+[2018.07.09-08.44.32:635][817]LogUObjectGlobals: Created PersistentFrame Addr=0x000002921e779280, Size=856, BP_Light_V2_C_403 Function /Engine/Transient.REINST_BP_Light_V2_C_128:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.44.32:653][817]LogUObjectGlobals: Created PersistentFrame Addr=0x000002919d7e6080, Size=856, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.44.33:080][817]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029235d9f900, Size=856
+[2018.07.09-08.44.33:639][830]LogSavePackage: Save=145.54ms
+[2018.07.09-08.44.33:639][830]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V2833E80944538581D2D6038859EE4C84B.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-08.44.33:642][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-08.44.33:949][848]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.44.33:974][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.44.33:974][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.44.33:974][848]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:44:33)
+[2018.07.09-08.44.33:974][848]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.44.33:999][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024400s)
+[2018.07.09-08.44.34:000][848]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.44.34:000][848]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2018.07.09-08.44.34:000][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.026018s)
+[2018.07.09-08.44.34:030][848]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.44.34:043][848]LogInit: FAudioDevice initialized.
+[2018.07.09-08.44.34:095][848]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.44.34:100][848]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.44.34
+[2018.07.09-08.44.34:100][848]LogWorld: Bringing up level for play took: 0.004044
+[2018.07.09-08.44.34:106][848]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.073
+[2018.07.09-08.44.34:106][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.44.50:116][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.44.50:135][787]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.44.50:178][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.45.05:101][658]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.45.05:204][658]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002919d7e6080, Size=856
+[2018.07.09-08.45.05:205][658]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922eaa6080, Size=856, BP_Light_V2_C_429 Function /Engine/Transient.REINST_BP_Light_V2_C_135:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.45.05:221][658]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922eaa4100, Size=856, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.45.06:133][659]LogSavePackage: Save=145.93ms
+[2018.07.09-08.45.06:133][659]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V2D2DBB8B149A222CF919A748F90F43529.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-08.45.06:136][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-08.45.32:773][239]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.45.32:879][239]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922eaa4100, Size=856
+[2018.07.09-08.45.32:879][239]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292371f1980, Size=856, BP_Light_V2_C_455 Function /Engine/Transient.REINST_BP_Light_V2_C_142:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.45.32:896][239]LogUObjectGlobals: Created PersistentFrame Addr=0x000002919cbe0100, Size=856, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.45.33:818][256]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.45.33:867][256]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.45.33:867][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.45.33:867][256]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:45:33)
+[2018.07.09-08.45.33:867][256]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.45.33:890][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022573s)
+[2018.07.09-08.45.33:891][256]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.45.33:892][256]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2018.07.09-08.45.33:892][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.024307s)
+[2018.07.09-08.45.33:915][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292371f1980, Size=856
+[2018.07.09-08.45.33:920][256]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.45.33:934][256]LogInit: FAudioDevice initialized.
+[2018.07.09-08.45.33:983][256]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.45.33:988][256]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.45.33
+[2018.07.09-08.45.33:988][256]LogWorld: Bringing up level for play took: 0.003690
+[2018.07.09-08.45.33:995][256]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map -0.038
+[2018.07.09-08.45.33:995][256]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.45.38:672][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.45.38:692][510]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.45.38:759][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.45.50:679][209]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.45.50:697][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.45.50:697][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.45.50:697][209]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:45:50)
+[2018.07.09-08.45.50:697][209]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.45.50:720][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022903s)
+[2018.07.09-08.45.50:721][209]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.45.50:721][209]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2018.07.09-08.45.50:721][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.024439s)
+[2018.07.09-08.45.50:748][209]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.45.50:760][209]LogInit: FAudioDevice initialized.
+[2018.07.09-08.45.50:822][209]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.45.50:827][209]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.45.50
+[2018.07.09-08.45.50:827][209]LogWorld: Bringing up level for play took: 0.003706
+[2018.07.09-08.45.50:839][209]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.807
+[2018.07.09-08.45.50:840][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.46.10:954][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.46.10:975][351]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.46.11:046][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.46.41:303][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.09-08.46.41:357][839]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000291a1e61e80, Size=128
+[2018.07.09-08.46.41:357][839]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292228d0d80, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_146:ExecuteUbergraph_Tash_Map
+[2018.07.09-08.46.41:361][839]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292228d0a00, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-08.46.41:756][839]LogSavePackage: Save=431.85ms
+[2018.07.09-08.46.41:756][839]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_Map_Auto2FF1D60A940ED558EBCE7818FDD35F5A1.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto2.umap'
+[2018.07.09-08.46.41:758][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto2.umap
+[2018.07.09-08.46.41:761][839]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tash_Map' took 0.481
+[2018.07.09-08.46.41:761][839]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.481
+[2018.07.09-08.46.41:763][839]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Player/Blueprints/Light/BP_Light_V2] ([1] browsable assets)...
+[2018.07.09-08.46.41:821][839]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2]
+[2018.07.09-08.46.41:821][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/Blueprints/Light/BP_Light_V2]
+[2018.07.09-08.46.41:985][839]LogSavePackage: Save=152.18ms
+[2018.07.09-08.46.41:985][839]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V2_Auto2ED96B6474C407BF3EBC483B1A883E5A7.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/Player/Blueprints/Light/BP_Light_V2_Auto2.uasset'
+[2018.07.09-08.46.41:986][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/Player/Blueprints/Light/BP_Light_V2_Auto2.uasset
+[2018.07.09-08.46.41:986][839]LogFileHelpers: Auto-saving content packages took 0.224
+[2018.07.09-08.49.56:345][105]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292244c08e0, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.52.37:109][460]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.52.37:126][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.52.37:127][460]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.09-08.52.37:180][460]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292244c08e0, Size=4
+[2018.07.09-08.52.37:180][460]LogUObjectGlobals: Created PersistentFrame Addr=0x000002920a5dfb70, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_151:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.52.37:187][460]LogPlayLevel: [PlayLevel] Compiling BP_Light_V2 before play...
+[2018.07.09-08.52.37:236][460]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002919cbe0100, Size=856
+[2018.07.09-08.52.37:236][460]LogUObjectGlobals: Created PersistentFrame Addr=0x000002924adedd00, Size=856, BP_Light_V2_C_493 Function /Engine/Transient.REINST_BP_Light_V2_C_155:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.52.37:253][460]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029236ea6b00, Size=1168, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.52.37:711][460]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292228d0d80, Size=128
+[2018.07.09-08.52.37:711][460]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002920a5dfb70, Size=4
+[2018.07.09-08.52.37:715][460]LogPlayLevel: PlayLevel: Blueprint regeneration took 589 ms (1 blueprints)
+[2018.07.09-08.52.37:715][460]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:52:37)
+[2018.07.09-08.52.37:716][460]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.52.37:740][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024533s)
+[2018.07.09-08.52.37:742][460]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.52.37:742][460]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2018.07.09-08.52.37:742][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.026308s)
+[2018.07.09-08.52.37:768][460]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.52.37:778][460]LogInit: FAudioDevice initialized.
+[2018.07.09-08.52.37:830][460]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.52.37:836][460]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.52.37
+[2018.07.09-08.52.37:837][460]LogWorld: Bringing up level for play took: 0.005792
+[2018.07.09-08.52.37:845][460]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map -0.187
+[2018.07.09-08.52.37:846][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.52.47:381][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.52.47:399][ 11]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.52.47:438][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.54.49:384][994]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.54.49:488][994]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029236ea6b00, Size=1168
+[2018.07.09-08.54.49:488][994]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029244936400, Size=1168, BP_Light_V2_C_519 Function /Engine/Transient.REINST_BP_Light_V2_C_162:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.54.49:505][994]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029238795600, Size=1168, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.54.50:407][ 12]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.54.50:465][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.54.50:466][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.54.50:466][ 12]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:54:50)
+[2018.07.09-08.54.50:466][ 12]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.54.50:488][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022630s)
+[2018.07.09-08.54.50:489][ 12]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.54.50:490][ 12]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2018.07.09-08.54.50:490][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.023929s)
+[2018.07.09-08.54.50:513][ 12]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029244936400, Size=1168
+[2018.07.09-08.54.50:520][ 12]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.54.50:532][ 12]LogInit: FAudioDevice initialized.
+[2018.07.09-08.54.50:584][ 12]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.54.50:589][ 12]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.54.50
+[2018.07.09-08.54.50:590][ 12]LogWorld: Bringing up level for play took: 0.004651
+[2018.07.09-08.54.50:595][ 12]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.563
+[2018.07.09-08.54.50:596][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.54.54:482][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.54.54:500][231]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.54.54:580][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.55.34:465][976]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.55.34:569][976]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029238795600, Size=1168
+[2018.07.09-08.55.34:569][976]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029248d29d00, Size=1168, BP_Light_V2_C_545 Function /Engine/Transient.REINST_BP_Light_V2_C_169:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.55.34:584][976]LogBlueprint: Error: [Compiler BP_Light_V2] The current value of the ' New Transform ' pin is invalid: 'New Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.07.09-08.55.34:586][976]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029228a11c00, Size=1000, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.55.35:030][976]LogBlueprint: Warning: [Compiler BP_Light_V2] [3068.05] Compile of BP_Light_V2 failed. 1 Fatal Issue(s) 0 Warning(s) [in 564 ms] (/Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2)
+[2018.07.09-08.55.35:371][986]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.55.35:432][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.55.35:432][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.55.38:123][986]LogSlate: Window 'Message' being destroyed
+[2018.07.09-08.55.46:084][448]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.55.46:188][448]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029228a11c00, Size=1000
+[2018.07.09-08.55.46:188][448]LogUObjectGlobals: Created PersistentFrame Addr=0x000002923da5f800, Size=1000, BP_Light_V2_C_547 Function /Engine/Transient.REINST_BP_Light_V2_C_176:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.55.46:205][448]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029228806400, Size=1152, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.55.46:607][448]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029248d29d00, Size=1168
+[2018.07.09-08.55.46:982][458]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.55.47:036][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.55.47:036][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-08.55.47:036][458]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:55:47)
+[2018.07.09-08.55.47:036][458]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.55.47:059][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022207s)
+[2018.07.09-08.55.47:060][458]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.55.47:060][458]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2018.07.09-08.55.47:060][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.023936s)
+[2018.07.09-08.55.47:082][458]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002923da5f800, Size=1000
+[2018.07.09-08.55.47:087][458]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.55.47:100][458]LogInit: FAudioDevice initialized.
+[2018.07.09-08.55.47:149][458]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.55.47:154][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.55.47
+[2018.07.09-08.55.47:154][458]LogWorld: Bringing up level for play took: 0.003616
+[2018.07.09-08.55.47:159][458]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 1.127
+[2018.07.09-08.55.47:160][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.55.55:414][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.55.55:433][937]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.55.55:514][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.56.10:639][697]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.56.10:656][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.56.10:656][697]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.09-08.56.10:710][697]LogPlayLevel: [PlayLevel] Compiling BP_Light_V2 before play...
+[2018.07.09-08.56.10:758][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029228806400, Size=1152
+[2018.07.09-08.56.10:758][697]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029236cc9600, Size=1152, BP_Light_V2_C_573 Function /Engine/Transient.REINST_BP_Light_V2_C_183:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.56.10:775][697]LogUObjectGlobals: Created PersistentFrame Addr=0x000002923d6b7900, Size=1152, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.56.11:230][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029236cc9600, Size=1152
+[2018.07.09-08.56.11:234][697]LogPlayLevel: PlayLevel: Blueprint regeneration took 577 ms (1 blueprints)
+[2018.07.09-08.56.11:234][697]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:56:11)
+[2018.07.09-08.56.11:234][697]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.56.11:257][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022518s)
+[2018.07.09-08.56.11:258][697]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.56.11:258][697]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2018.07.09-08.56.11:258][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.024279s)
+[2018.07.09-08.56.11:287][697]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.56.11:299][697]LogInit: FAudioDevice initialized.
+[2018.07.09-08.56.11:353][697]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.56.11:359][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.56.11
+[2018.07.09-08.56.11:360][697]LogWorld: Bringing up level for play took: 0.005345
+[2018.07.09-08.56.11:366][697]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 1.333
+[2018.07.09-08.56.11:366][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.56.16:540][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.56.16:558][992]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.56.16:595][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.57.47:310][330]LogUObjectGlobals: Created PersistentFrame Addr=0x000002921018b850, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.57.55:594][809]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002921018b850, Size=4
+[2018.07.09-08.57.55:594][809]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029216333008, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_187:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.57.55:603][809]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292163337e8, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.58.08:119][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-08.58.08:206][474]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-08.58.08:258][474]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292163337e8, Size=4
+[2018.07.09-08.58.08:258][474]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922b0aa4f8, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_190:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.58.08:316][474]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002923d6b7900, Size=1152
+[2018.07.09-08.58.08:316][474]LogUObjectGlobals: Created PersistentFrame Addr=0x000002923208dd00, Size=1152, BP_Light_V2_C_793 Function /Engine/Transient.REINST_BP_Light_V2_C_194:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.58.08:334][474]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029236a3d600, Size=1152, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.58.08:759][474]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922b0aa4f8, Size=4
+[2018.07.09-08.58.08:759][474]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029216333008, Size=4
+[2018.07.09-08.58.52:785][585]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.58.52:840][585]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.58.52:840][585]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.09-08.58.52:896][585]LogPlayLevel: [PlayLevel] Compiling BP_Light_V2 before play...
+[2018.07.09-08.58.52:946][585]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029236a3d600, Size=1152
+[2018.07.09-08.58.52:946][585]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922d2db900, Size=1152, BP_Light_V2_C_830 Function /Engine/Transient.REINST_BP_Light_V2_C_201:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.58.52:964][585]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292287f5d00, Size=1152, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.58.53:413][585]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922d2db900, Size=1152
+[2018.07.09-08.58.53:419][585]LogPlayLevel: PlayLevel: Blueprint regeneration took 578 ms (1 blueprints)
+[2018.07.09-08.58.53:420][585]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:58:53)
+[2018.07.09-08.58.53:420][585]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.58.53:442][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022226s)
+[2018.07.09-08.58.53:443][585]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.58.53:443][585]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2018.07.09-08.58.53:444][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.023735s)
+[2018.07.09-08.58.53:470][585]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.58.53:483][585]LogInit: FAudioDevice initialized.
+[2018.07.09-08.58.53:538][585]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.58.53:543][585]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.58.53
+[2018.07.09-08.58.53:543][585]LogWorld: Bringing up level for play took: 0.003605
+[2018.07.09-08.58.53:549][585]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 1.515
+[2018.07.09-08.58.53:549][585]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.59.03:743][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.59.03:764][162]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.59.03:801][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.59.07:459][375]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-08.59.07:516][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.59.07:516][375]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.09-08.59.07:570][375]LogPlayLevel: [PlayLevel] Compiling BP_Light_V2 before play...
+[2018.07.09-08.59.07:621][375]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292287f5d00, Size=1152
+[2018.07.09-08.59.07:621][375]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922c9c7900, Size=1152, BP_Light_V2_C_860 Function /Engine/Transient.REINST_BP_Light_V2_C_208:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.59.07:638][375]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029231ed3900, Size=1152, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-08.59.08:077][375]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922c9c7900, Size=1152
+[2018.07.09-08.59.08:080][375]LogPlayLevel: PlayLevel: Blueprint regeneration took 563 ms (1 blueprints)
+[2018.07.09-08.59.08:080][375]PIE: New page: PIE session: Tash_Map (9 Jul 2018 10:59:08)
+[2018.07.09-08.59.08:080][375]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-08.59.08:103][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022912s)
+[2018.07.09-08.59.08:104][375]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-08.59.08:105][375]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2018.07.09-08.59.08:105][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.024459s)
+[2018.07.09-08.59.08:129][375]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-08.59.08:141][375]LogInit: FAudioDevice initialized.
+[2018.07.09-08.59.08:192][375]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-08.59.08:197][375]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-09.59.08
+[2018.07.09-08.59.08:197][375]LogWorld: Bringing up level for play took: 0.004009
+[2018.07.09-08.59.08:203][375]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.171
+[2018.07.09-08.59.08:204][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.59.14:437][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-08.59.14:456][729]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-08.59.14:493][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.00.38:078][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.09-09.00.38:130][ 88]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292228d0a00, Size=128
+[2018.07.09-09.00.38:130][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x000002924c802a00, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_212:ExecuteUbergraph_Tash_Map
+[2018.07.09-09.00.38:135][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x000002924c802980, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-09.00.38:533][ 88]LogSavePackage: Save=435.06ms
+[2018.07.09-09.00.38:533][ 88]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_Map_Auto38708991C4F5804657065F994B01EC6F7.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto3.umap'
+[2018.07.09-09.00.38:535][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto3.umap
+[2018.07.09-09.00.38:537][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tash_Map' took 0.484
+[2018.07.09-09.00.38:537][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.484
+[2018.07.09-09.00.38:540][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Player/Blueprints/Light/BP_Light_V2] ([1] browsable assets)...
+[2018.07.09-09.00.38:586][ 88]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2]
+[2018.07.09-09.00.38:586][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/Blueprints/Light/BP_Light_V2]
+[2018.07.09-09.00.38:750][ 88]LogSavePackage: Save=149.88ms
+[2018.07.09-09.00.38:750][ 88]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V2_Auto3F38CB5EA4B731BBD9DDA1A8448CE6204.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/Player/Blueprints/Light/BP_Light_V2_Auto3.uasset'
+[2018.07.09-09.00.38:752][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/Player/Blueprints/Light/BP_Light_V2_Auto3.uasset
+[2018.07.09-09.00.38:752][ 88]LogFileHelpers: Auto-saving content packages took 0.213
+[2018.07.09-09.05.43:783][686]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-09.05.43:889][686]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029231ed3900, Size=1152
+[2018.07.09-09.05.43:889][686]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029228ada400, Size=1152, BP_Light_V2_C_890 Function /Engine/Transient.REINST_BP_Light_V2_C_219:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.05.43:906][686]LogUObjectGlobals: Created PersistentFrame Addr=0x000002923639cf00, Size=1344, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.05.44:316][686]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002924c802a00, Size=128
+[2018.07.09-09.05.44:935][709]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-09.05.44:996][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.05.44:996][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-09.05.44:996][709]PIE: New page: PIE session: Tash_Map (9 Jul 2018 11:05:44)
+[2018.07.09-09.05.44:996][709]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-09.05.45:018][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022232s)
+[2018.07.09-09.05.45:019][709]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-09.05.45:020][709]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2018.07.09-09.05.45:020][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.024054s)
+[2018.07.09-09.05.45:044][709]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029228ada400, Size=1152
+[2018.07.09-09.05.45:049][709]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-09.05.45:061][709]LogInit: FAudioDevice initialized.
+[2018.07.09-09.05.45:122][709]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-09.05.45:130][709]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-10.05.45
+[2018.07.09-09.05.45:130][709]LogWorld: Bringing up level for play took: 0.006249
+[2018.07.09-09.05.45:138][709]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 1.105
+[2018.07.09-09.05.45:138][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.05.52:834][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.05.52:853][157]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-09.05.52:939][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.06.13:046][200]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-09.06.13:063][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.06.13:063][200]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.09-09.06.13:119][200]LogPlayLevel: [PlayLevel] Compiling BP_Light_V2 before play...
+[2018.07.09-09.06.13:171][200]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002923639cf00, Size=1344
+[2018.07.09-09.06.13:171][200]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029265230800, Size=1344, BP_Light_V2_C_920 Function /Engine/Transient.REINST_BP_Light_V2_C_226:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.06.13:187][200]LogUObjectGlobals: Created PersistentFrame Addr=0x000002923639f200, Size=1312, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.06.13:669][200]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029265230800, Size=1344
+[2018.07.09-09.06.13:674][200]LogPlayLevel: PlayLevel: Blueprint regeneration took 611 ms (1 blueprints)
+[2018.07.09-09.06.13:674][200]PIE: New page: PIE session: Tash_Map (9 Jul 2018 11:06:13)
+[2018.07.09-09.06.13:674][200]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-09.06.13:696][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021869s)
+[2018.07.09-09.06.13:697][200]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-09.06.13:697][200]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2018.07.09-09.06.13:698][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.023482s)
+[2018.07.09-09.06.13:723][200]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-09.06.13:735][200]LogInit: FAudioDevice initialized.
+[2018.07.09-09.06.13:787][200]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-09.06.13:792][200]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-10.06.13
+[2018.07.09-09.06.13:792][200]LogWorld: Bringing up level for play took: 0.004282
+[2018.07.09-09.06.13:798][200]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map -0.236
+[2018.07.09-09.06.13:798][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.06.22:014][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.06.22:032][677]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-09.06.22:073][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.06.22:177][678]LogSlate: Took 0.010248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.07.09-09.08.00:581][580]LogUObjectGlobals: Created PersistentFrame Addr=0x000002926c758080, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.08.21:435][798]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-09.08.21:485][798]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002926c758080, Size=4
+[2018.07.09-09.08.21:485][798]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029224d43688, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_231:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.08.21:541][798]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002923639f200, Size=1312
+[2018.07.09-09.08.21:542][798]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029238925600, Size=1312, BP_Light_V2_C_964 Function /Engine/Transient.REINST_BP_Light_V2_C_235:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.08.21:558][798]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292448b6400, Size=1056, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.08.21:969][798]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029224d43688, Size=4
+[2018.07.09-09.08.22:303][798]LogSavePackage: Save=142.99ms
+[2018.07.09-09.08.22:303][798]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V27E788B5B4C135C660DB76DA8DE93DFDC.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-09.08.22:308][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.09-09.08.24:088][894]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-09.08.24:149][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.08.24:149][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-09.08.24:149][894]PIE: New page: PIE session: Tash_Map (9 Jul 2018 11:08:24)
+[2018.07.09-09.08.24:150][894]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-09.08.24:172][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022701s)
+[2018.07.09-09.08.24:173][894]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-09.08.24:173][894]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2018.07.09-09.08.24:174][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.024009s)
+[2018.07.09-09.08.24:202][894]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-09.08.24:214][894]LogInit: FAudioDevice initialized.
+[2018.07.09-09.08.24:267][894]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-09.08.24:272][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-10.08.24
+[2018.07.09-09.08.24:272][894]LogWorld: Bringing up level for play took: 0.004250
+[2018.07.09-09.08.24:277][894]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.244
+[2018.07.09-09.08.24:278][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.08.30:533][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.08.30:552][251]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-09.08.30:637][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.11.02:751][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.09-09.11.02:806][775]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002924c802980, Size=128
+[2018.07.09-09.11.02:806][775]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292407c8f80, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_239:ExecuteUbergraph_Tash_Map
+[2018.07.09-09.11.02:811][775]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292407c9080, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-09.11.03:205][775]LogSavePackage: Save=430.83ms
+[2018.07.09-09.11.03:205][775]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_Map_Auto445309E224F26A43846990FADA5B38664.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto4.umap'
+[2018.07.09-09.11.03:206][775]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto4.umap
+[2018.07.09-09.11.03:209][775]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tash_Map' took 0.482
+[2018.07.09-09.11.03:209][775]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.482
+[2018.07.09-09.17.43:657][145]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-09.17.43:676][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.17.43:676][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-09.17.43:676][145]PIE: New page: PIE session: Tash_Map (9 Jul 2018 11:17:43)
+[2018.07.09-09.17.43:676][145]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-09.17.43:699][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023773s)
+[2018.07.09-09.17.43:700][145]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-09.17.43:701][145]LogPlayLevel: PIE: World Init took: (0.001697s)
+[2018.07.09-09.17.43:701][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.025739s)
+[2018.07.09-09.17.43:727][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292407c8f80, Size=128
+[2018.07.09-09.17.43:730][145]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-09.17.43:742][145]LogInit: FAudioDevice initialized.
+[2018.07.09-09.17.43:805][145]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-09.17.43:811][145]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-10.17.43
+[2018.07.09-09.17.43:812][145]LogWorld: Bringing up level for play took: 0.005133
+[2018.07.09-09.17.43:825][145]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map -0.208
+[2018.07.09-09.17.43:825][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.18.06:785][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.18.06:804][494]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-09.18.06:888][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.21.19:850][244]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.09-09.21.20:186][244]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.09-09.21.20:191][244]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.07.09-09.21.20:462][244]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.07.09-09.21.20:869][244]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.07.09-09.21.20:927][244]LogStaticMesh: Allocated 415x64x64 distance field atlas = 3.2Mb, with 42 objects containing 2.4Mb backing data
+[2018.07.09-09.21.20:927][244]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.09-09.22.07:004][949]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292239ece88, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.17:296][335]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292239ece88, Size=4
+[2018.07.09-09.22.17:296][335]LogUObjectGlobals: Created PersistentFrame Addr=0x000002923e2a2f98, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_27:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.17:311][335]LogUObjectGlobals: Created PersistentFrame Addr=0x000002923e2a2168, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.25:191][712]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002923e2a2168, Size=4
+[2018.07.09-09.22.25:191][712]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922377ff60, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_28:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.25:207][712]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922377ce30, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.28:145][874]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.09-09.22.28:174][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922377ce30, Size=4
+[2018.07.09-09.22.28:174][874]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029273ab9b80, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_29:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.28:204][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000291e8849300, Size=192
+[2018.07.09-09.22.28:204][874]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029234fb3700, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_30:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.28:210][874]LogBlueprint: Warning: [Compiler Player_AnimBP] Transform (Modify) Bone  - You must pick a bone to modify
+[2018.07.09-09.22.28:210][874]LogBlueprint: Warning: [Compiler Player_AnimBP] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2018.07.09-09.22.28:223][874]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029292ee7700, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.28:351][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922377ff60, Size=4
+[2018.07.09-09.22.28:352][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002923e2a2f98, Size=4
+[2018.07.09-09.22.28:352][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029273ab9b80, Size=4
+[2018.07.09-09.22.28:369][874]LogBlueprint: Warning: [Compiler Player_AnimBP] [4681.39] Compile of Player_AnimBP successful, but with 2 Warning(s) [in 223 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.09-09.22.44:059][369]LogUObjectGlobals: Created PersistentFrame Addr=0x000002923e2a15f8, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.48:139][589]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002923e2a15f8, Size=4
+[2018.07.09-09.22.48:139][589]LogUObjectGlobals: Created PersistentFrame Addr=0x000002926c75a1c0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_32:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.48:157][589]LogUObjectGlobals: Created PersistentFrame Addr=0x000002926c75b690, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.59:821][998]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.09-09.22.59:851][998]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002926c75b690, Size=4
+[2018.07.09-09.22.59:851][998]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029216331898, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_33:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.59:881][998]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029292ee7700, Size=192
+[2018.07.09-09.22.59:881][998]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292927d9d80, Size=192, Player_AnimBP_C_123 Function /Engine/Transient.REINST_Player_AnimBP_C_34:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.22.59:887][998]LogBlueprint: Warning: [Compiler Player_AnimBP] Transform (Modify) Bone  - You must pick a bone to modify
+[2018.07.09-09.22.59:887][998]LogBlueprint: Warning: [Compiler Player_AnimBP] Transform (Modify) Bone  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2018.07.09-09.22.59:900][998]LogUObjectGlobals: Created PersistentFrame Addr=0x000002920985d540, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.23.00:032][998]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029216331898, Size=4
+[2018.07.09-09.23.00:032][998]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029234fb3700, Size=192
+[2018.07.09-09.23.00:032][998]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002926c75a1c0, Size=4
+[2018.07.09-09.23.00:054][998]LogBlueprint: Warning: [Compiler Player_AnimBP] [4713.07] Compile of Player_AnimBP successful, but with 2 Warning(s) [in 231 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.09-09.23.42:183][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-09.23.46:602][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-09.23.46:697][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.09-09.23.46:730][874]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.07.09-09.23.47:025][875]LogRenderer: Reallocating scene render targets to support 1292x888 Format 10 NumSamples 1 (Frame:1).
+[2018.07.09-09.24.19:438][465]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.09-09.24.19:496][465]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002920985d540, Size=192
+[2018.07.09-09.24.19:496][465]LogUObjectGlobals: Created PersistentFrame Addr=0x000002924df65480, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_36:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.24.19:503][465]LogBlueprint: Warning: [Compiler Player_AnimBP] Transform (Modify) Bone - Bone: head  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2018.07.09-09.24.19:516][465]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029294fa62c0, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.24.19:641][465]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292927d9d80, Size=192
+[2018.07.09-09.24.19:657][465]LogBlueprint: Warning: [Compiler Player_AnimBP] [4792.68] Compile of Player_AnimBP successful, but with 1 Warning(s) [in 219 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.09-09.25.11:915][ 67]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002924df65480, Size=192
+[2018.07.09-09.25.11:918][ 67]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tash_Map' took 0.028
+[2018.07.09-09.25.11:921][ 67]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Player/Blueprints/Light/Player_AnimBP] ([1] browsable assets)...
+[2018.07.09-09.25.11:940][ 67]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP]
+[2018.07.09-09.25.11:940][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/Blueprints/Light/Player_AnimBP]
+[2018.07.09-09.25.12:105][ 67]LogSavePackage: Save=144.34ms
+[2018.07.09-09.25.12:105][ 67]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Player_AnimBP_Auto55DEF64D6450C17292E365EAE9A2A899C.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/Player/Blueprints/Light/Player_AnimBP_Auto5.uasset'
+[2018.07.09-09.25.12:106][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/Player/Blueprints/Light/Player_AnimBP_Auto5.uasset
+[2018.07.09-09.25.12:106][ 67]LogFileHelpers: Auto-saving content packages took 0.187
+[2018.07.09-09.25.23:059][260]LogUObjectGlobals: Created PersistentFrame Addr=0x000002922377de90, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.25.25:937][413]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922377de90, Size=4
+[2018.07.09-09.25.25:937][413]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029216331a00, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_38:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.25.25:954][413]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029216331690, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.25.27:178][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029216331690, Size=4
+[2018.07.09-09.25.27:178][476]LogUObjectGlobals: Created PersistentFrame Addr=0x000002920d81da48, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_39:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.25.27:196][476]LogUObjectGlobals: Created PersistentFrame Addr=0x000002920d81d9e0, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.25.27:805][506]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002920d81d9e0, Size=4
+[2018.07.09-09.25.27:806][506]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029256877810, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_40:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.25.27:824][506]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029256877258, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.25.30:894][670]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.09-09.25.30:923][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029256877258, Size=4
+[2018.07.09-09.25.30:923][670]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292239eee40, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_41:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.25.30:953][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029294fa62c0, Size=192
+[2018.07.09-09.25.30:953][670]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029294effac0, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_42:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.25.30:959][670]LogBlueprint: Warning: [Compiler Player_AnimBP] Transform (Modify) Bone - Bone: head  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2018.07.09-09.25.30:972][670]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029292ee6bc0, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.25.31:108][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002920d81da48, Size=4
+[2018.07.09-09.25.31:109][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029256877810, Size=4
+[2018.07.09-09.25.31:109][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029216331a00, Size=4
+[2018.07.09-09.25.31:109][670]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292239eee40, Size=4
+[2018.07.09-09.25.31:128][670]LogBlueprint: Warning: [Compiler Player_AnimBP] [4864.15] Compile of Player_AnimBP successful, but with 1 Warning(s) [in 232 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.09-09.31.01:939][ 77]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.09-09.31.01:998][ 77]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029292ee6bc0, Size=192
+[2018.07.09-09.31.01:998][ 77]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029259952980, Size=192, Player_AnimBP_C_136 Function /Engine/Transient.REINST_Player_AnimBP_C_44:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.31.02:005][ 77]LogBlueprint: Warning: [Compiler Player_AnimBP] Transform (Modify) Bone - Bone: head  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2018.07.09-09.31.02:020][ 77]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029294effb80, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.31.02:160][ 77]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029294effac0, Size=192
+[2018.07.09-09.31.02:177][ 77]LogBlueprint: Warning: [Compiler Player_AnimBP] [5195.20] Compile of Player_AnimBP successful, but with 1 Warning(s) [in 237 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.09-09.31.03:151][128]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.09-09.31.03:208][128]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029294effb80, Size=192
+[2018.07.09-09.31.03:208][128]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029294fa3d00, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_46:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.31.03:215][128]LogBlueprint: Warning: [Compiler Player_AnimBP] Transform (Modify) Bone - Bone: head  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2018.07.09-09.31.03:228][128]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292952947c0, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.31.03:353][128]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029259952980, Size=192
+[2018.07.09-09.31.03:370][128]LogBlueprint: Warning: [Compiler Player_AnimBP] [5196.39] Compile of Player_AnimBP successful, but with 1 Warning(s) [in 219 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.09-09.31.41:356][119]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.09-09.31.41:414][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292952947c0, Size=192
+[2018.07.09-09.31.41:414][119]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292927d8700, Size=192, Player_AnimBP_C_145 Function /Engine/Transient.REINST_Player_AnimBP_C_48:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.31.41:420][119]LogBlueprint: Warning: [Compiler Player_AnimBP] Transform (Modify) Bone - Bone: head  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2018.07.09-09.31.41:435][119]LogUObjectGlobals: Created PersistentFrame Addr=0x000002924df66bc0, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.31.41:567][119]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029294fa3d00, Size=192
+[2018.07.09-09.31.41:583][119]LogBlueprint: Warning: [Compiler Player_AnimBP] [5234.60] Compile of Player_AnimBP successful, but with 1 Warning(s) [in 227 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.09-09.32.17:747][150]LogUObjectGlobals: Created PersistentFrame Addr=0x00000291f0f1aad0, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.32.20:564][303]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.09-09.32.20:593][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000291f0f1aad0, Size=4
+[2018.07.09-09.32.20:593][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002920d81feb8, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_50:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.32.20:622][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002924df66bc0, Size=192
+[2018.07.09-09.32.20:622][303]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029294d91540, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_51:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.32.20:628][303]LogBlueprint: Warning: [Compiler Player_AnimBP] Transform (Modify) Bone - Bone: head  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2018.07.09-09.32.20:641][303]LogUObjectGlobals: Created PersistentFrame Addr=0x000002919d3268c0, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.32.20:769][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292927d8700, Size=192
+[2018.07.09-09.32.20:769][303]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002920d81feb8, Size=4
+[2018.07.09-09.32.20:787][303]LogBlueprint: Warning: [Compiler Player_AnimBP] [5273.81] Compile of Player_AnimBP successful, but with 1 Warning(s) [in 223 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.09-09.32.42:641][771]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.09-09.32.42:698][771]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002919d3268c0, Size=192
+[2018.07.09-09.32.42:698][771]LogUObjectGlobals: Created PersistentFrame Addr=0x00000292941a5e40, Size=192, Player_AnimBP_C_154 Function /Engine/Transient.REINST_Player_AnimBP_C_53:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.32.42:716][771]LogUObjectGlobals: Created PersistentFrame Addr=0x00000291f06171c0, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.09-09.32.42:844][771]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029294d91540, Size=192
+[2018.07.09-09.32.48:841][ 83]LogSavePackage: Save=131.21ms
+[2018.07.09-09.32.48:841][ 83]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Player_AnimBP9166637D4E147EB38C7386AD32D63CAA.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset'
+[2018.07.09-09.32.48:844][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset
+[2018.07.09-09.33.42:396][332]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.09-09.33.42:414][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.33.42:414][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.09-09.33.42:415][332]PIE: New page: PIE session: Tash_Map (9 Jul 2018 11:33:42)
+[2018.07.09-09.33.42:415][332]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.07.09-09.33.42:439][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024224s)
+[2018.07.09-09.33.42:440][332]LogAIModule: Creating AISystem for world Tash_Map
+[2018.07.09-09.33.42:440][332]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2018.07.09-09.33.42:440][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.025683s)
+[2018.07.09-09.33.42:466][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292941a5e40, Size=192
+[2018.07.09-09.33.42:472][332]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.09-09.33.42:484][332]LogInit: FAudioDevice initialized.
+[2018.07.09-09.33.42:546][332]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.09-09.33.42:556][332]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.07.09-10.33.42
+[2018.07.09-09.33.42:557][332]LogWorld: Bringing up level for play took: 0.008058
+[2018.07.09-09.33.42:567][332]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.534
+[2018.07.09-09.33.42:567][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.33.47:190][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.33.47:209][540]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.09-09.33.47:309][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.07.09-09.34.06:274][214]LogUObjectGlobals: Created PersistentFrame Addr=0x000002926f3cbbd0, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.34.09:892][416]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002926f3cbbd0, Size=4
+[2018.07.09-09.34.09:892][416]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029299e0e600, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_271:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.34.09:901][416]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029299e0efa8, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.34.14:165][665]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029299e0efa8, Size=4
+[2018.07.09-09.34.14:165][665]LogUObjectGlobals: Created PersistentFrame Addr=0x000002926f3c8240, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_273:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.34.14:174][665]LogUObjectGlobals: Created PersistentFrame Addr=0x000002926f3c8c98, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.34.44:605][442]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.09-09.34.44:655][442]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002926f3c8c98, Size=4
+[2018.07.09-09.34.44:655][442]LogUObjectGlobals: Created PersistentFrame Addr=0x00000291f0f1a7f8, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_276:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.34.44:712][442]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292448b6400, Size=1056
+[2018.07.09-09.34.44:712][442]LogUObjectGlobals: Created PersistentFrame Addr=0x000002928c9f6400, Size=1056, BP_Light_V2_C_1036 Function /Engine/Transient.REINST_BP_Light_V2_C_280:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.34.44:729][442]LogUObjectGlobals: Created PersistentFrame Addr=0x000002929bbe2400, Size=1056, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.09-09.34.45:173][442]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000291f0f1a7f8, Size=4
+[2018.07.09-09.34.45:953][464]LogSavePackage: Save=146.31ms
+[2018.07.09-09.34.45:953][464]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V29557B9F34B484162229D18A95D2C3568.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.09-09.34.45:955][464]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
