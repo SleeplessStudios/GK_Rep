@@ -1351,3 +1351,67 @@ LogInit: Object subsystem initialized
 [2018.07.09-09.36.10:201][ 79]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/NCP06_SQ.uasset (75%)
 [2018.07.09-09.36.10:211][ 79]SourceControl: Commited [Light f1f16ee] Updated so far cunts.
 [2018.07.09-09.36.15:754][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-09.37.26:995][426]LogSlate: Window 'Message Log' being destroyed
+[2018.07.09-09.37.27:000][426]LogSlate: Window 'Message Log' being destroyed
+[2018.07.09-09.37.29:189][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-09.37.29:278][555]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002921c65c500, Size=128
+[2018.07.09-09.37.31:470][555]LogSlate: Window 'Save Content' being destroyed
+[2018.07.09-09.37.31:486][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-09.37.31:562][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-09.37.31:641][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-09.37.31:699][555]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002921c65c700, Size=128
+[2018.07.09-09.37.31:699][555]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029208d5d680, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_288:ExecuteUbergraph_Tash_Map
+[2018.07.09-09.37.31:703][555]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029208d5ff00, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-09.37.32:099][555]LogSavePackage: Save=430.85ms
+[2018.07.09-09.37.32:099][555]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_Map1DA24FB648230B22F96260826382B1E2.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap'
+[2018.07.09-09.37.32:101][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap
+[2018.07.09-09.37.32:340][555]LogFileHelpers: Saving map 'Tash_Map' took 0.772
+[2018.07.09-09.37.45:495][280]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.09-09.37.46:901][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-09.37.47:576][400]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.09-09.37.53:013][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-09.37.53:570][749]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.09-09.37.55:502][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-09.37.56:352][911]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.09-09.37.58:055][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-09.37.58:646][ 44]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.09-09.38.00:066][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-09.38.00:214][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-09.38.00:224][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-09.38.00:253][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029216332590, Size=4
+[2018.07.09-09.38.00:253][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292011550e0, Size=4
+[2018.07.09-09.38.00:253][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002924adedd00, Size=856
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002928c9f6400, Size=1056
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922eaa6080, Size=856
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002919d531d40, Size=4
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029225cc2200, Size=752
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002919dc598a0, Size=4
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922d8cd280, Size=856
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029204ca8fa8, Size=4
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002918c20c490, Size=4
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002923208dd00, Size=1152
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000292244c35f8, Size=4
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922cd96b00, Size=856
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002921e779280, Size=856
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029238925600, Size=1312
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002922d8ce400, Size=856
+[2018.07.09-09.38.00:254][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029299e0e600, Size=4
+[2018.07.09-09.38.00:255][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002926f3c8240, Size=4
+[2018.07.09-09.38.00:255][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029208d5d680, Size=128
+[2018.07.09-09.38.00:311][130]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029208d5ff00, Size=128
+[2018.07.09-09.38.00:311][130]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029254fa5100, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_292:ExecuteUbergraph_Tash_Map
+[2018.07.09-09.38.00:315][130]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029254fa6d80, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-09.38.00:726][130]LogSavePackage: Save=449.19ms
+[2018.07.09-09.38.00:726][130]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_MapA506136D44161A4C12E989B6B9C462DD.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap'
+[2018.07.09-09.38.00:729][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap
+[2018.07.09-09.38.07:254][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-09.38.09:008][366]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.09-09.38.09:102][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-09.38.19:054][366]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.09-09.38.19:067][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-09.38.19:156][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.09-09.38.19:399][366]LogSourceControl: commit successful: [Light 1c8fd7f] Added objs to Tash Map
+[2018.07.09-09.38.19:459][366]SourceControl: [Light 1c8fd7f] Added objs to Tash Map
+[2018.07.09-09.38.19:459][366]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.09-09.38.19:459][366]SourceControl:  create mode 100644 Content/Maps/Tash_Map.umap
+[2018.07.09-09.38.19:469][366]SourceControl: Commited [Light 1c8fd7f] Added objs to Tash Map.
