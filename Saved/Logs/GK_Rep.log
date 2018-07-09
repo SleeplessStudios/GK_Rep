@@ -398,3 +398,418 @@ LogInit: Object subsystem initialized
 [2018.07.09-08.06.23:188][184]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84.84ms to complete.
 [2018.07.09-08.06.23:188][184]LogFileHelpers: Loading map 'Tash_Map' took 0.296
 [2018.07.09-08.06.25:683][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-08.08.06:816][511]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.09-08.08.06:970][511]EditorErrors: Warning: No assets to check in!
+[2018.07.09-08.09.11:071][992]LogActorFactory: Actor Factory created Cube
+[2018.07.09-08.09.11:721][ 18]LogActorFactory: Actor Factory created Cube
+[2018.07.09-08.09.13:748][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-08.09.19:199][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-08.09.19:282][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029352ad6a00, Size=128
+[2018.07.09-08.09.19:282][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000002932791d580, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_9:ExecuteUbergraph_Tash_Map
+[2018.07.09-08.09.19:287][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000002932791d680, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-08.09.19:688][364]LogSavePackage: Save=441.44ms
+[2018.07.09-08.09.19:688][364]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Tash_Map7CF0B2BA4211C41FB3F3A395C6EC1D0A.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap'
+[2018.07.09-08.09.19:695][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap
+[2018.07.09-08.09.19:716][364]LogFileHelpers: Saving map 'Tash_Map' took 0.603
+[2018.07.09-08.09.30:520][453]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.09-08.09.31:126][453]LogSourceControl: commit successful: [master 736b10d] tash sucks at coding
+[2018.07.09-08.09.31:225][453]SourceControl: [master 736b10d] tash sucks at coding
+[2018.07.09-08.09.31:225][453]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.09-08.09.31:237][453]SourceControl: Commited [master 736b10d] tash sucks at coding.
+[2018.07.09-08.27.34:648][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-08.27.36:417][225]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.09-08.27.37:686][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.09-08.27.43:866][507]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293511fefe0, Size=4, Default__SKEL_Matt_Map_C Function /Game/Maps/Matt_Map.SKEL_Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.09-08.27.43:867][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293511fefe0, Size=4
+[2018.07.09-08.27.43:867][507]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293511fefe0, Size=4, Default__SKEL_Matt_Map_C Function /Engine/Transient.REINST_SKEL_Matt_Map_C_12:ExecuteUbergraph_Matt_Map
+[2018.07.09-08.27.43:871][507]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293511fc1e8, Size=4, Default__SKEL_Matt_Map_C Function /Game/Maps/Matt_Map.SKEL_Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.09-08.27.43:877][507]LogUObjectGlobals: Created PersistentFrame Addr=0x000002935287e800, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.09-08.27.43:896][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293511fc1e8, Size=4
+[2018.07.09-08.27.43:896][507]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293511fc1e8, Size=4, Default__SKEL_Matt_Map_C Function /Engine/Transient.REINST_SKEL_Matt_Map_C_15:ExecuteUbergraph_Matt_Map
+[2018.07.09-08.27.43:916][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002935287e800, Size=128
+[2018.07.09-08.27.43:916][507]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029356611800, Size=128, Default__Matt_Map_C Function /Engine/Transient.REINST_Matt_Map_C_17:ExecuteUbergraph_Matt_Map
+[2018.07.09-08.27.43:923][507]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029356611880, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.09-08.27.43:942][507]LogAIModule: Creating AISystem for world Matt_Map
+[2018.07.09-08.27.44:214][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Matt_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-08.27.44:233][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293511fefe0, Size=4
+[2018.07.09-08.27.44:234][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002932791d580, Size=128
+[2018.07.09-08.27.44:234][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293511fc1e8, Size=4
+[2018.07.09-08.27.44:234][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029356611800, Size=128
+[2018.07.09-08.27.44:273][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029356611880, Size=128
+[2018.07.09-08.27.44:273][507]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029356611880, Size=128, Default__Matt_Map_C Function /Engine/Transient.REINST_Matt_Map_C_21:ExecuteUbergraph_Matt_Map
+[2018.07.09-08.27.44:280][507]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029356611d00, Size=128, Default__Matt_Map_C Function /Game/Maps/Matt_Map.Matt_Map_C:ExecuteUbergraph_Matt_Map
+[2018.07.09-08.27.44:704][507]LogSavePackage: Save=467.71ms
+[2018.07.09-08.27.44:704][507]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Matt_Map157E1D524CEF6526A1D0089881AD0556.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap'
+[2018.07.09-08.27.44:710][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Matt_Map.umap
+[2018.07.09-08.27.45:057][507]LogFileHelpers: Saving map 'Matt_Map' took 0.938
+[2018.07.09-08.27.47:458][597]LogUObjectGlobals: Created PersistentFrame Addr=0x000002935287ec00, Size=128, Default__Merged_Map_C Function /Game/Maps/Merged_Map.Merged_Map_C:ExecuteUbergraph_Merged_Map
+[2018.07.09-08.27.47:465][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002935287ec00, Size=128
+[2018.07.09-08.27.47:465][597]LogUObjectGlobals: Created PersistentFrame Addr=0x000002935287ec00, Size=128, Default__Merged_Map_C Function /Engine/Transient.REINST_Merged_Map_C_23:ExecuteUbergraph_Merged_Map
+[2018.07.09-08.27.47:470][597]LogUObjectGlobals: Created PersistentFrame Addr=0x000002935287e180, Size=128, Default__Merged_Map_C Function /Game/Maps/Merged_Map.Merged_Map_C:ExecuteUbergraph_Merged_Map
+[2018.07.09-08.27.47:564][597]LogAIModule: Creating AISystem for world Merged_Map
+[2018.07.09-08.27.58:262][ 44]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002935287e180, Size=128
+[2018.07.09-08.27.58:262][ 44]LogUObjectGlobals: Created PersistentFrame Addr=0x000002931bfee100, Size=128, Default__FinalLevel_Map_C Function /Engine/Transient.REINST_FinalLevel_Map_C_27:ExecuteUbergraph_Merged_Map
+[2018.07.09-08.27.58:269][ 44]LogUObjectGlobals: Created PersistentFrame Addr=0x000002931bfeed80, Size=128, Default__FinalLevel_Map_C Function /Game/Maps/FinalLevel_Map.FinalLevel_Map_C:ExecuteUbergraph_FinalLevel_Map
+[2018.07.09-08.27.58:341][ 44]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002935287ec00, Size=128
+[2018.07.09-08.27.58:341][ 44]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029356611880, Size=128
+[2018.07.09-08.27.58:342][ 44]LogMetaData: Removing '/Game/Maps/FinalLevel_Map.FinalLevel_Map_C' ref from Metadata '/Game/Maps/Merged_Map.PackageMetaData'
+[2018.07.09-08.27.58:342][ 44]LogMetaData: Removing '/Game/Maps/FinalLevel_Map.SKEL_FinalLevel_Map_C' ref from Metadata '/Game/Maps/Merged_Map.PackageMetaData'
+[2018.07.09-08.27.58:465][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FinalLevel_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/FinalLevel_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-08.27.58:537][ 44]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002931bfeed80, Size=128
+[2018.07.09-08.27.58:537][ 44]LogUObjectGlobals: Created PersistentFrame Addr=0x000002931bfeed80, Size=128, FinalLevel_Map_C_0 Function /Engine/Transient.REINST_FinalLevel_Map_C_31:ExecuteUbergraph_FinalLevel_Map
+[2018.07.09-08.27.58:544][ 44]LogUObjectGlobals: Created PersistentFrame Addr=0x000002931bfed300, Size=128, Default__FinalLevel_Map_C Function /Game/Maps/FinalLevel_Map.FinalLevel_Map_C:ExecuteUbergraph_FinalLevel_Map
+[2018.07.09-08.27.58:974][ 44]LogSavePackage: Save=473.82ms
+[2018.07.09-08.27.58:974][ 44]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/FinalLevel_Map008FC0C34A0BCC875CF936863489F119.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/FinalLevel_Map.umap'
+[2018.07.09-08.27.58:983][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/FinalLevel_Map.umap
+[2018.07.09-08.27.59:322][ 44]LogFileHelpers: Saving map 'FinalLevel_Map' took 0.946
+[2018.07.09-08.27.59:333][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Merged_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Merged_Map.umap" SILENT=true
+[2018.07.09-08.27.59:368][ 44]LogSavePackage: Save=3.31ms
+[2018.07.09-08.27.59:368][ 44]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Merged_Map07F434124CA7A9321792A8AE9DAF4F10.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Merged_Map.umap'
+[2018.07.09-08.27.59:375][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Merged_Map.umap
+[2018.07.09-08.28.09:571][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029352a2e6b0, Size=4, Default__SKEL_James_Map_C Function /Game/Maps/James_Map.SKEL_James_Map_C:ExecuteUbergraph_James_Map
+[2018.07.09-08.28.09:572][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029352a2e6b0, Size=4
+[2018.07.09-08.28.09:572][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029352a2e6b0, Size=4, Default__SKEL_James_Map_C Function /Engine/Transient.REINST_SKEL_James_Map_C_34:ExecuteUbergraph_James_Map
+[2018.07.09-08.28.09:576][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029352a2c2c0, Size=4, Default__SKEL_James_Map_C Function /Game/Maps/James_Map.SKEL_James_Map_C:ExecuteUbergraph_James_Map
+[2018.07.09-08.28.09:582][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029356610780, Size=128, Default__James_Map_C Function /Game/Maps/James_Map.James_Map_C:ExecuteUbergraph_James_Map
+[2018.07.09-08.28.09:602][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029352a2c2c0, Size=4
+[2018.07.09-08.28.09:602][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029352a2c2c0, Size=4, Default__SKEL_James_Map_C Function /Engine/Transient.REINST_SKEL_James_Map_C_37:ExecuteUbergraph_James_Map
+[2018.07.09-08.28.09:620][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029356610780, Size=128
+[2018.07.09-08.28.09:620][437]LogUObjectGlobals: Created PersistentFrame Addr=0x000002935287ca00, Size=128, Default__James_Map_C Function /Engine/Transient.REINST_James_Map_C_39:ExecuteUbergraph_James_Map
+[2018.07.09-08.28.09:626][437]LogUObjectGlobals: Created PersistentFrame Addr=0x000002935287e400, Size=128, Default__James_Map_C Function /Game/Maps/James_Map.James_Map_C:ExecuteUbergraph_James_Map
+[2018.07.09-08.28.09:646][437]LogAIModule: Creating AISystem for world James_Map
+[2018.07.09-08.28.09:917][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/James_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/James_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-08.28.09:938][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002931bfeed80, Size=128
+[2018.07.09-08.28.09:939][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029352a2e6b0, Size=4
+[2018.07.09-08.28.09:939][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029352a2c2c0, Size=4
+[2018.07.09-08.28.09:939][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002935287ca00, Size=128
+[2018.07.09-08.28.09:980][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002935287e400, Size=128
+[2018.07.09-08.28.09:980][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029356610500, Size=128, Default__James_Map_C Function /Engine/Transient.REINST_James_Map_C_43:ExecuteUbergraph_James_Map
+[2018.07.09-08.28.09:988][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029356610800, Size=128, Default__James_Map_C Function /Game/Maps/James_Map.James_Map_C:ExecuteUbergraph_James_Map
+[2018.07.09-08.28.10:423][437]LogSavePackage: Save=479.66ms
+[2018.07.09-08.28.10:423][437]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/James_Map2F6965C14C66ADCD48A16BAA72495FD0.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/James_Map.umap'
+[2018.07.09-08.28.10:428][437]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/James_Map.umap
+[2018.07.09-08.28.10:785][437]LogFileHelpers: Saving map 'James_Map' took 0.958
+[2018.07.09-08.28.17:015][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029352a2df70, Size=4, Default__SKEL_Luke_Map_C Function /Game/Maps/Luke_Map.SKEL_Luke_Map_C:ExecuteUbergraph_Luke_Map
+[2018.07.09-08.28.17:016][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029352a2df70, Size=4
+[2018.07.09-08.28.17:016][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029352a2df70, Size=4, Default__SKEL_Luke_Map_C Function /Engine/Transient.REINST_SKEL_Luke_Map_C_46:ExecuteUbergraph_Luke_Map
+[2018.07.09-08.28.17:020][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029352a2ced8, Size=4, Default__SKEL_Luke_Map_C Function /Game/Maps/Luke_Map.SKEL_Luke_Map_C:ExecuteUbergraph_Luke_Map
+[2018.07.09-08.28.17:026][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029356612900, Size=128, Default__Luke_Map_C Function /Game/Maps/Luke_Map.Luke_Map_C:ExecuteUbergraph_Luke_Map
+[2018.07.09-08.28.17:045][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029352a2ced8, Size=4
+[2018.07.09-08.28.17:045][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029352a2ced8, Size=4, Default__SKEL_Luke_Map_C Function /Engine/Transient.REINST_SKEL_Luke_Map_C_49:ExecuteUbergraph_Luke_Map
+[2018.07.09-08.28.17:064][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029356612900, Size=128
+[2018.07.09-08.28.17:064][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029356612900, Size=128, Default__Luke_Map_C Function /Engine/Transient.REINST_Luke_Map_C_51:ExecuteUbergraph_Luke_Map
+[2018.07.09-08.28.17:071][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029356612200, Size=128, Default__Luke_Map_C Function /Game/Maps/Luke_Map.Luke_Map_C:ExecuteUbergraph_Luke_Map
+[2018.07.09-08.28.17:091][655]LogAIModule: Creating AISystem for world Luke_Map
+[2018.07.09-08.28.17:358][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Luke_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Luke_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-08.28.17:382][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029356610500, Size=128
+[2018.07.09-08.28.17:382][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029352a2df70, Size=4
+[2018.07.09-08.28.17:382][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029352a2ced8, Size=4
+[2018.07.09-08.28.17:382][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029356612900, Size=128
+[2018.07.09-08.28.17:425][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029356612200, Size=128
+[2018.07.09-08.28.17:425][655]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293596b3f80, Size=128, Default__Luke_Map_C Function /Engine/Transient.REINST_Luke_Map_C_55:ExecuteUbergraph_Luke_Map
+[2018.07.09-08.28.17:433][655]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293596b3e00, Size=128, Default__Luke_Map_C Function /Game/Maps/Luke_Map.Luke_Map_C:ExecuteUbergraph_Luke_Map
+[2018.07.09-08.28.17:867][655]LogSavePackage: Save=481.06ms
+[2018.07.09-08.28.17:867][655]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Luke_MapC4A57E264F01FB67BF6A6F996921F8A4.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Luke_Map.umap'
+[2018.07.09-08.28.17:873][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Luke_Map.umap
+[2018.07.09-08.28.18:196][655]LogFileHelpers: Saving map 'Luke_Map' took 0.931
+[2018.07.09-08.28.33:076][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293511fdb00, Size=4, Default__SKEL_Omar_Map_C Function /Game/Maps/Omar_Map.SKEL_Omar_Map_C:ExecuteUbergraph_Omar_Map
+[2018.07.09-08.28.33:076][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293511fdb00, Size=4
+[2018.07.09-08.28.33:076][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293511fdb00, Size=4, Default__SKEL_Omar_Map_C Function /Engine/Transient.REINST_SKEL_Omar_Map_C_58:ExecuteUbergraph_Omar_Map
+[2018.07.09-08.28.33:080][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293511fd8e8, Size=4, Default__SKEL_Omar_Map_C Function /Game/Maps/Omar_Map.SKEL_Omar_Map_C:ExecuteUbergraph_Omar_Map
+[2018.07.09-08.28.33:087][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293596b3800, Size=128, Default__Omar_Map_C Function /Game/Maps/Omar_Map.Omar_Map_C:ExecuteUbergraph_Omar_Map
+[2018.07.09-08.28.33:107][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293511fd8e8, Size=4
+[2018.07.09-08.28.33:107][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293511fd8e8, Size=4, Default__SKEL_Omar_Map_C Function /Engine/Transient.REINST_SKEL_Omar_Map_C_61:ExecuteUbergraph_Omar_Map
+[2018.07.09-08.28.33:125][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293596b3800, Size=128
+[2018.07.09-08.28.33:125][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293596b3800, Size=128, Default__Omar_Map_C Function /Engine/Transient.REINST_Omar_Map_C_63:ExecuteUbergraph_Omar_Map
+[2018.07.09-08.28.33:132][249]LogUObjectGlobals: Created PersistentFrame Addr=0x00000293596b1000, Size=128, Default__Omar_Map_C Function /Game/Maps/Omar_Map.Omar_Map_C:ExecuteUbergraph_Omar_Map
+[2018.07.09-08.28.33:152][249]LogAIModule: Creating AISystem for world Omar_Map
+[2018.07.09-08.28.33:415][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Omar_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Omar_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-08.28.33:438][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293596b3f80, Size=128
+[2018.07.09-08.28.33:439][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293511fdb00, Size=4
+[2018.07.09-08.28.33:439][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293511fd8e8, Size=4
+[2018.07.09-08.28.33:439][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293596b3800, Size=128
+[2018.07.09-08.28.33:479][249]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000293596b1000, Size=128
+[2018.07.09-08.28.33:479][249]LogUObjectGlobals: Created PersistentFrame Addr=0x000002931bfec780, Size=128, Default__Omar_Map_C Function /Engine/Transient.REINST_Omar_Map_C_67:ExecuteUbergraph_Omar_Map
+[2018.07.09-08.28.33:486][249]LogUObjectGlobals: Created PersistentFrame Addr=0x000002931bfec880, Size=128, Default__Omar_Map_C Function /Game/Maps/Omar_Map.Omar_Map_C:ExecuteUbergraph_Omar_Map
+[2018.07.09-08.28.33:910][249]LogSavePackage: Save=466.81ms
+[2018.07.09-08.28.33:910][249]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Omar_Map876AEF8E4E40B2E4DAEE1ABE164311F2.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Omar_Map.umap'
+[2018.07.09-08.28.33:916][249]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Omar_Map.umap
+[2018.07.09-08.28.34:240][249]LogFileHelpers: Saving map 'Omar_Map' took 0.910
+[2018.07.09-08.28.39:372][458]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002931bfec780, Size=128
+[2018.07.09-08.28.46:292][773]MapCheck: New page: Map Check
+[2018.07.09-08.28.46:334][773]LightingResults: New page: Lighting Build - 9 Jul 2018 10:28:46
+[2018.07.09-08.28.46:415][773]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.09-08.28.46:521][773]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.09-08.28.46:546][773]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.09-08.28.47:590][773]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.09-08.28.47:590][773]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21272
+[2018.07.09-08.28.53:696][773]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.09-08.28.53:696][773]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.09-08.28.53:696][773]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.09-08.28.53:696][773]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.09-08.28.53:696][773]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.09-08.28.53:928][773]LogEditorBuildUtils: Build time 0:07
+[2018.07.09-08.28.53:973][774]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2018.07.09-08.28.53:990][774]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2018.07.09-08.28.53:997][774]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.09-08.29.03:187][ 78]Job is a success!
+[2018.07.09-08.29.03:311][ 79]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.07.09-08.29.03:311][ 79]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.09-08.29.03:311][ 79]LogVolumetricLightmapImport:      BrickData 160x5x5 = 0.1Mb
+[2018.07.09-08.29.03:311][ 79]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.09-08.29.03:311][ 79]LogVolumetricLightmapImport:          0: 3.1% covering 100.0% of volume
+[2018.07.09-08.29.03:311][ 79]LogVolumetricLightmapImport:          1: 12.5% covering 6.3% of volume
+[2018.07.09-08.29.03:311][ 79]LogVolumetricLightmapImport:          2: 84.4% covering 0.7% of volume
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2018.07.09-08.29.03:536][ 79]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 64X64)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 64X64)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X64)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 128X32)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X32)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X32)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X32)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 512X32)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 512X32)
+[2018.07.09-08.29.03:537][ 79]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X64)
+[2018.07.09-08.29.03:606][ 79]Lightmass on CC1601T2-LW1669: 4.27 sec total, 287 ms importing, 135 ms setup, 1.21 sec photons, 2.59 sec processing, 0 ms extra exporting [74/74 mappings]. Threads: 18.0 sec total, 11.0 sec processing.
+[2018.07.09-08.29.03:665][ 79]LogStaticLightingSystem: Illumination: 17.2 sec (139 ms encoding lightmaps, 27 ms encoding shadowmaps)
+[2018.07.09-08.29.03:665][ 79]LogStaticLightingSystem: Lightmap texture memory:  0.8 MB (0.8 MB streaming, 0.0 MB non-streaming), 18 textures
+[2018.07.09-08.29.03:665][ 79]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 11 textures
+[2018.07.09-08.29.08:709][ 79]DumpUnbuiltLightIteractions
+[2018.07.09-08.29.08:709][ 79]Lights with unbuilt interactions: 0
+[2018.07.09-08.29.08:709][ 79]
+[2018.07.09-08.29.08:709][ 79]Primitives with unbuilt interactions: 0
+[2018.07.09-08.29.08:752][ 79]LogStaticMesh: Allocated 351x64x64 distance field atlas = 2.7Mb, with 39 objects containing 1.9Mb backing data
+[2018.07.09-08.29.08:820][ 80]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.09-08.29.08:821][ 80]MapCheck: New page: Tash_Map - 9 Jul 2018 10:29:08
+[2018.07.09-08.29.08:822][ 80]MapCheck: Warning: SM_Gate_01_31 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:822][ 80]MapCheck: Warning: SM_Gate_01_31 Static mesh actor SM_Gate_01_31 has NULL StaticMesh property 
+[2018.07.09-08.29.08:822][ 80]MapCheck: Warning: SM_Shrine_01_34 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:822][ 80]MapCheck: Warning: SM_Shrine_01_34 Static mesh actor SM_Shrine_01_34 has NULL StaticMesh property 
+[2018.07.09-08.29.08:822][ 80]MapCheck: Warning: SM_Shrine_2 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Shrine_2 Static mesh actor SM_Shrine_2 has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Shrine_3 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Shrine_3 Static mesh actor SM_Shrine_3 has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Shrine_39 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Shrine_39 Static mesh actor SM_Shrine_39 has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: LP_ENV_BoatHouse_v1_LT_06_06_45 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: LP_ENV_BoatHouse_v1_LT_06_06_45 Static mesh actor LP_ENV_BoatHouse_v1_LT_06_06_45 has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Rock_04_54 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Rock_04_54 Static mesh actor SM_Rock_04_54 has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Rock_5 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Rock_5 Static mesh actor SM_Rock_5 has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Rock_06_61 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:823][ 80]MapCheck: Warning: SM_Rock_06_61 Static mesh actor SM_Rock_06_61 has NULL StaticMesh property 
+[2018.07.09-08.29.08:824][ 80]MapCheck: Warning: SM_Rock_64 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:824][ 80]MapCheck: Warning: SM_Rock_64 Static mesh actor SM_Rock_64 has NULL StaticMesh property 
+[2018.07.09-08.29.08:824][ 80]MapCheck: Warning: SM_Rock_67 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:824][ 80]MapCheck: Warning: SM_Rock_67 Static mesh actor SM_Rock_67 has NULL StaticMesh property 
+[2018.07.09-08.29.08:824][ 80]MapCheck: Warning: SM_Rock_4 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:824][ 80]MapCheck: Warning: SM_Rock_4 Static mesh actor SM_Rock_4 has NULL StaticMesh property 
+[2018.07.09-08.29.08:824][ 80]MapCheck: Warning: SM_Rock_7 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:824][ 80]MapCheck: Warning: SM_Rock_7 Static mesh actor SM_Rock_7 has NULL StaticMesh property 
+[2018.07.09-08.29.08:824][ 80]MapCheck: Warning: SM_Rock_8 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:824][ 80]MapCheck: Warning: SM_Rock_8 Static mesh actor SM_Rock_8 has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_MainStaircase_5 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_MainStaircase_5 Static mesh actor SM_MainStaircase_5 has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_CliffRock_3 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_CliffRock_3 Static mesh actor SM_CliffRock_3 has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_CliffRock_5 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_CliffRock_5 Static mesh actor SM_CliffRock_5 has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_CliffRock_04_8 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_CliffRock_04_8 Static mesh actor SM_CliffRock_04_8 has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_CliffRock_12 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_CliffRock_12 Static mesh actor SM_CliffRock_12 has NULL StaticMesh property 
+[2018.07.09-08.29.08:825][ 80]MapCheck: Warning: SM_CliffRock_01_18 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:826][ 80]MapCheck: Warning: SM_CliffRock_01_18 Static mesh actor SM_CliffRock_01_18 has NULL StaticMesh property 
+[2018.07.09-08.29.08:826][ 80]MapCheck: Warning: SM_CliffRock_42 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:826][ 80]MapCheck: Warning: SM_CliffRock_42 Static mesh actor SM_CliffRock_42 has NULL StaticMesh property 
+[2018.07.09-08.29.08:826][ 80]MapCheck: Warning: SM_CliffRock_11 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:826][ 80]MapCheck: Warning: SM_CliffRock_11 Static mesh actor SM_CliffRock_11 has NULL StaticMesh property 
+[2018.07.09-08.29.08:826][ 80]MapCheck: Warning: SM_CliffRock_15 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:826][ 80]MapCheck: Warning: SM_CliffRock_15 Static mesh actor SM_CliffRock_15 has NULL StaticMesh property 
+[2018.07.09-08.29.08:826][ 80]MapCheck: Warning: SM_Tree_S_01_VER2_5 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:826][ 80]MapCheck: Warning: SM_Tree_S_01_VER2_5 Static mesh actor SM_Tree_S_01_VER2_5 has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_14 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_14 Static mesh actor SM_CliffRock_14 has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_2 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_2 Static mesh actor SM_CliffRock_2 has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: LP_ENV_SpawnRoom_v1_LT_25_06_31 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: LP_ENV_SpawnRoom_v1_LT_25_06_31 Static mesh actor LP_ENV_SpawnRoom_v1_LT_25_06_31 has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_4 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_4 Static mesh actor SM_CliffRock_4 has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_06_37 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_06_37 Static mesh actor SM_CliffRock_06_37 has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_13 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_13 Static mesh actor SM_CliffRock_13 has NULL StaticMesh property 
+[2018.07.09-08.29.08:827][ 80]MapCheck: Warning: SM_CliffRock_62 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: SM_CliffRock_62 Static mesh actor SM_CliffRock_62 has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: SM_CliffRock_16 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: SM_CliffRock_16 Static mesh actor SM_CliffRock_16 has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: SM_CliffRock_69 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: SM_CliffRock_69 Static mesh actor SM_CliffRock_69 has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: SM_CliffRock_19 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: SM_CliffRock_19 Static mesh actor SM_CliffRock_19 has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: SM_CliffRock_83 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: SM_CliffRock_83 Static mesh actor SM_CliffRock_83 has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: path_3 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:828][ 80]MapCheck: Warning: path_3 Static mesh actor path_3 has NULL StaticMesh property 
+[2018.07.09-08.29.08:829][ 80]MapCheck: Warning: SM_CliffRock_176 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:829][ 80]MapCheck: Warning: SM_CliffRock_176 Static mesh actor SM_CliffRock_176 has NULL StaticMesh property 
+[2018.07.09-08.29.08:829][ 80]MapCheck: Warning: SM_CliffRock_177 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:829][ 80]MapCheck: Warning: SM_CliffRock_177 Static mesh actor SM_CliffRock_177 has NULL StaticMesh property 
+[2018.07.09-08.29.08:829][ 80]MapCheck: Warning: SM_CliffRock_32 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:829][ 80]MapCheck: Warning: SM_CliffRock_32 Static mesh actor SM_CliffRock_32 has NULL StaticMesh property 
+[2018.07.09-08.29.08:829][ 80]MapCheck: Warning: SM_CliffRock_9 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:829][ 80]MapCheck: Warning: SM_CliffRock_9 Static mesh actor SM_CliffRock_9 has NULL StaticMesh property 
+[2018.07.09-08.29.08:829][ 80]MapCheck: Warning: SM_CliffRock_40 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:829][ 80]MapCheck: Warning: SM_CliffRock_40 Static mesh actor SM_CliffRock_40 has NULL StaticMesh property 
+[2018.07.09-08.29.08:830][ 80]MapCheck: Warning: Temple_Tutorial_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2018.07.09-08.29.08:831][ 80]MapCheck: Warning: The_Whispering_Statals_Cue_7 Ambient sound actor has NULL Sound Cue property 
+[2018.07.09-08.29.08:831][ 80]MapCheck: Warning: Tidal_10 Ambient sound actor has NULL Sound Cue property 
+[2018.07.09-08.29.08:831][ 80]MapCheck: Warning: Tidal_13 Ambient sound actor has NULL Sound Cue property 
+[2018.07.09-08.29.08:831][ 80]MapCheck: Warning: Drum_hallway_16 Ambient sound actor has NULL Sound Cue property 
+[2018.07.09-08.29.08:831][ 80]MapCheck: Warning: Strings_and_gong_19 Ambient sound actor has NULL Sound Cue property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Strings_and_gong_22 Ambient sound actor has NULL Sound Cue property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Into_the_world_shorter_Cue_25 Ambient sound actor has NULL Sound Cue property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Into_the_unknown_v_2_INTRO_Cue_28 Ambient sound actor has NULL Sound Cue property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Into_the_unknown_v_2_LOOPABLE_Cue_31 Ambient sound actor has NULL Sound Cue property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Arena_Platforms_polySurface16_24 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Arena_Platforms_polySurface16_24 Static mesh actor Arena_Platforms_polySurface16_24 has NULL StaticMesh property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Arena_Platforms_polySurface17_26 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Arena_Platforms_polySurface17_26 Static mesh actor Arena_Platforms_polySurface17_26 has NULL StaticMesh property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Arena_Platforms_polySurface20_28 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Arena_Platforms_polySurface20_28 Static mesh actor Arena_Platforms_polySurface20_28 has NULL StaticMesh property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Arena_Platforms_polySurface22_30 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Arena_Platforms_polySurface22_30 Static mesh actor Arena_Platforms_polySurface22_30 has NULL StaticMesh property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Arena_Platforms_polySurface24_32 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:832][ 80]MapCheck: Warning: Arena_Platforms_polySurface24_32 Static mesh actor Arena_Platforms_polySurface24_32 has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface26_34 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface26_34 Static mesh actor Arena_Platforms_polySurface26_34 has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface28_36 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface28_36 Static mesh actor Arena_Platforms_polySurface28_36 has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface30_38 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface30_38 Static mesh actor Arena_Platforms_polySurface30_38 has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface32_40 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface32_40 Static mesh actor Arena_Platforms_polySurface32_40 has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface33_42 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface33_42 Static mesh actor Arena_Platforms_polySurface33_42 has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface35_44 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface35_44 Static mesh actor Arena_Platforms_polySurface35_44 has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface38_46 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface38_46 Static mesh actor Arena_Platforms_polySurface38_46 has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface40_48 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface40_48 Static mesh actor Arena_Platforms_polySurface40_48 has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface41_50 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:833][ 80]MapCheck: Warning: Arena_Platforms_polySurface41_50 Static mesh actor Arena_Platforms_polySurface41_50 has NULL StaticMesh property 
+[2018.07.09-08.29.08:834][ 80]MapCheck: Warning: Arena_Platforms_polySurface43_52 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:834][ 80]MapCheck: Warning: Arena_Platforms_polySurface43_52 Static mesh actor Arena_Platforms_polySurface43_52 has NULL StaticMesh property 
+[2018.07.09-08.29.08:834][ 80]MapCheck: Warning: Arena_Platforms_polySurface44_54 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:834][ 80]MapCheck: Warning: Arena_Platforms_polySurface44_54 Static mesh actor Arena_Platforms_polySurface44_54 has NULL StaticMesh property 
+[2018.07.09-08.29.08:834][ 80]MapCheck: Warning: Arena_Platforms_polySurface45_56 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:834][ 80]MapCheck: Warning: Arena_Platforms_polySurface45_56 Static mesh actor Arena_Platforms_polySurface45_56 has NULL StaticMesh property 
+[2018.07.09-08.29.08:834][ 80]MapCheck: Warning: Arena_Platforms_polySurface47_58 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:834][ 80]MapCheck: Warning: Arena_Platforms_polySurface47_58 Static mesh actor Arena_Platforms_polySurface47_58 has NULL StaticMesh property 
+[2018.07.09-08.29.08:834][ 80]MapCheck: Warning: Arena_Platforms_polySurface49_60 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: Arena_Platforms_polySurface49_60 Static mesh actor Arena_Platforms_polySurface49_60 has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: Arena_Platforms_polySurface51_62 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: Arena_Platforms_polySurface51_62 Static mesh actor Arena_Platforms_polySurface51_62 has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: Arena_Platforms_polySurface52_64 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: Arena_Platforms_polySurface52_64 Static mesh actor Arena_Platforms_polySurface52_64 has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: Arena_Platforms_Raided_platform_left_66 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: Arena_Platforms_Raided_platform_left_66 Static mesh actor Arena_Platforms_Raided_platform_left_66 has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: Arena_Platforms_Raised_platform_right_68 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: Arena_Platforms_Raised_platform_right_68 Static mesh actor Arena_Platforms_Raised_platform_right_68 has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: SM_CliffRock_71 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: SM_CliffRock_71 Static mesh actor SM_CliffRock_71 has NULL StaticMesh property 
+[2018.07.09-08.29.08:835][ 80]MapCheck: Warning: SM_CliffRock_03_74 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_03_74 Static mesh actor SM_CliffRock_03_74 has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_05_77 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_05_77 Static mesh actor SM_CliffRock_05_77 has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_87 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_87 Static mesh actor SM_CliffRock_87 has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_93 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_93 Static mesh actor SM_CliffRock_93 has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_96 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_96 Static mesh actor SM_CliffRock_96 has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_99 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_99 Static mesh actor SM_CliffRock_99 has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_102 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_102 Static mesh actor SM_CliffRock_102 has NULL StaticMesh property 
+[2018.07.09-08.29.08:836][ 80]MapCheck: Warning: SM_CliffRock_105 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:837][ 80]MapCheck: Warning: SM_CliffRock_105 Static mesh actor SM_CliffRock_105 has NULL StaticMesh property 
+[2018.07.09-08.29.08:837][ 80]MapCheck: Warning: SM_CliffRock_02_108 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:837][ 80]MapCheck: Warning: SM_CliffRock_02_108 Static mesh actor SM_CliffRock_02_108 has NULL StaticMesh property 
+[2018.07.09-08.29.08:837][ 80]MapCheck: Warning: SM_CliffRock_111 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:837][ 80]MapCheck: Warning: SM_CliffRock_111 Static mesh actor SM_CliffRock_111 has NULL StaticMesh property 
+[2018.07.09-08.29.08:837][ 80]MapCheck: Warning: SM_CliffRock_114 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:837][ 80]MapCheck: Warning: SM_CliffRock_114 Static mesh actor SM_CliffRock_114 has NULL StaticMesh property 
+[2018.07.09-08.29.08:837][ 80]MapCheck: Warning: SM_CliffRock_117 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: SM_CliffRock_117 Static mesh actor SM_CliffRock_117 has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: SM_CliffRock_120 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: SM_CliffRock_120 Static mesh actor SM_CliffRock_120 has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: SM_CliffRock_123 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: SM_CliffRock_123 Static mesh actor SM_CliffRock_123 has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: SM_CliffRock_129 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: SM_CliffRock_129 Static mesh actor SM_CliffRock_129 has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: SM_Gate_02_2 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: SM_Gate_02_2 Static mesh actor SM_Gate_02_2 has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: LP_ENV_Square_House_v2_LT_14_06_5 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:838][ 80]MapCheck: Warning: LP_ENV_Square_House_v2_LT_14_06_5 Static mesh actor LP_ENV_Square_House_v2_LT_14_06_5 has NULL StaticMesh property 
+[2018.07.09-08.29.08:839][ 80]MapCheck: Warning: LP_ENV_ArenaBuildingTower_01_v1_LT_04_07_5 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:840][ 80]MapCheck: Warning: LP_ENV_ArenaBuildingTower_01_v1_LT_04_07_5 Static mesh actor LP_ENV_ArenaBuildingTower_01_v1_LT_04_07_5 has NULL StaticMesh property 
+[2018.07.09-08.29.08:840][ 80]MapCheck: Warning: LP_ENV_ArenaBuildingRound_02_v1_LT_04_07_12 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:840][ 80]MapCheck: Warning: LP_ENV_ArenaBuildingRound_02_v1_LT_04_07_12 Static mesh actor LP_ENV_ArenaBuildingRound_02_v1_LT_04_07_12 has NULL StaticMesh property 
+[2018.07.09-08.29.08:840][ 80]MapCheck: Warning: LP_ENV_ArenaBuildingRound_02_v1_LT_04_07_19 Static mesh actor has NULL StaticMesh property 
+[2018.07.09-08.29.08:840][ 80]MapCheck: Warning: LP_ENV_ArenaBuildingRound_02_v1_LT_04_07_19 Static mesh actor LP_ENV_ArenaBuildingRound_02_v1_LT_04_07_19 has NULL StaticMesh property 
+[2018.07.09-08.29.08:929][ 80]MapCheck: Map check complete: 0 Error(s), 180 Warning(s), took 108.649ms to complete.
+[2018.07.09-08.30.04:039][142]LogSlate: Window 'Save Content' being destroyed
+[2018.07.09-08.30.04:305][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.09-08.30.04:392][142]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002932791d680, Size=128
+[2018.07.09-08.30.04:392][142]LogUObjectGlobals: Created PersistentFrame Addr=0x000002935a26c180, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_71:ExecuteUbergraph_Tash_Map
+[2018.07.09-08.30.04:397][142]LogUObjectGlobals: Created PersistentFrame Addr=0x000002935a26c280, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.07.09-08.30.04:814][142]LogSavePackage: Save=458.57ms
+[2018.07.09-08.30.04:814][142]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Tash_MapFAA3697444E81977AABC71A97C025357.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap'
+[2018.07.09-08.30.04:822][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map.umap
+[2018.07.09-08.30.04:842][142]LogFileHelpers: Saving map 'Tash_Map' took 0.621
+[2018.07.09-08.30.04:848][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map_BuiltData" FILE="../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map_BuiltData.uasset" SILENT=true
+[2018.07.09-08.30.04:936][142]LogSavePackage: Save=84.06ms
+[2018.07.09-08.30.04:936][142]LogSavePackage: Moving '../../../../../../Users/NTI/Desktop/GK_Rep/Saved/Tash_Map_BuiltData4FBD9AEA438A7A5F011AACA755E86DF3.tmp' to '../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map_BuiltData.uasset'
+[2018.07.09-08.30.04:941][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Desktop/GK_Rep/Content/Maps/Tash_Map_BuiltData.uasset
+[2018.07.09-08.30.11:083][388]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.09-08.30.45:761][388]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.09-08.30.46:606][388]LogSourceControl: commit successful: [master c258966] Added user maps ready for level placement
+[2018.07.09-08.30.46:709][388]SourceControl: [master c258966] Added user maps ready for level placement
+[2018.07.09-08.30.46:709][388]SourceControl:  7 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.09-08.30.46:709][388]SourceControl:  create mode 100644 Content/Maps/FinalLevel_Map.umap
+[2018.07.09-08.30.46:709][388]SourceControl:  create mode 100644 Content/Maps/James_Map.umap
+[2018.07.09-08.30.46:709][388]SourceControl:  create mode 100644 Content/Maps/Luke_Map.umap
+[2018.07.09-08.30.46:709][388]SourceControl:  create mode 100644 Content/Maps/Matt_Map.umap
+[2018.07.09-08.30.46:709][388]SourceControl:  create mode 100644 Content/Maps/Omar_Map.umap
+[2018.07.09-08.30.46:709][388]SourceControl:  create mode 100644 Content/Maps/Tash_Map_BuiltData.uasset
+[2018.07.09-08.30.46:719][388]SourceControl: Commited [master c258966] Added user maps ready for level placement.
+[2018.07.09-08.30.52:086][623]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.09-08.30.56:013][623]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.09-08.30.56:524][623]LogSourceControl: commit successful: [master faed623] 1
+[2018.07.09-08.30.56:632][623]SourceControl: [master faed623] 1
+[2018.07.09-08.30.56:632][623]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.09-08.30.56:632][623]SourceControl:  rewrite Content/Maps/Merged_Map.umap (99%)
+[2018.07.09-08.30.56:642][623]SourceControl: Commited [master faed623] 1.
