@@ -1073,3 +1073,5 @@ LogInit: Object subsystem initialized
 [2018.07.10-11.57.00:720][  1]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/NPC/Blueprints/AI/PathNode.
 [2018.07.10-11.57.00:728][  1]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/Player/Blueprints/Light/BP_Light_V2.
 [2018.07.10-11.57.00:737][  1]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Maps/Tash_Map.
+[2018.07.10-11.57.41:332][244]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.10-11.57.41:422][244]EditorErrors: Warning: No assets to check in!
