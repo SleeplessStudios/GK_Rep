@@ -1056,3 +1056,6 @@ LogInit: Object subsystem initialized
 [2018.07.10-11.44.55:211][715]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Sprint_SQ.uasset
 [2018.07.10-11.44.55:211][715]SourceControl:  rewrite Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset (87%)
 [2018.07.10-11.44.55:228][715]SourceControl: Commited [Light f60a1dc] nvodsnvdsmvs.
+[2018.07.10-11.54.34:562][491]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/NPC/Blueprints/AI/Law_AI_CON.
+[2018.07.10-11.54.34:577][491]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Characters/NPC/Blueprints/AI/PathNode.
+[2018.07.10-11.54.35:460][493]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Maps/Tash_Map.
