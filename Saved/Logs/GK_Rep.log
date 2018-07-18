@@ -465,3 +465,4 @@ LogInit: Object subsystem initialized
 [2018.07.18-14.32.08:092][146]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/' took 5.11s
 [2018.07.18-14.32.26:755][246]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2018.07.18-14.37.18:388][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-14.38.41:812][124]LogSlate: Window 'Source Control Login' being destroyed
