@@ -1593,3 +1593,1736 @@ LogInit: Object subsystem initialized
 [2018.07.18-12.43.45:341][190]LogSavePackage: Save=530.89ms
 [2018.07.18-12.43.45:341][190]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Map_01C2C7AC014FF699D9DC138BA8162B941B.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap'
 [2018.07.18-12.43.45:344][190]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap
+[2018.07.18-12.45.03:386][182]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.18-12.45.03:647][182]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.18-12.45.03:649][182]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.07.18-12.45.03:703][182]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.07.18-12.45.04:048][182]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.07.18-12.45.04:073][182]LogStaticMesh: Allocated 395x64x64 distance field atlas = 3.1Mb, with 42 objects containing 2.3Mb backing data
+[2018.07.18-12.45.04:073][182]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.18-12.49.18:069][265]LogRenderer: Reallocating scene render targets to support 1192x548 Format 10 NumSamples 1 (Frame:9947).
+[2018.07.18-12.50.43:999][768]LogSavePackage: Save=17.45ms
+[2018.07.18-12.50.43:999][768]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/IdleWalkRun1E43EC93434D99610FBCFAB949E129FE.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/IdleWalkRun.uasset'
+[2018.07.18-12.50.44:002][768]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/IdleWalkRun.uasset
+[2018.07.18-12.50.45:973][856]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-12.50.45:997][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.50.45:997][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-12.50.45:998][856]PIE: New page: PIE session: Map_01 (18 Jul 2018 14:50:45)
+[2018.07.18-12.50.45:998][856]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-12.50.46:018][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020362s)
+[2018.07.18-12.50.46:019][856]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-12.50.46:020][856]LogPlayLevel: PIE: World Init took: (0.001388s)
+[2018.07.18-12.50.46:020][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.021988s)
+[2018.07.18-12.50.46:044][856]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017607fc9600, Size=128
+[2018.07.18-12.50.46:049][856]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-12.50.46:061][856]LogInit: FAudioDevice initialized.
+[2018.07.18-12.50.46:092][856]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-12.50.46:096][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.18-13.50.46
+[2018.07.18-12.50.46:097][856]LogWorld: Bringing up level for play took: 0.003762
+[2018.07.18-12.50.46:099][856]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.749
+[2018.07.18-12.50.46:099][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.50.56:587][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.50.56:629][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.50.59:765][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.18-12.52.33:654][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.18-12.52.33:681][213]LogSavePackage: Save=9.00ms
+[2018.07.18-12.52.33:681][213]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/IdleWalkRun091F2930480448E5002DA587CEB96BD3.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/IdleWalkRun.uasset'
+[2018.07.18-12.52.33:684][213]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/IdleWalkRun.uasset
+[2018.07.18-12.52.36:896][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-12.52.47:934][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-12.52.53:431][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.Actor_1.DebugSkelMeshComponent_23) Already registered. Aborting.
+[2018.07.18-12.52.54:082][188]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017635a40090, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.18-12.52.54:082][188]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017636b63ff0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.18-12.52.54:470][188]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.Actor_1.DebugSkelMeshComponent_23) - call TermArticulated first.
+[2018.07.18-12.52.54:752][188]LogSlate: Took 0.005298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.18-12.52.54:921][188]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.18-12.52.54:957][189]LogSlate: Took 0.005532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.18-12.53.18:681][376]LogUObjectGlobals: Created PersistentFrame Addr=0x000001764f6d2e58, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-12.53.22:427][573]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001764f6d2e58, Size=4
+[2018.07.18-12.53.22:427][573]LogUObjectGlobals: Created PersistentFrame Addr=0x000001765010c658, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_4:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-12.53.22:443][573]LogUObjectGlobals: Created PersistentFrame Addr=0x000001765010dff8, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-12.54.00:282][815]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.18-12.54.00:309][815]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001765010dff8, Size=4
+[2018.07.18-12.54.00:309][815]LogUObjectGlobals: Created PersistentFrame Addr=0x000001765010dff8, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_5:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-12.54.00:335][815]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001758b8a1240, Size=192
+[2018.07.18-12.54.00:335][815]LogUObjectGlobals: Created PersistentFrame Addr=0x000001764fdf7a00, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_6:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-12.54.00:353][815]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017650e08a00, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-12.54.00:466][815]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001765010c658, Size=4
+[2018.07.18-12.54.00:466][815]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001765010dff8, Size=4
+[2018.07.18-12.54.01:127][830]LogSavePackage: Save=116.15ms
+[2018.07.18-12.54.01:127][830]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Player_AnimBP712CA9EE4EEF2F1073C8EA8C2575E243.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset'
+[2018.07.18-12.54.01:130][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset
+[2018.07.18-12.55.10:014][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.Actor_2.DebugSkelMeshComponent_25) Already registered. Aborting.
+[2018.07.18-12.55.10:275][267]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.Actor_2.DebugSkelMeshComponent_25) - call TermArticulated first.
+[2018.07.18-12.55.10:618][267]LogStaticMesh: Allocated 425x64x64 distance field atlas = 3.3Mb, with 43 objects containing 2.6Mb backing data
+[2018.07.18-12.55.10:619][267]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.18-12.56.10:403][332]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.Actor_3.DebugSkelMeshComponent_27) Already registered. Aborting.
+[2018.07.18-12.56.10:440][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.Actor_3.DebugSkelMeshComponent_27) - call TermArticulated first.
+[2018.07.18-12.56.10:792][332]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.18-12.56.49:212][871]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-12.56.49:238][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.56.49:239][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-12.56.49:239][871]PIE: New page: PIE session: Map_01 (18 Jul 2018 14:56:49)
+[2018.07.18-12.56.49:239][871]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-12.56.49:259][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020175s)
+[2018.07.18-12.56.49:260][871]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-12.56.49:260][871]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2018.07.18-12.56.49:260][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.021325s)
+[2018.07.18-12.56.49:286][871]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001764fdf7a00, Size=192
+[2018.07.18-12.56.49:291][871]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-12.56.49:303][871]LogInit: FAudioDevice initialized.
+[2018.07.18-12.56.49:335][871]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-12.56.49:339][871]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.18-13.56.49
+[2018.07.18-12.56.49:340][871]LogWorld: Bringing up level for play took: 0.003881
+[2018.07.18-12.56.49:342][871]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.008
+[2018.07.18-12.56.49:342][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.57.05:789][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.57.05:833][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.57.12:864][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-13.06.11:507][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-13.06.57:047][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-13.07.15:908][421]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.18-13.07.16:023][421]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001758ab69c00, Size=976
+[2018.07.18-13.07.16:023][421]LogUObjectGlobals: Created PersistentFrame Addr=0x000001758ab69c00, Size=976, Default__BP_Light_V2_C Function /Engine/Transient.REINST_BP_Light_V2_C_58:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-13.07.16:041][421]LogUObjectGlobals: Created PersistentFrame Addr=0x00000175ad9b1c00, Size=976, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-13.07.17:150][444]LogSavePackage: Save=143.79ms
+[2018.07.18-13.07.17:150][444]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V23A60D96645D00DFFE6C3469F559F3664.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.18-13.07.17:153][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.18-13.07.18:167][516]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-13.07.18:196][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.07.18:196][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-13.07.18:196][516]PIE: New page: PIE session: Map_01 (18 Jul 2018 15:07:18)
+[2018.07.18-13.07.18:196][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-13.07.18:215][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018675s)
+[2018.07.18-13.07.18:216][516]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-13.07.18:217][516]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2018.07.18-13.07.18:217][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.020231s)
+[2018.07.18-13.07.18:246][516]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-13.07.18:259][516]LogInit: FAudioDevice initialized.
+[2018.07.18-13.07.18:298][516]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-13.07.18:303][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.18-14.07.18
+[2018.07.18-13.07.18:304][516]LogWorld: Bringing up level for play took: 0.004462
+[2018.07.18-13.07.18:305][516]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.956
+[2018.07.18-13.07.18:306][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.07.19:686][618]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.07.19:726][618]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.07.21:924][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.07.21:924][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-13.07.21:924][780]PIE: New page: PIE session: Map_01 (18 Jul 2018 15:07:21)
+[2018.07.18-13.07.21:924][780]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-13.07.21:944][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019565s)
+[2018.07.18-13.07.21:945][780]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-13.07.21:945][780]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2018.07.18-13.07.21:945][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.021067s)
+[2018.07.18-13.07.21:973][780]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-13.07.21:986][780]LogInit: FAudioDevice initialized.
+[2018.07.18-13.07.22:041][780]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-13.07.22:047][780]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.18-14.07.22
+[2018.07.18-13.07.22:048][780]LogWorld: Bringing up level for play took: 0.004832
+[2018.07.18-13.07.22:054][780]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.705
+[2018.07.18-13.07.22:055][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.07.42:776][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.07.42:799][180]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.18-13.07.42:844][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.08.10:742][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Map_01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.18-13.08.10:800][781]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017607fca400, Size=128
+[2018.07.18-13.08.10:800][781]LogUObjectGlobals: Created PersistentFrame Addr=0x000001766d459580, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_62:ExecuteUbergraph_Map_01
+[2018.07.18-13.08.10:804][781]LogUObjectGlobals: Created PersistentFrame Addr=0x000001766d459680, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.18-13.08.11:327][781]LogSavePackage: Save=559.27ms
+[2018.07.18-13.08.11:327][781]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Map_01_Auto18DA77ADC4063FE1CF0174DA69EA0CC5E.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Map_01_Auto1.umap'
+[2018.07.18-13.08.11:329][781]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Map_01_Auto1.umap
+[2018.07.18-13.08.11:334][781]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map_01' took 0.618
+[2018.07.18-13.08.11:335][781]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.618
+[2018.07.18-13.09.26:739][447]LogSavePackage: Save=18.14ms
+[2018.07.18-13.09.26:739][447]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Sprint_LC_SQ8D45AF784E66D8AC2252848A39459FFA.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Sprint_LC_SQ.uasset'
+[2018.07.18-13.09.26:742][447]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Sprint_LC_SQ.uasset
+[2018.07.18-13.09.26:899][447]LogSavePackage: Save=4.28ms
+[2018.07.18-13.09.26:899][447]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog_LC_SQ075D597541D4B0DA5F08108D4F83FB43.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ.uasset'
+[2018.07.18-13.09.26:902][447]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ.uasset
+[2018.07.18-13.09.39:810][800]LogSavePackage: Save=14.81ms
+[2018.07.18-13.09.39:810][800]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Sprint_LC_Mirrored_SQ173FA1CD4F6F069140459D81BA8BA905.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Sprint_LC_Mirrored_SQ.uasset'
+[2018.07.18-13.09.39:813][800]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Sprint_LC_Mirrored_SQ.uasset
+[2018.07.18-13.09.39:969][800]LogSavePackage: Save=4.28ms
+[2018.07.18-13.09.39:969][800]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog_LC_SQ_Mirrored3AB65F074BA9269C6502248A197C3AD5.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored.uasset'
+[2018.07.18-13.09.39:972][800]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored.uasset
+[2018.07.18-13.10.02:183][520]LogSavePackage: Save=16.91ms
+[2018.07.18-13.10.02:183][520]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/IdleWalkRun1D68853141873DD49C57B292198DF718.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/IdleWalkRun.uasset'
+[2018.07.18-13.10.02:185][520]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/IdleWalkRun.uasset
+[2018.07.18-13.10.42:542][308]LogSavePackage: Save=16.97ms
+[2018.07.18-13.10.42:542][308]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/WalkRunD8C9409A45F306A515BC0EB488DD0DCD.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/WalkRun.uasset'
+[2018.07.18-13.10.42:545][308]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/WalkRun.uasset
+[2018.07.18-13.10.42:687][308]LogSavePackage: Save=4.52ms
+[2018.07.18-13.10.42:687][308]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/IdleWalkRunD9A722544E5F06779C5F53A6EA424F97.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/IdleWalkRun.uasset'
+[2018.07.18-13.10.42:689][308]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/IdleWalkRun.uasset
+[2018.07.18-13.10.55:747][285]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.07.18-13.11.06:240][907]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.07.18-13.11.50:945][335]LogSavePackage: Save=16.80ms
+[2018.07.18-13.11.50:945][335]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Idle4B0875B54537116DB50F128475527392.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Idle.uasset'
+[2018.07.18-13.11.50:947][335]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Idle.uasset
+[2018.07.18-13.12.51:872][364]LogSavePackage: Save=20.08ms
+[2018.07.18-13.12.51:872][364]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/SprintE0F7FB724B29CA16E451D59CE36B0B8A.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset'
+[2018.07.18-13.12.51:875][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset
+[2018.07.18-13.12.59:120][603]LogUObjectGlobals: Created PersistentFrame Addr=0x000001767f538198, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.08:130][ 56]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001767f538198, Size=4
+[2018.07.18-13.13.08:131][ 56]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017658db9658, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_9:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.08:145][ 56]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017658db9b28, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.20:033][631]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.18-13.13.20:062][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017658db9b28, Size=4
+[2018.07.18-13.13.20:062][631]LogUObjectGlobals: Created PersistentFrame Addr=0x000001767f5381b0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_10:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.20:088][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017650e08a00, Size=192
+[2018.07.18-13.13.20:088][631]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017681708a00, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_11:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.20:107][631]LogUObjectGlobals: Created PersistentFrame Addr=0x00000175e18f9780, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.20:225][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001766d459580, Size=128
+[2018.07.18-13.13.20:225][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001767f5381b0, Size=4
+[2018.07.18-13.13.20:226][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017658db9658, Size=4
+[2018.07.18-13.13.20:946][646]LogSavePackage: Save=120.17ms
+[2018.07.18-13.13.20:946][646]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Player_AnimBP3A0635B64D4405C8E47F9590E3A9F494.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset'
+[2018.07.18-13.13.20:949][646]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset
+[2018.07.18-13.13.25:004][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001767f3718f0, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.31:532][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001767f3718f0, Size=4
+[2018.07.18-13.13.31:532][187]LogUObjectGlobals: Created PersistentFrame Addr=0x00000175bfc7a588, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_13:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.31:548][187]LogUObjectGlobals: Created PersistentFrame Addr=0x00000175bfc79e98, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.38:244][425]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.18-13.13.38:272][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175bfc79e98, Size=4
+[2018.07.18-13.13.38:272][425]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017634d01a50, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_14:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.38:299][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175e18f9780, Size=192
+[2018.07.18-13.13.38:299][425]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017628c0aec0, Size=192, Player_AnimBP_C_16 Function /Engine/Transient.REINST_Player_AnimBP_C_15:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.38:317][425]LogUObjectGlobals: Created PersistentFrame Addr=0x00000175c7333640, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.13.38:434][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017634d01a50, Size=4
+[2018.07.18-13.13.38:435][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175bfc7a588, Size=4
+[2018.07.18-13.13.38:435][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017681708a00, Size=192
+[2018.07.18-13.13.40:302][481]LogSavePackage: Save=121.73ms
+[2018.07.18-13.13.40:302][481]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Player_AnimBP483D374B4CDBA25BBA2115AFD1012852.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset'
+[2018.07.18-13.13.40:305][481]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset
+[2018.07.18-13.14.16:067][675]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.18-13.14.16:090][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.14.16:090][675]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.18-13.14.16:106][675]LogPlayLevel: [PlayLevel] Compiling Map_01 before play...
+[2018.07.18-13.14.16:122][675]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001766d459680, Size=128
+[2018.07.18-13.14.16:122][675]LogUObjectGlobals: Created PersistentFrame Addr=0x000001762670cd00, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_74:ExecuteUbergraph_Map_01
+[2018.07.18-13.14.16:126][675]LogUObjectGlobals: Created PersistentFrame Addr=0x000001762670ed80, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.18-13.14.16:236][675]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017628c0aec0, Size=192
+[2018.07.18-13.14.16:236][675]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001762670cd00, Size=128
+[2018.07.18-13.14.16:238][675]LogPlayLevel: PlayLevel: Blueprint regeneration took 148 ms (1 blueprints)
+[2018.07.18-13.14.16:238][675]PIE: New page: PIE session: Map_01 (18 Jul 2018 15:14:16)
+[2018.07.18-13.14.16:238][675]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-13.14.16:257][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019019s)
+[2018.07.18-13.14.16:258][675]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-13.14.16:259][675]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2018.07.18-13.14.16:259][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.020829s)
+[2018.07.18-13.14.16:286][675]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-13.14.16:300][675]LogInit: FAudioDevice initialized.
+[2018.07.18-13.14.16:351][675]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-13.14.16:356][675]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.18-14.14.16
+[2018.07.18-13.14.16:357][675]LogWorld: Bringing up level for play took: 0.004418
+[2018.07.18-13.14.16:365][675]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 1.016
+[2018.07.18-13.14.16:366][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.14.31:030][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.14.31:053][195]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.18-13.14.31:130][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.15.18:224][278]LogUObjectGlobals: Created PersistentFrame Addr=0x000001764b36bad0, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.26:317][547]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001764b36bad0, Size=4
+[2018.07.18-13.15.26:317][547]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017658e72788, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_17:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.26:334][547]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017658e726d8, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.30:415][739]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017658e726d8, Size=4
+[2018.07.18-13.15.30:415][739]LogUObjectGlobals: Created PersistentFrame Addr=0x00000176813f9638, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_18:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.30:433][739]LogUObjectGlobals: Created PersistentFrame Addr=0x000001767f371d10, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.30:441][739]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001767f371d10, Size=4
+[2018.07.18-13.15.30:441][739]LogUObjectGlobals: Created PersistentFrame Addr=0x000001767f371d10, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_19:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.30:456][739]LogUObjectGlobals: Created PersistentFrame Addr=0x000001767f3734e8, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.32:366][832]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001767f3734e8, Size=4
+[2018.07.18-13.15.32:366][832]LogUObjectGlobals: Created PersistentFrame Addr=0x000001767f538fb0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_20:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.32:382][832]LogUObjectGlobals: Created PersistentFrame Addr=0x000001767f5395a0, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.32:389][832]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001767f5395a0, Size=4
+[2018.07.18-13.15.32:390][832]LogUObjectGlobals: Created PersistentFrame Addr=0x000001767f5395a0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_21:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.32:405][832]LogUObjectGlobals: Created PersistentFrame Addr=0x000001767f538918, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.59:787][957]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.18-13.15.59:816][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001767f538918, Size=4
+[2018.07.18-13.15.59:816][957]LogUObjectGlobals: Created PersistentFrame Addr=0x00000175bfc7aeb8, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_22:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.59:845][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175c7333640, Size=192
+[2018.07.18-13.15.59:845][957]LogUObjectGlobals: Created PersistentFrame Addr=0x000001764fdf4700, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_23:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.59:864][957]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017593b23340, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.15.59:992][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001767f538fb0, Size=4
+[2018.07.18-13.15.59:992][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001767f371d10, Size=4
+[2018.07.18-13.15.59:992][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017658e72788, Size=4
+[2018.07.18-13.15.59:992][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000176813f9638, Size=4
+[2018.07.18-13.15.59:992][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001767f5395a0, Size=4
+[2018.07.18-13.15.59:992][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175bfc7aeb8, Size=4
+[2018.07.18-13.16.00:656][970]LogSavePackage: Save=129.33ms
+[2018.07.18-13.16.00:656][970]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Player_AnimBP0F7FF3ED487430C89FE06AA374C23046.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset'
+[2018.07.18-13.16.00:659][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset
+[2018.07.18-13.16.17:728][787]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.07.18-13.16.18:015][797]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2018.07.18-13.16.18:015][797]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository
+[2018.07.18-13.16.18:015][797]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository
+[2018.07.18-13.16.23:541][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.18-13.16.23:566][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001764fdf4700, Size=192
+[2018.07.18-13.16.23:624][969]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001762670ed80, Size=128
+[2018.07.18-13.16.23:624][969]LogUObjectGlobals: Created PersistentFrame Addr=0x000001766d458180, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_86:ExecuteUbergraph_Map_01
+[2018.07.18-13.16.23:629][969]LogUObjectGlobals: Created PersistentFrame Addr=0x000001766d45a080, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.18-13.16.24:154][969]LogSavePackage: Save=562.59ms
+[2018.07.18-13.16.24:154][969]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Map_01AC9EA022476F623F156BA4919C84210A.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap'
+[2018.07.18-13.16.24:162][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap
+[2018.07.18-13.16.38:261][645]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017671e95ec0, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.16.41:310][773]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.18-13.16.41:341][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017671e95ec0, Size=4
+[2018.07.18-13.16.41:341][773]LogUObjectGlobals: Created PersistentFrame Addr=0x000001766e708df0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_25:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.16.41:369][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017593b23340, Size=192
+[2018.07.18-13.16.41:369][773]LogUObjectGlobals: Created PersistentFrame Addr=0x000001761d3df280, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_26:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.16.41:388][773]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017672062d40, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-13.16.41:507][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001766d458180, Size=128
+[2018.07.18-13.16.41:507][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001766e708df0, Size=4
+[2018.07.18-13.16.42:291][790]LogSavePackage: Save=128.34ms
+[2018.07.18-13.16.42:291][790]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Player_AnimBP78C58B1D4E3BA66D9120F1AEFC25CE5D.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset'
+[2018.07.18-13.16.42:294][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset
+[2018.07.18-13.17.09:676][595]LogSavePackage: Save=14.76ms
+[2018.07.18-13.17.09:676][595]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Combat5D4DD0CE47695ACFB7E69091DC1428C5.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Combat.uasset'
+[2018.07.18-13.17.09:679][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Combat.uasset
+[2018.07.18-13.17.25:002][ 30]LogSavePackage: Save=15.72ms
+[2018.07.18-13.17.25:002][ 30]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/CombatBB717077445F0C1EDFDFD6B90F3E216B.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Combat.uasset'
+[2018.07.18-13.17.25:005][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Combat.uasset
+[2018.07.18-13.17.32:441][233]LogSavePackage: Save=6.58ms
+[2018.07.18-13.17.32:441][233]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/CombatB3FE06824F6CCAAE25A0F7A8822FF6C8.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Combat.uasset'
+[2018.07.18-13.17.32:442][233]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Combat.uasset
+[2018.07.18-13.19.05:565][624]AssetReimport: New page: Outstanding source content changes 15:19:05
+[2018.07.18-13.19.05:573][624]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLC_v1_OE_18.07.18.fbx)
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: NodeAttribute, ItemCount : 60
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: Model, ItemCount : 63
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: Material, ItemCount : 3
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: Texture, ItemCount : 4
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: AnimationCurveNode, ItemCount : 271
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: CollectionExclusive, ItemCount : 3
+[2018.07.18-13.19.05:587][624]LogFbx: ItemName: AnimationCurve, ItemCount : 210
+[2018.07.18-13.19.05:588][624]LogFbx: ItemName: Pose, ItemCount : 2
+[2018.07.18-13.19.05:588][624]LogFbx: ItemName: Deformer, ItemCount : 108
+[2018.07.18-13.19.05:588][624]LogFbx: ItemName: Video, ItemCount : 3
+[2018.07.18-13.19.05:592][624]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLC_v1_OE_18.07.18.fbx
+[2018.07.18-13.19.05:659][624]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.08:874][624]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.07.18-13.19.08:920][624]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLC_v1_OE_18.07.18.fbx
+[2018.07.18-13.19.08:992][624]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.08:998][624]LogFbx: =================================================
+[2018.07.18-13.19.08:998][624]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.08:998][624]LogFbx: 	Total Deformer Count -2135863168.
+[2018.07.18-13.19.08:998][624]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.08:998][624]LogFbx: =================================================
+[2018.07.18-13.19.08:998][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.08:998][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.08:998][624]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.08:998][624]LogFbx: =================================================
+[2018.07.18-13.19.08:998][624]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.08:998][624]LogFbx: 	Total Deformer Count -2135863168.
+[2018.07.18-13.19.08:998][624]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.08:998][624]LogFbx: =================================================
+[2018.07.18-13.19.08:998][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.08:998][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.08:998][624]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.08:998][624]LogFbx: =================================================
+[2018.07.18-13.19.08:998][624]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.08:998][624]LogFbx: 	Total Deformer Count -2135861760.
+[2018.07.18-13.19.08:998][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.08:998][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.08:998][624]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.08:999][624]LogFbx: =================================================
+[2018.07.18-13.19.08:999][624]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.08:999][624]LogFbx: 	Total Deformer Count -2135863168.
+[2018.07.18-13.19.08:999][624]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.08:999][624]LogFbx: =================================================
+[2018.07.18-13.19.08:999][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.08:999][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.09:000][624]LogFbx: =================================================
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.09:000][624]LogFbx: 	Total Deformer Count -2135863168.
+[2018.07.18-13.19.09:000][624]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.09:000][624]LogFbx: =================================================
+[2018.07.18-13.19.09:000][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.09:000][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.09:000][624]LogFbx: =================================================
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.09:000][624]LogFbx: 	Total Deformer Count -2135854336.
+[2018.07.18-13.19.09:000][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.09:000][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.09:000][624]LogFbx: =================================================
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.09:000][624]LogFbx: 	Total Deformer Count -2135855104.
+[2018.07.18-13.19.09:000][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.09:000][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.09:000][624]LogFbx: =================================================
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.09:000][624]LogFbx: 	Total Deformer Count -2135857792.
+[2018.07.18-13.19.09:000][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.09:000][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.09:000][624]LogFbx: =================================================
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.09:000][624]LogFbx: 	Total Deformer Count -2135858560.
+[2018.07.18-13.19.09:000][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.09:000][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.09:000][624]LogFbx: =================================================
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.09:000][624]LogFbx: 	Total Deformer Count -2135866624.
+[2018.07.18-13.19.09:000][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.09:000][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.09:000][624]LogFbx: =================================================
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.09:000][624]LogFbx: 	Total Deformer Count -2135863168.
+[2018.07.18-13.19.09:000][624]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.09:000][624]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.09:000][624]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(0) root
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(1) pelvis
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(2) spine_01
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(3) spine_02
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(4) spine_03
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(5) neck_01
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(6) head
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(7) clavicle_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(8) upperarm_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(9) lowerarm_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(10) hand_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(11) index_01_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(12) index_02_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(13) index_03_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(14) middle_01_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(15) middle_02_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(16) middle_03_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(17) pinky_01_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(18) pinky_02_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(19) pinky_03_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(20) ring_01_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(21) ring_02_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(22) ring_03_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(23) thumb_01_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(24) thumb_02_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(25) thumb_03_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(26) clavicle_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(27) upperarm_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(29) hand_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(30) index_01_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(31) index_02_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(32) index_03_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(33) middle_01_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(34) middle_02_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(35) middle_03_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(39) ring_01_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(40) ring_02_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(41) ring_03_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(45) thigh_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(46) calf_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(47) foot_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(48) ball_r
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(49) joint1
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(50) thigh_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(51) calf_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(52) foot_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(53) ball_l
+[2018.07.18-13.19.09:001][624]LogFbx: SortedLinks :(54) joint2
+[2018.07.18-13.19.09:002][624]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-13.19.09:004][624]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLC_v1_OE_18_07_18'
+[2018.07.18-13.19.09:004][624]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLC_v1_OE_18_07_18'
+[2018.07.18-13.19.09:058][624]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLC_v1_OE_18_07_18.AN_CH_lightidlelookLC_v1_OE_18_07_18
+[2018.07.18-13.19.09:059][624]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AN_CH_lightidlelookLC_v1_OE_18_07_18) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-13.19.09:155][625]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog01_v2_OE_18.07.18.fbx)
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: NodeAttribute, ItemCount : 60
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: Model, ItemCount : 63
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: Material, ItemCount : 3
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: Texture, ItemCount : 4
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: AnimationCurveNode, ItemCount : 271
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: CollectionExclusive, ItemCount : 3
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: AnimationCurve, ItemCount : 210
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: Pose, ItemCount : 2
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: Deformer, ItemCount : 108
+[2018.07.18-13.19.09:168][625]LogFbx: ItemName: Video, ItemCount : 3
+[2018.07.18-13.19.09:173][625]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog01_v2_OE_18.07.18.fbx
+[2018.07.18-13.19.09:243][625]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.12:670][625]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.07.18-13.19.12:713][625]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog01_v2_OE_18.07.18.fbx
+[2018.07.18-13.19.12:785][625]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.12:791][625]LogFbx: =================================================
+[2018.07.18-13.19.12:791][625]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.12:791][625]LogFbx: 	Total Deformer Count 1866383744.
+[2018.07.18-13.19.12:791][625]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.12:791][625]LogFbx: =================================================
+[2018.07.18-13.19.12:791][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:791][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.12:791][625]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.12:791][625]LogFbx: =================================================
+[2018.07.18-13.19.12:791][625]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.12:791][625]LogFbx: 	Total Deformer Count 1866383744.
+[2018.07.18-13.19.12:791][625]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.12:791][625]LogFbx: =================================================
+[2018.07.18-13.19.12:791][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:791][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.12:791][625]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.12:791][625]LogFbx: =================================================
+[2018.07.18-13.19.12:791][625]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.12:791][625]LogFbx: 	Total Deformer Count 1866383488.
+[2018.07.18-13.19.12:791][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:791][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.12:791][625]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.12:792][625]LogFbx: =================================================
+[2018.07.18-13.19.12:792][625]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.12:792][625]LogFbx: 	Total Deformer Count 1866383744.
+[2018.07.18-13.19.12:792][625]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.12:793][625]LogFbx: =================================================
+[2018.07.18-13.19.12:793][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:793][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.12:793][625]LogFbx: =================================================
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.12:793][625]LogFbx: 	Total Deformer Count 1866383744.
+[2018.07.18-13.19.12:793][625]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.12:793][625]LogFbx: =================================================
+[2018.07.18-13.19.12:793][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:793][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.12:793][625]LogFbx: =================================================
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.12:793][625]LogFbx: 	Total Deformer Count 1866384512.
+[2018.07.18-13.19.12:793][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:793][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.12:793][625]LogFbx: =================================================
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.12:793][625]LogFbx: 	Total Deformer Count 1866383616.
+[2018.07.18-13.19.12:793][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:793][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.12:793][625]LogFbx: =================================================
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.12:793][625]LogFbx: 	Total Deformer Count 1866390528.
+[2018.07.18-13.19.12:793][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:793][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.12:793][625]LogFbx: =================================================
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.12:793][625]LogFbx: 	Total Deformer Count 1866386176.
+[2018.07.18-13.19.12:793][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:793][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.12:793][625]LogFbx: =================================================
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.12:793][625]LogFbx: 	Total Deformer Count 1866389120.
+[2018.07.18-13.19.12:793][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:793][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.12:793][625]LogFbx: =================================================
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.12:793][625]LogFbx: 	Total Deformer Count 1866383744.
+[2018.07.18-13.19.12:793][625]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.12:793][625]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.12:793][625]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(0) root
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(1) pelvis
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(2) spine_01
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(3) spine_02
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(4) spine_03
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(5) neck_01
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(6) head
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(7) clavicle_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(8) upperarm_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(9) lowerarm_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(10) hand_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(11) index_01_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(12) index_02_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(13) index_03_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(14) middle_01_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(15) middle_02_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(16) middle_03_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(17) pinky_01_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(18) pinky_02_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(19) pinky_03_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(20) ring_01_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(21) ring_02_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(22) ring_03_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(23) thumb_01_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(24) thumb_02_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(25) thumb_03_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(26) clavicle_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(27) upperarm_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(29) hand_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(30) index_01_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(31) index_02_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(32) index_03_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(33) middle_01_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(34) middle_02_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(35) middle_03_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(39) ring_01_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(40) ring_02_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(41) ring_03_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(45) thigh_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(46) calf_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(47) foot_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(48) ball_r
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(49) joint1
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(50) thigh_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(51) calf_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(52) foot_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(53) ball_l
+[2018.07.18-13.19.12:794][625]LogFbx: SortedLinks :(54) joint2
+[2018.07.18-13.19.12:796][625]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-13.19.12:798][625]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog01_v2_OE_18_07_18'
+[2018.07.18-13.19.12:799][625]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog01_v2_OE_18_07_18'
+[2018.07.18-13.19.12:884][625]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog01_v2_OE_18_07_18.AN_CH_lightjog01_v2_OE_18_07_18
+[2018.07.18-13.19.12:884][625]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AN_CH_lightjog01_v2_OE_18_07_18) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-13.19.12:950][626]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLL_v1_OE_18.07.18.fbx)
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: NodeAttribute, ItemCount : 60
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: Model, ItemCount : 63
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: Material, ItemCount : 3
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: Texture, ItemCount : 4
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: AnimationCurveNode, ItemCount : 271
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: CollectionExclusive, ItemCount : 3
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: AnimationCurve, ItemCount : 210
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: Pose, ItemCount : 2
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: Deformer, ItemCount : 108
+[2018.07.18-13.19.12:962][626]LogFbx: ItemName: Video, ItemCount : 3
+[2018.07.18-13.19.12:969][626]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLL_v1_OE_18.07.18.fbx
+[2018.07.18-13.19.13:038][626]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.15:907][626]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.07.18-13.19.15:956][626]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLL_v1_OE_18.07.18.fbx
+[2018.07.18-13.19.16:029][626]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.16:035][626]LogFbx: =================================================
+[2018.07.18-13.19.16:035][626]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.16:035][626]LogFbx: 	Total Deformer Count 2139916800.
+[2018.07.18-13.19.16:035][626]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.16:035][626]LogFbx: =================================================
+[2018.07.18-13.19.16:035][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:035][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.16:035][626]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.16:035][626]LogFbx: =================================================
+[2018.07.18-13.19.16:035][626]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.16:035][626]LogFbx: 	Total Deformer Count 2139916800.
+[2018.07.18-13.19.16:035][626]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.16:035][626]LogFbx: =================================================
+[2018.07.18-13.19.16:035][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:035][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.16:035][626]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.16:035][626]LogFbx: =================================================
+[2018.07.18-13.19.16:035][626]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.16:035][626]LogFbx: 	Total Deformer Count 2139921024.
+[2018.07.18-13.19.16:035][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:035][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.16:035][626]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.16:036][626]LogFbx: =================================================
+[2018.07.18-13.19.16:036][626]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.16:036][626]LogFbx: 	Total Deformer Count 2139916800.
+[2018.07.18-13.19.16:036][626]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.16:036][626]LogFbx: =================================================
+[2018.07.18-13.19.16:036][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:036][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.16:036][626]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.16:036][626]LogFbx: =================================================
+[2018.07.18-13.19.16:036][626]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.16:036][626]LogFbx: 	Total Deformer Count 2139916800.
+[2018.07.18-13.19.16:036][626]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.16:037][626]LogFbx: =================================================
+[2018.07.18-13.19.16:037][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:037][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.16:037][626]LogFbx: =================================================
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.16:037][626]LogFbx: 	Total Deformer Count 2139920128.
+[2018.07.18-13.19.16:037][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:037][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.16:037][626]LogFbx: =================================================
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.16:037][626]LogFbx: 	Total Deformer Count 2139923584.
+[2018.07.18-13.19.16:037][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:037][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.16:037][626]LogFbx: =================================================
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.16:037][626]LogFbx: 	Total Deformer Count 2139919360.
+[2018.07.18-13.19.16:037][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:037][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.16:037][626]LogFbx: =================================================
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.16:037][626]LogFbx: 	Total Deformer Count 2139914752.
+[2018.07.18-13.19.16:037][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:037][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.16:037][626]LogFbx: =================================================
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.16:037][626]LogFbx: 	Total Deformer Count 2139920000.
+[2018.07.18-13.19.16:037][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:037][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.16:037][626]LogFbx: =================================================
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.16:037][626]LogFbx: 	Total Deformer Count 2139916800.
+[2018.07.18-13.19.16:037][626]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.16:037][626]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.16:037][626]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.16:037][626]LogFbx: SortedLinks :(0) root
+[2018.07.18-13.19.16:037][626]LogFbx: SortedLinks :(1) pelvis
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(2) spine_01
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(3) spine_02
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(4) spine_03
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(5) neck_01
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(6) head
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(7) clavicle_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(8) upperarm_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(9) lowerarm_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(10) hand_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(11) index_01_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(12) index_02_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(13) index_03_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(14) middle_01_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(15) middle_02_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(16) middle_03_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(17) pinky_01_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(18) pinky_02_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(19) pinky_03_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(20) ring_01_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(21) ring_02_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(22) ring_03_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(23) thumb_01_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(24) thumb_02_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(25) thumb_03_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(26) clavicle_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(27) upperarm_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(29) hand_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(30) index_01_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(31) index_02_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(32) index_03_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(33) middle_01_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(34) middle_02_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(35) middle_03_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(39) ring_01_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(40) ring_02_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(41) ring_03_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(45) thigh_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(46) calf_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(47) foot_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(48) ball_r
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(49) joint1
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(50) thigh_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(51) calf_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(52) foot_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(53) ball_l
+[2018.07.18-13.19.16:038][626]LogFbx: SortedLinks :(54) joint2
+[2018.07.18-13.19.16:039][626]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-13.19.16:041][626]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLL_v1_OE_18_07_18'
+[2018.07.18-13.19.16:041][626]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLL_v1_OE_18_07_18'
+[2018.07.18-13.19.16:099][626]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLL_v1_OE_18_07_18.AN_CH_lightidlelookLL_v1_OE_18_07_18
+[2018.07.18-13.19.16:099][626]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AN_CH_lightidlelookLL_v1_OE_18_07_18) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-13.19.16:184][627]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookUL_v1_OE_18.07.18.fbx)
+[2018.07.18-13.19.16:194][627]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.18-13.19.16:194][627]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.18-13.19.16:194][627]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.18-13.19.16:194][627]LogFbx: ItemName: NodeAttribute, ItemCount : 60
+[2018.07.18-13.19.16:194][627]LogFbx: ItemName: Model, ItemCount : 63
+[2018.07.18-13.19.16:194][627]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.07.18-13.19.16:194][627]LogFbx: ItemName: Material, ItemCount : 3
+[2018.07.18-13.19.16:194][627]LogFbx: ItemName: Texture, ItemCount : 4
+[2018.07.18-13.19.16:194][627]LogFbx: ItemName: AnimationCurveNode, ItemCount : 271
+[2018.07.18-13.19.16:194][627]LogFbx: ItemName: CollectionExclusive, ItemCount : 3
+[2018.07.18-13.19.16:195][627]LogFbx: ItemName: AnimationCurve, ItemCount : 210
+[2018.07.18-13.19.16:195][627]LogFbx: ItemName: Pose, ItemCount : 2
+[2018.07.18-13.19.16:195][627]LogFbx: ItemName: Deformer, ItemCount : 108
+[2018.07.18-13.19.16:195][627]LogFbx: ItemName: Video, ItemCount : 3
+[2018.07.18-13.19.16:200][627]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookUL_v1_OE_18.07.18.fbx
+[2018.07.18-13.19.16:269][627]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.23:639][627]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.07.18-13.19.23:688][627]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookUL_v1_OE_18.07.18.fbx
+[2018.07.18-13.19.23:764][627]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.23:769][627]LogFbx: =================================================
+[2018.07.18-13.19.23:769][627]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.23:769][627]LogFbx: 	Total Deformer Count -1079919232.
+[2018.07.18-13.19.23:769][627]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.23:769][627]LogFbx: =================================================
+[2018.07.18-13.19.23:769][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:769][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.23:769][627]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.23:769][627]LogFbx: =================================================
+[2018.07.18-13.19.23:769][627]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.23:769][627]LogFbx: 	Total Deformer Count -1079919232.
+[2018.07.18-13.19.23:769][627]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.23:769][627]LogFbx: =================================================
+[2018.07.18-13.19.23:769][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:769][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.23:769][627]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.23:769][627]LogFbx: =================================================
+[2018.07.18-13.19.23:769][627]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.23:769][627]LogFbx: 	Total Deformer Count -1079930368.
+[2018.07.18-13.19.23:769][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:769][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.23:769][627]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.23:770][627]LogFbx: =================================================
+[2018.07.18-13.19.23:770][627]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.23:770][627]LogFbx: 	Total Deformer Count -1079919232.
+[2018.07.18-13.19.23:770][627]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.23:770][627]LogFbx: =================================================
+[2018.07.18-13.19.23:770][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:770][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.23:770][627]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.23:771][627]LogFbx: =================================================
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.23:771][627]LogFbx: 	Total Deformer Count -1079919232.
+[2018.07.18-13.19.23:771][627]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.23:771][627]LogFbx: =================================================
+[2018.07.18-13.19.23:771][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:771][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.23:771][627]LogFbx: =================================================
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.23:771][627]LogFbx: 	Total Deformer Count -1079925760.
+[2018.07.18-13.19.23:771][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:771][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.23:771][627]LogFbx: =================================================
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.23:771][627]LogFbx: 	Total Deformer Count -1079924224.
+[2018.07.18-13.19.23:771][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:771][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.23:771][627]LogFbx: =================================================
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.23:771][627]LogFbx: 	Total Deformer Count -1079925376.
+[2018.07.18-13.19.23:771][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:771][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.23:771][627]LogFbx: =================================================
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.23:771][627]LogFbx: 	Total Deformer Count -1079922560.
+[2018.07.18-13.19.23:771][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:771][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.23:771][627]LogFbx: =================================================
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.23:771][627]LogFbx: 	Total Deformer Count -1079925120.
+[2018.07.18-13.19.23:771][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:771][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.23:771][627]LogFbx: =================================================
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.23:771][627]LogFbx: 	Total Deformer Count -1079919232.
+[2018.07.18-13.19.23:771][627]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.23:771][627]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.23:771][627]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.23:771][627]LogFbx: SortedLinks :(0) root
+[2018.07.18-13.19.23:771][627]LogFbx: SortedLinks :(1) pelvis
+[2018.07.18-13.19.23:771][627]LogFbx: SortedLinks :(2) spine_01
+[2018.07.18-13.19.23:771][627]LogFbx: SortedLinks :(3) spine_02
+[2018.07.18-13.19.23:771][627]LogFbx: SortedLinks :(4) spine_03
+[2018.07.18-13.19.23:771][627]LogFbx: SortedLinks :(5) neck_01
+[2018.07.18-13.19.23:771][627]LogFbx: SortedLinks :(6) head
+[2018.07.18-13.19.23:771][627]LogFbx: SortedLinks :(7) clavicle_l
+[2018.07.18-13.19.23:771][627]LogFbx: SortedLinks :(8) upperarm_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(9) lowerarm_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(10) hand_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(11) index_01_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(12) index_02_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(13) index_03_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(14) middle_01_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(15) middle_02_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(16) middle_03_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(17) pinky_01_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(18) pinky_02_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(19) pinky_03_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(20) ring_01_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(21) ring_02_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(22) ring_03_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(23) thumb_01_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(24) thumb_02_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(25) thumb_03_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(26) clavicle_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(27) upperarm_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(29) hand_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(30) index_01_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(31) index_02_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(32) index_03_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(33) middle_01_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(34) middle_02_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(35) middle_03_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(39) ring_01_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(40) ring_02_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(41) ring_03_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(45) thigh_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(46) calf_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(47) foot_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(48) ball_r
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(49) joint1
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(50) thigh_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(51) calf_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(52) foot_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(53) ball_l
+[2018.07.18-13.19.23:772][627]LogFbx: SortedLinks :(54) joint2
+[2018.07.18-13.19.23:773][627]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-13.19.23:775][627]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookUL_v1_OE_18_07_18'
+[2018.07.18-13.19.23:775][627]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookUL_v1_OE_18_07_18'
+[2018.07.18-13.19.23:830][627]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookUL_v1_OE_18_07_18.AN_CH_lightidlelookUL_v1_OE_18_07_18
+[2018.07.18-13.19.23:830][627]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AN_CH_lightidlelookUL_v1_OE_18_07_18) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-13.19.23:905][628]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCU_v1_OE_18.07.18.fbx)
+[2018.07.18-13.19.23:918][628]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: NodeAttribute, ItemCount : 60
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: Model, ItemCount : 63
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: Material, ItemCount : 3
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: Texture, ItemCount : 4
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: AnimationCurveNode, ItemCount : 271
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: CollectionExclusive, ItemCount : 3
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: AnimationCurve, ItemCount : 210
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: Pose, ItemCount : 2
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: Deformer, ItemCount : 108
+[2018.07.18-13.19.23:919][628]LogFbx: ItemName: Video, ItemCount : 3
+[2018.07.18-13.19.23:926][628]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCU_v1_OE_18.07.18.fbx
+[2018.07.18-13.19.24:014][628]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.29:151][628]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.07.18-13.19.29:202][628]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCU_v1_OE_18.07.18.fbx
+[2018.07.18-13.19.29:277][628]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.29:282][628]LogFbx: =================================================
+[2018.07.18-13.19.29:282][628]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.29:282][628]LogFbx: 	Total Deformer Count -1956618496.
+[2018.07.18-13.19.29:283][628]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.29:283][628]LogFbx: =================================================
+[2018.07.18-13.19.29:283][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:283][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.29:283][628]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.29:283][628]LogFbx: =================================================
+[2018.07.18-13.19.29:283][628]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.29:283][628]LogFbx: 	Total Deformer Count -1956618496.
+[2018.07.18-13.19.29:283][628]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.29:283][628]LogFbx: =================================================
+[2018.07.18-13.19.29:283][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:283][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.29:283][628]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.29:283][628]LogFbx: =================================================
+[2018.07.18-13.19.29:283][628]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.29:283][628]LogFbx: 	Total Deformer Count -1956614912.
+[2018.07.18-13.19.29:283][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:283][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.29:283][628]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.29:284][628]LogFbx: =================================================
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.29:284][628]LogFbx: 	Total Deformer Count -1956618496.
+[2018.07.18-13.19.29:284][628]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.29:284][628]LogFbx: =================================================
+[2018.07.18-13.19.29:284][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:284][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.29:284][628]LogFbx: =================================================
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.29:284][628]LogFbx: 	Total Deformer Count -1956618496.
+[2018.07.18-13.19.29:284][628]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.29:284][628]LogFbx: =================================================
+[2018.07.18-13.19.29:284][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:284][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.29:284][628]LogFbx: =================================================
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.29:284][628]LogFbx: 	Total Deformer Count -1956620544.
+[2018.07.18-13.19.29:284][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:284][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.29:284][628]LogFbx: =================================================
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.29:284][628]LogFbx: 	Total Deformer Count -1956622592.
+[2018.07.18-13.19.29:284][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:284][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.29:284][628]LogFbx: =================================================
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.29:284][628]LogFbx: 	Total Deformer Count -1956611840.
+[2018.07.18-13.19.29:284][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:284][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.29:284][628]LogFbx: =================================================
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.29:284][628]LogFbx: 	Total Deformer Count -1956611072.
+[2018.07.18-13.19.29:284][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:284][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.29:284][628]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.29:285][628]LogFbx: =================================================
+[2018.07.18-13.19.29:285][628]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.29:285][628]LogFbx: 	Total Deformer Count -1956623232.
+[2018.07.18-13.19.29:285][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:285][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.29:285][628]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.29:285][628]LogFbx: =================================================
+[2018.07.18-13.19.29:285][628]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.29:285][628]LogFbx: 	Total Deformer Count -1956618496.
+[2018.07.18-13.19.29:285][628]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.29:285][628]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.29:285][628]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(0) root
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(1) pelvis
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(2) spine_01
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(3) spine_02
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(4) spine_03
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(5) neck_01
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(6) head
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(7) clavicle_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(8) upperarm_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(9) lowerarm_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(10) hand_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(11) index_01_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(12) index_02_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(13) index_03_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(14) middle_01_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(15) middle_02_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(16) middle_03_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(17) pinky_01_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(18) pinky_02_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(19) pinky_03_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(20) ring_01_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(21) ring_02_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(22) ring_03_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(23) thumb_01_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(24) thumb_02_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(25) thumb_03_l
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(26) clavicle_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(27) upperarm_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(29) hand_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(30) index_01_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(31) index_02_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(32) index_03_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(33) middle_01_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(34) middle_02_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(35) middle_03_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(39) ring_01_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(40) ring_02_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(41) ring_03_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.07.18-13.19.29:285][628]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.07.18-13.19.29:286][628]LogFbx: SortedLinks :(45) thigh_r
+[2018.07.18-13.19.29:286][628]LogFbx: SortedLinks :(46) calf_r
+[2018.07.18-13.19.29:286][628]LogFbx: SortedLinks :(47) foot_r
+[2018.07.18-13.19.29:286][628]LogFbx: SortedLinks :(48) ball_r
+[2018.07.18-13.19.29:286][628]LogFbx: SortedLinks :(49) joint1
+[2018.07.18-13.19.29:286][628]LogFbx: SortedLinks :(50) thigh_l
+[2018.07.18-13.19.29:286][628]LogFbx: SortedLinks :(51) calf_l
+[2018.07.18-13.19.29:286][628]LogFbx: SortedLinks :(52) foot_l
+[2018.07.18-13.19.29:286][628]LogFbx: SortedLinks :(53) ball_l
+[2018.07.18-13.19.29:286][628]LogFbx: SortedLinks :(54) joint2
+[2018.07.18-13.19.29:286][628]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-13.19.29:289][628]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCU_v1_OE_18_07_18'
+[2018.07.18-13.19.29:289][628]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCU_v1_OE_18_07_18'
+[2018.07.18-13.19.29:344][628]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCU_v1_OE_18_07_18.AN_CH_lightidlelookCU_v1_OE_18_07_18
+[2018.07.18-13.19.29:345][628]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AN_CH_lightidlelookCU_v1_OE_18_07_18) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-13.19.29:384][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2018.07.18-13.19.29:384][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository
+[2018.07.18-13.19.29:384][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository
+[2018.07.18-13.19.29:415][629]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCL_v1_OE_18.07.18.fbx)
+[2018.07.18-13.19.29:427][629]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.18-13.19.29:427][629]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.18-13.19.29:427][629]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.18-13.19.29:427][629]LogFbx: ItemName: NodeAttribute, ItemCount : 60
+[2018.07.18-13.19.29:427][629]LogFbx: ItemName: Model, ItemCount : 63
+[2018.07.18-13.19.29:427][629]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.07.18-13.19.29:427][629]LogFbx: ItemName: Material, ItemCount : 3
+[2018.07.18-13.19.29:428][629]LogFbx: ItemName: Texture, ItemCount : 4
+[2018.07.18-13.19.29:428][629]LogFbx: ItemName: AnimationCurveNode, ItemCount : 271
+[2018.07.18-13.19.29:428][629]LogFbx: ItemName: CollectionExclusive, ItemCount : 3
+[2018.07.18-13.19.29:428][629]LogFbx: ItemName: AnimationCurve, ItemCount : 210
+[2018.07.18-13.19.29:428][629]LogFbx: ItemName: Pose, ItemCount : 2
+[2018.07.18-13.19.29:428][629]LogFbx: ItemName: Deformer, ItemCount : 108
+[2018.07.18-13.19.29:428][629]LogFbx: ItemName: Video, ItemCount : 3
+[2018.07.18-13.19.29:435][629]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCL_v1_OE_18.07.18.fbx
+[2018.07.18-13.19.29:535][629]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.34:463][629]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.07.18-13.19.34:508][629]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCL_v1_OE_18.07.18.fbx
+[2018.07.18-13.19.34:584][629]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-13.19.34:590][629]LogFbx: =================================================
+[2018.07.18-13.19.34:590][629]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.34:590][629]LogFbx: 	Total Deformer Count 1833283456.
+[2018.07.18-13.19.34:590][629]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.34:590][629]LogFbx: =================================================
+[2018.07.18-13.19.34:590][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:590][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.34:590][629]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.34:590][629]LogFbx: =================================================
+[2018.07.18-13.19.34:590][629]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.34:590][629]LogFbx: 	Total Deformer Count 1833283456.
+[2018.07.18-13.19.34:590][629]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.34:590][629]LogFbx: =================================================
+[2018.07.18-13.19.34:590][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:590][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.34:590][629]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.34:590][629]LogFbx: =================================================
+[2018.07.18-13.19.34:590][629]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.34:590][629]LogFbx: 	Total Deformer Count 1833276544.
+[2018.07.18-13.19.34:590][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:590][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.34:590][629]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.34:591][629]LogFbx: =================================================
+[2018.07.18-13.19.34:591][629]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-13.19.34:591][629]LogFbx: 	Total Deformer Count 1833283456.
+[2018.07.18-13.19.34:591][629]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.34:591][629]LogFbx: =================================================
+[2018.07.18-13.19.34:591][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:592][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-13.19.34:592][629]LogFbx: =================================================
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-13.19.34:592][629]LogFbx: 	Total Deformer Count 1833283456.
+[2018.07.18-13.19.34:592][629]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-13.19.34:592][629]LogFbx: =================================================
+[2018.07.18-13.19.34:592][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:592][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-13.19.34:592][629]LogFbx: =================================================
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.34:592][629]LogFbx: 	Total Deformer Count 1833287040.
+[2018.07.18-13.19.34:592][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:592][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.34:592][629]LogFbx: =================================================
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.34:592][629]LogFbx: 	Total Deformer Count 1833287296.
+[2018.07.18-13.19.34:592][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:592][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.34:592][629]LogFbx: =================================================
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.34:592][629]LogFbx: 	Total Deformer Count 1833275648.
+[2018.07.18-13.19.34:592][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:592][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.34:592][629]LogFbx: =================================================
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.34:592][629]LogFbx: 	Total Deformer Count 1833275264.
+[2018.07.18-13.19.34:592][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:592][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.34:592][629]LogFbx: =================================================
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.34:592][629]LogFbx: 	Total Deformer Count 1833272576.
+[2018.07.18-13.19.34:592][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:592][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.34:592][629]LogFbx: =================================================
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-13.19.34:592][629]LogFbx: 	Total Deformer Count 1833283456.
+[2018.07.18-13.19.34:592][629]LogFbx: 	Attribute () Type (4).
+[2018.07.18-13.19.34:592][629]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-13.19.34:592][629]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-13.19.34:592][629]LogFbx: SortedLinks :(0) root
+[2018.07.18-13.19.34:592][629]LogFbx: SortedLinks :(1) pelvis
+[2018.07.18-13.19.34:592][629]LogFbx: SortedLinks :(2) spine_01
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(3) spine_02
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(4) spine_03
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(5) neck_01
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(6) head
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(7) clavicle_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(8) upperarm_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(9) lowerarm_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(10) hand_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(11) index_01_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(12) index_02_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(13) index_03_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(14) middle_01_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(15) middle_02_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(16) middle_03_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(17) pinky_01_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(18) pinky_02_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(19) pinky_03_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(20) ring_01_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(21) ring_02_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(22) ring_03_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(23) thumb_01_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(24) thumb_02_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(25) thumb_03_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(26) clavicle_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(27) upperarm_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(29) hand_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(30) index_01_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(31) index_02_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(32) index_03_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(33) middle_01_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(34) middle_02_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(35) middle_03_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(39) ring_01_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(40) ring_02_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(41) ring_03_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(45) thigh_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(46) calf_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(47) foot_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(48) ball_r
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(49) joint1
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(50) thigh_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(51) calf_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(52) foot_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(53) ball_l
+[2018.07.18-13.19.34:593][629]LogFbx: SortedLinks :(54) joint2
+[2018.07.18-13.19.34:594][629]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-13.19.34:596][629]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCL_v1_OE_18_07_18'
+[2018.07.18-13.19.34:596][629]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCL_v1_OE_18_07_18'
+[2018.07.18-13.19.34:651][629]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCL_v1_OE_18_07_18.AN_CH_lightidlelookCL_v1_OE_18_07_18
+[2018.07.18-13.19.34:652][629]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AN_CH_lightidlelookCL_v1_OE_18_07_18) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-13.19.34:743][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2018.07.18-13.19.34:743][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository
+[2018.07.18-13.19.34:743][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository
+[2018.07.18-13.19.34:897][630]LogSavePackage: Save=17.96ms
+[2018.07.18-13.19.34:897][630]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/AN_CH_lightidlelookLC_v1_OE_18_0AF002BFF4FDEB18BA7264BB9164632C9.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLC_v1_OE_18_07_18.uasset'
+[2018.07.18-13.19.34:900][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLC_v1_OE_18_07_18.uasset
+[2018.07.18-13.19.34:974][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2018.07.18-13.19.34:974][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository
+[2018.07.18-13.19.34:974][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository
+[2018.07.18-13.19.35:109][630]LogSavePackage: Save=14.56ms
+[2018.07.18-13.19.35:109][630]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/AN_CH_lightjog01_v2_OE_18_07_18CAA82FC147CA6DBA9195A4AE4B3335F4.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog01_v2_OE_18_07_18.uasset'
+[2018.07.18-13.19.35:112][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog01_v2_OE_18_07_18.uasset
+[2018.07.18-13.19.35:322][630]LogSavePackage: Save=18.23ms
+[2018.07.18-13.19.35:322][630]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/AN_CH_lightidlelookLL_v1_OE_18_00A9AF937434F6C63915AFF96392823C5.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLL_v1_OE_18_07_18.uasset'
+[2018.07.18-13.19.35:324][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLL_v1_OE_18_07_18.uasset
+[2018.07.18-13.19.35:533][630]LogSavePackage: Save=17.23ms
+[2018.07.18-13.19.35:533][630]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/AN_CH_lightidlelookUL_v1_OE_18_0CC01ABDC42B77C2B4D8FC9A25A00F2DB.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookUL_v1_OE_18_07_18.uasset'
+[2018.07.18-13.19.35:536][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookUL_v1_OE_18_07_18.uasset
+[2018.07.18-13.19.35:738][630]LogSavePackage: Save=14.47ms
+[2018.07.18-13.19.35:738][630]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/AN_CH_lightidlelookCU_v1_OE_18_06B3F90EF4B9504CF1239C2B38465B3D3.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCU_v1_OE_18_07_18.uasset'
+[2018.07.18-13.19.35:741][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCU_v1_OE_18_07_18.uasset
+[2018.07.18-13.19.35:970][630]LogSavePackage: Save=23.13ms
+[2018.07.18-13.19.35:970][630]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/AN_CH_lightidlelookCL_v1_OE_18_0FC3EAA0C4B6D173D4A9774AE509F363A.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCL_v1_OE_18_07_18.uasset'
+[2018.07.18-13.19.35:974][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCL_v1_OE_18_07_18.uasset
+[2018.07.18-13.19.37:195][675]LogSlate: Window 'Message Log' being destroyed
+[2018.07.18-13.19.37:210][675]LogSlate: Window 'Message Log' being destroyed
+[2018.07.18-13.19.39:097][752]AssetReimport: Importing new asset /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLC_v1_OE_18_07_18.
+[2018.07.18-13.19.39:097][752]AssetReimport: Importing new asset /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog01_v2_OE_18_07_18.
+[2018.07.18-13.19.39:097][752]AssetReimport: Importing new asset /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLL_v1_OE_18_07_18.
+[2018.07.18-13.19.39:097][752]AssetReimport: Importing new asset /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookUL_v1_OE_18_07_18.
+[2018.07.18-13.19.39:097][752]AssetReimport: Importing new asset /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCU_v1_OE_18_07_18.
+[2018.07.18-13.19.39:097][752]AssetReimport: Importing new asset /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCL_v1_OE_18_07_18.
+[2018.07.18-13.20.06:238][989]LogSavePackage: Save=15.82ms
+[2018.07.18-13.20.06:238][989]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog_V4_SQ6BE131304B7D96FC65AA0F9AA09D8911.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_V4_SQ.uasset'
+[2018.07.18-13.20.06:241][989]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_V4_SQ.uasset
+[2018.07.18-13.20.06:702][989]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001761d3df280, Size=192
+[2018.07.18-13.20.06:888][989]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog01_v2_OE_18_07_18.uasset'
+[2018.07.18-13.20.25:762][872]LogSavePackage: Save=15.25ms
+[2018.07.18-13.20.25:762][872]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Idle_LL_SQ8389F8BD4815A85AE9E634A0AEC2BAE5.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LL_SQ.uasset'
+[2018.07.18-13.20.25:765][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LL_SQ.uasset
+[2018.07.18-13.20.26:395][872]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCL_v1_OE_18_07_18.uasset'
+[2018.07.18-13.20.41:491][570]LogSavePackage: Save=15.51ms
+[2018.07.18-13.20.41:491][570]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Idle_LCU_SQ919FEF5E4A31CCF53AC363A2792A0667.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LCU_SQ.uasset'
+[2018.07.18-13.20.41:493][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LCU_SQ.uasset
+[2018.07.18-13.20.42:116][570]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookCU_v1_OE_18_07_18.uasset'
+[2018.07.18-13.21.04:274][510]LogSavePackage: Save=15.24ms
+[2018.07.18-13.21.04:274][510]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Idle_LCL_SQ4F056893477BE198B926EEBADFEBCDF4.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LCL_SQ.uasset'
+[2018.07.18-13.21.04:277][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LCL_SQ.uasset
+[2018.07.18-13.21.04:904][510]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/Idle_LL_SQ.uasset'
+[2018.07.18-13.21.24:756][358]LogSavePackage: Save=17.64ms
+[2018.07.18-13.21.24:756][358]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Idle_LCD_SQ3B8B3CD64DD83D5B6B287C81EB38D1F8.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LCD_SQ.uasset'
+[2018.07.18-13.21.24:758][358]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LCD_SQ.uasset
+[2018.07.18-13.21.25:403][358]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLC_v1_OE_18_07_18.uasset'
+[2018.07.18-13.22.13:702][349]LogSavePackage: Save=16.48ms
+[2018.07.18-13.22.13:702][349]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Idle_LLD_SQB89D4EDE4298B51705117680C6753F39.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LLD_SQ.uasset'
+[2018.07.18-13.22.13:705][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LLD_SQ.uasset
+[2018.07.18-13.22.14:358][349]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookLL_v1_OE_18_07_18.uasset'
+[2018.07.18-13.22.30:311][ 20]LogSavePackage: Save=16.50ms
+[2018.07.18-13.22.30:311][ 20]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Idle_LDL_SQE1FB12B8480C0B06B2341FB5F4BD621B.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LDL_SQ.uasset'
+[2018.07.18-13.22.30:314][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LDL_SQ.uasset
+[2018.07.18-13.22.30:977][ 20]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/Idle_LLD_SQ.uasset'
+[2018.07.18-13.22.47:750][647]LogSavePackage: Save=15.92ms
+[2018.07.18-13.22.47:750][647]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Idle_LLU_SQCC62CEF44A44EEFD5A4E8189FC85F4B4.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LLU_SQ.uasset'
+[2018.07.18-13.22.47:752][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LLU_SQ.uasset
+[2018.07.18-13.22.48:402][647]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightidlelookUL_v1_OE_18_07_18.uasset'
+[2018.07.18-13.22.59:409][ 33]LogSavePackage: Save=16.07ms
+[2018.07.18-13.22.59:409][ 33]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Idle_LUL_SQ39F44FEA4E5A108F324D2F9CD9228C75.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LUL_SQ.uasset'
+[2018.07.18-13.22.59:412][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Idle_LUL_SQ.uasset
+[2018.07.18-13.23.00:054][ 33]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/Idle_LLU_SQ.uasset'
+[2018.07.18-13.24.01:841][187]LogSavePackage: Save=15.59ms
+[2018.07.18-13.24.01:841][187]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Idle79E6B165436A18A5EC0B8593BEB9FD64.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Idle.uasset'
+[2018.07.18-13.24.01:844][187]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Idle.uasset
+[2018.07.18-13.24.32:710][813]LogSavePackage: Save=15.89ms
+[2018.07.18-13.24.32:710][813]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/CombatBC7445304E8C03A82865BF80970EA35E.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Combat.uasset'
+[2018.07.18-13.24.32:713][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Combat.uasset
+[2018.07.18-13.24.50:979][507]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.18-13.24.50:999][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.24.51:000][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-13.24.51:000][507]PIE: New page: PIE session: Map_01 (18 Jul 2018 15:24:51)
+[2018.07.18-13.24.51:000][507]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-13.24.51:020][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019698s)
+[2018.07.18-13.24.51:021][507]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-13.24.51:022][507]LogPlayLevel: PIE: World Init took: (0.002027s)
+[2018.07.18-13.24.51:022][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.022083s)
+[2018.07.18-13.24.51:050][507]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-13.24.51:064][507]LogInit: FAudioDevice initialized.
+[2018.07.18-13.24.51:116][507]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-13.24.51:122][507]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.18-14.24.51
+[2018.07.18-13.24.51:123][507]LogWorld: Bringing up level for play took: 0.005670
+[2018.07.18-13.24.51:130][507]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.22
+[2018.07.18-13.24.51:130][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.24.55:660][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.24.55:684][824]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.18-13.24.55:728][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.25.45:752][729]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.18-13.25.45:774][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.25.45:774][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-13.25.45:774][729]PIE: New page: PIE session: Map_01 (18 Jul 2018 15:25:45)
+[2018.07.18-13.25.45:774][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-13.25.45:793][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019166s)
+[2018.07.18-13.25.45:795][729]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-13.25.45:795][729]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2018.07.18-13.25.45:795][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.020866s)
+[2018.07.18-13.25.45:821][729]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-13.25.45:834][729]LogInit: FAudioDevice initialized.
+[2018.07.18-13.25.45:890][729]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-13.25.45:895][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.18-14.25.45
+[2018.07.18-13.25.45:896][729]LogWorld: Bringing up level for play took: 0.004401
+[2018.07.18-13.25.45:904][729]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.554
+[2018.07.18-13.25.45:905][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.26.24:522][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.26.24:546][  7]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.18-13.26.24:584][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.29.37:616][836]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.18-13.29.37:638][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.29.37:639][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-13.29.37:639][836]PIE: New page: PIE session: Map_01 (18 Jul 2018 15:29:37)
+[2018.07.18-13.29.37:639][836]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-13.29.37:660][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021359s)
+[2018.07.18-13.29.37:662][836]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-13.29.37:662][836]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2018.07.18-13.29.37:662][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.023152s)
+[2018.07.18-13.29.37:692][836]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-13.29.37:704][836]LogInit: FAudioDevice initialized.
+[2018.07.18-13.29.37:761][836]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-13.29.37:766][836]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 0) at 2018.07.18-14.29.37
+[2018.07.18-13.29.37:767][836]LogWorld: Bringing up level for play took: 0.004870
+[2018.07.18-13.29.37:774][836]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.424
+[2018.07.18-13.29.37:774][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.29.59:145][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-13.29.59:169][862]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.18-13.29.59:210][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-14.01.34:456][965]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.18-14.01.34:479][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-14.01.34:479][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-14.01.34:479][965]PIE: New page: PIE session: Map_01 (18 Jul 2018 16:01:34)
+[2018.07.18-14.01.34:479][965]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-14.01.34:499][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019978s)
+[2018.07.18-14.01.34:501][965]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-14.01.34:501][965]LogPlayLevel: PIE: World Init took: (0.001652s)
+[2018.07.18-14.01.34:501][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.021830s)
+[2018.07.18-14.01.34:531][965]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-14.01.34:544][965]LogInit: FAudioDevice initialized.
+[2018.07.18-14.01.34:600][965]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-14.01.34:605][965]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2018.07.18-15.01.34
+[2018.07.18-14.01.34:606][965]LogWorld: Bringing up level for play took: 0.004776
+[2018.07.18-14.01.34:615][965]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.735
+[2018.07.18-14.01.34:615][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-14.01.41:099][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-14.01.41:123][349]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.18-14.01.41:167][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-14.27.33:533][967]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.18-14.27.48:393][967]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.18-14.27.49:471][967]LogSourceControl: commit successful: [Light c26c73e] Updated Light animations and Blendspaces
+[2018.07.18-14.27.49:671][967]SourceControl: [Light c26c73e] Updated Light animations and Blendspaces
+[2018.07.18-14.27.49:671][967]SourceControl:  18 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Blendspace/Combat.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Blendspace/Idle.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Blendspace/IdleWalkRun.uasset (99%)
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Blendspace/WalkRun.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Idle_LCD_SQ.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Idle_LCL_SQ.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Idle_LCU_SQ.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Idle_LDL_SQ.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Idle_LUL_SQ.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ.uasset (99%)
+[2018.07.18-14.27.49:671][967]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored.uasset (100%)
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Jog_V4_SQ.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Sprint_LC_Mirrored_SQ.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Sprint_LC_SQ.uasset
+[2018.07.18-14.27.49:671][967]SourceControl:  rewrite Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset (85%)
+[2018.07.18-14.27.49:681][967]SourceControl: Commited [Light c26c73e] Updated Light animations and Blendspaces.
+[2018.07.18-14.27.55:186][215]LogSlate: Window 'BP_Light_V2' being destroyed
+[2018.07.18-14.27.55:257][215]LogSlate: Window 'GK_Rep - Unreal Editor' being destroyed
+[2018.07.18-14.27.55:257][215]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.18-14.27.55:500][216]Cmd: QUIT_EDITOR
+[2018.07.18-14.27.55:695][216]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.18-14.27.55:695][216]LogExit: Preparing to exit.
+[2018.07.18-14.27.56:894][216]LogDirectoryWatcher: A directory notification for 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/' was aborted.
+[2018.07.18-14.27.57:020][216]LogExit: Editor shut down
+[2018.07.18-14.27.57:051][216]LogExit: Transaction tracking system shut down
+[2018.07.18-14.27.57:053][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001758aa433c0, Size=56
+[2018.07.18-14.27.57:053][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001758aa856c0, Size=272
+[2018.07.18-14.27.57:053][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001758b8636a0, Size=48
+[2018.07.18-14.27.57:053][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001758b8a7460, Size=88
+[2018.07.18-14.27.57:053][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001758b853660, Size=56
+[2018.07.18-14.27.57:053][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001758ab69c00, Size=976
+[2018.07.18-14.27.57:068][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001758f07fc40, Size=72
+[2018.07.18-14.27.57:069][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175acb1a700, Size=296
+[2018.07.18-14.27.57:069][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175ad693c60, Size=32
+[2018.07.18-14.27.57:084][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017635a40090, Size=4
+[2018.07.18-14.27.57:084][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017636b63ff0, Size=4
+[2018.07.18-14.27.57:087][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175ad9b1c00, Size=976
+[2018.07.18-14.27.57:087][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017672062d40, Size=192
+[2018.07.18-14.27.57:087][216]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001766d45a080, Size=128
+[2018.07.18-14.27.57:284][216]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.18-14.27.57:284][216]LogDirectoryWatcher: A directory notification for '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/' was aborted.
+[2018.07.18-14.27.57:284][216]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.18-14.27.57:284][216]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.07.18-14.27.57:284][216]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.18-14.27.57:284][216]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.18-14.27.57:284][216]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.18-14.27.57:284][216]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.18-14.27.57:465][216]LogExit: Object subsystem successfully closed.
+[2018.07.18-14.27.57:498][216]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.18-14.27.57:505][216]LogD3D11RHI: Shutdown
+[2018.07.18-14.27.57:505][216]LogD3D11RHI: CleanupD3DDevice
+[2018.07.18-14.27.57:516][216]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.18-14.27.57:535][216]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2018.07.18-14.27.57:535][216]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (598)
+[2018.07.18-14.27.57:535][216]LogModuleManager: Shutting down and abandoning module PinnedCommandList (596)
+[2018.07.18-14.27.57:535][216]LogModuleManager: Shutting down and abandoning module SkeletonEditor (594)
+[2018.07.18-14.27.57:535][216]LogModuleManager: Shutting down and abandoning module AnimationEditor (592)
+[2018.07.18-14.27.57:535][216]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (590)
+[2018.07.18-14.27.57:535][216]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (588)
+[2018.07.18-14.27.57:535][216]LogModuleManager: Shutting down and abandoning module SceneOutliner (586)
+[2018.07.18-14.27.57:535][216]LogModuleManager: Shutting down and abandoning module AddContentDialog (584)
+[2018.07.18-14.27.57:536][216]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module WidgetCarousel (583)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module EditorWidgets (580)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module CollectionManager (578)
+[2018.07.18-14.27.57:542][216]LogDirectoryWatcher: A directory notification for 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Collections/' was aborted.
+[2018.07.18-14.27.57:542][216]LogDirectoryWatcher: A directory notification for 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Developers/NTI/Collections/' was aborted.
+[2018.07.18-14.27.57:542][216]LogDirectoryWatcher: A directory notification for 'C:/Users/NTI/Documents/GitHub/GK_Rep/Saved/Collections/' was aborted.
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module StatsViewer (576)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module FoliageEdit (574)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module LandscapeEditor (572)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module MeshPaintMode (570)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (568)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module ActorPickerMode (566)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module GeometryMode (564)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module TextureAlignMode (562)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module BspMode (560)
+[2018.07.18-14.27.57:542][216]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (558)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module HardwareSurvey (556)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (554)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module AutomationWorker (552)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (550)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module SequenceRecorder (549)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (546)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (544)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module PlacementMode (543)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module MaterialEditor (542)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (538)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (536)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (534)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (532)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (530)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (528)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (526)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (524)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (522)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (520)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module CharacterAI (518)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module SmartSnapping (516)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module SessionServices (514)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module ViewportSnapping (512)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module ViewportInteraction (510)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module ClothPainter (508)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (507)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module LogVisualizer (504)
+[2018.07.18-14.27.57:543][216]LogModuleManager: Shutting down and abandoning module IntroTutorials (502)
+[2018.07.18-14.27.57:544][216]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (501)
+[2018.07.18-14.27.57:544][216]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (498)
+[2018.07.18-14.27.57:544][216]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (496)
+[2018.07.18-14.27.57:544][216]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (494)
+[2018.07.18-14.27.57:544][216]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (493)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (490)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (488)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (486)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module InputBindingEditor (484)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module MergeActors (482)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (480)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module LocalizationService (479)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module HardwareTargeting (476)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (474)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module UndoHistory (472)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module XmlParser (470)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module Blutility (468)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (466)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (465)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (462)
+[2018.07.18-14.27.57:747][216]LogModuleManager: Shutting down and abandoning module SettingsEditor (460)
+[2018.07.18-14.27.57:748][216]LogModuleManager: Shutting down and abandoning module ProjectLauncher (458)
+[2018.07.18-14.27.57:748][216]LogModuleManager: Shutting down and abandoning module SessionFrontend (456)
+[2018.07.18-14.27.57:748][216]LogModuleManager: Shutting down and abandoning module ProfilerClient (454)
+[2018.07.18-14.27.57:748][216]LogModuleManager: Shutting down and abandoning module DeviceManager (452)
+[2018.07.18-14.27.57:748][216]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (451)
+[2018.07.18-14.27.57:802][216]LogModuleManager: Shutting down and abandoning module AutomationController (448)
+[2018.07.18-14.27.57:802][216]LogModuleManager: Shutting down and abandoning module AutomationWindow (446)
+[2018.07.18-14.27.57:802][216]LogModuleManager: Shutting down and abandoning module Layers (444)
+[2018.07.18-14.27.57:802][216]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (442)
+[2018.07.18-14.27.57:802][216]LogModuleManager: Shutting down and abandoning module DetailCustomizations (440)
+[2018.07.18-14.27.57:802][216]LogModuleManager: Shutting down and abandoning module PackagesDialog (438)
+[2018.07.18-14.27.57:803][216]LogModuleManager: Shutting down and abandoning module Persona (436)
+[2018.07.18-14.27.57:803][216]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (435)
+[2018.07.18-14.27.57:803][216]LogModuleManager: Shutting down and abandoning module Kismet (432)
+[2018.07.18-14.27.57:816][216]LogModuleManager: Shutting down and abandoning module GraphEditor (430)
+[2018.07.18-14.27.57:816][216]LogModuleManager: Shutting down and abandoning module ClassViewer (428)
+[2018.07.18-14.27.57:816][216]LogModuleManager: Shutting down and abandoning module Toolbox (426)
+[2018.07.18-14.27.57:816][216]LogModuleManager: Shutting down and abandoning module ModuleUI (424)
+[2018.07.18-14.27.57:816][216]LogModuleManager: Shutting down and abandoning module MovieSceneTools (422)
+[2018.07.18-14.27.57:816][216]LogModuleManager: Shutting down and abandoning module OutputLog (420)
+[2018.07.18-14.27.57:816][216]LogModuleManager: Shutting down and abandoning module GammaUI (418)
+[2018.07.18-14.27.57:816][216]LogModuleManager: Shutting down and abandoning module Documentation (416)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (414)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module MovieScene (412)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (410)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module LauncherPlatform (408)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module AnalyticsET (406)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module PortalServices (404)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module PortalRpc (402)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module MessagingRpc (400)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module AIModule (398)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module GameplayDebugger (397)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module AITestSuite (395)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module DesktopPlatform (392)
+[2018.07.18-14.27.57:817][216]LogModuleManager: Shutting down and abandoning module ProfilerService (390)
+[2018.07.18-14.27.58:046][216]LogModuleManager: Shutting down and abandoning module TaskGraph (388)
+[2018.07.18-14.27.58:046][216]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (386)
+[2018.07.18-14.27.58:047][216]LogModuleManager: Shutting down and abandoning module SubstanceSource (384)
+[2018.07.18-14.27.58:047][216]LogModuleManager: Shutting down and abandoning module SubstanceEditor (382)
+[2018.07.18-14.27.58:047][216]LogModuleManager: Shutting down and abandoning module SteamVRController (380)
+[2018.07.18-14.27.58:047][216]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (378)
+[2018.07.18-14.27.58:047][216]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (376)
+[2018.07.18-14.27.58:047][216]LogModuleManager: Shutting down and abandoning module OculusInput (374)
+[2018.07.18-14.27.58:047][216]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (372)
+[2018.07.18-14.27.58:047][216]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (370)
+[2018.07.18-14.27.58:047][216]LogModuleManager: Shutting down and abandoning module CableComponent (368)
+[2018.07.18-14.27.58:048][216]LogModuleManager: Shutting down and abandoning module AudioCapture (366)
+[2018.07.18-14.27.58:048][216]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (364)
+[2018.07.18-14.27.58:048][216]LogModuleManager: Shutting down and abandoning module AndroidPermission (362)
+[2018.07.18-14.27.58:048][216]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (358)
+[2018.07.18-14.27.58:048][216]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (356)
+[2018.07.18-14.27.58:048][216]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (354)
+[2018.07.18-14.27.58:048][216]LogModuleManager: Shutting down and abandoning module MediaCompositing (352)
+[2018.07.18-14.27.58:048][216]LogModuleManager: Shutting down and abandoning module LinearTimecode (350)
+[2018.07.18-14.27.58:048][216]LogModuleManager: Shutting down and abandoning module ImgMedia (348)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module MirrorAnimationSystem (346)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module MirrorAnimationSystemEditor (345)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module AnimGraph (343)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module BlueprintGraph (341)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2018.07.18-14.27.58:060][216]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2018.07.18-14.27.58:061][216]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2018.07.18-14.27.58:061][216]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2018.07.18-14.27.58:061][216]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2018.07.18-14.27.58:061][216]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2018.07.18-14.27.58:061][216]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2018.07.18-14.27.58:061][216]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2018.07.18-14.27.58:061][216]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2018.07.18-14.27.58:061][216]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2018.07.18-14.27.58:061][216]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2018.07.18-14.27.58:062][216]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2018.07.18-14.27.58:062][216]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2018.07.18-14.27.58:062][216]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (290)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (288)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module PhysXVehicles (286)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module OculusEditor (284)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (282)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (280)
+[2018.07.18-14.27.58:063][216]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (278)
+[2018.07.18-14.27.58:064][216]LogModuleManager: Shutting down and abandoning module ActorSequence (276)
+[2018.07.18-14.27.58:064][216]LogModuleManager: Shutting down and abandoning module UdpMessaging (274)
+[2018.07.18-14.27.58:164][216]LogModuleManager: Shutting down and abandoning module TcpMessaging (272)
+[2018.07.18-14.27.58:265][216]LogModuleManager: Shutting down and abandoning module SubstanceCore (270)
+[2018.07.18-14.27.58:265][216]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.07.18-14.27.58:265][216]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.07.18-14.27.58:265][216]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.07.18-14.27.58:265][216]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.07.18-14.27.58:265][216]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.07.18-14.27.58:265][216]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.07.18-14.27.58:266][216]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.07.18-14.27.58:266][216]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.07.18-14.27.58:267][216]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.07.18-14.27.58:267][216]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.07.18-14.27.58:267][216]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.07.18-14.27.58:269][216]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.07.18-14.27.58:269][216]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.07.18-14.27.58:269][216]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.07.18-14.27.58:269][216]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.07.18-14.27.58:876][216]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.07.18-14.27.58:876][216]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.07.18-14.27.58:876][216]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.07.18-14.27.58:878][216]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.07.18-14.27.58:885][216]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.07.18-14.27.58:885][216]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.07.18-14.27.58:887][216]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.07.18-14.27.58:888][216]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.07.18-14.27.58:888][216]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.07.18-14.27.58:888][216]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.07.18-14.27.58:888][216]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.07.18-14.27.58:888][216]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.07.18-14.27.58:889][216]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.07.18-14.27.58:889][216]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.07.18-14.27.58:892][216]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.07.18-14.27.58:900][216]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.07.18-14.27.58:936][216]LogDerivedDataCache: Shutdown
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.07.18-14.27.58:937][216]LogXGEController: Cleaning working directory: C:/Users/NTI/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.07.18-14.27.58:937][216]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.18-14.27.58:938][216]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.18-14.27.58:939][216]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.18-14.27.58:939][216]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.18-14.27.58:939][216]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6ECAF7BB-4D1E-6BBE-FE73-9390ED84B31A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=77753dc74482cab5e554728ced36d14f%7C07b09b362d3542dfbc3a0e9119d61f2f%7C69330d80-823d-4454-ac3b-063006ed3486&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.18-14.27.58:976][216]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.18-14.27.58:979][216]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.18-14.27.58:980][216]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.18-14.27.58:980][216]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.18-14.27.58:980][216]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.18-14.27.58:980][216]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.18-14.27.58:980][216]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.18-14.27.58:980][216]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.18-14.27.58:984][216]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.18-14.27.58:991][216]LogExit: Exiting.
+[2018.07.18-14.27.59:012][216]Log file closed, 07/18/18 15:27:59
