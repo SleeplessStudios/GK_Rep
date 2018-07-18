@@ -1497,3 +1497,99 @@ LogInit: Object subsystem initialized
 [2018.07.18-12.41.23:840][587]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/Dodge_SQ_Mirrored.Dodge_SQ_Mirrored
 [2018.07.18-12.41.23:840][587]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Dodge_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
 [2018.07.18-12.41.23:844][587]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.42.34:314][492]LogSavePackage: Save=15.39ms
+[2018.07.18-12.42.34:314][492]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP05_V2_SQ_Mirrored159EDB499454CE80A9E1BB7A408438540.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ_Mirrored1.uasset'
+[2018.07.18-12.42.34:316][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ_Mirrored1.uasset
+[2018.07.18-12.42.34:578][492]LogAnimation: Warning: [NCP05_V2_SQ_Mirrored1] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.42.34:578][492]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ_Mirrored1.NCP05_V2_SQ_Mirrored1
+[2018.07.18-12.42.34:578][492]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NCP05_V2_SQ_Mirrored1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.42.34:583][492]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.42.37:634][604]LogSavePackage: Save=15.14ms
+[2018.07.18-12.42.37:634][604]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP04_V2_SQ_Mirrored146D9315148A325E543675EAB901FC5CE.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ_Mirrored1.uasset'
+[2018.07.18-12.42.37:636][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ_Mirrored1.uasset
+[2018.07.18-12.42.37:888][604]LogAnimation: Warning: [NCP04_V2_SQ_Mirrored1] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.42.37:888][604]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ_Mirrored1.NCP04_V2_SQ_Mirrored1
+[2018.07.18-12.42.37:889][604]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NCP04_V2_SQ_Mirrored1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.42.37:893][604]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.42.45:833][952]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.42.46:424][998]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.42.49:975][123]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.18-12.42.50:240][123]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ_Mirrored1.uasset'
+[2018.07.18-12.42.58:431][389]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.18-12.42.58:673][389]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ_Mirrored1.uasset'
+[2018.07.18-12.43.09:464][856]LogSavePackage: Save=17.11ms
+[2018.07.18-12.43.09:465][856]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog_LC_SQ_Mirrored1F721C023484758FC648A32983EA770FE.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored1.uasset'
+[2018.07.18-12.43.09:467][856]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored1.uasset
+[2018.07.18-12.43.09:714][856]LogAnimation: Warning: [Jog_LC_SQ_Mirrored1] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.43.09:714][856]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored1.Jog_LC_SQ_Mirrored1
+[2018.07.18-12.43.09:715][856]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_LC_SQ_Mirrored1) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.43.09:718][856]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.43.12:422][928]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.18-12.43.12:693][928]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored1.uasset'
+[2018.07.18-12.43.15:765][119]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.18-12.43.15:849][119]EditorErrors: Warning: No assets to check in!
+[2018.07.18-12.43.16:582][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.18-12.43.16:726][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175ad6e9b00, Size=128
+[2018.07.18-12.43.16:726][151]LogUObjectGlobals: Created PersistentFrame Addr=0x00000175db9cd100, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_30:ExecuteUbergraph_Map_01
+[2018.07.18-12.43.16:730][151]LogUObjectGlobals: Created PersistentFrame Addr=0x00000175db9ccd80, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.18-12.43.17:234][151]LogSavePackage: Save=613.91ms
+[2018.07.18-12.43.17:234][151]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Map_01ECFF24964194E22FF87EEB9504549258.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap'
+[2018.07.18-12.43.17:237][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap
+[2018.07.18-12.43.23:197][464]LogSavePackage: Save=15.87ms
+[2018.07.18-12.43.23:197][464]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog_LC_SQ_MirroredB422211340BF42EFE7C322A27F2F18CD.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored.uasset'
+[2018.07.18-12.43.23:198][464]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored.uasset
+[2018.07.18-12.43.26:399][568]LogSavePackage: Save=14.96ms
+[2018.07.18-12.43.26:399][568]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Dodge_SQ_Mirrored035B883C4023523E70AB5E84D2435242.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Dodge_SQ_Mirrored.uasset'
+[2018.07.18-12.43.26:400][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Dodge_SQ_Mirrored.uasset
+[2018.07.18-12.43.35:912][921]LogSavePackage: Save=15.76ms
+[2018.07.18-12.43.35:912][921]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP02_V2_SQ_MirroredA488AD3B43F0C9CDB3C3FCBB388EEBE7.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP02_V2_SQ_Mirrored.uasset'
+[2018.07.18-12.43.35:913][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP02_V2_SQ_Mirrored.uasset
+[2018.07.18-12.43.36:075][921]LogSavePackage: Save=14.29ms
+[2018.07.18-12.43.36:075][921]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP03_V2_SQ_Mirrored727E34794A1103CA416B0594D48CD9F8.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP03_V2_SQ_Mirrored.uasset'
+[2018.07.18-12.43.36:076][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP03_V2_SQ_Mirrored.uasset
+[2018.07.18-12.43.36:236][921]LogSavePackage: Save=14.96ms
+[2018.07.18-12.43.36:236][921]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP04_V2_SQ_Mirrored1098D34F4E796274E155C4B3E6B27D7A.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ_Mirrored.uasset'
+[2018.07.18-12.43.36:237][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ_Mirrored.uasset
+[2018.07.18-12.43.36:398][921]LogSavePackage: Save=14.84ms
+[2018.07.18-12.43.36:398][921]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/RunTurn_180_SQ_MirroredFFB2A1E24811718B710CF9B5561305A6.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunTurn_180_SQ_Mirrored.uasset'
+[2018.07.18-12.43.36:399][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunTurn_180_SQ_Mirrored.uasset
+[2018.07.18-12.43.36:571][921]LogSavePackage: Save=14.87ms
+[2018.07.18-12.43.36:571][921]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/RunLeft_Lean_SQ_MirroredE6E1C4904693CA238734BE872B2FA958.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunLeft_Lean_SQ_Mirrored.uasset'
+[2018.07.18-12.43.36:572][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunLeft_Lean_SQ_Mirrored.uasset
+[2018.07.18-12.43.36:731][921]LogSavePackage: Save=15.21ms
+[2018.07.18-12.43.36:731][921]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/RangedAttack_V2_SQ_MirroredD57A32774C518B233DA2C5A75D99BD09.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ_Mirrored.uasset'
+[2018.07.18-12.43.36:732][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ_Mirrored.uasset
+[2018.07.18-12.43.36:912][921]LogSavePackage: Save=20.39ms
+[2018.07.18-12.43.36:912][921]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP05_V2_SQ_Mirrored11D415DD473D953C8C5572BA9A21FD49.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ_Mirrored.uasset'
+[2018.07.18-12.43.36:913][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ_Mirrored.uasset
+[2018.07.18-12.43.37:096][921]LogSavePackage: Save=15.07ms
+[2018.07.18-12.43.37:096][921]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/SCP01_SQ_Mirrored8F8B6024433C84976DA8808F152043D7.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/SCP01_SQ_Mirrored.uasset'
+[2018.07.18-12.43.37:097][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/SCP01_SQ_Mirrored.uasset
+[2018.07.18-12.43.37:271][921]LogSavePackage: Save=15.40ms
+[2018.07.18-12.43.37:271][921]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/SCP02_SQ_MirroredBBD38A4B40C020932DCD0B88FD8C8207.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/SCP02_SQ_Mirrored.uasset'
+[2018.07.18-12.43.37:272][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/SCP02_SQ_Mirrored.uasset
+[2018.07.18-12.43.39:924][104]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.18-12.43.42:384][104]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.18-12.43.43:178][104]LogSourceControl: commit successful: [Light c851232] hn
+[2018.07.18-12.43.43:265][104]SourceControl: [Light c851232] hn
+[2018.07.18-12.43.43:265][104]SourceControl:  12 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Dodge_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/NCP02_V2_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/NCP03_V2_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/RunLeft_Lean_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/RunTurn_180_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/SCP01_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:265][104]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/SCP02_SQ_Mirrored.uasset
+[2018.07.18-12.43.43:276][104]SourceControl: Commited [Light c851232] hn.
+[2018.07.18-12.43.44:785][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.18-12.43.44:798][190]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175db9cd100, Size=128
+[2018.07.18-12.43.44:842][190]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000175db9ccd80, Size=128
+[2018.07.18-12.43.44:842][190]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017607fc9600, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_34:ExecuteUbergraph_Map_01
+[2018.07.18-12.43.44:847][190]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017607fca400, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.18-12.43.45:341][190]LogSavePackage: Save=530.89ms
+[2018.07.18-12.43.45:341][190]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Map_01C2C7AC014FF699D9DC138BA8162B941B.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap'
+[2018.07.18-12.43.45:344][190]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap
