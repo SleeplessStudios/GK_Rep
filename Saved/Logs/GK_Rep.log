@@ -480,3 +480,943 @@ LogInit: Object subsystem initialized
 [2018.07.18-11.45.20:206][ 45]SourceControl:  delete mode 100644 Content/Generic/M_VertexPainting.uasset
 [2018.07.18-11.45.20:221][ 45]SourceControl: Commited [Light f1e4281]  lk.
 [2018.07.18-11.47.32:903][469]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.18-12.26.32:351][665]AssetReimport: New page: Detailed File System Changes from 13:26:32
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp301_v1_OE_19.06.18.fbx' has been deleted.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp401_v1_OE_20.06.18.fbx' has been deleted.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp501_v1_OE_20.06.18.fbx' has been deleted.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp601_v1_OE_20.06.18.fbx' has been deleted.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v1_OE_02.07.18.fbx' has been deleted.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v2_OE_02.07.18.fbx' has been deleted.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnright01_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnleft01_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop02_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop01_v2_OE_10.07.18.fbx' has been created.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftln01_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftlk01_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun02_v2_OE_09.07.18.fbx' has been created.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun01turn180_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog02_v1_OE_10.07.18.fbx' has been created.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_Lightrangedattack02_v1_OE_10.07.18.fbx' has been created.
+[2018.07.18-12.26.32:364][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack02_V1_OE_25.04.18.fbx' has been created.
+[2018.07.18-12.26.32:365][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack01_V1_OE_25.04.18.fbx' has been created.
+[2018.07.18-12.26.32:365][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_heavyattack04_V1_OE_30.04.18.fbx' has been created.
+[2018.07.18-12.26.32:365][665]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_hammerspawn_V1_OE_25.04.18.fbx' has been created.
+[2018.07.18-12.26.38:730][ 46]LogSlate: Window 'Message Log' being destroyed
+[2018.07.18-12.26.38:738][ 46]LogSlate: Window 'Message Log' being destroyed
+[2018.07.18-12.26.47:017][543]AssetReimport: New page: Detailed File System Changes from 13:26:47
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp301_v1_OE_19.06.18.fbx' has been deleted.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp401_v1_OE_20.06.18.fbx' has been deleted.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp501_v1_OE_20.06.18.fbx' has been deleted.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp601_v1_OE_20.06.18.fbx' has been deleted.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v1_OE_02.07.18.fbx' has been deleted.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v2_OE_02.07.18.fbx' has been deleted.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnright01_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnleft01_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop02_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop01_v2_OE_10.07.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftln01_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftlk01_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun02_v2_OE_09.07.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun01turn180_v1_OE_17.07.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog02_v1_OE_10.07.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_Lightrangedattack02_v1_OE_10.07.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack02_V1_OE_25.04.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack01_V1_OE_25.04.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_heavyattack04_V1_OE_30.04.18.fbx' has been created.
+[2018.07.18-12.26.47:028][543]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_hammerspawn_V1_OE_25.04.18.fbx' has been created.
+[2018.07.18-12.27.08:213][812]AssetReimport: New page: Outstanding source content changes 14:27:08
+[2018.07.18-12.27.08:219][812]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack02_V1_OE_25.04.18.fbx)
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: NodeAttribute, ItemCount : 27
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: Model, ItemCount : 99
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: Geometry, ItemCount : 70
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: Material, ItemCount : 6
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: AnimationCurve, ItemCount : 12
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: AnimationCurveNode, ItemCount : 6
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: Pose, ItemCount : 70
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: Deformer, ItemCount : 70
+[2018.07.18-12.27.08:229][812]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.18-12.27.08:234][812]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack02_V1_OE_25.04.18.fbx
+[2018.07.18-12.27.08:299][812]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.13:187][812]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.07.18-12.27.13:230][812]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack02_V1_OE_25.04.18.fbx
+[2018.07.18-12.27.13:296][812]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.13:365][813]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack01_V1_OE_25.04.18.fbx)
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: NodeAttribute, ItemCount : 27
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: Model, ItemCount : 99
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: Geometry, ItemCount : 70
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: Material, ItemCount : 6
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: AnimationCurve, ItemCount : 12
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: AnimationCurveNode, ItemCount : 6
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: Pose, ItemCount : 70
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: Deformer, ItemCount : 70
+[2018.07.18-12.27.13:373][813]LogFbx: ItemName: Video, ItemCount : 1
+[2018.07.18-12.27.13:378][813]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack01_V1_OE_25.04.18.fbx
+[2018.07.18-12.27.13:444][813]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.18:131][813]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.07.18-12.27.18:218][814]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnright01_v1_OE_17.07.18.fbx]
+[2018.07.18-12.27.18:232][814]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnright01_v1_OE_17.07.18.fbx
+[2018.07.18-12.27.18:300][814]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.18:308][814]LogFbx: =================================================
+[2018.07.18-12.27.18:308][814]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.18:308][814]LogFbx: 	Total Deformer Count -1386159232.
+[2018.07.18-12.27.18:308][814]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:308][814]LogFbx: =================================================
+[2018.07.18-12.27.18:308][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:308][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.18:308][814]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.18:308][814]LogFbx: =================================================
+[2018.07.18-12.27.18:308][814]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.18:308][814]LogFbx: 	Total Deformer Count -1386159232.
+[2018.07.18-12.27.18:308][814]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:308][814]LogFbx: =================================================
+[2018.07.18-12.27.18:309][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:309][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.18:309][814]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.18:309][814]LogFbx: =================================================
+[2018.07.18-12.27.18:309][814]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:309][814]LogFbx: 	Total Deformer Count -1386158080.
+[2018.07.18-12.27.18:309][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:309][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:309][814]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:310][814]LogFbx: =================================================
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.18:311][814]LogFbx: 	Total Deformer Count -1386159232.
+[2018.07.18-12.27.18:311][814]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:311][814]LogFbx: =================================================
+[2018.07.18-12.27.18:311][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:311][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.18:311][814]LogFbx: =================================================
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.18:311][814]LogFbx: 	Total Deformer Count -1386159232.
+[2018.07.18-12.27.18:311][814]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:311][814]LogFbx: =================================================
+[2018.07.18-12.27.18:311][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:311][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.18:311][814]LogFbx: =================================================
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:311][814]LogFbx: 	Total Deformer Count -1386162048.
+[2018.07.18-12.27.18:311][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:311][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:311][814]LogFbx: =================================================
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:311][814]LogFbx: 	Total Deformer Count -1386161664.
+[2018.07.18-12.27.18:311][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:311][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:311][814]LogFbx: =================================================
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:311][814]LogFbx: 	Total Deformer Count -1386157056.
+[2018.07.18-12.27.18:311][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:311][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:311][814]LogFbx: =================================================
+[2018.07.18-12.27.18:311][814]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:312][814]LogFbx: 	Total Deformer Count -1386162176.
+[2018.07.18-12.27.18:312][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:312][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:312][814]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:312][814]LogFbx: =================================================
+[2018.07.18-12.27.18:312][814]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:312][814]LogFbx: 	Total Deformer Count -1386156288.
+[2018.07.18-12.27.18:312][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:312][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:312][814]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:312][814]LogFbx: =================================================
+[2018.07.18-12.27.18:312][814]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:312][814]LogFbx: 	Total Deformer Count -1386159232.
+[2018.07.18-12.27.18:312][814]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:312][814]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:312][814]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:315][814]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-12.27.18:405][814]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/WalkTurn_Right_SQ.WalkTurn_Right_SQ
+[2018.07.18-12.27.18:406][814]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WalkTurn_Right_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.27.18:422][814]LogEditorFactories: -- imported successfully
+[2018.07.18-12.27.18:458][815]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnleft01_v1_OE_17.07.18.fbx]
+[2018.07.18-12.27.18:474][815]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnleft01_v1_OE_17.07.18.fbx
+[2018.07.18-12.27.18:545][815]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.18:549][815]LogFbx: =================================================
+[2018.07.18-12.27.18:549][815]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.18:549][815]LogFbx: 	Total Deformer Count -886349952.
+[2018.07.18-12.27.18:549][815]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:549][815]LogFbx: =================================================
+[2018.07.18-12.27.18:549][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:549][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.18:549][815]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.18:549][815]LogFbx: =================================================
+[2018.07.18-12.27.18:550][815]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.18:550][815]LogFbx: 	Total Deformer Count -886349952.
+[2018.07.18-12.27.18:550][815]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:550][815]LogFbx: =================================================
+[2018.07.18-12.27.18:550][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:550][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.18:550][815]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.18:550][815]LogFbx: =================================================
+[2018.07.18-12.27.18:550][815]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:550][815]LogFbx: 	Total Deformer Count -886352768.
+[2018.07.18-12.27.18:550][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:550][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:550][815]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:551][815]LogFbx: =================================================
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.18:551][815]LogFbx: 	Total Deformer Count -886349952.
+[2018.07.18-12.27.18:551][815]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:551][815]LogFbx: =================================================
+[2018.07.18-12.27.18:551][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:551][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.18:551][815]LogFbx: =================================================
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.18:551][815]LogFbx: 	Total Deformer Count -886349952.
+[2018.07.18-12.27.18:551][815]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:551][815]LogFbx: =================================================
+[2018.07.18-12.27.18:551][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:551][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.18:551][815]LogFbx: =================================================
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:551][815]LogFbx: 	Total Deformer Count -886353920.
+[2018.07.18-12.27.18:551][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:551][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:551][815]LogFbx: =================================================
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:551][815]LogFbx: 	Total Deformer Count -886353664.
+[2018.07.18-12.27.18:551][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:551][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:551][815]LogFbx: =================================================
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:551][815]LogFbx: 	Total Deformer Count -886354048.
+[2018.07.18-12.27.18:551][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:551][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:551][815]LogFbx: =================================================
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:551][815]LogFbx: 	Total Deformer Count -886353280.
+[2018.07.18-12.27.18:551][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:551][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:551][815]LogFbx: =================================================
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:551][815]LogFbx: 	Total Deformer Count -886353408.
+[2018.07.18-12.27.18:551][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:551][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:551][815]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:552][815]LogFbx: =================================================
+[2018.07.18-12.27.18:552][815]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:552][815]LogFbx: 	Total Deformer Count -886349952.
+[2018.07.18-12.27.18:552][815]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:552][815]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:552][815]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:553][815]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-12.27.18:630][815]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/WalkTurn_Left_SQ.WalkTurn_Left_SQ
+[2018.07.18-12.27.18:631][815]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WalkTurn_Left_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.27.18:643][815]LogEditorFactories: -- imported successfully
+[2018.07.18-12.27.18:669][816]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop02_v1_OE_17.07.18.fbx]
+[2018.07.18-12.27.18:687][816]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop02_v1_OE_17.07.18.fbx
+[2018.07.18-12.27.18:758][816]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.18:762][816]LogFbx: =================================================
+[2018.07.18-12.27.18:762][816]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.18:762][816]LogFbx: 	Total Deformer Count -886346496.
+[2018.07.18-12.27.18:763][816]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:763][816]LogFbx: =================================================
+[2018.07.18-12.27.18:763][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:763][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.18:763][816]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.18:763][816]LogFbx: =================================================
+[2018.07.18-12.27.18:763][816]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.18:763][816]LogFbx: 	Total Deformer Count -886346496.
+[2018.07.18-12.27.18:763][816]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:763][816]LogFbx: =================================================
+[2018.07.18-12.27.18:763][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:763][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.18:763][816]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.18:763][816]LogFbx: =================================================
+[2018.07.18-12.27.18:763][816]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:763][816]LogFbx: 	Total Deformer Count -886350848.
+[2018.07.18-12.27.18:763][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:763][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:763][816]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:764][816]LogFbx: =================================================
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.18:764][816]LogFbx: 	Total Deformer Count -886346496.
+[2018.07.18-12.27.18:764][816]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:764][816]LogFbx: =================================================
+[2018.07.18-12.27.18:764][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:764][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.18:764][816]LogFbx: =================================================
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.18:764][816]LogFbx: 	Total Deformer Count -886346496.
+[2018.07.18-12.27.18:764][816]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:764][816]LogFbx: =================================================
+[2018.07.18-12.27.18:764][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:764][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.18:764][816]LogFbx: =================================================
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:764][816]LogFbx: 	Total Deformer Count -1386154496.
+[2018.07.18-12.27.18:764][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:764][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:764][816]LogFbx: =================================================
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:764][816]LogFbx: 	Total Deformer Count -1386156160.
+[2018.07.18-12.27.18:764][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:764][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:764][816]LogFbx: =================================================
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:764][816]LogFbx: 	Total Deformer Count -1386157184.
+[2018.07.18-12.27.18:764][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:764][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:764][816]LogFbx: =================================================
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:764][816]LogFbx: 	Total Deformer Count -1386156928.
+[2018.07.18-12.27.18:764][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:764][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:764][816]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:765][816]LogFbx: =================================================
+[2018.07.18-12.27.18:765][816]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:765][816]LogFbx: 	Total Deformer Count -1386154496.
+[2018.07.18-12.27.18:765][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:765][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:765][816]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:765][816]LogFbx: =================================================
+[2018.07.18-12.27.18:765][816]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:765][816]LogFbx: 	Total Deformer Count -1386155264.
+[2018.07.18-12.27.18:765][816]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:765][816]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:765][816]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:766][816]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-12.27.18:850][816]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/RunStop_SQ.RunStop_SQ
+[2018.07.18-12.27.18:851][816]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RunStop_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.27.18:864][816]LogEditorFactories: -- imported successfully
+[2018.07.18-12.27.18:897][817]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop01_v2_OE_10.07.18.fbx]
+[2018.07.18-12.27.18:912][817]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop01_v2_OE_10.07.18.fbx
+[2018.07.18-12.27.18:981][817]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.18:986][817]LogFbx: =================================================
+[2018.07.18-12.27.18:986][817]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.18:986][817]LogFbx: 	Total Deformer Count -1386159616.
+[2018.07.18-12.27.18:986][817]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:986][817]LogFbx: =================================================
+[2018.07.18-12.27.18:986][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:986][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.18:986][817]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.18:986][817]LogFbx: =================================================
+[2018.07.18-12.27.18:986][817]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.18:986][817]LogFbx: 	Total Deformer Count -1386159616.
+[2018.07.18-12.27.18:986][817]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:986][817]LogFbx: =================================================
+[2018.07.18-12.27.18:986][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:986][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.18:986][817]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.18:986][817]LogFbx: =================================================
+[2018.07.18-12.27.18:986][817]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:986][817]LogFbx: 	Total Deformer Count -113865344.
+[2018.07.18-12.27.18:986][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:987][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:987][817]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:988][817]LogFbx: =================================================
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.18:988][817]LogFbx: 	Total Deformer Count -950059520.
+[2018.07.18-12.27.18:988][817]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:988][817]LogFbx: =================================================
+[2018.07.18-12.27.18:988][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:988][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.18:988][817]LogFbx: =================================================
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.18:988][817]LogFbx: 	Total Deformer Count -950059520.
+[2018.07.18-12.27.18:988][817]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.18:988][817]LogFbx: =================================================
+[2018.07.18-12.27.18:988][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:988][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.18:988][817]LogFbx: =================================================
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:988][817]LogFbx: 	Total Deformer Count -950061184.
+[2018.07.18-12.27.18:988][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:988][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:988][817]LogFbx: =================================================
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:988][817]LogFbx: 	Total Deformer Count -950061056.
+[2018.07.18-12.27.18:988][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:988][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:988][817]LogFbx: =================================================
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:988][817]LogFbx: 	Total Deformer Count -950060928.
+[2018.07.18-12.27.18:988][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:988][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:988][817]LogFbx: =================================================
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:988][817]LogFbx: 	Total Deformer Count -950060800.
+[2018.07.18-12.27.18:988][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:988][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:988][817]LogFbx: =================================================
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:988][817]LogFbx: 	Total Deformer Count -950060672.
+[2018.07.18-12.27.18:988][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:988][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:988][817]LogFbx: =================================================
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.18:988][817]LogFbx: 	Total Deformer Count -950059520.
+[2018.07.18-12.27.18:988][817]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.18:988][817]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.18:988][817]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.18:990][817]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-12.27.19:068][817]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/SprintStop_SQ.SprintStop_SQ
+[2018.07.18-12.27.19:069][817]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.SprintStop_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.27.19:081][817]LogEditorFactories: -- imported successfully
+[2018.07.18-12.27.19:109][818]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftln01_v1_OE_17.07.18.fbx]
+[2018.07.18-12.27.19:125][818]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftln01_v1_OE_17.07.18.fbx
+[2018.07.18-12.27.19:197][818]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.19:202][818]LogFbx: =================================================
+[2018.07.18-12.27.19:203][818]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.19:203][818]LogFbx: 	Total Deformer Count -950066304.
+[2018.07.18-12.27.19:203][818]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:203][818]LogFbx: =================================================
+[2018.07.18-12.27.19:203][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:203][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.19:203][818]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.19:203][818]LogFbx: =================================================
+[2018.07.18-12.27.19:203][818]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.19:203][818]LogFbx: 	Total Deformer Count -950066304.
+[2018.07.18-12.27.19:203][818]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:203][818]LogFbx: =================================================
+[2018.07.18-12.27.19:203][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:203][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.19:203][818]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.19:203][818]LogFbx: =================================================
+[2018.07.18-12.27.19:203][818]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:203][818]LogFbx: 	Total Deformer Count -950067968.
+[2018.07.18-12.27.19:203][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:203][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:203][818]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:204][818]LogFbx: =================================================
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.19:204][818]LogFbx: 	Total Deformer Count -950066304.
+[2018.07.18-12.27.19:204][818]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:204][818]LogFbx: =================================================
+[2018.07.18-12.27.19:204][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:204][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.19:204][818]LogFbx: =================================================
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.19:204][818]LogFbx: 	Total Deformer Count -950066304.
+[2018.07.18-12.27.19:204][818]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:204][818]LogFbx: =================================================
+[2018.07.18-12.27.19:204][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:204][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.19:204][818]LogFbx: =================================================
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:204][818]LogFbx: 	Total Deformer Count -950069376.
+[2018.07.18-12.27.19:204][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:204][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:204][818]LogFbx: =================================================
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:204][818]LogFbx: 	Total Deformer Count -950069248.
+[2018.07.18-12.27.19:204][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:204][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:204][818]LogFbx: =================================================
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:204][818]LogFbx: 	Total Deformer Count -950069120.
+[2018.07.18-12.27.19:204][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:204][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:204][818]LogFbx: =================================================
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:204][818]LogFbx: 	Total Deformer Count -950068992.
+[2018.07.18-12.27.19:204][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:204][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:204][818]LogFbx: =================================================
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:204][818]LogFbx: 	Total Deformer Count -950068864.
+[2018.07.18-12.27.19:204][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:204][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:204][818]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:205][818]LogFbx: =================================================
+[2018.07.18-12.27.19:205][818]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:205][818]LogFbx: 	Total Deformer Count -950066304.
+[2018.07.18-12.27.19:205][818]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:205][818]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:205][818]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:206][818]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-12.27.19:270][818]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/RunLeft_Lean_SQ.RunLeft_Lean_SQ
+[2018.07.18-12.27.19:271][818]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RunLeft_Lean_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.27.19:284][818]LogEditorFactories: -- imported successfully
+[2018.07.18-12.27.19:315][819]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftlk01_v1_OE_17.07.18.fbx]
+[2018.07.18-12.27.19:332][819]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftlk01_v1_OE_17.07.18.fbx
+[2018.07.18-12.27.19:399][819]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.19:404][819]LogFbx: =================================================
+[2018.07.18-12.27.19:404][819]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.19:404][819]LogFbx: 	Total Deformer Count -950066048.
+[2018.07.18-12.27.19:404][819]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:404][819]LogFbx: =================================================
+[2018.07.18-12.27.19:404][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:405][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.19:405][819]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.19:405][819]LogFbx: =================================================
+[2018.07.18-12.27.19:405][819]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.19:405][819]LogFbx: 	Total Deformer Count -950066048.
+[2018.07.18-12.27.19:405][819]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:405][819]LogFbx: =================================================
+[2018.07.18-12.27.19:405][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:405][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.19:405][819]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.19:405][819]LogFbx: =================================================
+[2018.07.18-12.27.19:405][819]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:405][819]LogFbx: 	Total Deformer Count -950073472.
+[2018.07.18-12.27.19:405][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:405][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:405][819]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:406][819]LogFbx: =================================================
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.19:406][819]LogFbx: 	Total Deformer Count -950066048.
+[2018.07.18-12.27.19:406][819]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:406][819]LogFbx: =================================================
+[2018.07.18-12.27.19:406][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:406][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.19:406][819]LogFbx: =================================================
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.19:406][819]LogFbx: 	Total Deformer Count -950066048.
+[2018.07.18-12.27.19:406][819]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:406][819]LogFbx: =================================================
+[2018.07.18-12.27.19:406][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:406][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.19:406][819]LogFbx: =================================================
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:406][819]LogFbx: 	Total Deformer Count -950074880.
+[2018.07.18-12.27.19:406][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:406][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:406][819]LogFbx: =================================================
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:406][819]LogFbx: 	Total Deformer Count -829702912.
+[2018.07.18-12.27.19:406][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:406][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:406][819]LogFbx: =================================================
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:406][819]LogFbx: 	Total Deformer Count -829702784.
+[2018.07.18-12.27.19:406][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:406][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:406][819]LogFbx: =================================================
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:406][819]LogFbx: 	Total Deformer Count -829702656.
+[2018.07.18-12.27.19:406][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:406][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:406][819]LogFbx: =================================================
+[2018.07.18-12.27.19:406][819]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:406][819]LogFbx: 	Total Deformer Count -829702528.
+[2018.07.18-12.27.19:407][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:407][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:407][819]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:407][819]LogFbx: =================================================
+[2018.07.18-12.27.19:407][819]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:407][819]LogFbx: 	Total Deformer Count -829702400.
+[2018.07.18-12.27.19:407][819]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:407][819]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:407][819]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:408][819]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-12.27.19:477][819]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ.Jog_LC_SQ
+[2018.07.18-12.27.19:477][819]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_LC_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.27.19:490][819]LogEditorFactories: -- imported successfully
+[2018.07.18-12.27.19:522][820]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun02_v2_OE_09.07.18.fbx]
+[2018.07.18-12.27.19:537][820]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun02_v2_OE_09.07.18.fbx
+[2018.07.18-12.27.19:606][820]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.19:611][820]LogFbx: =================================================
+[2018.07.18-12.27.19:611][820]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.19:611][820]LogFbx: 	Total Deformer Count -829708672.
+[2018.07.18-12.27.19:611][820]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:611][820]LogFbx: =================================================
+[2018.07.18-12.27.19:611][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:611][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.19:611][820]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.19:611][820]LogFbx: =================================================
+[2018.07.18-12.27.19:611][820]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.19:611][820]LogFbx: 	Total Deformer Count -829708672.
+[2018.07.18-12.27.19:611][820]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:611][820]LogFbx: =================================================
+[2018.07.18-12.27.19:611][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:611][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.19:611][820]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.19:611][820]LogFbx: =================================================
+[2018.07.18-12.27.19:611][820]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:611][820]LogFbx: 	Total Deformer Count -829710208.
+[2018.07.18-12.27.19:611][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:611][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:611][820]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:612][820]LogFbx: =================================================
+[2018.07.18-12.27.19:612][820]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.19:612][820]LogFbx: 	Total Deformer Count -829708672.
+[2018.07.18-12.27.19:612][820]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:612][820]LogFbx: =================================================
+[2018.07.18-12.27.19:612][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:612][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.19:612][820]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.19:612][820]LogFbx: =================================================
+[2018.07.18-12.27.19:612][820]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.19:612][820]LogFbx: 	Total Deformer Count -829708672.
+[2018.07.18-12.27.19:612][820]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:612][820]LogFbx: =================================================
+[2018.07.18-12.27.19:612][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:612][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.19:612][820]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.19:612][820]LogFbx: =================================================
+[2018.07.18-12.27.19:612][820]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:612][820]LogFbx: 	Total Deformer Count -829711616.
+[2018.07.18-12.27.19:612][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:612][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:612][820]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:613][820]LogFbx: =================================================
+[2018.07.18-12.27.19:613][820]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:613][820]LogFbx: 	Total Deformer Count -829711488.
+[2018.07.18-12.27.19:613][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:613][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:613][820]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:613][820]LogFbx: =================================================
+[2018.07.18-12.27.19:613][820]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:613][820]LogFbx: 	Total Deformer Count -829711360.
+[2018.07.18-12.27.19:613][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:613][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:613][820]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:613][820]LogFbx: =================================================
+[2018.07.18-12.27.19:613][820]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:613][820]LogFbx: 	Total Deformer Count -829711232.
+[2018.07.18-12.27.19:613][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:613][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:613][820]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:613][820]LogFbx: =================================================
+[2018.07.18-12.27.19:613][820]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:613][820]LogFbx: 	Total Deformer Count -829711104.
+[2018.07.18-12.27.19:613][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:613][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:613][820]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:613][820]LogFbx: =================================================
+[2018.07.18-12.27.19:613][820]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:613][820]LogFbx: 	Total Deformer Count -829708672.
+[2018.07.18-12.27.19:613][820]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:613][820]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:613][820]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:614][820]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-12.27.19:680][820]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/Sprint_V2_SQ.Sprint_V2_SQ
+[2018.07.18-12.27.19:680][820]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Sprint_V2_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.27.19:693][820]LogEditorFactories: -- imported successfully
+[2018.07.18-12.27.19:718][821]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun01turn180_v1_OE_17.07.18.fbx]
+[2018.07.18-12.27.19:735][821]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun01turn180_v1_OE_17.07.18.fbx
+[2018.07.18-12.27.19:807][821]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.19:812][821]LogFbx: =================================================
+[2018.07.18-12.27.19:812][821]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.19:812][821]LogFbx: 	Total Deformer Count -829707776.
+[2018.07.18-12.27.19:812][821]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:812][821]LogFbx: =================================================
+[2018.07.18-12.27.19:812][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:812][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.19:812][821]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.19:812][821]LogFbx: =================================================
+[2018.07.18-12.27.19:812][821]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.19:812][821]LogFbx: 	Total Deformer Count -829707776.
+[2018.07.18-12.27.19:812][821]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:812][821]LogFbx: =================================================
+[2018.07.18-12.27.19:812][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:812][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.19:812][821]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.19:812][821]LogFbx: =================================================
+[2018.07.18-12.27.19:812][821]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:812][821]LogFbx: 	Total Deformer Count -829715840.
+[2018.07.18-12.27.19:812][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:812][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:812][821]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:813][821]LogFbx: =================================================
+[2018.07.18-12.27.19:813][821]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.19:813][821]LogFbx: 	Total Deformer Count -829707776.
+[2018.07.18-12.27.19:813][821]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:813][821]LogFbx: =================================================
+[2018.07.18-12.27.19:813][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:813][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.19:813][821]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.19:813][821]LogFbx: =================================================
+[2018.07.18-12.27.19:813][821]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.19:813][821]LogFbx: 	Total Deformer Count -829707776.
+[2018.07.18-12.27.19:813][821]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.19:813][821]LogFbx: =================================================
+[2018.07.18-12.27.19:813][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:813][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.19:813][821]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.19:813][821]LogFbx: =================================================
+[2018.07.18-12.27.19:813][821]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:813][821]LogFbx: 	Total Deformer Count -829717248.
+[2018.07.18-12.27.19:813][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:813][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:813][821]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:813][821]LogFbx: =================================================
+[2018.07.18-12.27.19:813][821]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:813][821]LogFbx: 	Total Deformer Count -829717120.
+[2018.07.18-12.27.19:813][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:813][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:813][821]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:813][821]LogFbx: =================================================
+[2018.07.18-12.27.19:813][821]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:814][821]LogFbx: 	Total Deformer Count -829716992.
+[2018.07.18-12.27.19:814][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:814][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:814][821]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:814][821]LogFbx: =================================================
+[2018.07.18-12.27.19:814][821]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:814][821]LogFbx: 	Total Deformer Count -829716864.
+[2018.07.18-12.27.19:814][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:814][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:814][821]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:814][821]LogFbx: =================================================
+[2018.07.18-12.27.19:814][821]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:814][821]LogFbx: 	Total Deformer Count -1504808064.
+[2018.07.18-12.27.19:814][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:814][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:814][821]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:814][821]LogFbx: =================================================
+[2018.07.18-12.27.19:814][821]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.19:814][821]LogFbx: 	Total Deformer Count -1504808832.
+[2018.07.18-12.27.19:814][821]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.19:814][821]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.19:814][821]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.19:815][821]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-12.27.19:886][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/RunTurn_180_SQ.RunTurn_180_SQ
+[2018.07.18-12.27.19:886][821]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RunTurn_180_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.27.19:899][821]LogEditorFactories: -- imported successfully
+[2018.07.18-12.27.19:933][822]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog02_v1_OE_10.07.18.fbx]
+[2018.07.18-12.27.19:949][822]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog02_v1_OE_10.07.18.fbx
+[2018.07.18-12.27.20:017][822]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.20:021][822]LogFbx: =================================================
+[2018.07.18-12.27.20:021][822]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.20:021][822]LogFbx: 	Total Deformer Count -960004608.
+[2018.07.18-12.27.20:021][822]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.20:022][822]LogFbx: =================================================
+[2018.07.18-12.27.20:022][822]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:022][822]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.20:022][822]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.20:022][822]LogFbx: =================================================
+[2018.07.18-12.27.20:022][822]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.20:022][822]LogFbx: 	Total Deformer Count -960004608.
+[2018.07.18-12.27.20:022][822]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.20:022][822]LogFbx: =================================================
+[2018.07.18-12.27.20:022][822]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:022][822]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.20:022][822]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.20:023][822]LogFbx: =================================================
+[2018.07.18-12.27.20:023][822]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.20:023][822]LogFbx: 	Total Deformer Count -960004608.
+[2018.07.18-12.27.20:023][822]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.20:023][822]LogFbx: =================================================
+[2018.07.18-12.27.20:023][822]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:023][822]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.20:023][822]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.20:023][822]LogFbx: =================================================
+[2018.07.18-12.27.20:023][822]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.20:023][822]LogFbx: 	Total Deformer Count -960004608.
+[2018.07.18-12.27.20:023][822]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.20:023][822]LogFbx: =================================================
+[2018.07.18-12.27.20:023][822]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:023][822]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.20:023][822]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.20:025][822]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-12.27.20:103][822]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/Jog_V2_SQ.Jog_V2_SQ
+[2018.07.18-12.27.20:103][822]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_V2_SQ) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.27.20:116][822]LogEditorFactories: -- imported successfully
+[2018.07.18-12.27.20:143][823]LogEditorFactories: Performing atomic reimport of [C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_Lightrangedattack02_v1_OE_10.07.18.fbx]
+[2018.07.18-12.27.20:160][823]LogFbx: Loading FBX Scene from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_Lightrangedattack02_v1_OE_10.07.18.fbx
+[2018.07.18-12.27.20:230][823]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-12.27.20:234][823]LogFbx: =================================================
+[2018.07.18-12.27.20:234][823]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.20:234][823]LogFbx: 	Total Deformer Count -960004224.
+[2018.07.18-12.27.20:234][823]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.20:235][823]LogFbx: =================================================
+[2018.07.18-12.27.20:235][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:235][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.20:235][823]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.20:235][823]LogFbx: =================================================
+[2018.07.18-12.27.20:235][823]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.20:235][823]LogFbx: 	Total Deformer Count -960004224.
+[2018.07.18-12.27.20:235][823]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.20:235][823]LogFbx: =================================================
+[2018.07.18-12.27.20:235][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:235][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.20:235][823]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.20:235][823]LogFbx: =================================================
+[2018.07.18-12.27.20:235][823]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.20:235][823]LogFbx: 	Total Deformer Count -960011264.
+[2018.07.18-12.27.20:235][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:235][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.20:235][823]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.20:236][823]LogFbx: =================================================
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-12.27.20:236][823]LogFbx: 	Total Deformer Count -960004224.
+[2018.07.18-12.27.20:236][823]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.20:236][823]LogFbx: =================================================
+[2018.07.18-12.27.20:236][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:236][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-12.27.20:236][823]LogFbx: =================================================
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-12.27.20:236][823]LogFbx: 	Total Deformer Count -960004224.
+[2018.07.18-12.27.20:236][823]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-12.27.20:236][823]LogFbx: =================================================
+[2018.07.18-12.27.20:236][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:236][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-12.27.20:236][823]LogFbx: =================================================
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.20:236][823]LogFbx: 	Total Deformer Count -960012672.
+[2018.07.18-12.27.20:236][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:236][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.20:236][823]LogFbx: =================================================
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.20:236][823]LogFbx: 	Total Deformer Count -960012544.
+[2018.07.18-12.27.20:236][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:236][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.20:236][823]LogFbx: =================================================
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.20:236][823]LogFbx: 	Total Deformer Count -960012416.
+[2018.07.18-12.27.20:236][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:236][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.20:236][823]LogFbx: =================================================
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.20:236][823]LogFbx: 	Total Deformer Count -960012288.
+[2018.07.18-12.27.20:236][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:236][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.20:236][823]LogFbx: =================================================
+[2018.07.18-12.27.20:236][823]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.20:237][823]LogFbx: 	Total Deformer Count -960012160.
+[2018.07.18-12.27.20:237][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:237][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.20:237][823]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.20:237][823]LogFbx: =================================================
+[2018.07.18-12.27.20:237][823]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-12.27.20:237][823]LogFbx: 	Total Deformer Count -960004224.
+[2018.07.18-12.27.20:237][823]LogFbx: 	Attribute () Type (4).
+[2018.07.18-12.27.20:237][823]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-12.27.20:237][823]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-12.27.20:239][823]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-12.27.20:377][823]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ.RangedAttack_V2_SQ
+[2018.07.18-12.27.20:377][823]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RangedAttack_V2_SQ) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.27.20:391][823]LogEditorFactories: -- imported successfully
+[2018.07.18-12.27.24:283][824]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.18-12.27.24:491][825]LogSavePackage: Save=15.40ms
+[2018.07.18-12.27.24:491][825]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/WalkTurn_Right_SQ832BBE744F7073E8D16EE4B63C47357E.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/WalkTurn_Right_SQ.uasset'
+[2018.07.18-12.27.24:497][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/WalkTurn_Right_SQ.uasset
+[2018.07.18-12.27.24:585][825]LogSavePackage: Save=15.31ms
+[2018.07.18-12.27.24:585][825]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/WalkTurn_Left_SQ910BE6794997319DBD272B81295870EA.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/WalkTurn_Left_SQ.uasset'
+[2018.07.18-12.27.24:588][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/WalkTurn_Left_SQ.uasset
+[2018.07.18-12.27.24:676][825]LogSavePackage: Save=15.53ms
+[2018.07.18-12.27.24:676][825]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/RunStop_SQ3088224D4F9FF2E9C09C1B8DE64B24DD.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunStop_SQ.uasset'
+[2018.07.18-12.27.24:679][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunStop_SQ.uasset
+[2018.07.18-12.27.24:765][825]LogSavePackage: Save=17.45ms
+[2018.07.18-12.27.24:765][825]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/SprintStop_SQ740FF4F1498109E2757E8F8874F24F42.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/SprintStop_SQ.uasset'
+[2018.07.18-12.27.24:768][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/SprintStop_SQ.uasset
+[2018.07.18-12.27.24:850][825]LogSavePackage: Save=14.64ms
+[2018.07.18-12.27.24:850][825]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/RunLeft_Lean_SQC3026362495444C05BE4BEB89170233E.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunLeft_Lean_SQ.uasset'
+[2018.07.18-12.27.24:853][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunLeft_Lean_SQ.uasset
+[2018.07.18-12.27.24:939][825]LogSavePackage: Save=16.72ms
+[2018.07.18-12.27.24:939][825]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog_LC_SQ5003DA8F43471C59693297B22B400901.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ.uasset'
+[2018.07.18-12.27.24:942][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ.uasset
+[2018.07.18-12.27.25:027][825]LogSavePackage: Save=14.70ms
+[2018.07.18-12.27.25:027][825]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Sprint_V2_SQBAE62282477ECBC4B90B60A64A3A2BFE.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Sprint_V2_SQ.uasset'
+[2018.07.18-12.27.25:029][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Sprint_V2_SQ.uasset
+[2018.07.18-12.27.25:114][825]LogSavePackage: Save=14.81ms
+[2018.07.18-12.27.25:114][825]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/RunTurn_180_SQ4E60638E47B1A4647CCB98AC63B53894.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunTurn_180_SQ.uasset'
+[2018.07.18-12.27.25:116][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunTurn_180_SQ.uasset
+[2018.07.18-12.27.25:195][825]LogSavePackage: Save=14.87ms
+[2018.07.18-12.27.25:195][825]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog_V2_SQ92D93ED046D733BECA5BEE9F849FD0EF.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_V2_SQ.uasset'
+[2018.07.18-12.27.25:198][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_V2_SQ.uasset
+[2018.07.18-12.27.25:288][825]LogSavePackage: Save=17.15ms
+[2018.07.18-12.27.25:288][825]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/RangedAttack_V2_SQ26FCF19E43533F1429FF64B359D4127B.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ.uasset'
+[2018.07.18-12.27.25:291][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ.uasset
+[2018.07.18-12.27.27:355][943]LogSlate: Window 'Message Log' being destroyed
+[2018.07.18-12.27.27:362][943]LogSlate: Window 'Message Log' being destroyed
+[2018.07.18-12.27.28:301][999]AssetReimport: Importing new asset /Game/Characters/NPC/Animations/Sequences/AN_Law_lightattack02_V1_OE_25_04_18.
+[2018.07.18-12.27.28:301][999]AssetReimport: Failed to import file C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack02_V1_OE_25.04.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Importing new asset /Game/Characters/NPC/Animations/Sequences/AN_Law_lightattack01_V1_OE_25_04_18.
+[2018.07.18-12.27.28:301][999]AssetReimport: Failed to import file C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack01_V1_OE_25.04.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Reimported asset WalkTurn_Right_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnright01_v1_OE_17.07.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Reimported asset WalkTurn_Left_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnleft01_v1_OE_17.07.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Reimported asset RunStop_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop02_v1_OE_17.07.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Reimported asset SprintStop_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop01_v2_OE_10.07.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Reimported asset RunLeft_Lean_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftln01_v1_OE_17.07.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Reimported asset Jog_LC_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftlk01_v1_OE_17.07.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Reimported asset Sprint_V2_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun02_v2_OE_09.07.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Reimported asset RunTurn_180_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun01turn180_v1_OE_17.07.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Reimported asset Jog_V2_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog02_v1_OE_10.07.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Reimported asset RangedAttack_V2_SQ from C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_Lightrangedattack02_v1_OE_10.07.18.fbx.
+[2018.07.18-12.27.28:301][999]AssetReimport: Attempting to delete NCP03_SQ (its source file has been removed).
+[2018.07.18-12.27.28:301][999]AssetReimport: Attempting to delete NCP04_SQ (its source file has been removed).
+[2018.07.18-12.27.28:302][999]AssetReimport: Attempting to delete NCP05_SQ (its source file has been removed).
+[2018.07.18-12.27.28:302][999]AssetReimport: Attempting to delete NCP06_SQ (its source file has been removed).
+[2018.07.18-12.27.28:302][999]AssetReimport: Attempting to delete JumpLeft_SQ (its source file has been removed).
+[2018.07.18-12.27.28:302][999]AssetReimport: Attempting to delete JumpRight_SQ (its source file has been removed).
+[2018.07.18-12.27.30:629][139]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.18-12.27.30:651][139]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.27.30:656][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-12.27.30:659][139]PIE: New page: PIE session: Map_01 (18 Jul 2018 14:27:30)
+[2018.07.18-12.27.30:659][139]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-12.27.30:709][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050215s)
+[2018.07.18-12.27.30:710][139]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-12.27.30:711][139]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2018.07.18-12.27.30:711][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.051714s)
+[2018.07.18-12.27.30:726][139]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-12.27.30:739][139]LogInit: FAudioDevice initialized.
+[2018.07.18-12.27.30:785][139]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-12.27.30:791][139]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2018.07.18-13.27.30
+[2018.07.18-12.27.30:795][139]LogWorld: Bringing up level for play took: 0.007971
+[2018.07.18-12.27.30:804][139]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.18-12.27.30:812][139]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.538
+[2018.07.18-12.27.30:813][139]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.27.39:904][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.27.39:935][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-12.27.44:103][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-12.28.08:457][171]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.18-12.28.12:740][171]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.18-12.28.13:256][171]LogSourceControl: commit successful: [Light 533d8b1] rg
+[2018.07.18-12.28.13:300][171]SourceControl: [Light 533d8b1] rg
+[2018.07.18-12.28.13:300][171]SourceControl:  10 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ.uasset (80%)
+[2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/Jog_V2_SQ.uasset (80%)
+[2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ.uasset (70%)
+[2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/RunLeft_Lean_SQ.uasset (81%)
+[2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/RunStop_SQ.uasset (78%)
+[2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/RunTurn_180_SQ.uasset (82%)
+[2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/SprintStop_SQ.uasset (85%)
+[2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/Sprint_V2_SQ.uasset (81%)
+[2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/WalkTurn_Left_SQ.uasset (86%)
+[2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/WalkTurn_Right_SQ.uasset (86%)
+[2018.07.18-12.28.13:311][171]SourceControl: Commited [Light 533d8b1] rg.
