@@ -1420,3 +1420,80 @@ LogInit: Object subsystem initialized
 [2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/WalkTurn_Left_SQ.uasset (86%)
 [2018.07.18-12.28.13:300][171]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Sequences/WalkTurn_Right_SQ.uasset (86%)
 [2018.07.18-12.28.13:311][171]SourceControl: Commited [Light 533d8b1] rg.
+[2018.07.18-12.40.59:238][769]LogSavePackage: Save=14.62ms
+[2018.07.18-12.40.59:238][769]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/RunLeft_Lean_SQ_Mirrored23041C764FCD61A1A2E11AA46A8AFB7E.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunLeft_Lean_SQ_Mirrored.uasset'
+[2018.07.18-12.40.59:241][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunLeft_Lean_SQ_Mirrored.uasset
+[2018.07.18-12.40.59:498][769]LogAnimation: Warning: [RunLeft_Lean_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.40.59:498][769]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/RunLeft_Lean_SQ_Mirrored.RunLeft_Lean_SQ_Mirrored
+[2018.07.18-12.40.59:499][769]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RunLeft_Lean_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.40.59:503][769]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.41.02:712][894]LogSavePackage: Save=15.17ms
+[2018.07.18-12.41.02:712][894]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/RunTurn_180_SQ_Mirrored4A2310A74975FD8C140B89BD90ECDA82.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunTurn_180_SQ_Mirrored.uasset'
+[2018.07.18-12.41.02:714][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RunTurn_180_SQ_Mirrored.uasset
+[2018.07.18-12.41.02:964][894]LogAnimation: Warning: [RunTurn_180_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.41.02:964][894]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/RunTurn_180_SQ_Mirrored.RunTurn_180_SQ_Mirrored
+[2018.07.18-12.41.02:965][894]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RunTurn_180_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.41.02:970][894]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.41.05:223][975]LogSavePackage: Save=14.60ms
+[2018.07.18-12.41.05:223][975]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/SCP01_SQ_Mirrored3CB1D02A4ED324029353129791B60EB9.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/SCP01_SQ_Mirrored.uasset'
+[2018.07.18-12.41.05:225][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/SCP01_SQ_Mirrored.uasset
+[2018.07.18-12.41.05:493][975]LogAnimation: Warning: [SCP01_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.41.05:493][975]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/SCP01_SQ_Mirrored.SCP01_SQ_Mirrored
+[2018.07.18-12.41.05:494][975]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.SCP01_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.41.05:499][975]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.41.07:551][ 46]LogSavePackage: Save=14.81ms
+[2018.07.18-12.41.07:551][ 46]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/SCP02_SQ_Mirrored7CBBFCB145F9D08D1E110D8E728DF91E.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/SCP02_SQ_Mirrored.uasset'
+[2018.07.18-12.41.07:554][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/SCP02_SQ_Mirrored.uasset
+[2018.07.18-12.41.07:814][ 46]LogAnimation: Warning: [SCP02_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.41.07:814][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/SCP02_SQ_Mirrored.SCP02_SQ_Mirrored
+[2018.07.18-12.41.07:814][ 46]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.SCP02_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.41.07:819][ 46]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.41.09:872][119]LogSavePackage: Save=17.17ms
+[2018.07.18-12.41.09:872][119]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/RangedAttack_V2_SQ_Mirrored85BFA1614F7336F3B2F1D9A15E22A2F8.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ_Mirrored.uasset'
+[2018.07.18-12.41.09:874][119]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ_Mirrored.uasset
+[2018.07.18-12.41.10:127][119]LogAnimation: Warning: [RangedAttack_V2_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.41.10:128][119]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ_Mirrored.RangedAttack_V2_SQ_Mirrored
+[2018.07.18-12.41.10:128][119]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.RangedAttack_V2_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.41.10:132][119]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.41.11:867][178]LogSavePackage: Save=14.79ms
+[2018.07.18-12.41.11:867][178]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP05_V2_SQ_Mirrored704010BE4687B30F87942EA322BBE36F.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ_Mirrored.uasset'
+[2018.07.18-12.41.11:869][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ_Mirrored.uasset
+[2018.07.18-12.41.12:121][178]LogAnimation: Warning: [NCP05_V2_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.41.12:121][178]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ_Mirrored.NCP05_V2_SQ_Mirrored
+[2018.07.18-12.41.12:121][178]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NCP05_V2_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.41.12:126][178]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.41.14:824][285]LogSavePackage: Save=15.33ms
+[2018.07.18-12.41.14:824][285]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP04_V2_SQ_MirroredEEA5CD854BF82E630A762B9C5AC39190.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ_Mirrored.uasset'
+[2018.07.18-12.41.14:827][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ_Mirrored.uasset
+[2018.07.18-12.41.15:086][285]LogAnimation: Warning: [NCP04_V2_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.41.15:086][285]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ_Mirrored.NCP04_V2_SQ_Mirrored
+[2018.07.18-12.41.15:086][285]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NCP04_V2_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.41.15:090][285]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.41.17:106][358]LogSavePackage: Save=16.44ms
+[2018.07.18-12.41.17:106][358]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP03_V2_SQ_MirroredE547054C43521B4539A323B1AC202C4C.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP03_V2_SQ_Mirrored.uasset'
+[2018.07.18-12.41.17:109][358]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP03_V2_SQ_Mirrored.uasset
+[2018.07.18-12.41.17:374][358]LogAnimation: Warning: [NCP03_V2_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.41.17:374][358]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/NCP03_V2_SQ_Mirrored.NCP03_V2_SQ_Mirrored
+[2018.07.18-12.41.17:374][358]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NCP03_V2_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.41.17:379][358]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.41.19:120][420]LogSavePackage: Save=15.08ms
+[2018.07.18-12.41.19:120][420]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/NCP02_V2_SQ_Mirrored3F1D96F541DF9C5C8CB4AABF6B6A482B.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP02_V2_SQ_Mirrored.uasset'
+[2018.07.18-12.41.19:122][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/NCP02_V2_SQ_Mirrored.uasset
+[2018.07.18-12.41.19:389][420]LogAnimation: Warning: [NCP02_V2_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.41.19:389][420]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/NCP02_V2_SQ_Mirrored.NCP02_V2_SQ_Mirrored
+[2018.07.18-12.41.19:389][420]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NCP02_V2_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.41.19:394][420]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.41.21:564][511]LogSavePackage: Save=16.61ms
+[2018.07.18-12.41.21:564][511]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog_LC_SQ_Mirrored94DC32194667679EEFB7E3A499651B62.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored.uasset'
+[2018.07.18-12.41.21:566][511]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored.uasset
+[2018.07.18-12.41.21:813][511]LogAnimation: Warning: [Jog_LC_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.41.21:813][511]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/Jog_LC_SQ_Mirrored.Jog_LC_SQ_Mirrored
+[2018.07.18-12.41.21:814][511]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jog_LC_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.41.21:818][511]LogSlate: Window 'Mirror AnimSequence' being destroyed
+[2018.07.18-12.41.23:578][587]LogSavePackage: Save=14.48ms
+[2018.07.18-12.41.23:578][587]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Dodge_SQ_Mirrored2B662E6B4111BB6A6159A9BBCB34F3D8.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Dodge_SQ_Mirrored.uasset'
+[2018.07.18-12.41.23:580][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Dodge_SQ_Mirrored.uasset
+[2018.07.18-12.41.23:839][587]LogAnimation: Warning: [Dodge_SQ_Mirrored] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2018.07.18-12.41.23:840][587]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/Dodge_SQ_Mirrored.Dodge_SQ_Mirrored
+[2018.07.18-12.41.23:840][587]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Dodge_SQ_Mirrored) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-12.41.23:844][587]LogSlate: Window 'Mirror AnimSequence' being destroyed
