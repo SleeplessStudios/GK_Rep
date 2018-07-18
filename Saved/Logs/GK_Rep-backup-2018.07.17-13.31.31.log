@@ -1,0 +1,1408 @@
+﻿Log file open, 07/17/18 13:30:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GK_Rep
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(955217576) SRandInit(955217576).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.707956
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.17-12.30.17:249][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.17-12.30.17:249][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.17-12.30.17:276][  0]LogInit: Computer: PC0F5A34
+[2018.07.17-12.30.17:276][  0]LogInit: User: NTI
+[2018.07.17-12.30.17:276][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.17-12.30.17:276][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2018.07.17-12.30.17:276][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.17-12.30.17:276][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.17-12.30.17:276][  0]LogMemory: Process Physical Memory: 272.96 MB used, 272.96 MB peak
+[2018.07.17-12.30.17:276][  0]LogMemory: Process Virtual Memory: 272.03 MB used, 272.03 MB peak
+[2018.07.17-12.30.17:276][  0]LogMemory: Physical Memory: 5693.62 MB used,  10584.97 MB free, 16278.59 MB total
+[2018.07.17-12.30.17:276][  0]LogMemory: Virtual Memory: 4781.11 MB used,  10584.97 MB free, 134217728.00 MB total
+[2018.07.17-12.30.17:576][  0]LogInit: Using OS detected language (en-US).
+[2018.07.17-12.30.17:576][  0]LogInit: Using OS detected locale (en-GB).
+[2018.07.17-12.30.17:650][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.17-12.30.18:175][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.17-12.30.20:905][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.17-12.30.20:948][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1000M' (Feature Level 11_0)
+[2018.07.17-12.30.20:948][  0]LogD3D11RHI:       4053/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.17-12.30.20:950][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.17-12.30.20:950][  0]LogD3D11RHI:       0/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.17-12.30.20:950][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.17-12.30.20:956][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.17-12.30.20:956][  0]LogD3D11RHI:     GPU DeviceId: 0x13b1 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.17-12.30.20:956][  0]LogWindows: EnumDisplayDevices:
+[2018.07.17-12.30.20:956][  0]LogWindows:    0. 'NVIDIA Quadro M1000M' (P:1 D:1)
+[2018.07.17-12.30.20:956][  0]LogWindows:    1. 'NVIDIA Quadro M1000M' (P:0 D:1)
+[2018.07.17-12.30.20:957][  0]LogWindows:    2. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2018.07.17-12.30.20:957][  0]LogWindows:    3. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2018.07.17-12.30.20:957][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.17-12.30.20:957][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1000M
+[2018.07.17-12.30.20:957][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.17-12.30.20:957][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.17-12.30.20:957][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.07.17-12.30.20:987][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.17-12.30.21:022][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.17-12.30.21:121][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Intermediate/Shaders/WorkingDirectory/8376/).
+[2018.07.17-12.30.21:121][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NTI/AppData/Local/Temp/UnrealShaderWorkingDir/10DC1DD24C089A28224F30BA95F6306B/'.
+[2018.07.17-12.30.21:122][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.17-12.30.23:445][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.17-12.30.23:503][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.17-12.30.23:561][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.17-12.30.23:619][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.17-12.30.23:683][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.17-12.30.23:742][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.17-12.30.23:799][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.17-12.30.23:856][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.17-12.30.23:908][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.17-12.30.23:964][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.17-12.30.24:021][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.17-12.30.24:078][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.17-12.30.24:132][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.17-12.30.24:189][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.17-12.30.24:309][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.17-12.30.24:309][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.17-12.30.24:373][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.17-12.30.24:417][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.17-12.30.24:528][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.17-12.30.24:560][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.17-12.30.24:617][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.17-12.30.24:673][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.17-12.30.24:731][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.17-12.30.24:794][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.17-12.30.24:794][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.17-12.30.25:403][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.17-12.30.25:593][  0]LogDerivedDataCache: Loaded boot cache 0.19s 78MB C:/Users/NTI/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.17-12.30.25:593][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/NTI/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.07.17-12.30.25:593][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.17-12.30.25:593][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.17-12.30.25:593][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.17-12.30.25:593][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.17-12.30.25:634][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.17-12.30.25:647][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NTI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.17-12.30.25:662][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.17-12.30.25:668][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.17-12.30.25:687][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.17-12.30.25:687][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.17-12.30.26:790][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.17-12.30.27:433][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.17-12.30.27:483][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.17-12.30.27:484][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.17-12.30.27:484][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.17-12.30.27:484][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.17-12.30.27:484][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.17-12.30.27:597][  0]LogNetVersion: GK_Rep , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3247592849)
+[2018.07.17-12.30.28:093][  0]LogMeshUtilities: Finished distance field build in 0.1s - 14x8x8 distance field, 4528 triangles, Range [-0.1, 0.6], MatineeCam_SM
+[2018.07.17-12.30.28:093][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2018.07.17-12.30.29:648][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.096109 seconds
+[2018.07.17-12.30.29:656][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.07.17-12.30.29:656][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.07.17-12.30.29:656][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.17-12.30.29:740][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.17-12.30.36:985][  0]LogMeshUtilities: Finished distance field build in 3.4s - 48x48x48 distance field, 528 triangles, Range [-0.6, 1.0], Sphere
+[2018.07.17-12.30.36:985][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 835 triangles, Range [-0.1, 0.8], GearVRController
+[2018.07.17-12.30.36:985][  0]LogMeshUtilities: Discarded distance field for SplineEditorMesh as mesh was not closed!  Assign a two-sided material to fix.
+[2018.07.17-12.30.36:985][  0]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x8 distance field, 60 triangles, Range [-0.2, 1.0], SplineEditorMesh
+[2018.07.17-12.30.37:833][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.07.17-12.30.37:885][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.17-12.30.37:944][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.17-12.30.38:973][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.17-12.30.39:563][  0]LogMeshUtilities: Finished distance field build in 8.4s - 64x64x64 distance field, 3968 triangles, Range [-0.1, 1.0], EditorSkySphere
+[2018.07.17-12.30.39:563][  0]LogMeshUtilities: Finished distance field build in 0.0s - 9x8x9 distance field, 192 triangles, Range [-0.2, 0.6], Cylinder
+[2018.07.17-12.30.39:563][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 180 triangles, Range [-0.4, 0.8], JointSphere
+[2018.07.17-12.30.39:563][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 40 triangles, Range [-0.5, 0.6], LineSegmentCylinder
+[2018.07.17-12.30.39:563][  0]LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 32 triangles, Range [1.0, 1.0], PlaneMesh
+[2018.07.17-12.30.39:563][  0]LogMeshUtilities: Discarded distance field for LaserPointerMesh as mesh was not closed!  Assign a two-sided material to fix.
+[2018.07.17-12.30.39:563][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1024 triangles, Range [-0.5, 0.6], LaserPointerMesh
+[2018.07.17-12.30.39:563][  0]SourceControl: Source control is disabled
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Discarded distance field for LaserPointerMesh_End as mesh was not closed!  Assign a two-sided material to fix.
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1084 triangles, Range [-0.5, 0.6], LaserPointerMesh_End
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Discarded distance field for LaserPointerMesh_Start as mesh was not closed!  Assign a two-sided material to fix.
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1084 triangles, Range [-0.5, 0.6], LaserPointerMesh_Start
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1728 triangles, Range [1.0, 1.0], SM_Radial_Disk
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 744 triangles, Range [1.0, 1.0], SM_Radial_Pointer
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Finished distance field build in 0.1s - 25x15x8 distance field, 196 triangles, Range [0.0, 0.7], TeleportDirectionMesh
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 440 triangles, Range [-0.0, 0.4], SM_Dialog_Close
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 240 triangles, Range [-0.0, 0.4], SM_Dialog_Move
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Discarded distance field for SM_ContentWindow_01 as mesh was not closed!  Assign a two-sided material to fix.
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x15x15 distance field, 670 triangles, Range [-0.1, 1.0], SM_ContentWindow_01
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 12554 triangles, Range [-0.1, 1.0], OculusControllerMesh
+[2018.07.17-12.30.40:085][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 17326 triangles, Range [-0.1, 0.6], VivePreControllerMesh
+[2018.07.17-12.30.41:166][  0]LogMeshUtilities: Finished distance field build in 0.5s - 15x30x30 distance field, 254 triangles, Range [-0.2, 1.0], CursorPointer
+[2018.07.17-12.30.41:166][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 528 triangles, Range [-0.4, 0.9], HoverMesh
+[2018.07.17-12.30.41:166][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 5818 triangles, Range [-0.0, 0.7], GenericHMD
+[2018.07.17-12.30.41:226][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.17-12.30.41:593][  0]LogMeshUtilities: Finished distance field build in 0.9s - 28x28x38 distance field, 448 triangles, Range [-0.5, 0.6], EditorCylinder
+[2018.07.17-12.30.41:593][  0]LogMeshUtilities: Finished distance field build in 0.3s - 8x38x38 distance field, 32 triangles, Range [-0.1, 1.0], EditorPlane
+[2018.07.17-12.30.41:593][  0]LogOcInput: OculusInput pre-init called
+[2018.07.17-12.30.42:393][  0]LogEngine: Initializing Engine...
+[2018.07.17-12.30.42:397][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.17-12.30.42:713][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.17-12.30.42:713][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.17-12.30.42:904][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.17-12.30.42:919][  0]LogInit: XAudio2 using 'V652 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.17-12.30.42:936][  0]LogInit: FAudioDevice initialized.
+[2018.07.17-12.30.43:006][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/NTI/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.17-12.30.43:031][  0]LogInit: Texture streaming: Enabled
+[2018.07.17-12.30.43:182][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.17-12.30.43:379][  0]LogInit: Transaction tracking system initialized
+[2018.07.17-12.30.43:869][  0]BlueprintLog: New page: Editor Load
+[2018.07.17-12.30.45:226][  0]LogMeshUtilities: Finished distance field build in 3.4s - 48x48x48 distance field, 3968 triangles, Range [-0.6, 1.0], EditorSphere
+[2018.07.17-12.30.45:226][  0]LocalizationService: Localization service is disabled
+[2018.07.17-12.30.46:338][  0]LogConsoleResponse: Display: 
+[2018.07.17-12.30.46:383][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.07.17-12.30.46:430][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.07.17-12.30.46:457][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.07.17-12.30.46:478][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.07.17-12.30.46:500][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.07.17-12.30.46:522][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.07.17-12.30.46:555][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.07.17-12.30.46:580][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.07.17-12.30.46:601][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.07.17-12.30.46:620][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.07.17-12.30.46:639][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.07.17-12.30.46:656][  0]LogMeshUtilities: Finished distance field build in 1.8s - 38x38x38 distance field, 12 triangles, Range [-0.6, 0.6], EditorCube
+[2018.07.17-12.30.46:656][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.07.17-12.30.46:678][  0]LogMeshUtilities: Discarded distance field for S_1_Unit_Plane as mesh was not closed!  Assign a two-sided material to fix.
+[2018.07.17-12.30.46:678][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 32 triangles, Range [-0.4, 0.7], S_1_Unit_Plane
+[2018.07.17-12.30.46:678][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.07.17-12.30.46:789][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x14x8 distance field, 6252 triangles, Range [-0.1, 0.6], SM_CineCam
+[2018.07.17-12.30.46:789][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 1672 triangles, Range [-0.1, 0.4], SM_RailRig_Mount
+[2018.07.17-12.30.46:789][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x11 distance field, 1488 triangles, Range [-0.0, 0.4], SM_RailRig_Track
+[2018.07.17-12.30.46:789][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.07.17-12.30.46:879][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.07.17-12.30.46:947][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.07.17-12.30.46:991][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.17-12.30.46:991][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.17-12.30.46:991][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.17-12.30.47:250][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/' took 0.02s
+[2018.07.17-12.30.48:495][  0]LogMeshUtilities: Finished distance field build in 0.7s - 21x50x21 distance field, 916 triangles, Range [-0.1, 0.6], SM_CraneRig_Body
+[2018.07.17-12.30.48:495][  0]LogMeshUtilities: Finished distance field build in 0.0s - 9x8x13 distance field, 200 triangles, Range [-0.3, 0.7], SM_CraneRig_Mount
+[2018.07.17-12.30.48:495][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 12 triangles, Range [-0.3, 0.3], SM_CraneRig_Arm
+[2018.07.17-12.30.48:495][  0]LogMeshUtilities: Finished distance field build in 0.5s - 31x27x20 distance field, 1068 triangles, Range [-0.1, 1.0], SM_CraneRig_Base
+[2018.07.17-12.30.48:495][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x9x8 distance field, 664 triangles, Range [-0.2, 0.7], SM_Sequencer_Key
+[2018.07.17-12.30.48:495][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 56 triangles, Range [-0.0, 0.3], BoundingBoxEdge
+[2018.07.17-12.30.48:495][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 172 triangles, Range [-0.0, 1.0], BoundingBoxCorner
+[2018.07.17-12.30.48:495][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 120 triangles, Range [-0.0, 0.4], PlaneTranslationHandle
+[2018.07.17-12.30.48:495][  0]LogMeshUtilities: Finished distance field build in 0.2s - 8x29x29 distance field, 4096 triangles, Range [-0.0, 0.8], RotationHandleFull
+[2018.07.17-12.30.48:496][  0]LogMeshUtilities: Discarded distance field for Plane as mesh was not closed!  Assign a two-sided material to fix.
+[2018.07.17-12.30.48:496][  0]LogMeshUtilities: Finished distance field build in 0.1s - 15x15x8 distance field, 2 triangles, Range [-0.2, 1.0], Plane
+[2018.07.17-12.30.49:203][  0]Cmd: MAP LOAD FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.17-12.30.49:244][  0]LogMeshUtilities: Finished distance field build in 0.9s - 30x30x29 distance field, 284 triangles, Range [-0.4, 1.0], Cone
+[2018.07.17-12.30.49:269][  0]LogSlate: Took 0.006584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.17-12.30.49:310][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.17-12.30.50:140][  0]LogMeshUtilities: Finished distance field build in 0.9s - 30x30x30 distance field, 512 triangles, Range [-0.6, 0.8], Cylinder
+[2018.07.17-12.30.50:970][  0]LogMeshUtilities: Finished distance field build in 0.8s - 30x30x30 distance field, 960 triangles, Range [-0.6, 1.0], Sphere
+[2018.07.17-12.30.51:803][  0]LogMeshUtilities: Finished distance field build in 0.8s - 30x30x30 distance field, 48 triangles, Range [-0.6, 0.6], Cube
+[2018.07.17-12.30.51:820][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 272 triangles, Range [-0.0, 0.6], RotationHandleIndicator
+[2018.07.17-12.30.51:871][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x13x14 distance field, 952 triangles, Range [-0.0, 1.0], RotationHandleQuarter
+[2018.07.17-12.30.51:888][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 544 triangles, Range [-0.0, 0.6], StartRotationHandleIndicator
+[2018.07.17-12.30.51:905][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 32256 triangles, Range [-0.5, 0.9], TransformGizmoFreeRotation
+[2018.07.17-12.30.51:922][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 172 triangles, Range [0.0, 0.4], TranslateArrowHandle
+[2018.07.17-12.30.51:956][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 88 triangles, Range [-0.5, 0.5], UniformScaleHandle
+[2018.07.17-12.30.51:956][  0]LogMeshUtilities: Finished distance field build in 0.0s - 15x15x8 distance field, 32 triangles, Range [1.0, 1.0], SnapGridPlaneMesh
+[2018.07.17-12.30.51:973][  0]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 56 triangles, Range [-0.4, 0.6], SM_Sequencer_Node
+[2018.07.17-12.31.04:527][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.17-12.31.04:530][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.17-12.31.04:533][  0]LightingResults: New page: Lighting Build
+[2018.07.17-12.31.04:591][  0]MapCheck: New page: Map Check
+[2018.07.17-12.31.04:592][  0]LightingResults: New page: Lighting Build
+[2018.07.17-12.31.04:607][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.17-12.31.04:615][  0]LoadErrors: New page: New Map
+[2018.07.17-12.31.05:008][  0]LogCollectionManager: Loaded 0 collections in 0.001845 seconds
+[2018.07.17-12.31.05:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Saved/Collections/' took 0.01s
+[2018.07.17-12.31.05:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Developers/NTI/Collections/' took 0.01s
+[2018.07.17-12.31.05:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Collections/' took 0.01s
+[2018.07.17-12.31.05:136][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.07.17-12.31.05:147][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2377 classes and 525 folders.
+[2018.07.17-12.31.05:227][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.17-12.31.05:726][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.17-12.31.05:788][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.07.17-12.31.05:989][  0]LogSlate: Took 0.008026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.17-12.31.06:004][  0]LogSlate: Took 0.007007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.17-12.31.06:122][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.07.17-12.31.06:215][  0]LogRenderer: Reallocating scene render targets to support 540x552 Format 9 NumSamples 1 (Frame:1).
+[2018.07.17-12.31.06:324][  0]LogRenderer: Reallocating scene render targets to support 540x576 Format 9 NumSamples 1 (Frame:2).
+[2018.07.17-12.31.06:528][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.17-12.31.06:528][  0]LogLoad: (Engine Initialization) Total time: 55.03 seconds
+[2018.07.17-12.31.06:528][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.17-12.31.06:528][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.07.17-12.31.06:528][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.07.17-12.31.06:589][  0]SourceControl: On branch Light
+[2018.07.17-12.31.06:589][  0]SourceControl: Your branch is up to date with 'origin/Light'.
+[2018.07.17-12.31.06:589][  0]SourceControl: Changes to be committed:
+[2018.07.17-12.31.06:589][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Animations/Montages/Heavy_01_AM.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Animations/Montages/Heavy_02_AM.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Animations/Montages/Heavy_03_AM.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	deleted:    Content/Characters/NPC/Animations/Montages/Law_Light_AM.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Animations/Sequences/Despawn_V2_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Animations/Sequences/Heavy_01_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Animations/Sequences/Heavy_02_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Animations/Sequences/Heavy_03_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	modified:   Content/Characters/NPC/Animations/Sequences/Law_DespawnV2_AnimSQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	modified:   Content/Characters/NPC/Animations/Sequences/Law_HeavyAttack_AnimSQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	modified:   Content/Characters/NPC/Animations/Sequences/Law_Walk_AnimSQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Animations/Sequences/Spawn_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Animations/Sequences/Walk_AnimSQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	deleted:    Content/Characters/NPC/Blueprints/AI/AgroCheck.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Blueprints/AI/BT_AttackPlayer.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Blueprints/AI/BT_Evade.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Blueprints/AI/BT_FindNextPoint.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Blueprints/AI/BT_FindPlayer.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Blueprints/AI/BT_Stagger.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	deleted:    Content/Characters/NPC/Blueprints/AI/CloseEnough.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	deleted:    Content/Characters/NPC/Blueprints/AI/FollowerBT.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	deleted:    Content/Characters/NPC/Blueprints/AI/FollowerBlackboard.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	deleted:    Content/Characters/NPC/Blueprints/AI/Follower_AI_CON.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/NPC/Blueprints/AI/MoveNearPlayer.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	deleted:    Content/Characters/NPC/Blueprints/AI/PathNode.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	deleted:    Content/Characters/NPC/Blueprints/AI/RapidMoveTo.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Montages/NCP02_V2_AM.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Montages/NCP03_V2_AM.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Montages/NCP04_V2_AM.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Montages/NCP05_V2_AM.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Montages/Release_V2_AM.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/ChargeLoop_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/Charge_V2_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/CombatIdle_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/Jog_V2_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/Jog_V3_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/JumpEnd_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/NCP02_V2_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/NCP03_V2_SQ.uasset
+[2018.07.17-12.31.06:589][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/RangedAttack_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/Release_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/SprintStop_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/Sprint_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	new file:   Content/Characters/Player/Animations/Light/Sequences/Sprint_V3.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: Changes not staged for commit:
+[2018.07.17-12.31.06:590][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.07.17-12.31.06:590][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Config/DefaultInput.ini
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Animations/Montages/Heavy_01_AM.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Animations/Montages/Heavy_02_AM.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Animations/Montages/Heavy_03_AM.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Animations/Sequences/Law_DespawnV2_AnimSQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Animations/Sequences/Law_HeavyAttack_AnimSQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Blueprints/AI/BT_AttackPlayer.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Blueprints/AI/BT_FindPlayer.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Blueprints/AI/Law_AI_CON.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Blueprints/AI/Law_Blackboard.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Blueprints/AI/Law_Tree.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Blueprints/AI/MoveNearPlayer.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Blueprints/BP_Law.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Blueprints/Law_AnimBP.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/NPC/Meshes/Law_Skeleton.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Blendspace/IdleWalkRun.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Montages/NCP02_V2_AM.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Montages/NCP03_V2_AM.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Montages/NCP04_V2_AM.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Montages/NCP05_V2_AM.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Montages/Release_V2_AM.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Sequences/Jog_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Sequences/Jog_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Sequences/NCP02_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Sequences/NCP03_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Sequences/NCP04_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Sequences/NCP05_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Sequences/Sprint_V2_SQ.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Animations/Light/Sequences/Sprint_V3.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Characters/Player/Meshes/Character_Skeleton.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/Maps/Map_01.umap
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   GK_Rep.uproject
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/1d5167fa.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/1f683343.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/2657c409.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/2f5244c7.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/44c3f9c9.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/50d6f4e0.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/52ed2538.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/5a627529.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/866581fd.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/8c0e1344.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/94c5d5a7.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/bf121eca.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/cef2e191.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/f0d5030c.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini
+[2018.07.17-12.31.06:590][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Editor.ini
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Scalability.ini
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Intermediate/ReimportCache/3688439234.bin
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/Law_Tree_Auto3.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Characters/NPC/Blueprints/BP_Law_Auto1.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Characters/NPC/Blueprints/BP_Law_Auto2.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/Map_01_Auto1.umap
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/Map_01_Auto4.umap
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/Map_01_Auto5.umap
+[2018.07.17-12.31.06:591][  0]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/Ability_01_AM_2018-07-06-15-23-28.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/Ability_01_SQ_2018-07-06-15-23-34.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/AgroCheck_2018-07-06-15-23-22.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/BP_Law_2018-07-06-15-23-21.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/BP_Law_2018-07-10-11-54-41.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/BP_Law_2018-07-10-12-05-07.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/BP_Law_2018-07-10-12-26-13.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/BP_Law_2018-07-10-12-32-38.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/BP_Light_V2_2018-07-06-15-23-41.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/BP_Light_V2_2018-07-09-13-39-29.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/Character_Skeleton_2018-07-06-15-23-42.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/ChargeAttack_AM_2018-07-06-15-23-29.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/ChargeCombo_01_AM_2018-07-06-15-23-29.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/ChargeCombo_02_AM_2018-07-06-15-23-30.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/ChargeCombo_03_AM_2018-07-06-15-23-30.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/Charge_SQ_2018-07-06-15-23-34.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/CloseEnough_2018-07-06-15-23-22.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/Combo_01_AM_2018-07-06-15-23-30.uasset
+[2018.07.17-12.31.06:591][  0]SourceControl: 	deleted:    Saved/Backup/Combo_02_AM_2018-07-06-15-23-31.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Combo_03_AM_2018-07-06-15-23-31.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Combo_04_AM_2018-07-06-15-23-32.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Combo_05_AM_2018-07-06-15-23-32.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Combo_06_AM_2018-07-06-15-23-32.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Dodge_AM_2018-07-06-15-23-33.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Dodge_SQ_2018-07-06-15-23-34.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Drum_intro_Loopable_7_2018-07-05-15-24-57.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/FollowerBT_2018-07-06-15-23-23.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/FollowerBT_2018-07-09-14-28-13.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/FollowerBlackboard_2018-07-06-15-23-23.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Follower_AI_CON_2018-07-06-15-23-23.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/GK_HUD_2018-07-06-15-24-05.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Grass_02_2018-07-05-15-54-05.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/IdleWalkRun_2018-07-06-15-23-28.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Idle_SQ_2018-07-06-15-23-35.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Into_the_unknown_v_2_INTRO_2018-07-05-15-24-57.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Into_the_unknown_v_2_INTRO_Cue_2018-07-06-15-50-47.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Into_the_unknown_v_2_LOOPABLE_2018-07-05-15-24-57.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Into_the_unknown_v_2_LOOPABLE_Cue_2018-07-06-15-50-47.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Into_the_world_shorter_Cue_2018-07-06-15-50-47.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/JumpLeft_SQ_2018-07-05-15-24-58.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/JumpLeft_SQ_2018-07-06-15-23-35.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/JumpNormal_SQ_2018-07-06-15-23-35.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/JumpRight_SQ_2018-07-05-15-24-58.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/JumpRight_SQ_2018-07-06-15-23-36.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/LP_ENV_ArenaFloor_v1_LT_22_06_18_2018-07-05-15-54-05.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/LP_ENV_ArenaFloor_v1_LT_22_06_18_2018-07-06-14-24-14.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/LP_ENV_ArenaTarpTall_v1_LT_22_06_18_2018-07-06-14-24-24.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/LP_ENV_ArenaTarpWall_v1_LT_22_06_18_2018-07-06-14-24-25.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_AI_CON_2018-07-10-12-05-07.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_AI_CON_2018-07-10-12-11-44.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_AI_CON_2018-07-10-12-23-51.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_AI_CON_2018-07-10-12-29-03.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_AI_CON_2018-07-10-12-35-52.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_Blackboard_2018-07-10-12-39-12.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_HeavyAttack_AnimSQ_2018-07-06-15-23-20.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_Light_AM_2018-07-06-15-23-19.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_Skeleton_2018-07-06-15-23-27.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_Tree_2018-07-10-12-31-01.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_Walk_AnimSQ_2018-07-06-15-23-21.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_Weapon_Mat_2018-07-06-15-23-24.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Law_Widget_2018-07-06-15-24-05.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Light_Widget_2018-07-06-15-24-06.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/Luke_2018-07-06-14-12-55.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/MAST_EmissiveGlowing_2018-07-05-16-04-01.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/MAST_Sky_2018-07-05-16-07-06.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/MF_TriPlanar_2018-07-05-15-47-31.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/MIN_EmissiveFoliage_2018-07-05-16-04-01.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/M_CliffRocks_2018-07-05-16-23-59.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/M_CliffRocks_2018-07-06-14-24-34.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/M_Foliage_2018-07-05-16-04-01.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/M_Foliage_2018-07-06-14-24-18.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/M_Foliage_Inst_2018-07-06-14-24-19.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/M_HeroRocks_2018-07-05-16-23-59.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/M_Law_Cloth_2018-07-06-15-23-25.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/M_Law_Head_2018-07-06-15-23-26.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/M_Leaves_01_2018-07-05-15-29-10.uasset
+[2018.07.17-12.31.06:592][  0]SourceControl: 	deleted:    Saved/Backup/M_Leaves_01_2018-07-05-16-04-01.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/M_Leaves_01_Inst1_2018-07-05-16-04-01.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/M_Leaves_01_Inst_2018-07-05-15-29-24.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/M_Leaves_01_Inst_2018-07-06-14-24-19.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/M_RockKit_2018-07-05-16-23-59.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/M_SimpleWind_2018-07-05-15-45-02.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/M_TreeLarge_2018-07-06-14-24-20.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/Map_01_2018-07-06-15-13-56.umap
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/Map_01_2018-07-06-15-58-01.umap
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/Map_01_2018-07-10-12-27-47.umap
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/Map_01_2018-07-10-12-39-11.umap
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/NCP02_SQ_2018-07-06-15-23-36.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/NCP03_SQ_2018-07-05-15-24-58.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/NCP03_SQ_2018-07-06-15-23-37.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/NCP04_SQ_2018-07-05-15-24-58.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/NCP04_SQ_2018-07-06-15-23-37.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/NCP05_SQ_2018-07-05-15-24-58.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/NCP05_SQ_2018-07-06-15-23-37.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/NCP06_SQ_2018-07-05-15-24-58.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/NCP06_SQ_2018-07-06-15-23-38.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/PHYS_Law_2018-07-06-15-23-27.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/PHYS_Light_2018-07-06-15-23-42.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/PathNode_2018-07-10-12-11-16.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/PathNode_2018-07-10-12-40-24.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/Player_AnimBP_2018-07-06-15-23-42.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/Player_AnimBP_2018-07-09-13-32-37.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/Player_Position_2018-07-06-14-24-21.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/RangedAttack_SQ_2018-07-06-15-23-38.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/Ranged_AM_2018-07-06-15-23-33.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/RapidMoveTo_2018-07-06-15-23-24.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/RapidMoveTo_2018-07-09-14-27-10.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/Release_SQ_2018-07-06-15-23-39.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/Run_SQ_2018-07-06-15-23-39.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SCP01_SQ_2018-07-06-15-23-39.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SCP02_SQ_2018-07-06-15-23-40.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SCP03_SQ_2018-07-06-15-23-40.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SK_Law_2018-07-06-15-23-28.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SK_Light_2018-07-06-15-23-43.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_01_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_01_2018-07-06-14-24-27.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_02_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_02_2018-07-06-14-24-27.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_03_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_03_2018-07-06-14-24-28.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_04_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_04_2018-07-06-14-24-28.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_05_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_05_2018-07-06-14-24-29.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_06_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_CliffRock_06_2018-07-06-14-24-29.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Flower_01_2018-07-05-16-03-46.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Flower_01_2018-07-06-14-24-15.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Gate_01_2018-07-06-14-24-25.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Gate_02_2018-07-06-14-24-26.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Grass_01_2018-07-05-16-03-46.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Grass_01_2018-07-06-14-24-16.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Grass_02_2018-07-05-16-03-46.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Grass_02_2018-07-06-14-24-16.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Grass_03_2018-07-05-16-03-46.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Grass_03_2018-07-06-14-24-17.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Grass_04_2018-07-05-16-03-46.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_Grass_04_2018-07-06-14-24-17.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_HeroRock_01_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:593][  0]SourceControl: 	deleted:    Saved/Backup/SM_HeroRock_01_2018-07-06-14-24-29.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_HeroRock_02_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_HeroRock_02_2018-07-06-14-24-30.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_HeroRock_03_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_HeroRock_03_2018-07-06-14-24-30.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_JumpPad_2018-07-06-14-24-26.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_MainStaircase_2018-07-06-14-24-15.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_RockWall_2018-07-05-15-54-05.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_01_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_01_2018-07-06-14-24-30.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_02_2018-07-05-15-54-05.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_02_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_02_2018-07-06-14-24-31.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_03_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_03_2018-07-06-14-24-31.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_04_2018-07-05-15-54-05.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_04_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_04_2018-07-06-14-24-32.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_05_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_05_2018-07-06-14-24-32.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_06_2018-07-05-15-54-05.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_06_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_06_2018-07-06-14-24-32.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_07_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_07_2018-07-06-14-24-33.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_08_2018-07-05-15-54-05.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_08_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_08_2018-07-06-14-24-33.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_09_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_09_2018-07-06-14-24-33.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_10_2018-07-05-16-23-44.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Rock_10_2018-07-06-14-24-34.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Seed_2018-07-05-16-32-52.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Shrine_01_2018-07-06-14-24-26.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Staircase_01_2018-07-05-15-24-58.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Staircase_01_2018-07-05-15-54-05.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Tree_S_01_V1_2018-07-05-16-03-46.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Tree_S_01_V1_2018-07-06-14-24-18.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Tree_S_01_V2_2018-07-05-16-03-46.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SM_Tree_S_01_V2_2018-07-06-14-24-18.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/SeedFX_2018-07-05-16-32-25.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/Shader_Shading_2018-07-05-16-34-09.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/Strings_and_gong_1_2018-07-06-15-50-47.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/Strings_and_gong_2_2018-07-06-15-50-47.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/Strings_and_gong_roll_Loopable_2018-07-05-15-24-57.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/T_CliffRocks_N_2018-07-06-14-24-36.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/T_Foliage_A_2018-07-06-14-24-21.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/T_Foliage_BC_2018-07-06-14-24-21.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/T_HeroRocks_N_2018-07-06-14-24-36.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/T_Leaves_01_BC_2018-07-06-14-24-22.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/T_RockKit_BC_2018-07-06-14-24-37.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/T_RockKit_N_2018-07-06-14-24-38.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/T_TreeLarge_N_2018-07-06-14-24-22.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/T_TreeSmall_BC_2018-07-06-14-24-23.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/T_TreeSmall_N_2018-07-06-14-24-24.uasset
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/Tash_Map_2018-07-09-10-38-00.umap
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/Tash_Map_2018-07-09-10-49-20.umap
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/Tash_Map_2018-07-09-11-18-20.umap
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/Tash_Map_2018-07-09-11-29-29.umap
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/Tash_Map_2018-07-09-11-40-45.umap
+[2018.07.17-12.31.06:594][  0]SourceControl: 	deleted:    Saved/Backup/Tash_Map_2018-07-09-12-01-40.umap
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/Tash_Map_2018-07-09-12-21-06.umap
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/Tash_Map_2018-07-09-13-42-19.umap
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/Temple_Tutorial_2018-07-05-15-24-57.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/Temple_Tutorial_Cue_2018-07-06-15-50-47.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/The_Whispering_Statals_2018-07-05-15-24-58.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/The_Whispering_Statals_Cue_2018-07-06-15-50-47.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/ThirdPersonExampleMap_2018-07-05-16-36-58.umap
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/Tidal_Space_Loopable_2018-07-05-15-24-58.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/Walk_SQ_2018-07-06-15-23-41.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/grass_test_2018-07-05-15-54-05.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/lambert17_2018-07-06-15-23-24.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/path_2018-07-05-15-54-05.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/path_2018-07-05-16-27-04.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/path_2018-07-05-16-36-58.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/path_2018-07-06-14-24-15.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Backup/sm_SkySphere_02_2018-07-05-15-24-58.uasset
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-00790027435EC61515CE8AB97AF18560/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-023C45334BB51C6D94298E81D30C6D93/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-0AEDF99049D6C6BB8917D0B10DC65627/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-108EFBE1429DA10B717FEAA725906996/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-141592A843F81045EBC894ADB7E838D2/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-1DE42CDA457BEDFEA8202195375996F5/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-200E1C9E4CFEF731B658A0919492F97F/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-21DA9CCE4954843D63ACF9B4B12FB9C1/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-24E6F011412230ED773E668F61E2486E/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-45D795DA42A41577EA7F4FB3BFC9DA99/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-468B56644AFC0E8E6AB24BA945AB8D1C/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-63D6E3CC4BA79AC01940F7B61BE3E869/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-82A0123F47536840593C6299BAF9BBD2/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-843092A441F16C2E5D42B88C0D0BF926/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-8B353B83455586A11363CEBDF67A94AA/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-9653C1504304FD80198B62BB1F30A1CA/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-9676471E4DCB423B3F43C5990D1B3B8C/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-BBF6B4DF4C88E0D2C43835A15ED0EE21/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-BCDC0409491ACCA6B5AC18B8A3B85DA3/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-BE60F9104637D31092DB27AC0915ACEB/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-C084C37A45AEDB6FF79AAB9FBBF501BE/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-C131880E4A5C22B0B1284EBC5CF41E24/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-CE80D0E848025FAAD5875E885BDFC544/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-DA5DA85745A4E71BCB22E4AEB04F8960/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-DC7161374250E54E129DFFB497EAF7C0/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-E656BFFD4BC52E772E5DB98DDB0E9590/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-EF2E8C3243F409369652FF9FB7285113/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F08297954BB1473B370F07942DA7653B/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F403F0614A24A4F1560377841207C1D2/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F42FE3C041B05A0D55FFF9B3788CB46E/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F6DD21264F660E179576C785635BCFC7/CrashReportClient.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.07.17-12.31.06:595][  0]SourceControl: 	modified:   Saved/Config/WorldState/3925270338.json
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Logs/GK_Live-backup-2018.07.05-15.26.43.log
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Logs/GK_Live-backup-2018.07.05-15.30.20.log
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Logs/GK_Live-backup-2018.07.05-15.35.07.log
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Logs/GK_Live-backup-2018.07.05-15.41.24.log
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Logs/GK_Live-backup-2018.07.05-15.43.09.log
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Logs/GK_Live-backup-2018.07.05-15.52.54.log
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Logs/GK_Live-backup-2018.07.05-16.37.03.log
+[2018.07.17-12.31.06:595][  0]SourceControl: 	deleted:    Saved/Logs/GK_Live-backup-2018.07.05-16.49.42.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Live-backup-2018.07.05-16.52.13.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Live-backup-2018.07.06-12.19.25.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Rep-backup-2018.07.06-15.17.20.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Rep-backup-2018.07.06-15.29.37.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Rep-backup-2018.07.06-15.30.19.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Rep-backup-2018.07.06-15.31.04.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Rep-backup-2018.07.06-15.35.45.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Rep-backup-2018.07.06-15.41.13.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Rep-backup-2018.07.06-16.49.30.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Rep-backup-2018.07.06-16.50.48.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Rep-backup-2018.07.06-17.07.37.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	deleted:    Saved/Logs/GK_Rep-backup-2018.07.10-11.44.06.log
+[2018.07.17-12.31.06:596][  0]SourceControl: 	modified:   Saved/Logs/GK_Rep.log
+[2018.07.17-12.31.06:596][  0]SourceControl: Untracked files:
+[2018.07.17-12.31.06:596][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/NPC/Animations/Sequences/AN_Law_hammerspawn_V1_OE_25.04.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/NPC/Animations/Sequences/AN_Law_heavyattack02_V1_OE_25.04.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/NPC/Animations/Sequences/AN_Law_heavyattack03_V1_OE_25.04.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/NPC/Animations/Sequences/AN_Law_heavyattack04_V1_OE_30.04.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack01_V1_OE_25.04.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack02_V1_OE_25.04.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/Player/Animations/Light/Sequences/AN_CH_Lightrangedattack02_v1_OE_10.07.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog02_v1_OE_10.07.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjumpland01_v1_OE_10.07.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp202_v2_OE_17.07.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp302_v2_OE_17.07.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp401_v2_OE_17.07.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp501_v2_OE_20.06.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun02_v2_OE_09.07.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop01_v2_OE_10.07.18.fbx
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/AttackManager_Auto5.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/BTDecorator_BlueprintBase_New_Auto1.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/BTTask_BlueprintBase_New_Auto2.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/BT_AttackPlayer_Auto2.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/BT_AttackPlayer_Auto4.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/BT_AttackPlayer_Auto5.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/FindNextPoint_Auto6.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/FindNextPoint_Auto7.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/FindNextPoint_Auto8.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/FindNextPoint_Auto9.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/Law_AI_CON_Auto1.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/Law_AI_CON_Auto3.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/Law_Blackboard_Auto1.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/Law_Blackboard_Auto2.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/Law_Tree_Auto0.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/Law_Tree_Auto1.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/Law_Tree_Auto2.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/Law_Tree_Auto4.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/AI/Law_Tree_Auto5.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/BP_Law_Auto8.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/BP_Law_Auto9.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/Law_AnimBP_Auto0.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Blueprints/Law_AnimBP_Auto9.uasset
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/NPC/Meshes/
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Player/Animations/
+[2018.07.17-12.31.06:596][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Player/Blueprints/Light/BP_Light_V2_Auto5.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Player/Blueprints/Light/BP_Light_V2_Auto6.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Map_01_Auto0.umap
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Map_01_Auto2.umap
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Map_01_Auto3.umap
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Map_01_Auto6.umap
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Map_01_Auto7.umap
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Map_01_Auto8.umap
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Map_01_Auto9.umap
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Autosaves/Game/ThirdPersonBP/
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/AttackManager_2018-07-12-08-39-22.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/AttackManager_2018-07-12-09-27-32.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/AttackManager_2018-07-16-13-36-46.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-12-24-36.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-12-30-38.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-12-35-40.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-12-42-08.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-12-47-14.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-12-52-14.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-12-59-04.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-14-06-19.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-14-53-12.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-15-03-45.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-15-36-53.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-15-51-06.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-15-56-08.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-16-02-20.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-11-16-08-35.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-12-09-16-05.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-12-09-30-33.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-12-11-02-59.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-12-11-14-28.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-12-11-23-45.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-12-11-46-13.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-12-59-38.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-13-38-42.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-13-44-16.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-13-50-14.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-13-56-43.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-14-05-35.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-14-15-12.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-14-26-35.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-14-31-56.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-14-39-02.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-14-44-21.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-14-49-49.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-14-54-50.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-15-07-37.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-15-16-25.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-15-21-52.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-15-33-52.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-15-42-47.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-15-49-36.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Law_2018-07-16-15-54-50.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Light_V2_2018-07-12-10-44-16.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Light_V2_2018-07-16-14-03-38.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Light_V2_2018-07-16-14-13-40.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Light_V2_2018-07-16-15-49-19.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Light_V2_2018-07-17-10-45-01.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Light_V2_2018-07-17-11-04-46.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Light_V2_2018-07-17-12-12-23.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Light_V2_2018-07-17-12-34-10.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Light_V2_2018-07-17-12-57-34.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BP_Light_V2_2018-07-17-13-20-19.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BT_AttackPlayer_2018-07-12-09-16-32.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BT_AttackPlayer_2018-07-12-09-57-24.uasset
+[2018.07.17-12.31.06:597][  0]SourceControl: 	Saved/Backup/BT_AttackPlayer_2018-07-12-12-04-23.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/BT_AttackPlayer_2018-07-12-12-09-58.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/BT_AttackPlayer_2018-07-16-13-51-11.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/BT_AttackPlayer_2018-07-16-13-56-13.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/BT_AttackPlayer_2018-07-16-14-03-38.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/BT_AttackPlayer_2018-07-16-14-16-51.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/BT_AttackPlayer_2018-07-16-15-08-48.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/BT_FindPlayer_2018-07-16-13-22-59.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Character_Skeleton_2018-07-17-12-25-38.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-12-57-38.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-13-59-32.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-14-04-56.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-14-24-48.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-14-35-27.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-14-45-28.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-14-55-30.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-15-01-42.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-15-15-29.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-15-52-29.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/FindNextPoint_2018-07-11-16-10-57.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Heavy_01_AM_2018-07-16-15-50-46.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Heavy_01_Montage_2018-07-12-11-22-14.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Heavy_02_AM_2018-07-16-15-51-11.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Heavy_03_AM_2018-07-16-15-51-30.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/IdleWalkRun_2018-07-16-15-40-25.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/IdleWalkRun_2018-07-17-11-29-18.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/IdleWalkRun_2018-07-17-12-21-53.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/IdleWalkRun_2018-07-17-12-28-08.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/IdleWalkRun_2018-07-17-12-56-53.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/IdleWalkRun_2018-07-17-13-17-35.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Jog_SQ_2018-07-11-16-24-07.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Jog_SQ_2018-07-17-12-27-23.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Jog_V2_SQ_2018-07-11-16-23-56.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Jog_V2_SQ_2018-07-11-16-35-22.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AI_CON_2018-07-11-12-24-47.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AI_CON_2018-07-11-13-58-33.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AI_CON_2018-07-11-14-08-59.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AI_CON_2018-07-11-14-39-56.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AI_CON_2018-07-11-14-48-40.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AI_CON_2018-07-11-14-55-43.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AI_CON_2018-07-11-16-03-20.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AI_CON_2018-07-12-11-54-22.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AI_CON_2018-07-12-12-15-38.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AI_CON_2018-07-12-13-16-31.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AnimBP_2018-07-11-15-27-08.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AnimBP_2018-07-11-15-36-33.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AnimBP_2018-07-12-11-23-45.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AnimBP_2018-07-16-14-48-44.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AnimBP_2018-07-16-14-56-19.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AnimBP_2018-07-16-15-08-21.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AnimBP_2018-07-16-15-14-10.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AnimBP_2018-07-16-15-20-57.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AnimBP_2018-07-16-15-44-56.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_AnimBP_2018-07-16-15-56-42.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_Blackboard_2018-07-11-12-19-24.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_Blackboard_2018-07-11-12-33-12.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_Blackboard_2018-07-11-12-38-49.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_Blackboard_2018-07-11-13-59-01.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_Blackboard_2018-07-12-08-16-55.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_Blackboard_2018-07-12-08-36-33.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_Blackboard_2018-07-16-13-19-24.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_Blackboard_2018-07-16-13-25-45.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_DespawnV2_AnimSQ_2018-07-12-11-13-59.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_HeavyAttack_AnimSQ_2018-07-12-11-16-37.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_Skeleton_2018-07-16-16-02-11.uasset
+[2018.07.17-12.31.06:598][  0]SourceControl: 	Saved/Backup/Law_Skeleton_2018-07-16-16-56-28.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-11-12-35-40.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-11-13-09-24.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-11-13-59-01.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-11-14-25-29.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-11-14-37-04.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-11-15-04-57.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-11-15-56-44.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-12-08-25-13.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-12-08-40-34.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-12-09-04-30.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-12-09-16-32.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-12-09-57-24.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-12-11-43-02.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-12-12-11-42.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-16-13-00-28.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-16-13-06-25.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-16-13-15-40.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-16-13-25-45.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-16-13-33-53.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-16-13-40-24.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-16-14-03-38.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-16-14-22-11.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Tree_2018-07-16-14-39-31.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Law_Walk_AnimSQ_2018-07-12-11-16-28.uasset
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-12-35-39.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-12-44-20.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-12-53-26.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-12-59-23.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-13-59-11.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-14-13-34.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-14-25-28.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-14-55-29.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-15-06-16.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-15-41-13.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-15-51-59.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-16-03-20.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-11-16-12-38.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-09-16-31.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-09-38-11.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-09-57-27.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-10-17-28.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-10-39-10.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-10-45-55.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-11-02-58.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-11-14-27.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-11-23-45.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-11-32-42.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-11-54-22.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-12-13-16-31.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-13-08-27.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-13-34-18.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-13-51-49.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-14-03-37.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-14-13-39.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-14-24-49.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-14-37-11.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-14-48-43.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-14-59-19.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-15-16-59.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-15-27-39.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-15-38-41.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-15-49-35.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-16-02-10.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-16-16-56-28.umap
+[2018.07.17-12.31.06:599][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-17-10-47-44.umap
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-17-11-06-01.umap
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-17-12-12-49.umap
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-17-12-35-13.umap
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-17-13-01-32.umap
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Map_01_2018-07-17-13-22-59.umap
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/MoveNearPlayer_2018-07-16-13-30-35.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/MoveNearPlayer_2018-07-16-14-14-36.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/MoveNearPlayer_2018-07-16-15-08-34.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/NCP02_V2_AM_2018-07-17-10-46-29.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/NCP02_V2_SQ_2018-07-17-10-45-56.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/NCP03_V2_AM_2018-07-17-10-46-33.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/NCP03_V2_SQ_2018-07-17-10-45-48.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/NCP04_V2_AM_2018-07-17-10-46-37.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/NCP04_V2_SQ_2018-07-17-10-45-44.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/NCP05_V2_AM_2018-07-17-10-46-40.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/NCP05_V2_SQ_2018-07-17-10-45-41.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-11-16-17-15.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-12-10-16-46.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-12-10-39-04.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-17-10-57-40.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-17-11-03-00.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-17-11-27-52.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-17-12-16-28.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-17-12-25-11.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-17-12-30-15.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-17-12-59-07.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Player_AnimBP_2018-07-17-13-20-59.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Release_V2_AM_2018-07-12-10-44-33.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Sprint_V2_SQ_2018-07-11-16-20-54.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Sprint_V3_2018-07-17-10-55-13.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Sprint_V3_2018-07-17-11-00-37.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Backup/Sprint_V3_2018-07-17-12-26-15.uasset
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-3E25E67F4993BFA54DF51D89B853A0BB/
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-54A02B624A0F4A96073B1BBDFD064D1F/
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-7F60B2B64C569EF8EFBAAA98FD257DA4/
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-3E25E67F4993BFA54DF51D89B853A0BB_0000/
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-EF70840C43100FA48E990FBD4E123916_0000/
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-EF70840C43100FA48E990FBD4E123916_0001/
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Logs/GK_Rep-backup-2018.07.16-12.56.05.log
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Logs/GK_Rep-backup-2018.07.17-10.29.53.log
+[2018.07.17-12.31.06:600][  0]SourceControl: 	Saved/Logs/GK_Rep-backup-2018.07.17-13.30.14.log
+[2018.07.17-12.31.06:601][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.07.17-12.31.06:669][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.07.17-12.31.06:689][  1]LogAssetRegistry: Asset discovery search completed in 38.6179 seconds
+[2018.07.17-12.31.06:693][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.17-12.31.06:693][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2018.07.17-12.31.10:673][230]LogSlate: Took 0.006665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.17-12.31.12:034][310]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.17-12.31.12:047][310]LogLinker: Warning: Asset '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.07.17-12.31.12:047][310]LogLinker: Warning: Unable to load package (../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2018.07.17-12.31.12:048][310]LogLinker: Warning: Asset '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.07.17-12.31.12:048][310]LogLinker: Warning: Unable to load package (../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2018.07.17-12.31.12:052][310]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Tash_Map.Tash_Map'
+[2018.07.17-12.31.19:688][766]LogLinker: Warning: Asset '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.07.17-12.31.19:688][766]LogLinker: Warning: Unable to load package (../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap) PackageVersion 516, MaxExpected 514 : LicenseePackageVersion 0, MaxExpected 0.
+[2018.07.17-12.31.22:209][905]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.17-12.31.22:534][906]Cmd: QUIT_EDITOR
+[2018.07.17-12.31.22:579][906]LogExit: Preparing to exit.
+[2018.07.17-12.31.23:009][906]LogDirectoryWatcher: A directory notification for 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/' was aborted.
+[2018.07.17-12.31.23:045][906]LogExit: Editor shut down
+[2018.07.17-12.31.23:049][906]LogExit: Transaction tracking system shut down
+[2018.07.17-12.31.23:222][906]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.17-12.31.23:222][906]LogDirectoryWatcher: A directory notification for '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/' was aborted.
+[2018.07.17-12.31.23:222][906]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.17-12.31.23:223][906]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.07.17-12.31.23:223][906]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.07.17-12.31.23:223][906]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.17-12.31.23:223][906]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.17-12.31.23:286][906]LogExit: Object subsystem successfully closed.
+[2018.07.17-12.31.23:447][906]LogD3D11RHI: Shutdown
+[2018.07.17-12.31.23:447][906]LogD3D11RHI: CleanupD3DDevice
+[2018.07.17-12.31.23:468][906]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.17-12.31.23:489][906]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (556)
+[2018.07.17-12.31.23:489][906]LogModuleManager: Shutting down and abandoning module SceneOutliner (554)
+[2018.07.17-12.31.23:489][906]LogModuleManager: Shutting down and abandoning module AddContentDialog (552)
+[2018.07.17-12.31.23:490][906]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.07.17-12.31.23:490][906]LogModuleManager: Shutting down and abandoning module WidgetCarousel (551)
+[2018.07.17-12.31.23:490][906]LogModuleManager: Shutting down and abandoning module EditorWidgets (548)
+[2018.07.17-12.31.23:490][906]LogModuleManager: Shutting down and abandoning module CollectionManager (546)
+[2018.07.17-12.31.23:491][906]LogDirectoryWatcher: A directory notification for 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Collections/' was aborted.
+[2018.07.17-12.31.23:491][906]LogDirectoryWatcher: A directory notification for 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Developers/NTI/Collections/' was aborted.
+[2018.07.17-12.31.23:491][906]LogDirectoryWatcher: A directory notification for 'C:/Users/NTI/Documents/GitHub/GK_Rep/Saved/Collections/' was aborted.
+[2018.07.17-12.31.23:491][906]LogModuleManager: Shutting down and abandoning module StatsViewer (544)
+[2018.07.17-12.31.23:491][906]LogModuleManager: Shutting down and abandoning module FoliageEdit (542)
+[2018.07.17-12.31.23:491][906]LogModuleManager: Shutting down and abandoning module LandscapeEditor (540)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module MeshPaintMode (538)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (536)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module ActorPickerMode (534)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module GeometryMode (532)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module TextureAlignMode (530)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module BspMode (528)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (526)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module HardwareSurvey (524)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (522)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module AutomationWorker (520)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (518)
+[2018.07.17-12.31.23:492][906]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (516)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module PlacementMode (515)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (512)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (510)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (508)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (506)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (504)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (502)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (500)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (498)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (496)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module CharacterAI (494)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module AudioCapture (492)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module SequenceRecorder (491)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module SmartSnapping (488)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module SessionServices (486)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module ViewportSnapping (484)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module ViewportInteraction (482)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module ClothPainter (480)
+[2018.07.17-12.31.23:493][906]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (479)
+[2018.07.17-12.31.23:494][906]LogModuleManager: Shutting down and abandoning module LogVisualizer (476)
+[2018.07.17-12.31.23:494][906]LogModuleManager: Shutting down and abandoning module IntroTutorials (474)
+[2018.07.17-12.31.23:494][906]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (473)
+[2018.07.17-12.31.23:495][906]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (470)
+[2018.07.17-12.31.23:495][906]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (468)
+[2018.07.17-12.31.23:495][906]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (466)
+[2018.07.17-12.31.23:495][906]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (465)
+[2018.07.17-12.31.23:791][906]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (462)
+[2018.07.17-12.31.23:791][906]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (460)
+[2018.07.17-12.31.23:791][906]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (458)
+[2018.07.17-12.31.23:791][906]LogModuleManager: Shutting down and abandoning module InputBindingEditor (456)
+[2018.07.17-12.31.23:791][906]LogModuleManager: Shutting down and abandoning module MergeActors (454)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module SizeMap (452)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module TreeMap (450)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module ReferenceViewer (448)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (446)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module LocalizationService (445)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module HardwareTargeting (442)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (440)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module UndoHistory (438)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module XmlParser (436)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module Blutility (434)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (432)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (431)
+[2018.07.17-12.31.23:794][906]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (428)
+[2018.07.17-12.31.23:795][906]LogModuleManager: Shutting down and abandoning module SettingsEditor (426)
+[2018.07.17-12.31.23:795][906]LogModuleManager: Shutting down and abandoning module ProjectLauncher (424)
+[2018.07.17-12.31.23:795][906]LogModuleManager: Shutting down and abandoning module SessionFrontend (422)
+[2018.07.17-12.31.23:795][906]LogModuleManager: Shutting down and abandoning module ProfilerClient (420)
+[2018.07.17-12.31.23:795][906]LogModuleManager: Shutting down and abandoning module DeviceManager (418)
+[2018.07.17-12.31.23:795][906]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (417)
+[2018.07.17-12.31.23:850][906]LogModuleManager: Shutting down and abandoning module AutomationController (414)
+[2018.07.17-12.31.23:850][906]LogModuleManager: Shutting down and abandoning module AutomationWindow (412)
+[2018.07.17-12.31.23:851][906]LogModuleManager: Shutting down and abandoning module Layers (410)
+[2018.07.17-12.31.23:852][906]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (408)
+[2018.07.17-12.31.23:852][906]LogModuleManager: Shutting down and abandoning module DetailCustomizations (406)
+[2018.07.17-12.31.23:852][906]LogModuleManager: Shutting down and abandoning module PackagesDialog (404)
+[2018.07.17-12.31.23:853][906]LogModuleManager: Shutting down and abandoning module Persona (402)
+[2018.07.17-12.31.23:853][906]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (401)
+[2018.07.17-12.31.23:854][906]LogModuleManager: Shutting down and abandoning module AnimGraph (399)
+[2018.07.17-12.31.23:854][906]LogModuleManager: Shutting down and abandoning module Kismet (396)
+[2018.07.17-12.31.23:854][906]LogModuleManager: Shutting down and abandoning module ClassViewer (394)
+[2018.07.17-12.31.23:854][906]LogModuleManager: Shutting down and abandoning module Toolbox (392)
+[2018.07.17-12.31.23:854][906]LogModuleManager: Shutting down and abandoning module ModuleUI (390)
+[2018.07.17-12.31.23:854][906]LogModuleManager: Shutting down and abandoning module MovieSceneTools (388)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module OutputLog (386)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module GammaUI (384)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module Documentation (382)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (380)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module MovieScene (378)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (376)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module LauncherPlatform (374)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module AnalyticsET (372)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module PortalServices (370)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module PortalRpc (368)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module MessagingRpc (366)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module AIModule (364)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module GameplayDebugger (363)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module AITestSuite (361)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module DesktopPlatform (358)
+[2018.07.17-12.31.23:855][906]LogModuleManager: Shutting down and abandoning module ProfilerService (356)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module TaskGraph (354)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (352)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module SubstanceSource (350)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module SubstanceEditor (348)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.07.17-12.31.23:967][906]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.07.17-12.31.23:968][906]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.07.17-12.31.23:968][906]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.07.17-12.31.23:968][906]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.07.17-12.31.23:968][906]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.07.17-12.31.23:968][906]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.07.17-12.31.23:968][906]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.07.17-12.31.23:968][906]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.07.17-12.31.23:968][906]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.07.17-12.31.23:968][906]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.07.17-12.31.23:969][906]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.07.17-12.31.23:969][906]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.07.17-12.31.23:969][906]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.07.17-12.31.23:969][906]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.07.17-12.31.23:969][906]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.07.17-12.31.23:969][906]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.07.17-12.31.23:970][906]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.07.17-12.31.23:970][906]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.07.17-12.31.23:970][906]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.07.17-12.31.23:970][906]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.07.17-12.31.23:970][906]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.07.17-12.31.23:970][906]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.07.17-12.31.23:970][906]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.07.17-12.31.23:970][906]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2018.07.17-12.31.23:971][906]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2018.07.17-12.31.24:072][906]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2018.07.17-12.31.24:173][906]LogModuleManager: Shutting down and abandoning module SubstanceCore (252)
+[2018.07.17-12.31.24:173][906]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.07.17-12.31.24:173][906]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.07.17-12.31.24:173][906]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.07.17-12.31.24:173][906]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.07.17-12.31.24:173][906]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.07.17-12.31.24:175][906]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.07.17-12.31.24:176][906]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.07.17-12.31.24:176][906]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.07.17-12.31.24:176][906]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.07.17-12.31.24:176][906]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.07.17-12.31.24:178][906]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.07.17-12.31.24:178][906]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.07.17-12.31.24:178][906]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.07.17-12.31.24:178][906]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.07.17-12.31.24:179][906]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.07.17-12.31.24:179][906]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.07.17-12.31.24:185][906]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.07.17-12.31.24:185][906]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.07.17-12.31.24:185][906]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.07.17-12.31.24:186][906]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.07.17-12.31.24:186][906]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.07.17-12.31.24:186][906]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.07.17-12.31.24:186][906]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.07.17-12.31.24:187][906]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.07.17-12.31.24:187][906]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.07.17-12.31.24:187][906]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.07.17-12.31.24:187][906]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.07.17-12.31.24:189][906]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.07.17-12.31.24:190][906]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.07.17-12.31.24:190][906]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.07.17-12.31.24:192][906]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.07.17-12.31.24:192][906]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.07.17-12.31.24:194][906]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.07.17-12.31.24:194][906]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.07.17-12.31.24:194][906]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.07.17-12.31.24:194][906]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.07.17-12.31.24:194][906]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.07.17-12.31.24:194][906]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.07.17-12.31.24:194][906]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.07.17-12.31.24:194][906]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.07.17-12.31.24:194][906]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.07.17-12.31.24:194][906]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.07.17-12.31.24:195][906]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.07.17-12.31.24:195][906]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.07.17-12.31.24:195][906]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.07.17-12.31.24:195][906]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.07.17-12.31.24:195][906]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.07.17-12.31.24:195][906]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.07.17-12.31.24:195][906]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.07.17-12.31.24:209][906]LogDerivedDataCache: Shutdown
+[2018.07.17-12.31.24:209][906]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.07.17-12.31.24:209][906]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.07.17-12.31.24:209][906]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.07.17-12.31.24:209][906]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.07.17-12.31.24:210][906]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.07.17-12.31.24:211][906]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.07.17-12.31.24:212][906]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.17-12.31.24:212][906]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.17-12.31.24:212][906]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.17-12.31.24:213][906]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCFCB3B41-41D4-62C3-F284-26B60C918BEC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=77753dc74482cab5e554728ced36d14f%7C07b09b362d3542dfbc3a0e9119d61f2f%7C69330d80-823d-4454-ac3b-063006ed3486&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.17-12.31.24:213][906]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.07.17-12.31.24:745][906]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.17-12.31.24:746][906]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.17-12.31.24:746][906]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.17-12.31.24:747][906]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.17-12.31.24:747][906]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.17-12.31.24:747][906]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.17-12.31.24:747][906]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.17-12.31.24:747][906]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.17-12.31.24:748][906]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.17-12.31.24:748][906]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.17-12.31.24:749][906]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.17-12.31.24:749][906]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.17-12.31.24:749][906]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.17-12.31.24:749][906]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.17-12.31.24:749][906]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.17-12.31.24:749][906]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.17-12.31.24:749][906]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.17-12.31.24:749][906]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.17-12.31.24:749][906]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.17-12.31.24:753][906]LogExit: Exiting.
+[2018.07.17-12.31.24:775][906]Log file closed, 07/17/18 13:31:24
