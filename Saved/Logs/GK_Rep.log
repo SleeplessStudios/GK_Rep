@@ -465,3 +465,103 @@ LogInit: Object subsystem initialized
 [2018.07.18-14.32.08:092][146]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/' took 5.11s
 [2018.07.18-14.32.26:755][246]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2018.07.18-14.37.18:388][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-14.38.41:812][124]LogSlate: Window 'Source Control Login' being destroyed
+[2018.07.18-14.39.35:624][569]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
+[2018.07.18-14.39.35:667][569]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.18-14.39.35:667][569]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.18-14.39.35:667][569]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.18-14.39.35:675][569]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
+[2018.07.18-14.39.35:805][569]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
+[2018.07.18-14.39.35:812][569]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.18-14.39.35:844][569]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.07.18-14.39.35:985][570]LogStaticMesh: Allocated 425x64x64 distance field atlas = 3.3Mb, with 43 objects containing 2.6Mb backing data
+[2018.07.18-14.39.36:413][587]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.18-14.39.36:461][589]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.18-14.39.36:688][599]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.18-14.39.36:717][600]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.18-14.39.36:945][610]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.18-14.39.36:966][611]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.18-14.39.37:190][622]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.18-14.39.37:190][622]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.18-14.39.37:664][642]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.18-14.39.37:715][644]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.18-14.39.37:916][653]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.18-14.39.38:198][664]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.18-14.39.38:288][668]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.18-14.39.38:430][674]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.18-14.39.38:452][675]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.18-14.39.38:691][685]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.18-14.39.38:715][686]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.18-14.39.38:879][693]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.07.18-14.39.38:880][693]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.07.18-14.39.38:880][693]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.07.18-14.39.38:880][693]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.18-14.39.46:324][131]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
+[2018.07.18-14.39.46:354][131]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.18-14.39.46:354][131]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.18-14.39.46:354][131]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.18-14.39.46:354][131]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.18-14.39.46:357][131]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
+[2018.07.18-14.39.46:451][132]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.07.18-14.39.46:594][136]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.18-14.39.46:594][136]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.18-14.39.46:612][137]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.18-14.39.46:612][137]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.18-14.39.46:864][147]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.18-14.39.46:884][148]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.18-14.39.46:902][149]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.18-14.39.46:902][149]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.18-14.39.47:065][157]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.18-14.39.47:089][158]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.18-14.39.47:089][158]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.18-14.39.47:331][168]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.18-14.39.47:358][169]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.18-14.39.47:566][178]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.18-14.39.47:589][179]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.18-14.39.47:614][180]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.18-14.39.47:830][190]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.18-14.39.48:498][229]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.07.18-14.39.48:498][229]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2018.07.18-14.39.48:498][229]MaterialEditorStats: Vertex shader: 35 instructions
+[2018.07.18-14.39.48:498][229]MaterialEditorStats: Texture samplers: 2/16
+[2018.07.18-14.39.50:527][350]LogMaterialEditor: Saving and Compiling material M_Light_RA
+[2018.07.18-14.39.50:998][350]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
+[2018.07.18-14.39.51:032][350]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.18-14.39.51:032][350]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.18-14.39.51:032][350]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.18-14.39.51:032][350]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.18-14.39.51:048][350]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
+[2018.07.18-14.39.51:073][350]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
+[2018.07.18-14.39.51:129][350]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Light_RA, compiling. 
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.18-14.39.52:091][350]TextureStreamingBuild: Display: Compiling optional shaders took 0.970 seconds.
+[2018.07.18-14.39.54:226][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Effects/Light/L_Range_Attack/M_Light_RA" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Effects/Light/L_Range_Attack/M_Light_RA.uasset" SILENT=true
+[2018.07.18-14.39.54:265][350]LogSavePackage: Save=20.09ms
+[2018.07.18-14.39.54:265][350]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/M_Light_RA1403F2ED4A698D91E2E6E7934B75E7D0.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Effects/Light/L_Range_Attack/M_Light_RA.uasset'
+[2018.07.18-14.39.54:267][350]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Effects/Light/L_Range_Attack/M_Light_RA.uasset
+[2018.07.18-14.39.54:281][350]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.07.18-14.39.54:281][350]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2018.07.18-14.39.54:281][350]MaterialEditorStats: Vertex shader: 35 instructions
+[2018.07.18-14.39.54:281][350]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.18-14.39.58:384][594]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.18-14.40.00:115][594]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.18-14.40.00:417][594]LogSourceControl: commit successful: [master e315ea5] de
+[2018.07.18-14.40.00:463][594]SourceControl: [master e315ea5] de
+[2018.07.18-14.40.00:463][594]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.07.18-14.40.00:463][594]SourceControl:  rewrite Content/Effects/Light/L_Range_Attack/M_Light_RA.uasset (98%)
+[2018.07.18-14.40.00:471][594]SourceControl: Commited [master e315ea5] de.
