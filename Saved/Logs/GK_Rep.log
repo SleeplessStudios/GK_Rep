@@ -1,4 +1,4 @@
-﻿Log file open, 07/18/18 15:31:52
+﻿Log file open, 07/18/18 16:16:23
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: GK_Rep
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(14698980) SRandInit(14698980).
+LogInit: Display: RandInit(-1815630930) SRandInit(-1815630930).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.274253
+LogStats: Stats thread started at 0.285493
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3944462).
@@ -176,7 +176,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.846s to configure plugins.
+LogStreaming: Display: Took  1.351s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -224,344 +224,950 @@ LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.19
-LogInit: Command Line:  
+LogInit: Command Line: 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.07.18-14.31.53:238][  0]LogInit: Selected Device Profile: [Windows]
-[2018.07.18-14.31.53:238][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.07.18-14.31.53:250][  0]LogInit: Computer: PC0F5A34
-[2018.07.18-14.31.53:250][  0]LogInit: User: NTI
-[2018.07.18-14.31.53:250][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.07.18-14.31.53:250][  0]LogInit: High frequency timer resolution =2.531252 MHz
-[2018.07.18-14.31.53:251][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.07.18-14.31.53:251][  0]LogMemory: Platform Memory Stats for Windows
-[2018.07.18-14.31.53:251][  0]LogMemory: Process Physical Memory: 274.79 MB used, 274.79 MB peak
-[2018.07.18-14.31.53:251][  0]LogMemory: Process Virtual Memory: 264.73 MB used, 264.73 MB peak
-[2018.07.18-14.31.53:251][  0]LogMemory: Physical Memory: 4197.71 MB used,  12080.88 MB free, 16278.59 MB total
-[2018.07.18-14.31.53:251][  0]LogMemory: Virtual Memory: 4794.23 MB used,  12080.88 MB free, 134217728.00 MB total
-[2018.07.18-14.31.53:268][  0]LogInit: Using OS detected language (en-US).
-[2018.07.18-14.31.53:268][  0]LogInit: Using OS detected locale (en-GB).
-[2018.07.18-14.31.53:271][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.07.18-14.31.53:722][  0]LogStreaming: Display: Took  0.454s to EndInitTextLocalization.
-[2018.07.18-14.31.53:722][  0]LogInit: Setting process to per monitor DPI aware
-[2018.07.18-14.31.53:768][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.07.18-14.31.53:768][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.07.18-14.31.53:959][  0]LogD3D11RHI: D3D11 adapters:
-[2018.07.18-14.31.54:005][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1000M' (Feature Level 11_0)
-[2018.07.18-14.31.54:005][  0]LogD3D11RHI:       4053/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.07.18-14.31.54:007][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.07.18-14.31.54:007][  0]LogD3D11RHI:       0/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.07.18-14.31.54:007][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.07.18-14.31.54:012][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.07.18-14.31.54:012][  0]LogD3D11RHI:     GPU DeviceId: 0x13b1 (for the marketing name, search the web for "GPU Device Id")
-[2018.07.18-14.31.54:012][  0]LogWindows: EnumDisplayDevices:
-[2018.07.18-14.31.54:012][  0]LogWindows:    0. 'NVIDIA Quadro M1000M' (P:1 D:1)
-[2018.07.18-14.31.54:012][  0]LogWindows:    1. 'NVIDIA Quadro M1000M' (P:0 D:0)
-[2018.07.18-14.31.54:012][  0]LogWindows:    2. 'NVIDIA Quadro M1000M' (P:0 D:0)
-[2018.07.18-14.31.54:012][  0]LogWindows:    3. 'NVIDIA Quadro M1000M' (P:0 D:0)
-[2018.07.18-14.31.54:013][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.07.18-14.31.54:013][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1000M
-[2018.07.18-14.31.54:013][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.07.18-14.31.54:013][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.07.18-14.31.54:013][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
-[2018.07.18-14.31.54:039][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.07.18-14.31.54:039][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.07.18-14.31.54:039][  0]LogD3D11RHI: Async texture creation enabled
-[2018.07.18-14.31.54:057][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.07.18-14.31.54:099][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Intermediate/Shaders/WorkingDirectory/808/).
-[2018.07.18-14.31.54:099][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NTI/AppData/Local/Temp/UnrealShaderWorkingDir/DDC389ED44008FCA5A3A7AB103F9BE22/'.
-[2018.07.18-14.31.54:300][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.07.18-14.31.54:312][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.07.18-14.31.54:324][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.07.18-14.31.54:336][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.07.18-14.31.54:349][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.07.18-14.31.54:361][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.07.18-14.31.54:374][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.07.18-14.31.54:386][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.07.18-14.31.54:392][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.07.18-14.31.54:403][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.07.18-14.31.54:414][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.07.18-14.31.54:425][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.07.18-14.31.54:436][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.07.18-14.31.54:447][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.07.18-14.31.54:458][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.07.18-14.31.54:480][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.07.18-14.31.54:480][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.07.18-14.31.54:492][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.18-14.31.54:493][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.07.18-14.31.54:529][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.07.18-14.31.54:540][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.07.18-14.31.54:551][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.07.18-14.31.54:562][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.07.18-14.31.54:573][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.07.18-14.31.54:584][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.07.18-14.31.54:584][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.07.18-14.31.54:675][  0]LogXGEController: Cleaning working directory: C:/Users/NTI/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.07.18-14.31.54:675][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.07.18-14.31.54:675][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.07.18-14.31.54:675][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.07.18-14.31.55:326][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.07.18-14.31.55:396][  0]LogDerivedDataCache: Loaded boot cache 0.07s 75MB C:/Users/NTI/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.07.18-14.31.55:396][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/NTI/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.07.18-14.31.55:396][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.07.18-14.31.55:396][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.07.18-14.31.55:396][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.07.18-14.31.55:396][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.07.18-14.31.55:412][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.07.18-14.31.55:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NTI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.07.18-14.31.55:424][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.07.18-14.31.55:424][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.07.18-14.31.55:435][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.07.18-14.31.55:435][  0]LogSlate: Using Freetype 2.6.0
-[2018.07.18-14.31.55:436][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.07.18-14.31.55:436][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.07.18-14.31.55:550][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
-[2018.07.18-14.31.55:843][  0]LogInit: Selected Device Profile: [Windows]
-[2018.07.18-14.31.55:978][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.07.18-14.31.55:981][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.07.18-14.31.55:981][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.07.18-14.31.55:981][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.07.18-14.31.55:981][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.07.18-14.31.55:981][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.07.18-14.31.56:015][  0]LogNetVersion: GK_Rep , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 181273889)
-[2018.07.18-14.31.56:515][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.077464 seconds
-[2018.07.18-14.31.56:520][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.07.18-14.31.56:520][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
-[2018.07.18-14.31.56:520][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.07.18-14.31.58:143][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
-[2018.07.18-14.31.58:159][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.07.18-14.31.58:190][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.07.18-14.31.58:493][  0]SourceControl: Source control is disabled
-[2018.07.18-14.31.58:493][  0]SourceControl: Source control is disabled
-[2018.07.18-14.31.58:507][  0]SourceControl: Source control is disabled
-[2018.07.18-14.31.58:520][  0]SourceControl: Source control is disabled
-[2018.07.18-14.31.58:974][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.07.18-14.31.59:095][  0]LogOcInput: OculusInput pre-init called
-[2018.07.18-14.31.59:313][  0]LogEngine: Initializing Engine...
-[2018.07.18-14.31.59:314][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.07.18-14.31.59:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.07.18-14.31.59:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.07.18-14.31.59:587][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.07.18-14.31.59:594][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.07.18-14.31.59:964][  0]LogInit: FAudioDevice initialized.
-[2018.07.18-14.32.00:034][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/NTI/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.07.18-14.32.00:058][  0]LogInit: Texture streaming: Enabled
-[2018.07.18-14.32.00:073][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.07.18-14.32.00:088][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.07.18-14.32.00:121][  0]LogInit: Transaction tracking system initialized
-[2018.07.18-14.32.00:147][  0]BlueprintLog: New page: Editor Load
-[2018.07.18-14.32.00:211][  0]LocalizationService: Localization service is disabled
-[2018.07.18-14.32.00:313][  0]LogConsoleResponse: Display: 
-[2018.07.18-14.32.00:478][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.07.18-14.32.00:478][  0]LogCook: Display: Mobile HDR setting 1
-[2018.07.18-14.32.00:478][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.07.18-14.32.00:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.07.18-14.32.00:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.07.18-14.32.00:739][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/' took 0.02s
-[2018.07.18-14.32.00:828][  0]SourceControl: Source control is disabled
-[2018.07.18-14.32.00:828][  0]Cmd: MAP LOAD FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.07.18-14.32.00:828][  0]LightingResults: New page: Lighting Build
-[2018.07.18-14.32.00:831][  0]MapCheck: New page: Map Check
-[2018.07.18-14.32.00:831][  0]LightingResults: New page: Lighting Build
-[2018.07.18-14.32.00:857][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dac17b07c0, Size=272, Default__BP_Law_C Function /Game/Characters/NPC/Blueprints/BP_Law.BP_Law_C:ExecuteUbergraph_BP_Law
-[2018.07.18-14.32.00:868][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daaa4c7b68, Size=56, Default__Law_AnimBP_C Function /Game/Characters/NPC/Blueprints/Law_AnimBP.Law_AnimBP_C:ExecuteUbergraph_Law_AnimBP
-[2018.07.18-14.32.00:869][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daac415de0, Size=88, Default__Law_AI_CON_C Function /Game/Characters/NPC/Blueprints/AI/Law_AI_CON.Law_AI_CON_C:ExecuteUbergraph_Law_AI_CON
-[2018.07.18-14.32.00:871][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001da98fbcf10, Size=48, Default__BT_AttackPlayer_C Function /Game/Characters/NPC/Blueprints/AI/BT_AttackPlayer.BT_AttackPlayer_C:ExecuteUbergraph_BT_AttackPlayer
-[2018.07.18-14.32.00:972][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daac494400, Size=976, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
-[2018.07.18-14.32.00:976][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daac40ca00, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
-[2018.07.18-14.32.01:086][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daaa4c6940, Size=56, Default__MoveNearPlayer_C Function /Game/Characters/NPC/Blueprints/AI/MoveNearPlayer.MoveNearPlayer_C:ExecuteUbergraph_MoveNearPlayer
-[2018.07.18-14.32.01:150][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daaa4c7b68, Size=56
-[2018.07.18-14.32.01:150][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab3c2ba8, Size=56, Default__Law_AnimBP_C Function /Engine/Transient.REINST_Law_AnimBP_C_0:ExecuteUbergraph_Law_AnimBP
-[2018.07.18-14.32.01:151][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daac40ca00, Size=192
-[2018.07.18-14.32.01:151][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daaacd8d00, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_1:ExecuteUbergraph_Player_AnimBP
-[2018.07.18-14.32.01:152][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dac17b07c0, Size=272
-[2018.07.18-14.32.01:153][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daaaceac00, Size=272, Default__BP_Law_C Function /Engine/Transient.REINST_BP_Law_C_2:ExecuteUbergraph_BP_Law
-[2018.07.18-14.32.01:153][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001da98fbcf10, Size=48
-[2018.07.18-14.32.01:153][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daaad15f60, Size=48, Default__BT_AttackPlayer_C Function /Engine/Transient.REINST_BT_AttackPlayer_C_3:ExecuteUbergraph_BT_AttackPlayer
-[2018.07.18-14.32.01:153][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daac415de0, Size=88
-[2018.07.18-14.32.01:153][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab3b7040, Size=88, Default__Law_AI_CON_C Function /Engine/Transient.REINST_Law_AI_CON_C_4:ExecuteUbergraph_Law_AI_CON
-[2018.07.18-14.32.01:154][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daaa4c6940, Size=56
-[2018.07.18-14.32.01:154][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab3c2c18, Size=56, Default__MoveNearPlayer_C Function /Engine/Transient.REINST_MoveNearPlayer_C_5:ExecuteUbergraph_MoveNearPlayer
-[2018.07.18-14.32.01:155][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daac494400, Size=976
-[2018.07.18-14.32.01:155][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab326800, Size=976, Default__BP_Light_V2_C Function /Engine/Transient.REINST_BP_Light_V2_C_6:ExecuteUbergraph_BP_Light_V2
-[2018.07.18-14.32.01:216][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab572940, Size=56, Default__Law_AnimBP_C Function /Game/Characters/NPC/Blueprints/Law_AnimBP.Law_AnimBP_C:ExecuteUbergraph_Law_AnimBP
-[2018.07.18-14.32.01:219][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab95f1c0, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
-[2018.07.18-14.32.01:222][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab91fd80, Size=272, Default__BP_Law_C Function /Game/Characters/NPC/Blueprints/BP_Law.BP_Law_C:ExecuteUbergraph_BP_Law
-[2018.07.18-14.32.01:223][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab93a350, Size=48, Default__BT_AttackPlayer_C Function /Game/Characters/NPC/Blueprints/AI/BT_AttackPlayer.BT_AttackPlayer_C:ExecuteUbergraph_BT_AttackPlayer
-[2018.07.18-14.32.01:224][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab9c9240, Size=88, Default__Law_AI_CON_C Function /Game/Characters/NPC/Blueprints/AI/Law_AI_CON.Law_AI_CON_C:ExecuteUbergraph_Law_AI_CON
-[2018.07.18-14.32.01:225][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab93e7f0, Size=56, Default__MoveNearPlayer_C Function /Game/Characters/NPC/Blueprints/AI/MoveNearPlayer.MoveNearPlayer_C:ExecuteUbergraph_MoveNearPlayer
-[2018.07.18-14.32.01:230][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daab4cd400, Size=976, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
-[2018.07.18-14.32.01:345][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daaa9d6200, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-[2018.07.18-14.32.01:355][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daaa9d6200, Size=64
-[2018.07.18-14.32.01:355][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daaa9d61c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_2:ExecuteUbergraph_ThirdPerson_AnimBP
-[2018.07.18-14.32.01:362][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daabddee30, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-[2018.07.18-14.32.01:401][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daabda60c0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
-[2018.07.18-14.32.01:407][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daabda60c0, Size=296
-[2018.07.18-14.32.01:407][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daabda60c0, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_18:ExecuteUbergraph_ThirdPersonCharacter
-[2018.07.18-14.32.01:415][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daabda4900, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
-[2018.07.18-14.32.01:435][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daabd03d60, Size=32, Default__GK_HUD_C Function /Game/UI/GK_HUD.GK_HUD_C:ExecuteUbergraph_GK_HUD
-[2018.07.18-14.32.01:436][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daabd03d60, Size=32
-[2018.07.18-14.32.01:436][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daabd03d60, Size=32, Default__GK_HUD_C Function /Engine/Transient.REINST_GK_HUD_C_22:ExecuteUbergraph_GK_HUD
-[2018.07.18-14.32.01:438][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daabd01b80, Size=32, Default__GK_HUD_C Function /Game/UI/GK_HUD.GK_HUD_C:ExecuteUbergraph_GK_HUD
-[2018.07.18-14.32.01:450][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daabd99280, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
-[2018.07.18-14.32.01:457][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daabd99280, Size=128
-[2018.07.18-14.32.01:457][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daabd99280, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_26:ExecuteUbergraph_Map_01
-[2018.07.18-14.32.01:461][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001daabd98d00, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
-[2018.07.18-14.32.01:727][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.811845ms] /Game/Characters/NPC/Meshes/SK_Law.SK_Law
-[2018.07.18-14.32.01:764][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [6.792291ms] /Game/Characters/Player/Meshes/SK_Light.SK_Light
-[2018.07.18-14.32.02:008][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [14.931742ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
-[2018.07.18-14.32.02:121][  0]LogAIModule: Creating AISystem for world Map_01
-[2018.07.18-14.32.02:215][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.07.18-14.32.02:240][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daaaceac00, Size=272
-[2018.07.18-14.32.02:240][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daab3c2ba8, Size=56
-[2018.07.18-14.32.02:240][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daab3b7040, Size=88
-[2018.07.18-14.32.02:240][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daaad15f60, Size=48
-[2018.07.18-14.32.02:240][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daab326800, Size=976
-[2018.07.18-14.32.02:240][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daaacd8d00, Size=192
-[2018.07.18-14.32.02:240][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daab3c2c18, Size=56
-[2018.07.18-14.32.02:241][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daaa9d61c0, Size=64
-[2018.07.18-14.32.02:241][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daabda60c0, Size=296
-[2018.07.18-14.32.02:241][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daabd03d60, Size=32
-[2018.07.18-14.32.02:241][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001daabd99280, Size=128
-[2018.07.18-14.32.02:243][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.07.18-14.32.02:326][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.556ms to complete.
-[2018.07.18-14.32.02:326][  0]LogFileHelpers: Loading map 'Map_01' took 1.497
-[2018.07.18-14.32.02:471][  0]LogCollectionManager: Loaded 0 collections in 0.001563 seconds
-[2018.07.18-14.32.02:512][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Saved/Collections/' took 0.01s
-[2018.07.18-14.32.02:513][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Developers/NTI/Collections/' took 0.01s
-[2018.07.18-14.32.02:513][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Collections/' took 0.01s
-[2018.07.18-14.32.02:513][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.07.18-14.32.02:522][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2472 classes and 569 folders.
-[2018.07.18-14.32.02:529][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.07.18-14.32.02:573][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.07.18-14.32.02:578][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.07.18-14.32.02:681][  0]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.07.18-14.32.02:684][  0]LogSlate: Took 0.000417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.07.18-14.32.02:694][  0]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.07.18-14.32.02:802][  0]LogRenderer: Reallocating scene render targets to support 1192x504 Format 10 NumSamples 1 (Frame:1).
-[2018.07.18-14.32.02:954][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.07.18-14.32.02:954][  0]LogLoad: (Engine Initialization) Total time: 11.84 seconds
-[2018.07.18-14.32.02:954][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.07.18-14.32.03:007][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.07.18-14.32.03:068][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.07.18-14.32.03:077][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
-[2018.07.18-14.32.03:103][  1]LogAssetRegistry: Asset discovery search completed in 7.5749 seconds
-[2018.07.18-14.32.03:106][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.07.18-14.32.03:106][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
-[2018.07.18-14.32.03:992][ 46]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.07.18-14.32.03:995][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.07.18-14.32.04:013][ 46]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.07.18-14.32.04:261][ 46]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
-[2018.07.18-14.32.04:263][ 46]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
-[2018.07.18-14.32.04:315][ 46]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
-[2018.07.18-14.32.04:623][ 46]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
-[2018.07.18-14.32.05:196][ 46]LogUObjectGlobals: Created PersistentFrame Addr=0x000001db1189c5d8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
-[2018.07.18-14.32.05:197][ 46]LogUObjectGlobals: Created PersistentFrame Addr=0x000001db1189c5d0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
-[2018.07.18-14.32.05:579][ 46]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
-[2018.07.18-14.32.06:246][ 46]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.07.18-14.32.08:092][146]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/' took 5.11s
-[2018.07.18-14.32.26:755][246]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.07.18-14.37.18:388][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.07.18-14.38.41:812][124]LogSlate: Window 'Source Control Login' being destroyed
-[2018.07.18-14.39.35:624][569]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
-[2018.07.18-14.39.35:667][569]LogShaderCompilers: Display: Shaders left to compile 22
-[2018.07.18-14.39.35:667][569]LogShaderCompilers: Display: Shaders left to compile 12
-[2018.07.18-14.39.35:667][569]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.07.18-14.39.35:675][569]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
-[2018.07.18-14.39.35:805][569]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
-[2018.07.18-14.39.35:812][569]LogShaderCompilers: Display: Shaders left to compile 16
-[2018.07.18-14.39.35:844][569]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2018.07.18-14.39.35:985][570]LogStaticMesh: Allocated 425x64x64 distance field atlas = 3.3Mb, with 43 objects containing 2.6Mb backing data
-[2018.07.18-14.39.36:413][587]LogShaderCompilers: Display: Shaders left to compile 17
-[2018.07.18-14.39.36:461][589]LogShaderCompilers: Display: Shaders left to compile 16
-[2018.07.18-14.39.36:688][599]LogShaderCompilers: Display: Shaders left to compile 15
-[2018.07.18-14.39.36:717][600]LogShaderCompilers: Display: Shaders left to compile 14
-[2018.07.18-14.39.36:945][610]LogShaderCompilers: Display: Shaders left to compile 13
-[2018.07.18-14.39.36:966][611]LogShaderCompilers: Display: Shaders left to compile 12
-[2018.07.18-14.39.37:190][622]LogShaderCompilers: Display: Shaders left to compile 11
-[2018.07.18-14.39.37:190][622]LogShaderCompilers: Display: Shaders left to compile 10
-[2018.07.18-14.39.37:664][642]LogShaderCompilers: Display: Shaders left to compile 9
-[2018.07.18-14.39.37:715][644]LogShaderCompilers: Display: Shaders left to compile 8
-[2018.07.18-14.39.37:916][653]LogShaderCompilers: Display: Shaders left to compile 7
-[2018.07.18-14.39.38:198][664]LogShaderCompilers: Display: Shaders left to compile 6
-[2018.07.18-14.39.38:288][668]LogShaderCompilers: Display: Shaders left to compile 5
-[2018.07.18-14.39.38:430][674]LogShaderCompilers: Display: Shaders left to compile 4
-[2018.07.18-14.39.38:452][675]LogShaderCompilers: Display: Shaders left to compile 3
-[2018.07.18-14.39.38:691][685]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.07.18-14.39.38:715][686]LogShaderCompilers: Display: Shaders left to compile 1
-[2018.07.18-14.39.38:879][693]MaterialEditorStats: Base pass shader: 100 instructions
-[2018.07.18-14.39.38:880][693]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
-[2018.07.18-14.39.38:880][693]MaterialEditorStats: Vertex shader: 34 instructions
-[2018.07.18-14.39.38:880][693]MaterialEditorStats: Texture samplers: 2/16
-[2018.07.18-14.39.46:324][131]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
-[2018.07.18-14.39.46:354][131]LogShaderCompilers: Display: Shaders left to compile 16
-[2018.07.18-14.39.46:354][131]LogShaderCompilers: Display: Shaders left to compile 15
-[2018.07.18-14.39.46:354][131]LogShaderCompilers: Display: Shaders left to compile 14
-[2018.07.18-14.39.46:354][131]LogShaderCompilers: Display: Shaders left to compile 13
-[2018.07.18-14.39.46:357][131]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
-[2018.07.18-14.39.46:451][132]LogMaterial: Missing cached shader map for material Material_0, compiling. 
-[2018.07.18-14.39.46:594][136]LogShaderCompilers: Display: Shaders left to compile 21
-[2018.07.18-14.39.46:594][136]LogShaderCompilers: Display: Shaders left to compile 20
-[2018.07.18-14.39.46:612][137]LogShaderCompilers: Display: Shaders left to compile 19
-[2018.07.18-14.39.46:612][137]LogShaderCompilers: Display: Shaders left to compile 18
-[2018.07.18-14.39.46:864][147]LogShaderCompilers: Display: Shaders left to compile 17
-[2018.07.18-14.39.46:884][148]LogShaderCompilers: Display: Shaders left to compile 16
-[2018.07.18-14.39.46:902][149]LogShaderCompilers: Display: Shaders left to compile 15
-[2018.07.18-14.39.46:902][149]LogShaderCompilers: Display: Shaders left to compile 14
-[2018.07.18-14.39.47:065][157]LogShaderCompilers: Display: Shaders left to compile 13
-[2018.07.18-14.39.47:089][158]LogShaderCompilers: Display: Shaders left to compile 12
-[2018.07.18-14.39.47:089][158]LogShaderCompilers: Display: Shaders left to compile 11
-[2018.07.18-14.39.47:331][168]LogShaderCompilers: Display: Shaders left to compile 10
-[2018.07.18-14.39.47:358][169]LogShaderCompilers: Display: Shaders left to compile 9
-[2018.07.18-14.39.47:566][178]LogShaderCompilers: Display: Shaders left to compile 8
-[2018.07.18-14.39.47:589][179]LogShaderCompilers: Display: Shaders left to compile 7
-[2018.07.18-14.39.47:614][180]LogShaderCompilers: Display: Shaders left to compile 6
-[2018.07.18-14.39.47:830][190]LogShaderCompilers: Display: Shaders left to compile 5
-[2018.07.18-14.39.48:498][229]MaterialEditorStats: Base pass shader: 115 instructions
-[2018.07.18-14.39.48:498][229]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
-[2018.07.18-14.39.48:498][229]MaterialEditorStats: Vertex shader: 35 instructions
-[2018.07.18-14.39.48:498][229]MaterialEditorStats: Texture samplers: 2/16
-[2018.07.18-14.39.50:527][350]LogMaterialEditor: Saving and Compiling material M_Light_RA
-[2018.07.18-14.39.50:998][350]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
-[2018.07.18-14.39.51:032][350]LogShaderCompilers: Display: Shaders left to compile 16
-[2018.07.18-14.39.51:032][350]LogShaderCompilers: Display: Shaders left to compile 15
-[2018.07.18-14.39.51:032][350]LogShaderCompilers: Display: Shaders left to compile 14
-[2018.07.18-14.39.51:032][350]LogShaderCompilers: Display: Shaders left to compile 13
-[2018.07.18-14.39.51:048][350]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
-[2018.07.18-14.39.51:073][350]LogMaterial: Missing cached shader map for material M_Light_RA, compiling. 
-[2018.07.18-14.39.51:129][350]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Light_RA, compiling. 
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 35
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 34
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 33
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 32
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 31
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 30
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 29
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 28
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 27
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 26
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 25
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 24
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 23
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 22
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 12
-[2018.07.18-14.39.52:089][350]LogShaderCompilers: Display: Shaders left to compile 2
-[2018.07.18-14.39.52:091][350]TextureStreamingBuild: Display: Compiling optional shaders took 0.970 seconds.
-[2018.07.18-14.39.54:226][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Effects/Light/L_Range_Attack/M_Light_RA" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Effects/Light/L_Range_Attack/M_Light_RA.uasset" SILENT=true
-[2018.07.18-14.39.54:265][350]LogSavePackage: Save=20.09ms
-[2018.07.18-14.39.54:265][350]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/M_Light_RA1403F2ED4A698D91E2E6E7934B75E7D0.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Effects/Light/L_Range_Attack/M_Light_RA.uasset'
-[2018.07.18-14.39.54:267][350]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Effects/Light/L_Range_Attack/M_Light_RA.uasset
-[2018.07.18-14.39.54:281][350]MaterialEditorStats: Base pass shader: 115 instructions
-[2018.07.18-14.39.54:281][350]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
-[2018.07.18-14.39.54:281][350]MaterialEditorStats: Vertex shader: 35 instructions
-[2018.07.18-14.39.54:281][350]MaterialEditorStats: Texture samplers: 3/16
-[2018.07.18-14.39.58:384][594]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
-[2018.07.18-14.40.00:115][594]LogSlate: Window 'Submit Files' being destroyed
-[2018.07.18-14.40.00:417][594]LogSourceControl: commit successful: [master e315ea5] de
-[2018.07.18-14.40.00:463][594]SourceControl: [master e315ea5] de
-[2018.07.18-14.40.00:463][594]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
-[2018.07.18-14.40.00:463][594]SourceControl:  rewrite Content/Effects/Light/L_Range_Attack/M_Light_RA.uasset (98%)
-[2018.07.18-14.40.00:471][594]SourceControl: Commited [master e315ea5] de.
+[2018.07.18-15.16.25:054][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.18-15.16.25:055][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.18-15.16.25:079][  0]LogInit: Computer: PC0F5A34
+[2018.07.18-15.16.25:079][  0]LogInit: User: NTI
+[2018.07.18-15.16.25:079][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.18-15.16.25:079][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.07.18-15.16.25:079][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.18-15.16.25:079][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.18-15.16.25:079][  0]LogMemory: Process Physical Memory: 274.91 MB used, 274.91 MB peak
+[2018.07.18-15.16.25:080][  0]LogMemory: Process Virtual Memory: 264.95 MB used, 264.95 MB peak
+[2018.07.18-15.16.25:080][  0]LogMemory: Physical Memory: 6247.86 MB used,  10030.73 MB free, 16278.59 MB total
+[2018.07.18-15.16.25:080][  0]LogMemory: Virtual Memory: 4794.23 MB used,  10030.73 MB free, 134217728.00 MB total
+[2018.07.18-15.16.25:093][  0]LogInit: Using OS detected language (en-US).
+[2018.07.18-15.16.25:093][  0]LogInit: Using OS detected locale (en-GB).
+[2018.07.18-15.16.25:153][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.18-15.16.25:704][  0]LogStreaming: Display: Took  0.611s to EndInitTextLocalization.
+[2018.07.18-15.16.25:704][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.18-15.16.25:744][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.18-15.16.25:744][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.18-15.16.28:123][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.18-15.16.28:161][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1000M' (Feature Level 11_0)
+[2018.07.18-15.16.28:161][  0]LogD3D11RHI:       4053/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.18-15.16.28:163][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.18-15.16.28:163][  0]LogD3D11RHI:       0/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.18-15.16.28:163][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.18-15.16.28:168][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.18-15.16.28:168][  0]LogD3D11RHI:     GPU DeviceId: 0x13b1 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.18-15.16.28:168][  0]LogWindows: EnumDisplayDevices:
+[2018.07.18-15.16.28:168][  0]LogWindows:    0. 'NVIDIA Quadro M1000M' (P:1 D:1)
+[2018.07.18-15.16.28:168][  0]LogWindows:    1. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2018.07.18-15.16.28:168][  0]LogWindows:    2. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2018.07.18-15.16.28:169][  0]LogWindows:    3. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2018.07.18-15.16.28:169][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.18-15.16.28:169][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1000M
+[2018.07.18-15.16.28:169][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.18-15.16.28:169][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.18-15.16.28:169][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.07.18-15.16.28:196][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.18-15.16.28:196][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.18-15.16.28:196][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.18-15.16.28:214][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.18-15.16.28:256][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Intermediate/Shaders/WorkingDirectory/7512/).
+[2018.07.18-15.16.28:256][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NTI/AppData/Local/Temp/UnrealShaderWorkingDir/997A6B7F4AD289AE484575ABFAF51ADA/'.
+[2018.07.18-15.16.28:571][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.18-15.16.28:584][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.18-15.16.28:596][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.18-15.16.28:609][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.18-15.16.28:626][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.18-15.16.28:639][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.18-15.16.28:652][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.18-15.16.28:665][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.18-15.16.28:673][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.18-15.16.28:686][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.18-15.16.28:698][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.18-15.16.28:711][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.18-15.16.28:724][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.18-15.16.28:739][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.18-15.16.28:750][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.18-15.16.28:775][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.18-15.16.28:775][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.18-15.16.28:790][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.18-15.16.28:791][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.18-15.16.28:831][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.18-15.16.28:842][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.18-15.16.28:853][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.18-15.16.28:864][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.18-15.16.28:874][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.18-15.16.28:890][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.18-15.16.28:890][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.18-15.16.28:978][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.18-15.16.28:978][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.18-15.16.28:978][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.18-15.16.30:406][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.18-15.16.30:479][  0]LogDerivedDataCache: Loaded boot cache 0.07s 75MB C:/Users/NTI/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.18-15.16.30:479][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/NTI/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.18-15.16.30:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.18-15.16.30:479][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.18-15.16.30:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.18-15.16.30:479][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.18-15.16.30:499][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.18-15.16.30:512][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NTI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.18-15.16.30:512][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.18-15.16.30:512][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.18-15.16.30:523][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.18-15.16.30:524][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.18-15.16.30:524][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.18-15.16.30:524][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.18-15.16.31:310][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.07.18-15.16.31:605][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.18-15.16.31:813][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.18-15.16.31:815][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.18-15.16.31:815][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.18-15.16.31:815][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.18-15.16.31:815][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.18-15.16.31:815][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.18-15.16.31:866][  0]LogNetVersion: GK_Rep , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 181273889)
+[2018.07.18-15.16.32:862][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.092857 seconds
+[2018.07.18-15.16.32:867][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.18-15.16.32:867][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.18-15.16.32:867][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.18-15.16.36:467][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.07.18-15.16.36:484][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.18-15.16.36:510][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.18-15.16.36:851][  0]SourceControl: Source control is disabled
+[2018.07.18-15.16.37:649][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.18-15.16.37:764][  0]LogOcInput: OculusInput pre-init called
+[2018.07.18-15.16.38:034][  0]LogEngine: Initializing Engine...
+[2018.07.18-15.16.38:036][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.18-15.16.38:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.18-15.16.38:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.18-15.16.38:435][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.18-15.16.38:441][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-15.16.38:813][  0]LogInit: FAudioDevice initialized.
+[2018.07.18-15.16.38:878][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/NTI/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.18-15.16.38:903][  0]LogInit: Texture streaming: Enabled
+[2018.07.18-15.16.38:918][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.18-15.16.38:918][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={138022E2-4D5B-6057-C39D-26B46B00BFCF}
+[2018.07.18-15.16.38:965][  0]LogInit: Transaction tracking system initialized
+[2018.07.18-15.16.38:989][  0]BlueprintLog: New page: Editor Load
+[2018.07.18-15.16.39:054][  0]LocalizationService: Localization service is disabled
+[2018.07.18-15.16.39:185][  0]LogConsoleResponse: Display: 
+[2018.07.18-15.16.39:549][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.18-15.16.39:549][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.18-15.16.39:549][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.18-15.16.39:549][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.18-15.16.39:549][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.18-15.16.40:027][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/' took 0.02s
+[2018.07.18-15.16.40:059][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.18-15.16.57:814][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.07.18-15.16.57:815][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.18-15.16.57:829][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.18-15.16.57:891][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.18-15.16.57:917][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.18-15.16.57:917][  0]Cmd: MAP LOAD FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.18-15.16.57:925][  0]LightingResults: New page: Lighting Build
+[2018.07.18-15.16.57:928][  0]MapCheck: New page: Map Check
+[2018.07.18-15.16.57:928][  0]LightingResults: New page: Lighting Build
+[2018.07.18-15.16.57:995][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5aa734c0, Size=272, Default__BP_Law_C Function /Game/Characters/NPC/Blueprints/BP_Law.BP_Law_C:ExecuteUbergraph_BP_Law
+[2018.07.18-15.16.58:021][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5aaab708, Size=56, Default__Law_AnimBP_C Function /Game/Characters/NPC/Blueprints/Law_AnimBP.Law_AnimBP_C:ExecuteUbergraph_Law_AnimBP
+[2018.07.18-15.16.58:023][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5aa773a0, Size=88, Default__Law_AI_CON_C Function /Game/Characters/NPC/Blueprints/AI/Law_AI_CON.Law_AI_CON_C:ExecuteUbergraph_Law_AI_CON
+[2018.07.18-15.16.58:025][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd701fd960, Size=48, Default__BT_AttackPlayer_C Function /Game/Characters/NPC/Blueprints/AI/BT_AttackPlayer.BT_AttackPlayer_C:ExecuteUbergraph_BT_AttackPlayer
+[2018.07.18-15.16.58:243][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5aa45800, Size=976, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.16.58:246][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd63596d40, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.16.58:475][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5aaaa4e0, Size=56, Default__MoveNearPlayer_C Function /Game/Characters/NPC/Blueprints/AI/MoveNearPlayer.MoveNearPlayer_C:ExecuteUbergraph_MoveNearPlayer
+[2018.07.18-15.16.58:589][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5aaab708, Size=56
+[2018.07.18-15.16.58:589][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a37e630, Size=56, Default__Law_AnimBP_C Function /Engine/Transient.REINST_Law_AnimBP_C_0:ExecuteUbergraph_Law_AnimBP
+[2018.07.18-15.16.58:589][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd63596d40, Size=192
+[2018.07.18-15.16.58:590][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd63596d40, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_1:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.16.58:590][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5aa734c0, Size=272
+[2018.07.18-15.16.58:590][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a602340, Size=272, Default__BP_Law_C Function /Engine/Transient.REINST_BP_Law_C_2:ExecuteUbergraph_BP_Law
+[2018.07.18-15.16.58:590][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd701fd960, Size=48
+[2018.07.18-15.16.58:590][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a7d1ab0, Size=48, Default__BT_AttackPlayer_C Function /Engine/Transient.REINST_BT_AttackPlayer_C_3:ExecuteUbergraph_BT_AttackPlayer
+[2018.07.18-15.16.58:590][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5aa773a0, Size=88
+[2018.07.18-15.16.58:590][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a651840, Size=88, Default__Law_AI_CON_C Function /Engine/Transient.REINST_Law_AI_CON_C_4:ExecuteUbergraph_Law_AI_CON
+[2018.07.18-15.16.58:591][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5aaaa4e0, Size=56
+[2018.07.18-15.16.58:591][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a37e6a0, Size=56, Default__MoveNearPlayer_C Function /Engine/Transient.REINST_MoveNearPlayer_C_5:ExecuteUbergraph_MoveNearPlayer
+[2018.07.18-15.16.58:592][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5aa45800, Size=976
+[2018.07.18-15.16.58:592][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a6cdc00, Size=976, Default__BP_Light_V2_C Function /Engine/Transient.REINST_BP_Light_V2_C_6:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.16.58:631][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a1f63c8, Size=56, Default__Law_AnimBP_C Function /Game/Characters/NPC/Blueprints/Law_AnimBP.Law_AnimBP_C:ExecuteUbergraph_Law_AnimBP
+[2018.07.18-15.16.58:634][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd60c9ef80, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.16.58:636][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a083380, Size=272, Default__BP_Law_C Function /Game/Characters/NPC/Blueprints/BP_Law.BP_Law_C:ExecuteUbergraph_BP_Law
+[2018.07.18-15.16.58:637][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd641d5de0, Size=48, Default__BT_AttackPlayer_C Function /Game/Characters/NPC/Blueprints/AI/BT_AttackPlayer.BT_AttackPlayer_C:ExecuteUbergraph_BT_AttackPlayer
+[2018.07.18-15.16.58:638][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a0a8e20, Size=88, Default__Law_AI_CON_C Function /Game/Characters/NPC/Blueprints/AI/Law_AI_CON.Law_AI_CON_C:ExecuteUbergraph_Law_AI_CON
+[2018.07.18-15.16.58:638][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd60ca2278, Size=56, Default__MoveNearPlayer_C Function /Game/Characters/NPC/Blueprints/AI/MoveNearPlayer.MoveNearPlayer_C:ExecuteUbergraph_MoveNearPlayer
+[2018.07.18-15.16.58:643][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd641eb400, Size=976, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.16.58:853][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd59f83040, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.18-15.16.58:863][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd59f83040, Size=64
+[2018.07.18-15.16.58:863][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd59f83080, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_2:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.18-15.16.58:871][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd047c0a90, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.18-15.16.59:016][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd04765e40, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.18-15.16.59:022][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd04765e40, Size=296
+[2018.07.18-15.16.59:022][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd04765e40, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_18:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.18-15.16.59:027][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd04764680, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.18-15.16.59:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a7a9980, Size=32, Default__GK_HUD_C Function /Game/UI/GK_HUD.GK_HUD_C:ExecuteUbergraph_GK_HUD
+[2018.07.18-15.16.59:062][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5a7a9980, Size=32
+[2018.07.18-15.16.59:062][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5a7a9980, Size=32, Default__GK_HUD_C Function /Engine/Transient.REINST_GK_HUD_C_22:ExecuteUbergraph_GK_HUD
+[2018.07.18-15.16.59:063][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5abef3a0, Size=32, Default__GK_HUD_C Function /Game/UI/GK_HUD.GK_HUD_C:ExecuteUbergraph_GK_HUD
+[2018.07.18-15.16.59:079][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd04761600, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.18-15.16.59:085][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd04761600, Size=128
+[2018.07.18-15.16.59:085][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd04761600, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_26:ExecuteUbergraph_Map_01
+[2018.07.18-15.16.59:089][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd04761080, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.18-15.16.59:279][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [16.572037ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.07.18-15.16.59:470][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [14.053915ms] /Game/Characters/NPC/Meshes/SK_Law.SK_Law
+[2018.07.18-15.16.59:565][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.079006ms] /Game/Characters/Player/Meshes/SK_Light.SK_Light
+[2018.07.18-15.16.59:904][  0]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-15.17.00:436][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.18-15.17.00:457][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5a602340, Size=272
+[2018.07.18-15.17.00:457][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5a37e630, Size=56
+[2018.07.18-15.17.00:458][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5a651840, Size=88
+[2018.07.18-15.17.00:458][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5a7d1ab0, Size=48
+[2018.07.18-15.17.00:458][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5a6cdc00, Size=976
+[2018.07.18-15.17.00:458][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd63596d40, Size=192
+[2018.07.18-15.17.00:458][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5a37e6a0, Size=56
+[2018.07.18-15.17.00:458][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd59f83080, Size=64
+[2018.07.18-15.17.00:458][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd04765e40, Size=296
+[2018.07.18-15.17.00:458][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd5a7a9980, Size=32
+[2018.07.18-15.17.00:458][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd04761600, Size=128
+[2018.07.18-15.17.00:460][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.18-15.17.00:528][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.071ms to complete.
+[2018.07.18-15.17.00:528][  0]LogFileHelpers: Loading map 'Map_01' took 2.610
+[2018.07.18-15.17.00:642][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_1d3c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_43c_0///####STATCAT_Advanced####
+[2018.07.18-15.17.00:642][  0]LogCollectionManager: Loaded 0 collections in 0.001882 seconds
+[2018.07.18-15.17.00:684][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Saved/Collections/' took 0.01s
+[2018.07.18-15.17.00:684][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Developers/NTI/Collections/' took 0.01s
+[2018.07.18-15.17.00:684][  0]LogFileCache: Scanning file cache for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Collections/' took 0.01s
+[2018.07.18-15.17.00:684][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.18-15.17.00:694][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2472 classes and 569 folders.
+[2018.07.18-15.17.00:702][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.18-15.17.01:007][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.18-15.17.01:011][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.18-15.17.01:103][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.18-15.17.01:114][  0]LogSlate: Took 0.004365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.18-15.17.01:267][  0]LogRenderer: Reallocating scene render targets to support 1192x504 Format 10 NumSamples 1 (Frame:1).
+[2018.07.18-15.17.01:459][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.18-15.17.01:459][  0]LogLoad: (Engine Initialization) Total time: 39.90 seconds
+[2018.07.18-15.17.01:459][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.18-15.17.01:513][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.18-15.17.01:551][  0]LogSlate: Took 0.004032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.18-15.17.01:559][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.07.18-15.17.01:581][  1]LogAssetRegistry: Asset discovery search completed in 30.2936 seconds
+[2018.07.18-15.17.01:584][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.18-15.17.01:584][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2018.07.18-15.17.02:502][ 48]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.18-15.17.04:516][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.18-15.17.04:617][168]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.18-15.17.04:885][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.18-15.17.04:887][168]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.07.18-15.17.04:946][168]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.07.18-15.17.05:348][168]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.07.18-15.17.05:375][168]LogStaticMesh: Allocated 395x64x64 distance field atlas = 3.1Mb, with 42 objects containing 2.3Mb backing data
+[2018.07.18-15.17.05:375][168]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.18-15.17.06:589][229]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/' took 5.10s
+[2018.07.18-15.17.14:183][563]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.07.18-15.17.14:497][579]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2018.07.18-15.17.14:497][579]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository
+[2018.07.18-15.17.14:497][579]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository
+[2018.07.18-15.17.21:845][871]LogSavePackage: Save=13.99ms
+[2018.07.18-15.17.21:845][871]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog8CCFF2454473FB0D1A3497921E729636.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset'
+[2018.07.18-15.17.21:851][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset
+[2018.07.18-15.17.24:947][965]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.18-15.17.25:221][965]SourceControl: rm 'Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset'
+[2018.07.18-15.17.30:587][206]LogSavePackage: Save=14.61ms
+[2018.07.18-15.17.30:587][206]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog3B670AB34B87D576D8782398204BE4A5.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset'
+[2018.07.18-15.17.30:589][206]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset
+[2018.07.18-15.17.36:923][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.18-15.17.37:518][511]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cda077a058, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.18-15.17.37:518][511]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cda077a050, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.18-15.17.37:887][511]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.07.18-15.17.38:154][511]LogSlate: Took 0.004374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.18-15.17.38:283][511]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.18-15.17.38:309][512]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.18-15.17.46:976][ 11]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cda31ce458, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.17.55:860][508]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cda31ce458, Size=4
+[2018.07.18-15.17.55:860][508]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb17bf460, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_4:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.17.55:876][508]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb17bc0e8, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.17.57:712][610]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb17bc0e8, Size=4
+[2018.07.18-15.17.57:712][610]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb2818ea0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_5:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.17.57:730][610]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb2818fb8, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.06:065][ 79]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb2818fb8, Size=4
+[2018.07.18-15.18.06:065][ 79]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaaa64770, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_6:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.06:082][ 79]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaaa64170, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.06:089][ 79]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaaa64170, Size=4
+[2018.07.18-15.18.06:089][ 79]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaaa64170, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_7:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.06:105][ 79]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaaa65bd8, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.10:570][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaaa65bd8, Size=4
+[2018.07.18-15.18.10:570][321]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaaa54fa0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_8:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.10:587][321]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaaa55b18, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.10:594][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaaa55b18, Size=4
+[2018.07.18-15.18.10:594][321]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaaa55b18, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_9:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.10:609][321]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaaa56358, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.15:522][595]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaaa56358, Size=4
+[2018.07.18-15.18.15:522][595]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaffc9060, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_10:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.15:537][595]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaffc8ea0, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.15:544][595]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaffc8ea0, Size=4
+[2018.07.18-15.18.15:544][595]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaffc8ea0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_11:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.15:559][595]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdaffc9e58, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.17:503][696]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaffc9e58, Size=4
+[2018.07.18-15.18.17:503][696]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb35ed890, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_12:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.17:519][696]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb35ed200, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.26:556][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb35ed200, Size=4
+[2018.07.18-15.18.26:556][187]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb325ab00, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_13:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.26:570][187]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb325bb48, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.29:069][313]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb325bb48, Size=4
+[2018.07.18-15.18.29:069][313]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb325bb48, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_14:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.29:085][313]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb3258140, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.35:641][676]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb3258140, Size=4
+[2018.07.18-15.18.35:641][676]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb505e9e0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_15:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.35:655][676]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb505deb8, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.35:662][676]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb505deb8, Size=4
+[2018.07.18-15.18.35:662][676]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb505deb8, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_16:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.35:677][676]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb505d400, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.37:114][750]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb505d400, Size=4
+[2018.07.18-15.18.37:114][750]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb4edecc0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_17:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.37:129][750]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb4ede668, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.37:136][750]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb4ede668, Size=4
+[2018.07.18-15.18.37:136][750]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb4ede668, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_18:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.37:150][750]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb4edd860, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.39:024][850]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb4edd860, Size=4
+[2018.07.18-15.18.39:024][850]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb4edd860, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_19:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.39:039][850]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb4edf330, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.39:046][850]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb4edf330, Size=4
+[2018.07.18-15.18.39:046][850]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb4edf330, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_20:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.39:060][850]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb568faa8, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.52:090][574]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb568faa8, Size=4
+[2018.07.18-15.18.52:090][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb568faa8, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_21:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.52:105][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb568c758, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.52:112][574]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb568c758, Size=4
+[2018.07.18-15.18.52:112][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd9e727ef0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_22:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.18.52:127][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd9e727840, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.19.40:279][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd9e727840, Size=4
+[2018.07.18-15.19.40:279][847]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb568f498, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_23:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.19.40:294][847]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb568f5a0, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.19.40:301][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb568f5a0, Size=4
+[2018.07.18-15.19.40:301][847]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd9e724420, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_24:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.19.40:316][847]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd9e726730, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.19.42:326][943]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd9e726730, Size=4
+[2018.07.18-15.19.42:326][943]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd9e3b3480, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_25:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.19.42:342][943]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd9e3b0ed0, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.19.42:350][943]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd9e3b0ed0, Size=4
+[2018.07.18-15.19.42:350][943]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd9e3b0ed0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_26:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.19.42:368][943]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd9e3b3d40, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.20.39:828][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd9e3b3d40, Size=4
+[2018.07.18-15.20.39:828][528]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb62d8438, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_27:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.20.39:844][528]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb62d8fe0, Size=4, Default__SKEL_Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.SKEL_Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.20.44:284][718]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.18-15.20.44:310][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb62d8fe0, Size=4
+[2018.07.18-15.20.44:310][718]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb62d8fe0, Size=4, Default__SKEL_Player_AnimBP_C Function /Engine/Transient.REINST_SKEL_Player_AnimBP_C_28:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.20.44:338][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd60c9ef80, Size=192
+[2018.07.18-15.20.44:338][718]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb5894400, Size=192, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_29:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.20.44:348][718]LogBlueprint: Warning: [Compiler Player_AnimBP] Walk to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.44:348][718]LogBlueprint: Warning: [Compiler Player_AnimBP] Jog to Sprint  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.44:348][718]LogBlueprint: Warning: [Compiler Player_AnimBP] Sprint to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.44:348][718]LogBlueprint: Warning: [Compiler Player_AnimBP] Jog to Walk  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.44:348][718]LogBlueprint: Warning: [Compiler Player_AnimBP] JumpEnd to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.44:348][718]LogBlueprint: Warning: [Compiler Player_AnimBP] Jog to Jump  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.44:348][718]LogBlueprint: Warning: [Compiler Player_AnimBP] Sprint to Jump  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.44:357][718]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd9254f340, Size=176, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.20.44:507][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb17bf460, Size=4
+[2018.07.18-15.20.44:507][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb2818ea0, Size=4
+[2018.07.18-15.20.44:507][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaaa64770, Size=4
+[2018.07.18-15.20.44:507][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaaa64170, Size=4
+[2018.07.18-15.20.44:507][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaaa54fa0, Size=4
+[2018.07.18-15.20.44:508][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaaa55b18, Size=4
+[2018.07.18-15.20.44:508][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaffc9060, Size=4
+[2018.07.18-15.20.44:508][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdaffc8ea0, Size=4
+[2018.07.18-15.20.44:508][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb35ed890, Size=4
+[2018.07.18-15.20.44:508][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb325ab00, Size=4
+[2018.07.18-15.20.44:508][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb325bb48, Size=4
+[2018.07.18-15.20.44:508][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb505e9e0, Size=4
+[2018.07.18-15.20.44:508][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb505deb8, Size=4
+[2018.07.18-15.20.44:508][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb4edecc0, Size=4
+[2018.07.18-15.20.44:508][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb4ede668, Size=4
+[2018.07.18-15.20.44:509][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb4edd860, Size=4
+[2018.07.18-15.20.44:509][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb4edf330, Size=4
+[2018.07.18-15.20.44:509][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb568faa8, Size=4
+[2018.07.18-15.20.44:509][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd9e727ef0, Size=4
+[2018.07.18-15.20.44:509][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb568f498, Size=4
+[2018.07.18-15.20.44:509][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd9e724420, Size=4
+[2018.07.18-15.20.44:509][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd9e3b3480, Size=4
+[2018.07.18-15.20.44:509][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd9e3b0ed0, Size=4
+[2018.07.18-15.20.44:509][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb62d8438, Size=4
+[2018.07.18-15.20.44:509][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb62d8fe0, Size=4
+[2018.07.18-15.20.44:541][718]LogBlueprint: Warning: [Compiler Player_AnimBP] [0262.98] Compile of Player_AnimBP successful, but with 7 Warning(s) [in 257 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.18-15.20.45:157][733]LogSavePackage: Save=123.11ms
+[2018.07.18-15.20.45:157][733]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Player_AnimBP73BEB7694817D7A981089381510476D4.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset'
+[2018.07.18-15.20.45:160][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset
+[2018.07.18-15.20.52:287][ 49]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.18-15.20.52:342][ 49]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd9254f340, Size=176
+[2018.07.18-15.20.52:342][ 49]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb6e80f40, Size=176, Player_AnimBP_C_6 Function /Engine/Transient.REINST_Player_AnimBP_C_31:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.20.52:355][ 49]LogBlueprint: Warning: [Compiler Player_AnimBP] Walk to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.52:355][ 49]LogBlueprint: Warning: [Compiler Player_AnimBP] Jog to Sprint  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.52:355][ 49]LogBlueprint: Warning: [Compiler Player_AnimBP] Sprint to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.52:355][ 49]LogBlueprint: Warning: [Compiler Player_AnimBP] Jog to Walk  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.52:355][ 49]LogBlueprint: Warning: [Compiler Player_AnimBP] JumpEnd to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.52:355][ 49]LogBlueprint: Warning: [Compiler Player_AnimBP] Jog to Jump  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.52:355][ 49]LogBlueprint: Warning: [Compiler Player_AnimBP] Sprint to Jump  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.20.52:364][ 49]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb5bdea40, Size=176, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.20.52:476][ 49]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb5894400, Size=192
+[2018.07.18-15.20.52:489][ 49]LogBlueprint: Warning: [Compiler Player_AnimBP] [0270.93] Compile of Player_AnimBP successful, but with 7 Warning(s) [in 201 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.18-15.21.21:817][315]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.18-15.21.21:872][315]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb5bdea40, Size=176
+[2018.07.18-15.21.21:872][315]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb5bdea40, Size=176, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_33:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.21.21:883][315]LogBlueprint: Warning: [Compiler Player_AnimBP] Walk to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.21.21:883][315]LogBlueprint: Warning: [Compiler Player_AnimBP] Jog to Sprint  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.21.21:883][315]LogBlueprint: Warning: [Compiler Player_AnimBP] Sprint to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.21.21:883][315]LogBlueprint: Warning: [Compiler Player_AnimBP] Jog to Walk  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.21.21:884][315]LogBlueprint: Warning: [Compiler Player_AnimBP] JumpEnd to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.21.21:892][315]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb1f6da80, Size=184, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.21.22:002][315]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb6e80f40, Size=176
+[2018.07.18-15.21.22:014][315]LogBlueprint: Warning: [Compiler Player_AnimBP] [0300.45] Compile of Player_AnimBP successful, but with 5 Warning(s) [in 196 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.18-15.21.22:443][322]LogSavePackage: Save=131.36ms
+[2018.07.18-15.21.22:443][322]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Player_AnimBP1037D9EC4950A464B2AB43B5D5832C0B.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset'
+[2018.07.18-15.21.22:446][322]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset
+[2018.07.18-15.21.57:003][913]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.18-15.21.57:058][913]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb1f6da80, Size=184
+[2018.07.18-15.21.57:058][913]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd1dcba740, Size=184, Player_AnimBP_C_13 Function /Engine/Transient.REINST_Player_AnimBP_C_35:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.21.57:068][913]LogBlueprint: Warning: [Compiler Player_AnimBP] Walk to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.21.57:068][913]LogBlueprint: Warning: [Compiler Player_AnimBP] Jog to Sprint  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.21.57:068][913]LogBlueprint: Warning: [Compiler Player_AnimBP] Sprint to Jog  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.21.57:068][913]LogBlueprint: Warning: [Compiler Player_AnimBP] Jog to Walk  will never be taken, please connect something to  Can Enter Transition
+[2018.07.18-15.21.57:076][913]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb6e82ec0, Size=184, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.21.57:189][913]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb5bdea40, Size=176
+[2018.07.18-15.21.57:202][913]LogBlueprint: Warning: [Compiler Player_AnimBP] [0335.64] Compile of Player_AnimBP successful, but with 4 Warning(s) [in 200 ms] (/Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP)
+[2018.07.18-15.23.16:551][414]BlueprintLog: New page: Compile Player_AnimBP
+[2018.07.18-15.23.16:610][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb6e82ec0, Size=184
+[2018.07.18-15.23.16:610][414]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb2c34f40, Size=184, Default__Player_AnimBP_C Function /Engine/Transient.REINST_Player_AnimBP_C_37:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.23.16:631][414]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdb4e43700, Size=192, Default__Player_AnimBP_C Function /Game/Characters/Player/Blueprints/Light/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP
+[2018.07.18-15.23.16:745][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd1dcba740, Size=184
+[2018.07.18-15.23.17:432][430]LogSavePackage: Save=141.30ms
+[2018.07.18-15.23.17:432][430]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Player_AnimBP9F81A05D4581A76AFD02EF86737581CD.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset'
+[2018.07.18-15.23.17:435][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset
+[2018.07.18-15.23.20:869][580]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.18-15.23.20:892][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.23.20:892][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-15.23.20:892][580]PIE: New page: PIE session: Map_01 (18 Jul 2018 17:23:20)
+[2018.07.18-15.23.20:892][580]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-15.23.20:937][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045025s)
+[2018.07.18-15.23.20:938][580]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-15.23.20:938][580]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2018.07.18-15.23.20:939][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.046996s)
+[2018.07.18-15.23.20:962][580]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdb2c34f40, Size=184
+[2018.07.18-15.23.20:966][580]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-15.23.20:980][580]LogInit: FAudioDevice initialized.
+[2018.07.18-15.23.21:047][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-15.23.21:053][580]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2018.07.18-16.23.21
+[2018.07.18-15.23.21:053][580]LogWorld: Bringing up level for play took: 0.004734
+[2018.07.18-15.23.21:059][580]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.18-15.23.21:067][580]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 -0.283
+[2018.07.18-15.23.21:067][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.23.21:116][580]LogRenderer: Reallocating scene render targets to support 1192x536 Format 10 NumSamples 1 (Frame:1).
+[2018.07.18-15.23.34:553][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.23.34:577][160]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.18-15.23.34:616][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.23.47:587][673]LogRenderer: Reallocating scene render targets to support 1192x548 Format 10 NumSamples 1 (Frame:1348).
+[2018.07.18-15.24.51:439][814]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.18-15.24.51:593][815]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GKRep
+[2018.07.18-15.24.51:593][815]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.18-15.24.51:593][815]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.07.18-15.24.51:593][815]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.18-15.24.51:593][815]LogTemp: BranchPath = PC0F5A34/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = PC0F5A34/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.07.18-15.24.51:593][815]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\NTI\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.18-15.25.30:823][439]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.18-15.25.30:834][439]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.18-15.25.58:578][724]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd4294db50, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.28.00:985][322]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.18-15.28.01:035][322]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd4294db50, Size=4
+[2018.07.18-15.28.01:035][322]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd331c8e18, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_78:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.28.01:097][322]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd641eb400, Size=976
+[2018.07.18-15.28.01:097][322]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdbcc0e800, Size=976, Default__BP_Light_V2_C Function /Engine/Transient.REINST_BP_Light_V2_C_83:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.28.01:112][322]LogBlueprint: Error: [Compiler BP_Light_V2] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.07.18-15.28.01:114][322]LogBlueprint: Error: [Compiler BP_Light_V2] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.07.18-15.28.01:116][322]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdbcc08f00, Size=1064, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.28.01:520][322]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd331c8e18, Size=4
+[2018.07.18-15.28.01:583][322]LogBlueprint: Warning: [Compiler BP_Light_V2] [0700.02] Compile of BP_Light_V2 failed. 2 Fatal Issue(s) 0 Warning(s) [in 598 ms] (/Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2)
+[2018.07.18-15.28.02:183][333]LogSavePackage: Save=148.06ms
+[2018.07.18-15.28.02:183][333]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V2B99F050644BE84DAD90A1FA6E6B4AAE1.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.18-15.28.02:186][333]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.18-15.28.05:903][529]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.18-15.28.06:011][529]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdbcc08f00, Size=1064
+[2018.07.18-15.28.06:011][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd1a73cf00, Size=1064, BP_Light_V2_C_15 Function /Engine/Transient.REINST_BP_Light_V2_C_91:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.28.06:028][529]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cddbbe9d00, Size=1064, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.28.09:450][683]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd14bdc4e8, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.28.18:477][137]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.18-15.28.22:258][331]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.18-15.28.29:468][691]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.18-15.28.37:107][ 91]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.18-15.28.58:084][174]LogEditorTransaction: Undo Move Node
+[2018.07.18-15.28.58:087][174]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd14bdc4e8, Size=4
+[2018.07.18-15.28.58:087][174]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdcc219038, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_95:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.28.58:096][174]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdcc2198a8, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.28.58:336][174]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.07.18-15.28.58:341][174]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.07.18-15.29.09:401][741]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.18-15.29.24:462][476]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.18-15.30.18:976][312]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.18-15.30.36:366][193]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.18-15.30.51:548][981]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdcc2198a8, Size=4
+[2018.07.18-15.30.51:548][981]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd44184ed8, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_97:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.30.51:557][981]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd270fd838, Size=4, Default__SKEL_BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.SKEL_BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.31.00:266][406]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.18-15.31.22:996][637]BlueprintLog: New page: Compile BP_Light_V2
+[2018.07.18-15.31.23:047][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd270fd838, Size=4
+[2018.07.18-15.31.23:047][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdde6da2f0, Size=4, Default__SKEL_BP_Light_V2_C Function /Engine/Transient.REINST_SKEL_BP_Light_V2_C_100:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.31.23:114][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cddbbe9d00, Size=1064
+[2018.07.18-15.31.23:114][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdf3c04800, Size=1064, BP_Light_V2_C_2447 Function /Engine/Transient.REINST_BP_Light_V2_C_105:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.31.23:133][637]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cdf234c100, Size=1064, Default__BP_Light_V2_C Function /Game/Characters/Player/Blueprints/Light/BP_Light_V2.BP_Light_V2_C:ExecuteUbergraph_BP_Light_V2
+[2018.07.18-15.31.23:585][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdde6da2f0, Size=4
+[2018.07.18-15.31.23:585][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd44184ed8, Size=4
+[2018.07.18-15.31.23:586][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cdcc219038, Size=4
+[2018.07.18-15.31.23:586][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd1a73cf00, Size=1064
+[2018.07.18-15.31.24:431][652]LogSavePackage: Save=147.10ms
+[2018.07.18-15.31.24:431][652]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Light_V2DB3C0232445DD73277853F837507D277.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset'
+[2018.07.18-15.31.24:434][652]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Blueprints/Light/BP_Light_V2.uasset
+[2018.07.18-15.31.27:852][823]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.18-15.31.27:910][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.31.27:910][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.18-15.31.27:910][823]PIE: New page: PIE session: Map_01 (18 Jul 2018 17:31:27)
+[2018.07.18-15.31.27:910][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-15.31.27:929][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018360s)
+[2018.07.18-15.31.27:930][823]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-15.31.27:930][823]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2018.07.18-15.31.27:930][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.019906s)
+[2018.07.18-15.31.27:961][823]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-15.31.27:974][823]LogInit: FAudioDevice initialized.
+[2018.07.18-15.31.28:024][823]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-15.31.28:028][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2018.07.18-16.31.28
+[2018.07.18-15.31.28:029][823]LogWorld: Bringing up level for play took: 0.004648
+[2018.07.18-15.31.28:036][823]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 0.686
+[2018.07.18-15.31.28:036][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.31.46:804][944]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.31.46:826][944]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.18-15.31.46:870][944]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.31.50:208][ 70]LogStaticMesh: Allocated 425x64x64 distance field atlas = 3.3Mb, with 43 objects containing 2.6Mb backing data
+[2018.07.18-15.31.55:684][282]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.07.18-15.31.55:720][282]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.07.18-15.31.56:088][282]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.07.18-15.32.23:172][387]LogSavePackage: Save=15.31ms
+[2018.07.18-15.32.23:172][387]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog808D7C424C690E676BDE2BB7AA02CAD7.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset'
+[2018.07.18-15.32.23:176][387]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset
+[2018.07.18-15.32.37:865][904]LogSavePackage: Save=15.10ms
+[2018.07.18-15.32.37:865][904]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog1073937B47387F0CB31BEBBE149BD0E8.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset'
+[2018.07.18-15.32.37:868][904]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset
+[2018.07.18-15.32.50:469][347]LogSavePackage: Save=15.95ms
+[2018.07.18-15.32.50:469][347]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Sprint821EE3CE4F6C1B462DA44F91353300B2.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset'
+[2018.07.18-15.32.50:472][347]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset
+[2018.07.18-15.34.19:742][732]LogSavePackage: Save=16.50ms
+[2018.07.18-15.34.19:742][732]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Sprint13E66FC34809131E60BBA88E263B5FAC.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset'
+[2018.07.18-15.34.19:745][732]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset
+[2018.07.18-15.34.58:953][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Map_01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.07.18-15.34.59:076][701]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd04761080, Size=128
+[2018.07.18-15.34.59:076][701]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cda69ac980, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_109:ExecuteUbergraph_Map_01
+[2018.07.18-15.34.59:080][701]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cda69af900, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.18-15.34.59:606][701]LogSavePackage: Save=627.99ms
+[2018.07.18-15.34.59:606][701]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Map_01_Auto15B2EB6D049CCDBF6F34D6EA15FB06DC3.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Map_01_Auto1.umap'
+[2018.07.18-15.34.59:608][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Map_01_Auto1.umap
+[2018.07.18-15.34.59:610][701]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map_01' took 0.689
+[2018.07.18-15.34.59:611][701]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.689
+[2018.07.18-15.36.12:075][613]LogSavePackage: Save=16.39ms
+[2018.07.18-15.36.12:075][613]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog1C6DC77640ECEE4E8314CC86FC6586EB.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset'
+[2018.07.18-15.36.12:078][613]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset
+[2018.07.18-15.46.22:507][240]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/NTI/Downloads/AN_CH_lightjoglookCU01_v1_OE_18.07.18.fbx)
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: NodeAttribute, ItemCount : 60
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: Model, ItemCount : 63
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: Material, ItemCount : 3
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: Texture, ItemCount : 4
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: AnimationCurveNode, ItemCount : 271
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: CollectionExclusive, ItemCount : 3
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: AnimationCurve, ItemCount : 210
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: Pose, ItemCount : 2
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: Deformer, ItemCount : 108
+[2018.07.18-15.46.22:522][240]LogFbx: ItemName: Video, ItemCount : 3
+[2018.07.18-15.46.22:527][240]LogFbx: Loading FBX Scene from ../../../../../../Users/NTI/Downloads/AN_CH_lightjoglookCU01_v1_OE_18.07.18.fbx
+[2018.07.18-15.46.22:595][240]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-15.46.27:464][240]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.07.18-15.46.27:510][240]LogFbx: Loading FBX Scene from ../../../../../../Users/NTI/Downloads/AN_CH_lightjoglookCU01_v1_OE_18.07.18.fbx
+[2018.07.18-15.46.27:579][240]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-15.46.27:584][240]LogFbx: =================================================
+[2018.07.18-15.46.27:584][240]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-15.46.27:584][240]LogFbx: 	Total Deformer Count -385933824.
+[2018.07.18-15.46.27:584][240]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-15.46.27:584][240]LogFbx: =================================================
+[2018.07.18-15.46.27:584][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:584][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-15.46.27:584][240]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-15.46.27:584][240]LogFbx: =================================================
+[2018.07.18-15.46.27:584][240]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-15.46.27:584][240]LogFbx: 	Total Deformer Count -385933824.
+[2018.07.18-15.46.27:584][240]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-15.46.27:584][240]LogFbx: =================================================
+[2018.07.18-15.46.27:584][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:584][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-15.46.27:584][240]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-15.46.27:584][240]LogFbx: =================================================
+[2018.07.18-15.46.27:584][240]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.46.27:584][240]LogFbx: 	Total Deformer Count -385938944.
+[2018.07.18-15.46.27:584][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:584][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.46.27:584][240]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.46.27:585][240]LogFbx: =================================================
+[2018.07.18-15.46.27:585][240]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-15.46.27:586][240]LogFbx: 	Total Deformer Count -385933824.
+[2018.07.18-15.46.27:586][240]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-15.46.27:586][240]LogFbx: =================================================
+[2018.07.18-15.46.27:586][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:586][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-15.46.27:586][240]LogFbx: =================================================
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-15.46.27:586][240]LogFbx: 	Total Deformer Count -385933824.
+[2018.07.18-15.46.27:586][240]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-15.46.27:586][240]LogFbx: =================================================
+[2018.07.18-15.46.27:586][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:586][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-15.46.27:586][240]LogFbx: =================================================
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.46.27:586][240]LogFbx: 	Total Deformer Count -385936128.
+[2018.07.18-15.46.27:586][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:586][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.46.27:586][240]LogFbx: =================================================
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.46.27:586][240]LogFbx: 	Total Deformer Count -385935744.
+[2018.07.18-15.46.27:586][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:586][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.46.27:586][240]LogFbx: =================================================
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.46.27:586][240]LogFbx: 	Total Deformer Count -385936384.
+[2018.07.18-15.46.27:586][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:586][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.46.27:586][240]LogFbx: =================================================
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.46.27:586][240]LogFbx: 	Total Deformer Count -385934976.
+[2018.07.18-15.46.27:586][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:586][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.46.27:586][240]LogFbx: =================================================
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.46.27:586][240]LogFbx: 	Total Deformer Count -385936640.
+[2018.07.18-15.46.27:586][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:586][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.46.27:586][240]LogFbx: =================================================
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.46.27:586][240]LogFbx: 	Total Deformer Count -385933824.
+[2018.07.18-15.46.27:586][240]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.46.27:586][240]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.46.27:586][240]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(0) root
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(1) pelvis
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(2) spine_01
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(3) spine_02
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(4) spine_03
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(5) neck_01
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(6) head
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(7) clavicle_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(8) upperarm_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(9) lowerarm_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(10) hand_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(11) index_01_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(12) index_02_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(13) index_03_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(14) middle_01_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(15) middle_02_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(16) middle_03_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(17) pinky_01_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(18) pinky_02_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(19) pinky_03_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(20) ring_01_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(21) ring_02_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(22) ring_03_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(23) thumb_01_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(24) thumb_02_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(25) thumb_03_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(26) clavicle_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(27) upperarm_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(29) hand_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(30) index_01_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(31) index_02_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(32) index_03_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(33) middle_01_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(34) middle_02_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(35) middle_03_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(39) ring_01_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(40) ring_02_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(41) ring_03_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(45) thigh_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(46) calf_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(47) foot_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(48) ball_r
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(49) joint1
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(50) thigh_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(51) calf_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(52) foot_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(53) ball_l
+[2018.07.18-15.46.27:587][240]LogFbx: SortedLinks :(54) joint2
+[2018.07.18-15.46.27:589][240]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-15.46.27:591][240]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjoglookCU01_v1_OE_18_07_18'
+[2018.07.18-15.46.27:592][240]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjoglookCU01_v1_OE_18_07_18'
+[2018.07.18-15.46.27:726][240]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjoglookCU01_v1_OE_18_07_18.AN_CH_lightjoglookCU01_v1_OE_18_07_18
+[2018.07.18-15.46.27:726][240]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AN_CH_lightjoglookCU01_v1_OE_18_07_18) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-15.46.27:740][240]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Character_Skeleton.  Any animation on these bones will not be imported: 
+
+ joint1  
+joint2  
+ 
+[2018.07.18-15.46.29:153][312]LogSlate: Window 'Message Log' being destroyed
+[2018.07.18-15.46.29:160][312]LogSlate: Window 'Message Log' being destroyed
+[2018.07.18-15.46.31:215][407]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cda69ac980, Size=128
+[2018.07.18-15.46.31:216][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map_01' took 0.025
+[2018.07.18-15.46.31:218][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjoglookCU01_v1_OE_18_07_18] ([1] browsable assets)...
+[2018.07.18-15.46.31:234][407]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjoglookCU01_v1_OE_18_07_18.AN_CH_lightjoglookCU01_v1_OE_18_07_18]
+[2018.07.18-15.46.31:234][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjoglookCU01_v1_OE_18_07_18]
+[2018.07.18-15.46.31:253][407]LogSavePackage: Save=15.68ms
+[2018.07.18-15.46.31:253][407]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/AN_CH_lightjoglookCU01_v1_OE_18_D784344546FDF91A9F2544A25A24FD71.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjoglookCU01_v1_OE_18_07_18_Auto2.uasset'
+[2018.07.18-15.46.31:254][407]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightjoglookCU01_v1_OE_18_07_18_Auto2.uasset
+[2018.07.18-15.46.31:254][407]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.07.18-15.47.15:136][911]LogSavePackage: Save=15.21ms
+[2018.07.18-15.47.15:136][911]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog_LCU_SQ833F4F43420C0D7257FBEA92FE7C225E.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LCU_SQ.uasset'
+[2018.07.18-15.47.15:138][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_LCU_SQ.uasset
+[2018.07.18-15.47.25:004][266]LogSavePackage: Save=15.22ms
+[2018.07.18-15.47.25:004][266]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog_CU_SQ4514F3DD4BC2FAE9E281519C48845ACC.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_CU_SQ.uasset'
+[2018.07.18-15.47.25:007][266]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Jog_CU_SQ.uasset
+[2018.07.18-15.47.25:642][266]SourceControl: rm 'Content/Characters/Player/Animations/Light/Sequences/Jog_LCU_SQ.uasset'
+[2018.07.18-15.48.29:639][130]LogSavePackage: Save=14.99ms
+[2018.07.18-15.48.29:639][130]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog6786CDB7405F7C64CF19159CD4C39013.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset'
+[2018.07.18-15.48.29:642][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset
+[2018.07.18-15.48.50:390][ 21]LogSavePackage: Save=6.49ms
+[2018.07.18-15.48.50:390][ 21]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Jog46AD908449B2923120DE909B308FCBF1.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset'
+[2018.07.18-15.48.50:391][ 21]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset
+[2018.07.18-15.49.16:664][ 44]LogSavePackage: Save=14.97ms
+[2018.07.18-15.49.16:664][ 44]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/SprintB05AE2C047DC60F3991FB190A6AB3FA9.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset'
+[2018.07.18-15.49.16:667][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset
+[2018.07.18-15.50.34:556][619]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/NTI/Downloads/AN_CH_lightrunlookDC01_v1_OE_18.07.18.fbx)
+[2018.07.18-15.50.34:570][619]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.07.18-15.50.34:570][619]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.07.18-15.50.34:570][619]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.07.18-15.50.34:570][619]LogFbx: ItemName: NodeAttribute, ItemCount : 60
+[2018.07.18-15.50.34:570][619]LogFbx: ItemName: Model, ItemCount : 63
+[2018.07.18-15.50.34:570][619]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.07.18-15.50.34:570][619]LogFbx: ItemName: Material, ItemCount : 3
+[2018.07.18-15.50.34:571][619]LogFbx: ItemName: Texture, ItemCount : 4
+[2018.07.18-15.50.34:571][619]LogFbx: ItemName: AnimationCurveNode, ItemCount : 271
+[2018.07.18-15.50.34:571][619]LogFbx: ItemName: CollectionExclusive, ItemCount : 3
+[2018.07.18-15.50.34:571][619]LogFbx: ItemName: AnimationCurve, ItemCount : 210
+[2018.07.18-15.50.34:571][619]LogFbx: ItemName: Pose, ItemCount : 2
+[2018.07.18-15.50.34:571][619]LogFbx: ItemName: Deformer, ItemCount : 108
+[2018.07.18-15.50.34:571][619]LogFbx: ItemName: Video, ItemCount : 3
+[2018.07.18-15.50.34:575][619]LogFbx: Loading FBX Scene from ../../../../../../Users/NTI/Downloads/AN_CH_lightrunlookDC01_v1_OE_18.07.18.fbx
+[2018.07.18-15.50.34:644][619]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-15.50.38:795][619]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.07.18-15.50.38:843][619]LogFbx: Loading FBX Scene from ../../../../../../Users/NTI/Downloads/AN_CH_lightrunlookDC01_v1_OE_18.07.18.fbx
+[2018.07.18-15.50.38:913][619]LogFbx: FBX Scene Loaded Succesfully
+[2018.07.18-15.50.38:918][619]LogFbx: =================================================
+[2018.07.18-15.50.38:918][619]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-15.50.38:918][619]LogFbx: 	Total Deformer Count -812394368.
+[2018.07.18-15.50.38:919][619]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-15.50.38:919][619]LogFbx: =================================================
+[2018.07.18-15.50.38:919][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:919][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-15.50.38:919][619]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-15.50.38:919][619]LogFbx: =================================================
+[2018.07.18-15.50.38:919][619]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-15.50.38:919][619]LogFbx: 	Total Deformer Count -812394368.
+[2018.07.18-15.50.38:919][619]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-15.50.38:919][619]LogFbx: =================================================
+[2018.07.18-15.50.38:919][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:919][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-15.50.38:919][619]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-15.50.38:919][619]LogFbx: =================================================
+[2018.07.18-15.50.38:919][619]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.50.38:919][619]LogFbx: 	Total Deformer Count -812400128.
+[2018.07.18-15.50.38:919][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:919][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.50.38:919][619]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.50.38:920][619]LogFbx: =================================================
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node START [Light_Character_AB_15:Armor_Mesh] 
+[2018.07.18-15.50.38:920][619]LogFbx: 	Total Deformer Count -812394368.
+[2018.07.18-15.50.38:920][619]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-15.50.38:920][619]LogFbx: =================================================
+[2018.07.18-15.50.38:920][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:920][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Armor_Mesh (Type Mesh).
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node END [Light_Character_AB_15:Armor_Mesh]
+[2018.07.18-15.50.38:920][619]LogFbx: =================================================
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node START [Light_Character_AB_15:Body_Mesh] 
+[2018.07.18-15.50.38:920][619]LogFbx: 	Total Deformer Count -812394368.
+[2018.07.18-15.50.38:920][619]LogFbx: 		[Node 1]  (Type Skin).
+[2018.07.18-15.50.38:920][619]LogFbx: =================================================
+[2018.07.18-15.50.38:920][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:920][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:Body_Mesh (Type Mesh).
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node END [Light_Character_AB_15:Body_Mesh]
+[2018.07.18-15.50.38:920][619]LogFbx: =================================================
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.50.38:920][619]LogFbx: 	Total Deformer Count -812398976.
+[2018.07.18-15.50.38:920][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:920][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.50.38:920][619]LogFbx: =================================================
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.50.38:920][619]LogFbx: 	Total Deformer Count -812396160.
+[2018.07.18-15.50.38:920][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:920][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.50.38:920][619]LogFbx: =================================================
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.50.38:920][619]LogFbx: 	Total Deformer Count -812391424.
+[2018.07.18-15.50.38:920][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:920][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.50.38:920][619]LogFbx: =================================================
+[2018.07.18-15.50.38:920][619]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.50.38:921][619]LogFbx: 	Total Deformer Count -812395648.
+[2018.07.18-15.50.38:921][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:921][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.50.38:921][619]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.50.38:921][619]LogFbx: =================================================
+[2018.07.18-15.50.38:921][619]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.50.38:921][619]LogFbx: 	Total Deformer Count -812399104.
+[2018.07.18-15.50.38:921][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:921][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.50.38:921][619]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.50.38:921][619]LogFbx: =================================================
+[2018.07.18-15.50.38:921][619]LogFbx: Dumping Node START [Light_Character_AB_15:pCylinder1] 
+[2018.07.18-15.50.38:921][619]LogFbx: 	Total Deformer Count -812394368.
+[2018.07.18-15.50.38:921][619]LogFbx: 	Attribute () Type (4).
+[2018.07.18-15.50.38:921][619]LogFbx: 		[Node Attribute Child 1] Light_Character_AB_15:pCylinder1 (Type Mesh).
+[2018.07.18-15.50.38:921][619]LogFbx: Dumping Node END [Light_Character_AB_15:pCylinder1]
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(0) root
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(1) pelvis
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(2) spine_01
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(3) spine_02
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(4) spine_03
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(5) neck_01
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(6) head
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(7) clavicle_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(8) upperarm_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(9) lowerarm_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(10) hand_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(11) index_01_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(12) index_02_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(13) index_03_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(14) middle_01_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(15) middle_02_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(16) middle_03_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(17) pinky_01_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(18) pinky_02_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(19) pinky_03_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(20) ring_01_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(21) ring_02_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(22) ring_03_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(23) thumb_01_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(24) thumb_02_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(25) thumb_03_l
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(26) clavicle_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(27) upperarm_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(28) lowerarm_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(29) hand_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(30) index_01_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(31) index_02_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(32) index_03_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(33) middle_01_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(34) middle_02_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(35) middle_03_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(36) pinky_01_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(37) pinky_02_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(38) pinky_03_r
+[2018.07.18-15.50.38:921][619]LogFbx: SortedLinks :(39) ring_01_r
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(40) ring_02_r
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(41) ring_03_r
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(42) thumb_01_r
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(43) thumb_02_r
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(44) thumb_03_r
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(45) thigh_r
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(46) calf_r
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(47) foot_r
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(48) ball_r
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(49) joint1
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(50) thigh_l
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(51) calf_l
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(52) foot_l
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(53) ball_l
+[2018.07.18-15.50.38:922][619]LogFbx: SortedLinks :(54) joint2
+[2018.07.18-15.50.38:923][619]LogFbx: Parsing AnimStack Take 001
+[2018.07.18-15.50.38:925][619]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunlookDC01_v1_OE_18_07_18'
+[2018.07.18-15.50.38:925][619]LogLinker: Can't find file '/Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunlookDC01_v1_OE_18_07_18'
+[2018.07.18-15.50.39:048][619]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunlookDC01_v1_OE_18_07_18.AN_CH_lightrunlookDC01_v1_OE_18_07_18
+[2018.07.18-15.50.39:049][619]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AN_CH_lightrunlookDC01_v1_OE_18_07_18) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.18-15.50.39:063][619]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Character_Skeleton.  Any animation on these bones will not be imported: 
+
+ joint1  
+joint2  
+ 
+[2018.07.18-15.50.40:916][716]LogSlate: Window 'Message Log' being destroyed
+[2018.07.18-15.50.40:921][716]LogSlate: Window 'Message Log' being destroyed
+[2018.07.18-15.50.56:738][548]LogSavePackage: Save=15.59ms
+[2018.07.18-15.50.56:738][548]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Sprint_DC_SQ4F8938F34CAFAD27435510ACE79BB096.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Sprint_DC_SQ.uasset'
+[2018.07.18-15.50.56:741][548]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/Sprint_DC_SQ.uasset
+[2018.07.18-15.51.10:628][156]LogSavePackage: Save=15.21ms
+[2018.07.18-15.51.10:628][156]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/SprintB70195114A00EA88DB844489BC1209AE.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset'
+[2018.07.18-15.51.10:632][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset
+[2018.07.18-15.51.54:191][ 20]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.18-15.51.54:213][ 20]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.51.54:213][ 20]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.18-15.51.54:229][ 20]LogPlayLevel: [PlayLevel] Compiling Map_01 before play...
+[2018.07.18-15.51.54:244][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cda69af900, Size=128
+[2018.07.18-15.51.54:244][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd7dfccc80, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_113:ExecuteUbergraph_Map_01
+[2018.07.18-15.51.54:249][ 20]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd7dfcca80, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.18-15.51.54:367][ 20]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd7dfccc80, Size=128
+[2018.07.18-15.51.54:370][ 20]LogPlayLevel: PlayLevel: Blueprint regeneration took 157 ms (1 blueprints)
+[2018.07.18-15.51.54:370][ 20]PIE: New page: PIE session: Map_01 (18 Jul 2018 17:51:54)
+[2018.07.18-15.51.54:370][ 20]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_01
+[2018.07.18-15.51.54:389][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018300s)
+[2018.07.18-15.51.54:390][ 20]LogAIModule: Creating AISystem for world Map_01
+[2018.07.18-15.51.54:390][ 20]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2018.07.18-15.51.54:390][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_01.Map_01 to /Game/Maps/UEDPIE_0_Map_01.Map_01 (0.019917s)
+[2018.07.18-15.51.54:416][ 20]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.18-15.51.54:430][ 20]LogInit: FAudioDevice initialized.
+[2018.07.18-15.51.54:485][ 20]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.18-15.51.54:491][ 20]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_01.Map_01 up for play (max tick rate 60) at 2018.07.18-16.51.54
+[2018.07.18-15.51.54:491][ 20]LogWorld: Bringing up level for play took: 0.004358
+[2018.07.18-15.51.54:499][ 20]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_01 1.149
+[2018.07.18-15.51.54:500][ 20]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.52.10:778][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.52.10:801][837]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.18-15.52.10:836][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_01.Map_01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01' with GeneratedClass '/Game/Maps/Map_01.Map_01_C' with ClassGeneratedBy '/Game/Maps/Map_01.Map_01:PersistentLevel.Map_01'
+[2018.07.18-15.52.44:089][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.18-15.52.44:161][503]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cd7dfcca80, Size=128
+[2018.07.18-15.52.44:161][503]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5af85880, Size=128, Default__Map_01_C Function /Engine/Transient.REINST_Map_01_C_117:ExecuteUbergraph_Map_01
+[2018.07.18-15.52.44:165][503]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cd5af84c00, Size=128, Default__Map_01_C Function /Game/Maps/Map_01.Map_01_C:ExecuteUbergraph_Map_01
+[2018.07.18-15.52.44:695][503]LogSavePackage: Save=564.94ms
+[2018.07.18-15.52.44:695][503]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Map_01057EC0E24D1D32186281B2B36E1DF1B7.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap'
+[2018.07.18-15.52.44:699][503]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Map_01.umap
+[2018.07.18-15.52.44:738][503]LogFileHelpers: Saving map 'Map_01' took 0.726
+[2018.07.18-15.52.46:652][606]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.18-15.52.55:740][606]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.18-15.52.57:161][606]LogSourceControl: commit successful: [Light 937a1f4] Tashon did a lot of shit today
+[2018.07.18-15.52.57:385][606]SourceControl: [Light 937a1f4] Tashon did a lot of shit today
+[2018.07.18-15.52.57:385][606]SourceControl:  12 files changed, 1 insertion(+)
+[2018.07.18-15.52.57:385][606]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Blendspace/Combat.uasset (67%)
+[2018.07.18-15.52.57:385][606]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Blendspace/Jog.uasset
+[2018.07.18-15.52.57:385][606]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Blendspace/Sprint.uasset (98%)
+[2018.07.18-15.52.57:385][606]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Blendspace/Walk.uasset
+[2018.07.18-15.52.57:385][606]SourceControl:  rewrite Content/Characters/Player/Animations/Light/Blendspace/WalkRun.uasset (100%)
+[2018.07.18-15.52.57:385][606]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Jog_CL_SQ.uasset
+[2018.07.18-15.52.57:385][606]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Jog_CU_SQ.uasset
+[2018.07.18-15.52.57:385][606]SourceControl:  create mode 100644 Content/Characters/Player/Animations/Light/Sequences/Sprint_DC_SQ.uasset
+[2018.07.18-15.52.57:385][606]SourceControl:  rewrite Content/Characters/Player/Blueprints/Light/Player_AnimBP.uasset (79%)
+[2018.07.18-15.52.57:397][606]SourceControl: Commited [Light 937a1f4] Tashon did a lot of shit today.
