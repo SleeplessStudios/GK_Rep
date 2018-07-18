@@ -479,3 +479,4 @@ LogInit: Object subsystem initialized
 [2018.07.18-11.45.20:206][ 45]SourceControl:  delete mode 100644 Content/Generic/M_TriPlanar.uasset
 [2018.07.18-11.45.20:206][ 45]SourceControl:  delete mode 100644 Content/Generic/M_VertexPainting.uasset
 [2018.07.18-11.45.20:221][ 45]SourceControl: Commited [Light f1e4281]  lk.
+[2018.07.18-11.47.32:903][469]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
