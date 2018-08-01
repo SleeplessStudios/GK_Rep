@@ -9045,3 +9045,7 @@ LogInit: Object subsystem initialized
 [2018.08.01-14.42.04:737][853]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightscp302_v1_OE_20.07.18.fbx' has been created.
 [2018.08.01-14.43.13:400][769]LogSlate: Window 'Message Log' being destroyed
 [2018.08.01-14.43.13:406][769]LogSlate: Window 'Message Log' being destroyed
+[2018.08.01-14.56.10:549][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/NPC/Law/Blueprints/BP_Law" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Blueprints/BP_Law.uasset" SILENT=true
+[2018.08.01-14.56.10:659][556]LogSavePackage: Save=92.54ms
+[2018.08.01-14.56.10:659][556]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Law1C80BCAD4CB30558FC6222AC554EB302.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Blueprints/BP_Law.uasset'
+[2018.08.01-14.56.10:664][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Blueprints/BP_Law.uasset
