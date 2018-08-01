@@ -9049,3 +9049,5 @@ LogInit: Object subsystem initialized
 [2018.08.01-14.56.10:659][556]LogSavePackage: Save=92.54ms
 [2018.08.01-14.56.10:659][556]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Law1C80BCAD4CB30558FC6222AC554EB302.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Blueprints/BP_Law.uasset'
 [2018.08.01-14.56.10:664][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Blueprints/BP_Law.uasset
+[2018.08.01-15.29.39:170][645]LogSlate: Window 'Source Control Login' being destroyed
+[2018.08.01-15.31.04:101][206]LogSlate: Window 'Source Control Login' being destroyed
