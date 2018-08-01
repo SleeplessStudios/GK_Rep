@@ -9051,3 +9051,12 @@ LogInit: Object subsystem initialized
 [2018.08.01-14.56.10:664][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Blueprints/BP_Law.uasset
 [2018.08.01-15.29.39:170][645]LogSlate: Window 'Source Control Login' being destroyed
 [2018.08.01-15.31.04:101][206]LogSlate: Window 'Source Control Login' being destroyed
+[2018.08.01-15.34.45:541][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.01-15.34.45:601][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002be47e68600, Size=128
+[2018.08.01-15.34.45:601][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000002be53968100, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_89:ExecuteUbergraph_Tash_Map
+[2018.08.01-15.34.45:605][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000002be53968200, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.08.01-15.34.46:145][975]LogSavePackage: Save=575.27ms
+[2018.08.01-15.34.46:145][975]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_Map65D44B394039D185762D819891B7EF98.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap'
+[2018.08.01-15.34.46:148][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Content/Maps/Tash_Map.umap
+[2018.08.01-15.34.46:194][975]LogFileHelpers: Saving map 'Tash_Map' took 0.746
+[2018.08.01-15.34.53:242][580]LogSlate: Window 'Source Control Login' being destroyed
