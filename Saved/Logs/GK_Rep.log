@@ -8685,3 +8685,282 @@ LogInit: Object subsystem initialized
 [2018.08.01-14.24.10:728][790]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Law_Auto1255BD5D54A81A7937D8FCF98A0A25BE5.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/NPC/Law/Blueprints/BP_Law_Auto1.uasset'
 [2018.08.01-14.24.10:729][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/NPC/Law/Blueprints/BP_Law_Auto1.uasset
 [2018.08.01-14.24.10:729][790]LogFileHelpers: Auto-saving content packages took 0.222
+[2018.08.01-14.27.53:566][527]AssetReimport: New page: Detailed File System Changes from 15:27:53
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_CR180_turn_V1_OE_28.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_CR90_turn_V1_OE_28.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_DR180_turn_V1_OE_28.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_DR90_turn_V1_OE_28.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_IdleCC_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_IdleCD_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_IdleCR_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_IdleCU_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_IdleDR_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_Run_V2_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_UR180_turn_V1_OE_28.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_UR90_turn_V1_OE_28.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_charge_attack_V1_OE_25.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_hammer-spawn_V1_OE_29.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_hammer_IdleCC_V1_OE_29.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_hammer_IdleCD_V1_OE_29.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:578][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_hammer_IdleCR_V1_OE_29.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_hammer_IdleDR_V1_OE_29.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_lightattack01_V2_OE_27.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_lightattack01_V3_OE_01.08.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_lightattack02_V2_OE_27.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_lightattack02_V2_OE_30.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_run_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_running_heavy_atkhammer_V1_01_OE_26.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_running_light_atk_V1_01_OE_26.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_running_light_atk_V1_02_OE_30.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_stamp_atk_V1_KA_31.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_teleport_land01_V1_OE_26.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_walklookCC_V1_OE_30.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_walklookCD_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_walklookCR_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_walklookCU_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_walklookDR_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Law/Animations/Sequences/AN_Law_walklookUR_V1_OE_24.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_Lightability01_v2_OE_21.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_Lightability01_v3_OE_26.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp301_v1_OE_19.06.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp401_v1_OE_20.06.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp501_v1_OE_20.06.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp601_v1_OE_20.06.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp602_v1_OE_20.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun03_v2_OE_25.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightscp302_v1_OE_20.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v1_OE_02.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v2_OE_02.07.18.fbx' has been deleted.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_heavyattack04_V1_OE_30.04.18.fbx' has been created.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack01_V1_OE_25.04.18.fbx' has been created.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/NPC/Animations/Sequences/AN_Law_lightattack02_V1_OE_25.04.18.fbx' has been created.
+[2018.08.01-14.27.53:579][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_Lightrangedattack02_v1_OE_10.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjog02_v1_OE_10.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjumpland01_v1_OE_10.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp202_v2_OE_17.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp302_v2_OE_17.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp401_v2_OE_17.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp501_v2_OE_20.06.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun01turn180_v1_OE_17.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrun02_v2_OE_09.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftlk01_v1_OE_17.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftln01_v1_OE_17.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop01_v2_OE_10.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunstop02_v1_OE_17.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnleft01_v1_OE_17.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightwalkturnright01_v1_OE_17.07.18.fbx' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Armour_BaseColor.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Armour_Emissive.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Armour_Normal.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Armour_OcclusionRoughnessMetallic.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Body1_BaseColor.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Body1_Emissive.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Body1_Normal.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Body1_OcclusionRoughnessMetallic.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Body_OcclusionRoughnessMetallic.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Cloth_BaseColor.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Cloth_Emissive.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Cloth_Normal.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_Cloth_OcclusionRoughnessMetallic.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_lambert2_BaseColor.png' has been created.
+[2018.08.01-14.27.53:580][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_lambert2_Normal.png' has been created.
+[2018.08.01-14.27.53:581][527]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Materials/LP_CH_Light_v11_LT_04.05.18_lambert2_OcclusionRoughnessMetallic.png' has been created.
+[2018.08.01-14.28.20:007][589]LogSlate: Window 'Message Log' being destroyed
+[2018.08.01-14.28.20:013][589]LogSlate: Window 'Message Log' being destroyed
+[2018.08.01-14.28.23:382][764]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.01-14.28.23:414][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.08.01-14.28.23:414][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.01-14.28.23:414][764]PIE: New page: PIE session: Tash_Map (1 Aug 2018 16:28:23)
+[2018.08.01-14.28.23:414][764]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.08.01-14.28.23:442][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027684s)
+[2018.08.01-14.28.23:443][764]LogAIModule: Creating AISystem for world Tash_Map
+[2018.08.01-14.28.23:444][764]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2018.08.01-14.28.23:444][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.029428s)
+[2018.08.01-14.28.23:472][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002be47e6be00, Size=128
+[2018.08.01-14.28.23:476][764]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.01-14.28.23:494][764]LogInit: FAudioDevice initialized.
+[2018.08.01-14.28.23:552][764]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.01-14.28.23:560][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.08.01-15.28.23
+[2018.08.01-14.28.23:561][764]LogWorld: Bringing up level for play took: 0.008140
+[2018.08.01-14.28.23:573][764]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 1.076
+[2018.08.01-14.28.23:574][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.08.01-14.28.23:574][764]LogBlueprintUserMessages: [BP_Law_238] 0.0
+[2018.08.01-14.28.23:672][765]LogBlueprintUserMessages: [BP_Law_238] 10.233103
+[2018.08.01-14.28.23:722][766]LogBlueprintUserMessages: [BP_Law_238] 168.735764
+[2018.08.01-14.28.23:743][767]LogBlueprintUserMessages: [BP_Law_238] 186.108582
+[2018.08.01-14.28.23:767][768]LogBlueprintUserMessages: [BP_Law_238] 200.848114
+[2018.08.01-14.28.23:790][769]LogBlueprintUserMessages: [BP_Law_238] 210.705185
+[2018.08.01-14.28.23:812][770]LogBlueprintUserMessages: [BP_Law_238] 220.289276
+[2018.08.01-14.28.23:831][771]LogBlueprintUserMessages: [BP_Law_238] 228.61145
+[2018.08.01-14.28.23:851][772]LogBlueprintUserMessages: [BP_Law_238] 236.152344
+[2018.08.01-14.28.23:873][773]LogBlueprintUserMessages: [BP_Law_238] 243.888367
+[2018.08.01-14.28.23:895][774]LogBlueprintUserMessages: [BP_Law_238] 252.411285
+[2018.08.01-14.28.23:918][775]LogBlueprintUserMessages: [BP_Law_238] 260.318146
+[2018.08.01-14.28.23:946][776]LogBlueprintUserMessages: [BP_Law_238] 268.807983
+[2018.08.01-14.28.23:967][777]LogBlueprintUserMessages: [BP_Law_238] 279.14212
+[2018.08.01-14.28.23:989][778]LogBlueprintUserMessages: [BP_Law_238] 286.270966
+[2018.08.01-14.28.24:010][779]LogBlueprintUserMessages: [BP_Law_238] 293.904572
+[2018.08.01-14.28.24:029][780]LogBlueprintUserMessages: [BP_Law_238] 301.081421
+[2018.08.01-14.28.24:049][781]LogBlueprintUserMessages: [BP_Law_238] 307.655182
+[2018.08.01-14.28.24:071][782]LogBlueprintUserMessages: [BP_Law_238] 314.402283
+[2018.08.01-14.28.24:092][783]LogBlueprintUserMessages: [BP_Law_238] 321.268341
+[2018.08.01-14.28.24:112][784]LogBlueprintUserMessages: [BP_Law_238] 328.411591
+[2018.08.01-14.28.24:139][785]LogBlueprintUserMessages: [BP_Law_238] 334.61438
+[2018.08.01-14.28.24:159][786]LogBlueprintUserMessages: [BP_Law_238] 340.978699
+[2018.08.01-14.28.24:179][787]LogBlueprintUserMessages: [BP_Law_238] 349.203827
+[2018.08.01-14.28.24:199][788]LogBlueprintUserMessages: [BP_Law_238] 355.120178
+[2018.08.01-14.28.24:222][789]LogBlueprintUserMessages: [BP_Law_238] 360.987457
+[2018.08.01-14.28.24:242][790]LogBlueprintUserMessages: [BP_Law_238] 367.067352
+[2018.08.01-14.28.24:262][791]LogBlueprintUserMessages: [BP_Law_238] 373.445465
+[2018.08.01-14.28.24:282][792]LogBlueprintUserMessages: [BP_Law_238] 378.880676
+[2018.08.01-14.28.24:302][793]LogBlueprintUserMessages: [BP_Law_238] 384.561371
+[2018.08.01-14.28.24:323][794]LogBlueprintUserMessages: [BP_Law_238] 389.840363
+[2018.08.01-14.28.24:344][795]LogBlueprintUserMessages: [BP_Law_238] 395.557343
+[2018.08.01-14.28.24:363][796]LogBlueprintUserMessages: [BP_Law_238] 401.302032
+[2018.08.01-14.28.24:383][797]LogBlueprintUserMessages: [BP_Law_238] 406.242371
+[2018.08.01-14.28.24:405][798]LogBlueprintUserMessages: [BP_Law_238] 411.435486
+[2018.08.01-14.28.24:427][799]LogBlueprintUserMessages: [BP_Law_238] 416.540039
+[2018.08.01-14.28.24:447][800]LogBlueprintUserMessages: [BP_Law_238] 422.354889
+[2018.08.01-14.28.24:468][801]LogBlueprintUserMessages: [BP_Law_238] 427.39325
+[2018.08.01-14.28.24:492][802]LogBlueprintUserMessages: [BP_Law_238] 432.356506
+[2018.08.01-14.28.24:513][803]LogBlueprintUserMessages: [BP_Law_238] 438.250183
+[2018.08.01-14.28.24:535][804]LogBlueprintUserMessages: [BP_Law_238] 443.150055
+[2018.08.01-14.28.24:559][805]LogBlueprintUserMessages: [BP_Law_238] 448.016632
+[2018.08.01-14.28.24:579][806]LogBlueprintUserMessages: [BP_Law_238] 453.592712
+[2018.08.01-14.28.24:601][807]LogBlueprintUserMessages: [BP_Law_238] 458.033813
+[2018.08.01-14.28.24:624][808]LogBlueprintUserMessages: [BP_Law_238] 462.845245
+[2018.08.01-14.28.24:646][809]LogBlueprintUserMessages: [BP_Law_238] 467.824707
+[2018.08.01-14.28.24:666][810]LogBlueprintUserMessages: [BP_Law_238] 472.492004
+[2018.08.01-14.28.24:690][811]LogBlueprintUserMessages: [BP_Law_238] 476.763489
+[2018.08.01-14.28.24:710][812]LogBlueprintUserMessages: [BP_Law_238] 481.595032
+[2018.08.01-14.28.24:731][813]LogBlueprintUserMessages: [BP_Law_238] 485.875519
+[2018.08.01-14.28.24:754][814]LogBlueprintUserMessages: [BP_Law_238] 489.667938
+[2018.08.01-14.28.24:774][815]LogBlueprintUserMessages: [BP_Law_238] 494.089569
+[2018.08.01-14.28.24:794][816]LogBlueprintUserMessages: [BP_Law_238] 498.133636
+[2018.08.01-14.28.24:815][817]LogBlueprintUserMessages: [BP_Law_238] 501.770294
+[2018.08.01-14.28.24:838][818]LogBlueprintUserMessages: [BP_Law_238] 505.61142
+[2018.08.01-14.28.24:858][819]LogBlueprintUserMessages: [BP_Law_238] 509.614105
+[2018.08.01-14.28.24:878][820]LogBlueprintUserMessages: [BP_Law_238] 513.623047
+[2018.08.01-14.28.24:896][821]LogBlueprintUserMessages: [BP_Law_238] 517.061401
+[2018.08.01-14.28.24:915][822]LogBlueprintUserMessages: [BP_Law_238] 520.365051
+[2018.08.01-14.28.24:938][823]LogBlueprintUserMessages: [BP_Law_238] 523.638733
+[2018.08.01-14.28.24:957][824]LogBlueprintUserMessages: [BP_Law_238] 527.462036
+[2018.08.01-14.28.24:977][825]LogBlueprintUserMessages: [BP_Law_238] 530.777527
+[2018.08.01-14.28.24:997][826]LogBlueprintUserMessages: [BP_Law_238] 533.911194
+[2018.08.01-14.28.25:019][827]LogBlueprintUserMessages: [BP_Law_238] 537.192322
+[2018.08.01-14.28.25:039][828]LogBlueprintUserMessages: [BP_Law_238] 540.590454
+[2018.08.01-14.28.25:058][829]LogBlueprintUserMessages: [BP_Law_238] 543.899658
+[2018.08.01-14.28.25:077][830]LogBlueprintUserMessages: [BP_Law_238] 546.855835
+[2018.08.01-14.28.25:097][831]LogBlueprintUserMessages: [BP_Law_238] 549.802429
+[2018.08.01-14.28.25:117][832]LogBlueprintUserMessages: [BP_Law_238] 552.836792
+[2018.08.01-14.28.25:140][833]LogBlueprintUserMessages: [BP_Law_238] 555.757385
+[2018.08.01-14.28.25:158][834]LogBlueprintUserMessages: [BP_Law_238] 558.829285
+[2018.08.01-14.28.25:179][835]LogBlueprintUserMessages: [BP_Law_238] 561.714966
+[2018.08.01-14.28.25:199][836]LogBlueprintUserMessages: [BP_Law_238] 564.488586
+[2018.08.01-14.28.25:220][837]LogBlueprintUserMessages: [BP_Law_238] 567.30658
+[2018.08.01-14.28.25:240][838]LogBlueprintUserMessages: [BP_Law_238] 570.073975
+[2018.08.01-14.28.25:260][839]LogBlueprintUserMessages: [BP_Law_238] 572.993835
+[2018.08.01-14.28.25:280][840]LogBlueprintUserMessages: [BP_Law_238] 575.56897
+[2018.08.01-14.28.25:300][841]LogBlueprintUserMessages: [BP_Law_238] 578.240784
+[2018.08.01-14.28.25:322][842]LogBlueprintUserMessages: [BP_Law_238] 580.739746
+[2018.08.01-14.28.25:341][843]LogBlueprintUserMessages: [BP_Law_238] 583.516235
+[2018.08.01-14.28.25:360][844]LogBlueprintUserMessages: [BP_Law_238] 585.952942
+[2018.08.01-14.28.25:380][845]LogBlueprintUserMessages: [BP_Law_238] 588.30835
+[2018.08.01-14.28.25:400][846]LogBlueprintUserMessages: [BP_Law_238] 590.655029
+[2018.08.01-14.28.25:422][847]LogBlueprintUserMessages: [BP_Law_238] 593.0401
+[2018.08.01-14.28.25:442][848]LogBlueprintUserMessages: [BP_Law_238] 595.637207
+[2018.08.01-14.28.25:462][849]LogBlueprintUserMessages: [BP_Law_238] 598.023315
+[2018.08.01-14.28.25:484][850]LogBlueprintUserMessages: [BP_Law_238] 600.369263
+[2018.08.01-14.28.25:505][851]LogBlueprintUserMessages: [BP_Law_238] 602.728943
+[2018.08.01-14.28.25:525][852]LogBlueprintUserMessages: [BP_Law_238] 605.047424
+[2018.08.01-14.28.25:545][853]LogBlueprintUserMessages: [BP_Law_238] 607.210999
+[2018.08.01-14.28.25:565][854]LogBlueprintUserMessages: [BP_Law_238] 609.296875
+[2018.08.01-14.28.25:565][854]LogBlueprintUserMessages: [BP_Law_238] Law_LightAttack_01_V3_AM
+[2018.08.01-14.28.25:588][855]LogBlueprintUserMessages: [BP_Law_238] 0.0
+[2018.08.01-14.28.25:608][856]LogBlueprintUserMessages: [BP_Law_238] 11.949766
+[2018.08.01-14.28.25:627][857]LogBlueprintUserMessages: [BP_Law_238] 24.200298
+[2018.08.01-14.28.25:646][858]LogBlueprintUserMessages: [BP_Law_238] 34.396324
+[2018.08.01-14.28.25:666][859]LogBlueprintUserMessages: [BP_Law_238] 44.783489
+[2018.08.01-14.28.25:687][860]LogBlueprintUserMessages: [BP_Law_238] 55.024689
+[2018.08.01-14.28.25:708][861]LogBlueprintUserMessages: [BP_Law_238] 65.319992
+[2018.08.01-14.28.25:727][862]LogBlueprintUserMessages: [BP_Law_238] 76.41748
+[2018.08.01-14.28.25:746][863]LogBlueprintUserMessages: [BP_Law_238] 86.013878
+[2018.08.01-14.28.25:766][864]LogBlueprintUserMessages: [BP_Law_238] 95.669899
+[2018.08.01-14.28.25:788][865]LogBlueprintUserMessages: [BP_Law_238] 105.179878
+[2018.08.01-14.28.25:808][866]LogBlueprintUserMessages: [BP_Law_238] 115.995842
+[2018.08.01-14.28.25:829][867]LogBlueprintUserMessages: [BP_Law_238] 126.003517
+[2018.08.01-14.28.25:848][868]LogBlueprintUserMessages: [BP_Law_238] 135.423737
+[2018.08.01-14.28.25:868][869]LogBlueprintUserMessages: [BP_Law_238] 144.393265
+[2018.08.01-14.28.25:889][870]LogBlueprintUserMessages: [BP_Law_238] 153.448288
+[2018.08.01-14.28.25:909][871]LogBlueprintUserMessages: [BP_Law_238] 162.865662
+[2018.08.01-14.28.25:928][872]LogBlueprintUserMessages: [BP_Law_238] 171.701019
+[2018.08.01-14.28.25:951][873]LogBlueprintUserMessages: [BP_Law_238] 180.26944
+[2018.08.01-14.28.25:972][874]LogBlueprintUserMessages: [BP_Law_238] 188.90773
+[2018.08.01-14.28.25:991][875]LogBlueprintUserMessages: [BP_Law_238] 198.269241
+[2018.08.01-14.28.26:011][876]LogBlueprintUserMessages: [BP_Law_238] 206.593414
+[2018.08.01-14.28.26:033][877]LogBlueprintUserMessages: [BP_Law_238] 214.849808
+[2018.08.01-14.28.26:054][878]LogBlueprintUserMessages: [BP_Law_238] 223.142807
+[2018.08.01-14.28.26:075][879]LogBlueprintUserMessages: [BP_Law_238] 232.005554
+[2018.08.01-14.28.26:095][880]LogBlueprintUserMessages: [BP_Law_238] 240.203674
+[2018.08.01-14.28.26:114][881]LogBlueprintUserMessages: [BP_Law_238] 247.637329
+[2018.08.01-14.28.26:136][882]LogBlueprintUserMessages: [BP_Law_238] 254.843658
+[2018.08.01-14.28.26:157][883]LogBlueprintUserMessages: [BP_Law_238] 262.280243
+[2018.08.01-14.28.26:176][884]LogBlueprintUserMessages: [BP_Law_238] 270.251526
+[2018.08.01-14.28.26:195][885]LogBlueprintUserMessages: [BP_Law_238] 277.369568
+[2018.08.01-14.28.26:219][886]LogBlueprintUserMessages: [BP_Law_238] 284.347839
+[2018.08.01-14.28.26:239][887]LogBlueprintUserMessages: [BP_Law_238] 291.466034
+[2018.08.01-14.28.26:259][888]LogBlueprintUserMessages: [BP_Law_238] 299.374817
+[2018.08.01-14.28.26:280][889]LogBlueprintUserMessages: [BP_Law_238] 306.041534
+[2018.08.01-14.28.26:299][890]LogBlueprintUserMessages: [BP_Law_238] 312.650665
+[2018.08.01-14.28.26:321][891]LogBlueprintUserMessages: [BP_Law_238] 319.364838
+[2018.08.01-14.28.26:340][892]LogBlueprintUserMessages: [BP_Law_238] 326.495392
+[2018.08.01-14.28.26:358][893]LogBlueprintUserMessages: [BP_Law_238] 332.680054
+[2018.08.01-14.28.26:378][894]LogBlueprintUserMessages: [BP_Law_238] 338.417419
+[2018.08.01-14.28.26:397][895]LogBlueprintUserMessages: [BP_Law_238] 344.479095
+[2018.08.01-14.28.26:418][896]LogBlueprintUserMessages: [BP_Law_238] 350.100739
+[2018.08.01-14.28.26:440][897]LogBlueprintUserMessages: [BP_Law_238] 356.107391
+[2018.08.01-14.28.26:459][898]LogBlueprintUserMessages: [BP_Law_238] 362.981903
+[2018.08.01-14.28.26:478][899]LogBlueprintUserMessages: [BP_Law_238] 368.517242
+[2018.08.01-14.28.26:498][900]LogBlueprintUserMessages: [BP_Law_238] 374.016144
+[2018.08.01-14.28.26:520][901]LogBlueprintUserMessages: [BP_Law_238] 379.556305
+[2018.08.01-14.28.26:541][902]LogBlueprintUserMessages: [BP_Law_238] 385.24707
+[2018.08.01-14.28.26:560][903]LogBlueprintUserMessages: [BP_Law_238] 391.203827
+[2018.08.01-14.28.26:578][904]LogBlueprintUserMessages: [BP_Law_238] 396.37973
+[2018.08.01-14.28.26:598][905]LogBlueprintUserMessages: [BP_Law_238] 401.268066
+[2018.08.01-14.28.26:619][906]LogBlueprintUserMessages: [BP_Law_238] 406.648651
+[2018.08.01-14.28.26:638][907]LogBlueprintUserMessages: [BP_Law_238] 411.616699
+[2018.08.01-14.28.26:657][908]LogBlueprintUserMessages: [BP_Law_238] 416.856171
+[2018.08.01-14.28.26:676][909]LogBlueprintUserMessages: [BP_Law_238] 421.555237
+[2018.08.01-14.28.26:696][910]LogBlueprintUserMessages: [BP_Law_238] 426.064606
+[2018.08.01-14.28.26:716][911]LogBlueprintUserMessages: [BP_Law_238] 431.086609
+[2018.08.01-14.28.26:739][912]LogBlueprintUserMessages: [BP_Law_238] 435.815399
+[2018.08.01-14.28.26:739][912]LogBlueprintUserMessages: [BP_Law_238] Law_LightAttack_02_V2_AM
+[2018.08.01-14.28.26:758][913]LogBlueprintUserMessages: [BP_Law_238] 0.0
+[2018.08.01-14.28.26:777][914]LogBlueprintUserMessages: [BP_Law_238] 11.407546
+[2018.08.01-14.28.26:797][915]LogBlueprintUserMessages: [BP_Law_238] 22.004753
+[2018.08.01-14.28.26:819][916]LogBlueprintUserMessages: [BP_Law_238] 32.655045
+[2018.08.01-14.28.26:838][917]LogBlueprintUserMessages: [BP_Law_238] 43.70491
+[2018.08.01-14.28.26:857][918]LogBlueprintUserMessages: [BP_Law_238] 55.225986
+[2018.08.01-14.28.26:876][919]LogBlueprintUserMessages: [BP_Law_238] 64.64341
+[2018.08.01-14.28.26:897][920]LogBlueprintUserMessages: [BP_Law_238] 74.634178
+[2018.08.01-14.28.26:919][921]LogBlueprintUserMessages: [BP_Law_238] 84.776863
+[2018.08.01-14.28.26:939][922]LogBlueprintUserMessages: [BP_Law_238] 95.075104
+[2018.08.01-14.28.26:959][923]LogBlueprintUserMessages: [BP_Law_238] 105.852539
+[2018.08.01-14.28.26:980][924]LogBlueprintUserMessages: [BP_Law_238] 115.640327
+[2018.08.01-14.28.27:002][925]LogBlueprintUserMessages: [BP_Law_238] 125.28315
+[2018.08.01-14.28.27:025][926]LogBlueprintUserMessages: [BP_Law_238] 135.437805
+[2018.08.01-14.28.27:044][927]LogBlueprintUserMessages: [BP_Law_238] 146.426529
+[2018.08.01-14.28.27:065][928]LogBlueprintUserMessages: [BP_Law_238] 155.246384
+[2018.08.01-14.28.27:086][929]LogBlueprintUserMessages: [BP_Law_238] 164.395538
+[2018.08.01-14.28.27:105][930]LogBlueprintUserMessages: [BP_Law_238] 172.876465
+[2018.08.01-14.28.27:124][931]LogBlueprintUserMessages: [BP_Law_238] 181.984924
+[2018.08.01-14.28.27:143][932]LogBlueprintUserMessages: [BP_Law_238] 189.914917
+[2018.08.01-14.28.27:163][933]LogBlueprintUserMessages: [BP_Law_238] 198.042542
+[2018.08.01-14.28.27:183][934]LogBlueprintUserMessages: [BP_Law_238] 205.951965
+[2018.08.01-14.28.27:204][935]LogBlueprintUserMessages: [BP_Law_238] 214.14444
+[2018.08.01-14.28.27:223][936]LogBlueprintUserMessages: [BP_Law_238] 222.850693
+[2018.08.01-14.28.27:224][936]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.08.01-14.28.27:254][936]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.01-14.28.27:311][936]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.08.01-14.28.32:056][186]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.08.01-14.28.32:171][186]EditorErrors: Warning: No assets to check in!
