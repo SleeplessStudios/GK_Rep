@@ -8349,3 +8349,339 @@ LogInit: Object subsystem initialized
 [2018.08.01-14.17.09:797][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
 [2018.08.01-14.17.09:828][ 53]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
 [2018.08.01-14.17.09:883][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.08.01-14.21.30:589][312]AssetReimport: New page: Detailed File System Changes from 15:21:30
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightrunleftlk01_v1_OE_17.07.18.fbx' has been deleted.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp501_v2_OE_20.06.18.fbx' has been deleted.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp401_v2_OE_17.07.18.fbx' has been deleted.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp302_v2_OE_17.07.18.fbx' has been deleted.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp202_v2_OE_17.07.18.fbx' has been deleted.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightjumpland01_v1_OE_10.07.18.fbx' has been deleted.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp601_v1_OE_20.06.18.fbx' has been created.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp501_v1_OE_20.06.18.fbx' has been created.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp301_v1_OE_19.06.18.fbx' has been created.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightncp401_v1_OE_20.06.18.fbx' has been created.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v1_OE_02.07.18.fbx' has been created.
+[2018.08.01-14.21.30:599][312]AssetReimport: 'C:/Users/NTI/Documents/GitHub/GK_Rep/Content/Characters/Player/Animations/Light/Sequences/AN_CH_lightsidejump01_v2_OE_02.07.18.fbx' has been created.
+[2018.08.01-14.21.33:813][472]LogSlate: Window 'Message Log' being destroyed
+[2018.08.01-14.21.33:818][472]LogSlate: Window 'Message Log' being destroyed
+[2018.08.01-14.21.38:528][754]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.01-14.21.38:556][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.08.01-14.21.38:556][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.01-14.21.38:556][754]PIE: New page: PIE session: Tash_Map (1 Aug 2018 16:21:38)
+[2018.08.01-14.21.38:556][754]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tash_Map
+[2018.08.01-14.21.38:578][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020968s)
+[2018.08.01-14.21.38:579][754]LogAIModule: Creating AISystem for world Tash_Map
+[2018.08.01-14.21.38:579][754]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2018.08.01-14.21.38:579][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tash_Map.Tash_Map to /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map (0.022553s)
+[2018.08.01-14.21.38:608][754]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.01-14.21.38:621][754]LogInit: FAudioDevice initialized.
+[2018.08.01-14.21.38:673][754]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.01-14.21.38:680][754]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tash_Map.Tash_Map up for play (max tick rate 60) at 2018.08.01-15.21.38
+[2018.08.01-14.21.38:681][754]LogWorld: Bringing up level for play took: 0.007344
+[2018.08.01-14.21.38:692][754]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tash_Map 0.194
+[2018.08.01-14.21.38:692][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.08.01-14.21.38:693][754]LogBlueprintUserMessages: [BP_Law_238] 0.0
+[2018.08.01-14.21.38:772][755]LogBlueprintUserMessages: [BP_Law_238] 9.375104
+[2018.08.01-14.21.38:791][756]LogBlueprintUserMessages: [BP_Law_238] 144.235657
+[2018.08.01-14.21.38:810][757]LogBlueprintUserMessages: [BP_Law_238] 152.656219
+[2018.08.01-14.21.38:827][758]LogBlueprintUserMessages: [BP_Law_238] 161.193542
+[2018.08.01-14.21.38:845][759]LogBlueprintUserMessages: [BP_Law_238] 168.722412
+[2018.08.01-14.21.38:861][760]LogBlueprintUserMessages: [BP_Law_238] 176.778824
+[2018.08.01-14.21.38:878][761]LogBlueprintUserMessages: [BP_Law_238] 183.944168
+[2018.08.01-14.21.38:895][762]LogBlueprintUserMessages: [BP_Law_238] 191.024643
+[2018.08.01-14.21.38:911][763]LogBlueprintUserMessages: [BP_Law_238] 198.033768
+[2018.08.01-14.21.38:937][764]LogBlueprintUserMessages: [BP_Law_238] 204.933426
+[2018.08.01-14.21.38:953][765]LogBlueprintUserMessages: [BP_Law_238] 211.746826
+[2018.08.01-14.21.38:970][766]LogBlueprintUserMessages: [BP_Law_238] 221.602203
+[2018.08.01-14.21.38:986][767]LogBlueprintUserMessages: [BP_Law_238] 228.207413
+[2018.08.01-14.21.39:003][768]LogBlueprintUserMessages: [BP_Law_238] 234.730042
+[2018.08.01-14.21.39:020][769]LogBlueprintUserMessages: [BP_Law_238] 241.17099
+[2018.08.01-14.21.39:038][770]LogBlueprintUserMessages: [BP_Law_238] 247.932312
+[2018.08.01-14.21.39:054][771]LogBlueprintUserMessages: [BP_Law_238] 254.24556
+[2018.08.01-14.21.39:072][772]LogBlueprintUserMessages: [BP_Law_238] 260.772186
+[2018.08.01-14.21.39:088][773]LogBlueprintUserMessages: [BP_Law_238] 266.887604
+[2018.08.01-14.21.39:106][774]LogBlueprintUserMessages: [BP_Law_238] 272.926575
+[2018.08.01-14.21.39:123][775]LogBlueprintUserMessages: [BP_Law_238] 279.223083
+[2018.08.01-14.21.39:140][776]LogBlueprintUserMessages: [BP_Law_238] 285.117615
+[2018.08.01-14.21.39:156][777]LogBlueprintUserMessages: [BP_Law_238] 291.102814
+[2018.08.01-14.21.39:174][778]LogBlueprintUserMessages: [BP_Law_238] 296.839081
+[2018.08.01-14.21.39:192][779]LogBlueprintUserMessages: [BP_Law_238] 302.728149
+[2018.08.01-14.21.39:210][780]LogBlueprintUserMessages: [BP_Law_238] 308.646973
+[2018.08.01-14.21.39:227][781]LogBlueprintUserMessages: [BP_Law_238] 314.794128
+[2018.08.01-14.21.39:244][782]LogBlueprintUserMessages: [BP_Law_238] 320.234253
+[2018.08.01-14.21.39:260][783]LogBlueprintUserMessages: [BP_Law_238] 325.606384
+[2018.08.01-14.21.39:280][784]LogBlueprintUserMessages: [BP_Law_238] 330.956268
+[2018.08.01-14.21.39:297][785]LogBlueprintUserMessages: [BP_Law_238] 337.001801
+[2018.08.01-14.21.39:315][786]LogBlueprintUserMessages: [BP_Law_238] 342.254517
+[2018.08.01-14.21.39:332][787]LogBlueprintUserMessages: [BP_Law_238] 347.772308
+[2018.08.01-14.21.39:348][788]LogBlueprintUserMessages: [BP_Law_238] 352.940613
+[2018.08.01-14.21.39:367][789]LogBlueprintUserMessages: [BP_Law_238] 358.030151
+[2018.08.01-14.21.39:384][790]LogBlueprintUserMessages: [BP_Law_238] 363.479279
+[2018.08.01-14.21.39:402][791]LogBlueprintUserMessages: [BP_Law_238] 368.440033
+[2018.08.01-14.21.39:419][792]LogBlueprintUserMessages: [BP_Law_238] 373.412964
+[2018.08.01-14.21.39:435][793]LogBlueprintUserMessages: [BP_Law_238] 378.337708
+[2018.08.01-14.21.39:452][794]LogBlueprintUserMessages: [BP_Law_238] 382.983551
+[2018.08.01-14.21.39:470][795]LogBlueprintUserMessages: [BP_Law_238] 387.571411
+[2018.08.01-14.21.39:486][796]LogBlueprintUserMessages: [BP_Law_238] 392.105347
+[2018.08.01-14.21.39:502][797]LogBlueprintUserMessages: [BP_Law_238] 396.646515
+[2018.08.01-14.21.39:519][798]LogBlueprintUserMessages: [BP_Law_238] 401.063599
+[2018.08.01-14.21.39:541][799]LogBlueprintUserMessages: [BP_Law_238] 405.425354
+[2018.08.01-14.21.39:557][800]LogBlueprintUserMessages: [BP_Law_238] 410.923126
+[2018.08.01-14.21.39:575][801]LogBlueprintUserMessages: [BP_Law_238] 415.161621
+[2018.08.01-14.21.39:591][802]LogBlueprintUserMessages: [BP_Law_238] 419.555878
+[2018.08.01-14.21.39:610][803]LogBlueprintUserMessages: [BP_Law_238] 423.690887
+[2018.08.01-14.21.39:627][804]LogBlueprintUserMessages: [BP_Law_238] 428.254272
+[2018.08.01-14.21.39:644][805]LogBlueprintUserMessages: [BP_Law_238] 432.276245
+[2018.08.01-14.21.39:661][806]LogBlueprintUserMessages: [BP_Law_238] 436.3255
+[2018.08.01-14.21.39:678][807]LogBlueprintUserMessages: [BP_Law_238] 440.24646
+[2018.08.01-14.21.39:694][808]LogBlueprintUserMessages: [BP_Law_238] 444.137878
+[2018.08.01-14.21.39:712][809]LogBlueprintUserMessages: [BP_Law_238] 448.267883
+[2018.08.01-14.21.39:731][810]LogBlueprintUserMessages: [BP_Law_238] 452.224274
+[2018.08.01-14.21.39:748][811]LogBlueprintUserMessages: [BP_Law_238] 456.128357
+[2018.08.01-14.21.39:765][812]LogBlueprintUserMessages: [BP_Law_238] 459.97934
+[2018.08.01-14.21.39:783][813]LogBlueprintUserMessages: [BP_Law_238] 463.770844
+[2018.08.01-14.21.39:800][814]LogBlueprintUserMessages: [BP_Law_238] 467.385651
+[2018.08.01-14.21.39:817][815]LogBlueprintUserMessages: [BP_Law_238] 471.179199
+[2018.08.01-14.21.39:835][816]LogBlueprintUserMessages: [BP_Law_238] 474.800659
+[2018.08.01-14.21.39:852][817]LogBlueprintUserMessages: [BP_Law_238] 478.436554
+[2018.08.01-14.21.39:869][818]LogBlueprintUserMessages: [BP_Law_238] 481.942749
+[2018.08.01-14.21.39:886][819]LogBlueprintUserMessages: [BP_Law_238] 485.293488
+[2018.08.01-14.21.39:903][820]LogBlueprintUserMessages: [BP_Law_238] 488.961273
+[2018.08.01-14.21.39:920][821]LogBlueprintUserMessages: [BP_Law_238] 492.224304
+[2018.08.01-14.21.39:937][822]LogBlueprintUserMessages: [BP_Law_238] 495.563782
+[2018.08.01-14.21.39:954][823]LogBlueprintUserMessages: [BP_Law_238] 498.745331
+[2018.08.01-14.21.39:971][824]LogBlueprintUserMessages: [BP_Law_238] 501.927002
+[2018.08.01-14.21.39:988][825]LogBlueprintUserMessages: [BP_Law_238] 505.030884
+[2018.08.01-14.21.40:004][826]LogBlueprintUserMessages: [BP_Law_238] 508.254517
+[2018.08.01-14.21.40:022][827]LogBlueprintUserMessages: [BP_Law_238] 511.276428
+[2018.08.01-14.21.40:038][828]LogBlueprintUserMessages: [BP_Law_238] 514.381348
+[2018.08.01-14.21.40:055][829]LogBlueprintUserMessages: [BP_Law_238] 517.326599
+[2018.08.01-14.21.40:072][830]LogBlueprintUserMessages: [BP_Law_238] 520.235046
+[2018.08.01-14.21.40:089][831]LogBlueprintUserMessages: [BP_Law_238] 523.107117
+[2018.08.01-14.21.40:106][832]LogBlueprintUserMessages: [BP_Law_238] 525.944092
+[2018.08.01-14.21.40:122][833]LogBlueprintUserMessages: [BP_Law_238] 528.746338
+[2018.08.01-14.21.40:139][834]LogBlueprintUserMessages: [BP_Law_238] 531.512024
+[2018.08.01-14.21.40:155][835]LogBlueprintUserMessages: [BP_Law_238] 534.25885
+[2018.08.01-14.21.40:172][836]LogBlueprintUserMessages: [BP_Law_238] 536.955627
+[2018.08.01-14.21.40:189][837]LogBlueprintUserMessages: [BP_Law_238] 539.618774
+[2018.08.01-14.21.40:206][838]LogBlueprintUserMessages: [BP_Law_238] 542.248657
+[2018.08.01-14.21.40:223][839]LogBlueprintUserMessages: [BP_Law_238] 544.845581
+[2018.08.01-14.21.40:240][840]LogBlueprintUserMessages: [BP_Law_238] 547.449158
+[2018.08.01-14.21.40:256][841]LogBlueprintUserMessages: [BP_Law_238] 549.990234
+[2018.08.01-14.21.40:274][842]LogBlueprintUserMessages: [BP_Law_238] 552.49054
+[2018.08.01-14.21.40:292][843]LogBlueprintUserMessages: [BP_Law_238] 555.074341
+[2018.08.01-14.21.40:309][844]LogBlueprintUserMessages: [BP_Law_238] 557.748657
+[2018.08.01-14.21.40:326][845]LogBlueprintUserMessages: [BP_Law_238] 560.152344
+[2018.08.01-14.21.40:343][846]LogBlueprintUserMessages: [BP_Law_238] 562.525452
+[2018.08.01-14.21.40:358][847]LogBlueprintUserMessages: [BP_Law_238] 564.886475
+[2018.08.01-14.21.40:375][848]LogBlueprintUserMessages: [BP_Law_238] 567.200439
+[2018.08.01-14.21.40:391][849]LogBlueprintUserMessages: [BP_Law_238] 569.487122
+[2018.08.01-14.21.40:408][850]LogBlueprintUserMessages: [BP_Law_238] 571.74353
+[2018.08.01-14.21.40:425][851]LogBlueprintUserMessages: [BP_Law_238] 573.971741
+[2018.08.01-14.21.40:442][852]LogBlueprintUserMessages: [BP_Law_238] 576.176941
+[2018.08.01-14.21.40:459][853]LogBlueprintUserMessages: [BP_Law_238] 578.349731
+[2018.08.01-14.21.40:475][854]LogBlueprintUserMessages: [BP_Law_238] 580.495361
+[2018.08.01-14.21.40:492][855]LogBlueprintUserMessages: [BP_Law_238] 582.614197
+[2018.08.01-14.21.40:509][856]LogBlueprintUserMessages: [BP_Law_238] 584.70697
+[2018.08.01-14.21.40:525][857]LogBlueprintUserMessages: [BP_Law_238] 586.773132
+[2018.08.01-14.21.40:542][858]LogBlueprintUserMessages: [BP_Law_238] 588.813477
+[2018.08.01-14.21.40:559][859]LogBlueprintUserMessages: [BP_Law_238] 590.828308
+[2018.08.01-14.21.40:575][860]LogBlueprintUserMessages: [BP_Law_238] 592.817993
+[2018.08.01-14.21.40:592][861]LogBlueprintUserMessages: [BP_Law_238] 594.782776
+[2018.08.01-14.21.40:609][862]LogBlueprintUserMessages: [BP_Law_238] 596.723022
+[2018.08.01-14.21.40:625][863]LogBlueprintUserMessages: [BP_Law_238] 598.638977
+[2018.08.01-14.21.40:641][864]LogBlueprintUserMessages: [BP_Law_238] 600.541016
+[2018.08.01-14.21.40:658][865]LogBlueprintUserMessages: [BP_Law_238] 602.409729
+[2018.08.01-14.21.40:675][866]LogBlueprintUserMessages: [BP_Law_238] 604.254639
+[2018.08.01-14.21.40:692][867]LogBlueprintUserMessages: [BP_Law_238] 606.076477
+[2018.08.01-14.21.40:708][868]LogBlueprintUserMessages: [BP_Law_238] 607.87561
+[2018.08.01-14.21.40:725][869]LogBlueprintUserMessages: [BP_Law_238] 609.652161
+[2018.08.01-14.21.40:742][870]LogBlueprintUserMessages: [BP_Law_238] 611.406555
+[2018.08.01-14.21.40:758][871]LogBlueprintUserMessages: [BP_Law_238] 613.138977
+[2018.08.01-14.21.40:776][872]LogBlueprintUserMessages: [BP_Law_238] 614.849792
+[2018.08.01-14.21.40:792][873]LogBlueprintUserMessages: [BP_Law_238] 616.578125
+[2018.08.01-14.21.40:809][874]LogBlueprintUserMessages: [BP_Law_238] 618.245972
+[2018.08.01-14.21.40:825][875]LogBlueprintUserMessages: [BP_Law_238] 619.892944
+[2018.08.01-14.21.40:842][876]LogBlueprintUserMessages: [BP_Law_238] 621.519348
+[2018.08.01-14.21.40:859][877]LogBlueprintUserMessages: [BP_Law_238] 623.125366
+[2018.08.01-14.21.40:876][878]LogBlueprintUserMessages: [BP_Law_238] 624.711304
+[2018.08.01-14.21.40:893][879]LogBlueprintUserMessages: [BP_Law_238] 626.289856
+[2018.08.01-14.21.40:910][880]LogBlueprintUserMessages: [BP_Law_238] 627.836243
+[2018.08.01-14.21.40:928][881]LogBlueprintUserMessages: [BP_Law_238] 629.397766
+[2018.08.01-14.21.40:944][882]LogBlueprintUserMessages: [BP_Law_238] 630.960022
+[2018.08.01-14.21.40:962][883]LogBlueprintUserMessages: [BP_Law_238] 632.448059
+[2018.08.01-14.21.40:978][884]LogBlueprintUserMessages: [BP_Law_238] 633.994324
+[2018.08.01-14.21.40:994][885]LogBlueprintUserMessages: [BP_Law_238] 635.444519
+[2018.08.01-14.21.41:010][886]LogBlueprintUserMessages: [BP_Law_238] 636.876465
+[2018.08.01-14.21.41:027][887]LogBlueprintUserMessages: [BP_Law_238] 638.290527
+[2018.08.01-14.21.41:044][888]LogBlueprintUserMessages: [BP_Law_238] 639.686951
+[2018.08.01-14.21.41:060][889]LogBlueprintUserMessages: [BP_Law_238] 641.065857
+[2018.08.01-14.21.41:077][890]LogBlueprintUserMessages: [BP_Law_238] 642.427551
+[2018.08.01-14.21.41:093][891]LogBlueprintUserMessages: [BP_Law_238] 643.772278
+[2018.08.01-14.21.41:111][892]LogBlueprintUserMessages: [BP_Law_238] 645.100159
+[2018.08.01-14.21.41:128][893]LogBlueprintUserMessages: [BP_Law_238] 646.411438
+[2018.08.01-14.21.41:145][894]LogBlueprintUserMessages: [BP_Law_238] 647.706299
+[2018.08.01-14.21.41:163][895]LogBlueprintUserMessages: [BP_Law_238] 649.027039
+[2018.08.01-14.21.41:180][896]LogBlueprintUserMessages: [BP_Law_238] 650.316406
+[2018.08.01-14.21.41:197][897]LogBlueprintUserMessages: [BP_Law_238] 651.590881
+[2018.08.01-14.21.41:214][898]LogBlueprintUserMessages: [BP_Law_238] 652.846863
+[2018.08.01-14.21.41:230][899]LogBlueprintUserMessages: [BP_Law_238] 654.084961
+[2018.08.01-14.21.41:247][900]LogBlueprintUserMessages: [BP_Law_238] 655.294861
+[2018.08.01-14.21.41:263][901]LogBlueprintUserMessages: [BP_Law_238] 656.479553
+[2018.08.01-14.21.41:280][902]LogBlueprintUserMessages: [BP_Law_238] 657.673706
+[2018.08.01-14.21.41:297][903]LogBlueprintUserMessages: [BP_Law_238] 658.839783
+[2018.08.01-14.21.41:315][904]LogBlueprintUserMessages: [BP_Law_238] 659.979309
+[2018.08.01-14.21.41:332][905]LogBlueprintUserMessages: [BP_Law_238] 661.195251
+[2018.08.01-14.21.41:348][906]LogBlueprintUserMessages: [BP_Law_238] 662.305298
+[2018.08.01-14.21.41:365][907]LogBlueprintUserMessages: [BP_Law_238] 663.401489
+[2018.08.01-14.21.41:382][908]LogBlueprintUserMessages: [BP_Law_238] 664.484009
+[2018.08.01-14.21.41:399][909]LogBlueprintUserMessages: [BP_Law_238] 665.552979
+[2018.08.01-14.21.41:416][910]LogBlueprintUserMessages: [BP_Law_238] 666.608582
+[2018.08.01-14.21.41:432][911]LogBlueprintUserMessages: [BP_Law_238] 667.692688
+[2018.08.01-14.21.41:449][912]LogBlueprintUserMessages: [BP_Law_238] 668.721924
+[2018.08.01-14.21.41:466][913]LogBlueprintUserMessages: [BP_Law_238] 669.737915
+[2018.08.01-14.21.41:483][914]LogBlueprintUserMessages: [BP_Law_238] 670.741211
+[2018.08.01-14.21.41:500][915]LogBlueprintUserMessages: [BP_Law_238] 671.731995
+[2018.08.01-14.21.41:516][916]LogBlueprintUserMessages: [BP_Law_238] 672.710327
+[2018.08.01-14.21.41:532][917]LogBlueprintUserMessages: [BP_Law_238] 673.676453
+[2018.08.01-14.21.41:549][918]LogBlueprintUserMessages: [BP_Law_238] 674.652832
+[2018.08.01-14.21.41:566][919]LogBlueprintUserMessages: [BP_Law_238] 675.594666
+[2018.08.01-14.21.41:583][920]LogBlueprintUserMessages: [BP_Law_238] 676.530823
+[2018.08.01-14.21.41:600][921]LogBlueprintUserMessages: [BP_Law_238] 677.449219
+[2018.08.01-14.21.41:617][922]LogBlueprintUserMessages: [BP_Law_238] 678.35614
+[2018.08.01-14.21.41:634][923]LogBlueprintUserMessages: [BP_Law_238] 679.251709
+[2018.08.01-14.21.41:651][924]LogBlueprintUserMessages: [BP_Law_238] 680.170837
+[2018.08.01-14.21.41:668][925]LogBlueprintUserMessages: [BP_Law_238] 681.054321
+[2018.08.01-14.21.41:684][926]LogBlueprintUserMessages: [BP_Law_238] 681.916199
+[2018.08.01-14.21.41:700][927]LogBlueprintUserMessages: [BP_Law_238] 682.767273
+[2018.08.01-14.21.41:718][928]LogBlueprintUserMessages: [BP_Law_238] 683.607666
+[2018.08.01-14.21.41:734][929]LogBlueprintUserMessages: [BP_Law_238] 684.469299
+[2018.08.01-14.21.41:752][930]LogBlueprintUserMessages: [BP_Law_238] 685.288635
+[2018.08.01-14.21.41:769][931]LogBlueprintUserMessages: [BP_Law_238] 686.167114
+[2018.08.01-14.21.41:786][932]LogBlueprintUserMessages: [BP_Law_238] 686.965027
+[2018.08.01-14.21.41:802][933]LogBlueprintUserMessages: [BP_Law_238] 687.753296
+[2018.08.01-14.21.41:819][934]LogBlueprintUserMessages: [BP_Law_238] 688.531372
+[2018.08.01-14.21.41:836][935]LogBlueprintUserMessages: [BP_Law_238] 689.299927
+[2018.08.01-14.21.41:853][936]LogBlueprintUserMessages: [BP_Law_238] 690.061157
+[2018.08.01-14.21.41:870][937]LogBlueprintUserMessages: [BP_Law_238] 690.810425
+[2018.08.01-14.21.41:887][938]LogBlueprintUserMessages: [BP_Law_238] 691.550293
+[2018.08.01-14.21.41:904][939]LogBlueprintUserMessages: [BP_Law_238] 692.292786
+[2018.08.01-14.21.41:921][940]LogBlueprintUserMessages: [BP_Law_238] 693.073792
+[2018.08.01-14.21.41:939][941]LogBlueprintUserMessages: [BP_Law_238] 693.791138
+[2018.08.01-14.21.41:955][942]LogBlueprintUserMessages: [BP_Law_238] 694.506165
+[2018.08.01-14.21.41:973][943]LogBlueprintUserMessages: [BP_Law_238] 695.22644
+[2018.08.01-14.21.41:990][944]LogBlueprintUserMessages: [BP_Law_238] 695.947266
+[2018.08.01-14.21.42:007][945]LogBlueprintUserMessages: [BP_Law_238] 696.649414
+[2018.08.01-14.21.42:024][946]LogBlueprintUserMessages: [BP_Law_238] 697.316284
+[2018.08.01-14.21.42:041][947]LogBlueprintUserMessages: [BP_Law_238] 697.974854
+[2018.08.01-14.21.42:058][948]LogBlueprintUserMessages: [BP_Law_238] 698.649841
+[2018.08.01-14.21.42:075][949]LogBlueprintUserMessages: [BP_Law_238] 699.308533
+[2018.08.01-14.21.42:091][950]LogBlueprintUserMessages: [BP_Law_238] 699.9422
+[2018.08.01-14.21.42:108][951]LogBlueprintUserMessages: [BP_Law_238] 700.567932
+[2018.08.01-14.21.42:125][952]LogBlueprintUserMessages: [BP_Law_238] 701.185852
+[2018.08.01-14.21.42:142][953]LogBlueprintUserMessages: [BP_Law_238] 701.801575
+[2018.08.01-14.21.42:159][954]LogBlueprintUserMessages: [BP_Law_238] 702.427124
+[2018.08.01-14.21.42:176][955]LogBlueprintUserMessages: [BP_Law_238] 703.039368
+[2018.08.01-14.21.42:193][956]LogBlueprintUserMessages: [BP_Law_238] 703.628052
+[2018.08.01-14.21.42:209][957]LogBlueprintUserMessages: [BP_Law_238] 704.207703
+[2018.08.01-14.21.42:226][958]LogBlueprintUserMessages: [BP_Law_238] 704.781067
+[2018.08.01-14.21.42:243][959]LogBlueprintUserMessages: [BP_Law_238] 705.352417
+[2018.08.01-14.21.42:261][960]LogBlueprintUserMessages: [BP_Law_238] 705.941101
+[2018.08.01-14.21.42:278][961]LogBlueprintUserMessages: [BP_Law_238] 706.510681
+[2018.08.01-14.21.42:295][962]LogBlueprintUserMessages: [BP_Law_238] 707.054688
+[2018.08.01-14.21.42:311][963]LogBlueprintUserMessages: [BP_Law_238] 707.591492
+[2018.08.01-14.21.42:328][964]LogBlueprintUserMessages: [BP_Law_238] 708.121582
+[2018.08.01-14.21.42:346][965]LogBlueprintUserMessages: [BP_Law_238] 708.669189
+[2018.08.01-14.21.42:363][966]LogBlueprintUserMessages: [BP_Law_238] 709.219177
+[2018.08.01-14.21.42:379][967]LogBlueprintUserMessages: [BP_Law_238] 709.732666
+[2018.08.01-14.21.42:397][968]LogBlueprintUserMessages: [BP_Law_238] 710.236023
+[2018.08.01-14.21.42:412][969]LogBlueprintUserMessages: [BP_Law_238] 710.733215
+[2018.08.01-14.21.42:434][970]LogBlueprintUserMessages: [BP_Law_238] 711.22406
+[2018.08.01-14.21.42:454][971]LogBlueprintUserMessages: [BP_Law_238] 711.827759
+[2018.08.01-14.21.42:475][972]LogBlueprintUserMessages: [BP_Law_238] 712.411133
+[2018.08.01-14.21.42:492][973]LogBlueprintUserMessages: [BP_Law_238] 712.973206
+[2018.08.01-14.21.42:511][974]LogBlueprintUserMessages: [BP_Law_238] 713.449219
+[2018.08.01-14.21.42:529][975]LogBlueprintUserMessages: [BP_Law_238] 713.974182
+[2018.08.01-14.21.42:545][976]LogBlueprintUserMessages: [BP_Law_238] 714.446899
+[2018.08.01-14.21.42:545][976]LogBlueprintUserMessages: [BP_Law_238] Law_LightAttack_01_V3_AM
+[2018.08.01-14.21.42:563][977]LogBlueprintUserMessages: [BP_Law_238] 0.0
+[2018.08.01-14.21.42:581][978]LogBlueprintUserMessages: [BP_Law_238] 10.02577
+[2018.08.01-14.21.42:597][979]LogBlueprintUserMessages: [BP_Law_238] 19.500504
+[2018.08.01-14.21.42:615][980]LogBlueprintUserMessages: [BP_Law_238] 29.179668
+[2018.08.01-14.21.42:632][981]LogBlueprintUserMessages: [BP_Law_238] 38.586205
+[2018.08.01-14.21.42:650][982]LogBlueprintUserMessages: [BP_Law_238] 47.735504
+[2018.08.01-14.21.42:667][983]LogBlueprintUserMessages: [BP_Law_238] 56.951496
+[2018.08.01-14.21.42:686][984]LogBlueprintUserMessages: [BP_Law_238] 65.93586
+[2018.08.01-14.21.42:703][985]LogBlueprintUserMessages: [BP_Law_238] 75.308647
+[2018.08.01-14.21.42:721][986]LogBlueprintUserMessages: [BP_Law_238] 84.421074
+[2018.08.01-14.21.42:739][987]LogBlueprintUserMessages: [BP_Law_238] 92.930618
+[2018.08.01-14.21.42:756][988]LogBlueprintUserMessages: [BP_Law_238] 101.71685
+[2018.08.01-14.21.42:774][989]LogBlueprintUserMessages: [BP_Law_238] 110.454163
+[2018.08.01-14.21.42:790][990]LogBlueprintUserMessages: [BP_Law_238] 118.782082
+[2018.08.01-14.21.42:807][991]LogBlueprintUserMessages: [BP_Law_238] 126.943207
+[2018.08.01-14.21.42:824][992]LogBlueprintUserMessages: [BP_Law_238] 134.85556
+[2018.08.01-14.21.42:841][993]LogBlueprintUserMessages: [BP_Law_238] 142.751816
+[2018.08.01-14.21.42:858][994]LogBlueprintUserMessages: [BP_Law_238] 150.342499
+[2018.08.01-14.21.42:875][995]LogBlueprintUserMessages: [BP_Law_238] 157.83847
+[2018.08.01-14.21.42:892][996]LogBlueprintUserMessages: [BP_Law_238] 165.402161
+[2018.08.01-14.21.42:909][997]LogBlueprintUserMessages: [BP_Law_238] 172.789398
+[2018.08.01-14.21.42:926][998]LogBlueprintUserMessages: [BP_Law_238] 180.004608
+[2018.08.01-14.21.42:943][999]LogBlueprintUserMessages: [BP_Law_238] 187.252411
+[2018.08.01-14.21.42:961][  0]LogBlueprintUserMessages: [BP_Law_238] 194.76738
+[2018.08.01-14.21.42:978][  1]LogBlueprintUserMessages: [BP_Law_238] 202.309494
+[2018.08.01-14.21.42:994][  2]LogBlueprintUserMessages: [BP_Law_238] 209.317001
+[2018.08.01-14.21.43:013][  3]LogBlueprintUserMessages: [BP_Law_238] 216.075775
+[2018.08.01-14.21.43:031][  4]LogBlueprintUserMessages: [BP_Law_238] 222.7556
+[2018.08.01-14.21.43:048][  5]LogBlueprintUserMessages: [BP_Law_238] 230.008759
+[2018.08.01-14.21.43:065][  6]LogBlueprintUserMessages: [BP_Law_238] 236.799149
+[2018.08.01-14.21.43:082][  7]LogBlueprintUserMessages: [BP_Law_238] 243.371155
+[2018.08.01-14.21.43:099][  8]LogBlueprintUserMessages: [BP_Law_238] 249.746719
+[2018.08.01-14.21.43:116][  9]LogBlueprintUserMessages: [BP_Law_238] 256.164337
+[2018.08.01-14.21.43:133][ 10]LogBlueprintUserMessages: [BP_Law_238] 262.431885
+[2018.08.01-14.21.43:149][ 11]LogBlueprintUserMessages: [BP_Law_238] 268.52655
+[2018.08.01-14.21.43:166][ 12]LogBlueprintUserMessages: [BP_Law_238] 274.661163
+[2018.08.01-14.21.43:184][ 13]LogBlueprintUserMessages: [BP_Law_238] 280.636627
+[2018.08.01-14.21.43:201][ 14]LogBlueprintUserMessages: [BP_Law_238] 286.758942
+[2018.08.01-14.21.43:217][ 15]LogBlueprintUserMessages: [BP_Law_238] 292.742493
+[2018.08.01-14.21.43:235][ 16]LogBlueprintUserMessages: [BP_Law_238] 298.458282
+[2018.08.01-14.21.43:252][ 17]LogBlueprintUserMessages: [BP_Law_238] 304.279633
+[2018.08.01-14.21.43:269][ 18]LogBlueprintUserMessages: [BP_Law_238] 309.851196
+[2018.08.01-14.21.43:285][ 19]LogBlueprintUserMessages: [BP_Law_238] 315.761444
+[2018.08.01-14.21.43:302][ 20]LogBlueprintUserMessages: [BP_Law_238] 321.245331
+[2018.08.01-14.21.43:320][ 21]LogBlueprintUserMessages: [BP_Law_238] 326.60495
+[2018.08.01-14.21.43:337][ 22]LogBlueprintUserMessages: [BP_Law_238] 332.102295
+[2018.08.01-14.21.43:355][ 23]LogBlueprintUserMessages: [BP_Law_238] 337.463776
+[2018.08.01-14.21.43:371][ 24]LogBlueprintUserMessages: [BP_Law_238] 342.849243
+[2018.08.01-14.21.43:388][ 25]LogBlueprintUserMessages: [BP_Law_238] 347.986938
+[2018.08.01-14.21.43:404][ 26]LogBlueprintUserMessages: [BP_Law_238] 353.012146
+[2018.08.01-14.21.43:422][ 27]LogBlueprintUserMessages: [BP_Law_238] 358.085236
+[2018.08.01-14.21.43:439][ 28]LogBlueprintUserMessages: [BP_Law_238] 363.11499
+[2018.08.01-14.21.43:457][ 29]LogBlueprintUserMessages: [BP_Law_238] 368.071808
+[2018.08.01-14.21.43:473][ 30]LogBlueprintUserMessages: [BP_Law_238] 372.845978
+[2018.08.01-14.21.43:491][ 31]LogBlueprintUserMessages: [BP_Law_238] 377.728973
+[2018.08.01-14.21.43:507][ 32]LogBlueprintUserMessages: [BP_Law_238] 382.547211
+[2018.08.01-14.21.43:524][ 33]LogBlueprintUserMessages: [BP_Law_238] 387.140411
+[2018.08.01-14.21.43:541][ 34]LogBlueprintUserMessages: [BP_Law_238] 392.004547
+[2018.08.01-14.21.43:559][ 35]LogBlueprintUserMessages: [BP_Law_238] 396.575958
+[2018.08.01-14.21.43:576][ 36]LogBlueprintUserMessages: [BP_Law_238] 401.278839
+[2018.08.01-14.21.43:594][ 37]LogBlueprintUserMessages: [BP_Law_238] 405.703217
+[2018.08.01-14.21.43:612][ 38]LogBlueprintUserMessages: [BP_Law_238] 410.22345
+[2018.08.01-14.21.43:614][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.08.01-14.21.43:642][ 38]LogSlate: Window 'GK_Rep Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.01-14.21.43:692][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map' with GeneratedClass '/Game/Maps/Tash_Map.Tash_Map_C' with ClassGeneratedBy '/Game/Maps/Tash_Map.Tash_Map:PersistentLevel.Tash_Map'
+[2018.08.01-14.24.09:741][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Tash_Map" FILE="../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.08.01-14.24.09:863][790]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bdfc77a880, Size=128
+[2018.08.01-14.24.09:863][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000002be47e6be00, Size=128, Default__Tash_Map_C Function /Engine/Transient.REINST_Tash_Map_C_85:ExecuteUbergraph_Tash_Map
+[2018.08.01-14.24.09:868][790]LogUObjectGlobals: Created PersistentFrame Addr=0x000002be47e68600, Size=128, Default__Tash_Map_C Function /Game/Maps/Tash_Map.Tash_Map_C:ExecuteUbergraph_Tash_Map
+[2018.08.01-14.24.10:500][790]LogSavePackage: Save=747.46ms
+[2018.08.01-14.24.10:500][790]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Tash_Map_Auto1C7FFA359458E1709F4ACA79D7C314C78.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto1.umap'
+[2018.08.01-14.24.10:503][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Maps/Tash_Map_Auto1.umap
+[2018.08.01-14.24.10:506][790]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Tash_Map' took 0.794
+[2018.08.01-14.24.10:506][790]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.794
+[2018.08.01-14.24.10:509][790]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/NPC/Law/Blueprints/BP_Law] ([1] browsable assets)...
+[2018.08.01-14.24.10:591][790]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/NPC/Law/Blueprints/BP_Law.BP_Law]
+[2018.08.01-14.24.10:591][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/NPC/Law/Blueprints/BP_Law]
+[2018.08.01-14.24.10:728][790]LogSavePackage: Save=120.31ms
+[2018.08.01-14.24.10:728][790]LogSavePackage: Moving '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/BP_Law_Auto1255BD5D54A81A7937D8FCF98A0A25BE5.tmp' to '../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/NPC/Law/Blueprints/BP_Law_Auto1.uasset'
+[2018.08.01-14.24.10:729][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/NTI/Documents/GitHub/GK_Rep/Saved/Autosaves/Game/Characters/NPC/Law/Blueprints/BP_Law_Auto1.uasset
+[2018.08.01-14.24.10:729][790]LogFileHelpers: Auto-saving content packages took 0.222
